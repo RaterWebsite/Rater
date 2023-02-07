@@ -1,5 +1,3 @@
-package net.rater5914.springboot;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -24,8 +22,9 @@ import co.elastic.clients.json.jackson.JacksonJsonpMapper;
 import co.elastic.clients.transport.ElasticsearchTransport;
 import co.elastic.clients.transport.rest_client.RestClientTransport;
 import jakarta.json.spi.JsonProvider;
-import net.rater5914.springboot.model.*;
-import net.rater5914.springboot.repository.*;
+
+import models.*;
+import repositories.*;
 
 
 @SpringBootApplication

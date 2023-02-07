@@ -1,9 +1,9 @@
-package net.rater5914.springboot.repository;
+package repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import net.rater5914.springboot.model.*;
+import models.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
