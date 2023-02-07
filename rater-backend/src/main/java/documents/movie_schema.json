@@ -4,58 +4,29 @@
   "type": "object",
   "default": {},
   "title": "Movie Schema",
-  "required": ["movies"],
+  "required": [
+    "title",
+    "starring",
+    "runtime",
+    "genre",
+    "description",
+    "releaseYear",
+    "rating",
+    "image",
+    "categories"
+  ],
   "properties": {
-    "movies": {
-      "type": "array",
-      "default": [],
-      "items": {
-        "type": "object",
-        "required": [
-          "title",
-          "starring",
-          "runtime",
-          "genre",
-          "description",
-          "releaseYear",
-          "rating",
-          "image",
-          "categories"
-        ],
-        "properties": {
-          "title": { "type": "string" },
-          "starring": { "type": "array", "items": { "type": "string" } },
-          "runtime": { "type": "integer" },
-          "genre": { "type": "array", "items": { "type": "string" } },
-          "description": { "type": "string" },
-          "releaseYear": { "type": "integer" },
-          "rating": { "type": "string" },
-          "image": { "type": "string" },
-          "categories": {
-            "type": "object",
-            "required": [
-              "plot",
-              "acting",
-              "ending",
-              "soundtrack",
-              "cinematography",
-              "funny",
-              "action",
-              "familyFriendly"
-            ],
-            "properties": {
-              "plot": { "type": "number" },
-              "acting": { "type": "number" },
-              "ending": { "type": "number" },
-              "soundtrack": { "type": "number" },
-              "cinematography": { "type": "number" },
-              "funny": { "type": "number" },
-              "action": { "type": "number" },
-              "familyFriendly": { "type": "number" }
-            }
-          }
-        }
-      }
+    "title": { "type": "string" },
+    "starring": { "type": "array", "items": { "type": "string" } },
+    "runtime": { "type": "integer" },
+    "genre": { "type": "array", "items": { "type": "string" } },
+    "description": { "type": "string" },
+    "releaseYear": { "type": "integer" },
+    "rating": { "type": "string" },
+    "image": { "type": "string" },
+    "categories": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
     }
   }
 }

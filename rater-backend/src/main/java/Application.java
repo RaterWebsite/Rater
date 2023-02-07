@@ -64,7 +64,7 @@ public class SpringbootBackendApplication implements CommandLineRunner {
         BulkResponse result = null;
         try {
             System.out.println("User directory is: " + System.getProperty("user.dir"));
-            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/net/rater5914/springboot/documents");
+            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/documents");
             File[] jsonFiles = jsonDirectory.listFiles();
 
             BulkRequest.Builder br = new BulkRequest.Builder();
