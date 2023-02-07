@@ -1,0 +1,148 @@
+{
+  "movies": [
+    {
+      "title": "Raiders of the Lost Ark",
+      "starring": ["Harrison Ford", "Karen Allen", "John Rhys-Davies"],
+      "runtime": 105,
+      "genre": ["Adventure", "Action"],
+      "description": "Epic tale in which an intrepid archaeologist tries to beat a band of Nazis to a unique religious relic which is central to their plans for world domination. Battling against a snake phobia and a vengeful ex-girlfriend, Indiana Jones is in constant peril, making hair's-breadth escapes at every turn in this celebration of the innocent adventure movies of an earlier era",
+      "releaseYear": 1981,
+      "rating": "PG",
+      "image": "Insert link to hosted photo or something here",
+      "categories": {
+        "plot": 9.5,
+        "acting": 7.4,
+        "ending": 9.6,
+        "soundtrack": 10.0,
+        "cinematography": 9.8,
+        "funny": 8.6,
+        "action": 9.8,
+        "familyFriendly": 6.5
+      }
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "starring": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "runtime": 192,
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "releaseYear": 2022,
+      "rating": "PG-13",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+      "categories": {
+        "plot": 6,
+        "acting": 7,
+        "ending": 7,
+        "soundtrack": 9,
+        "cinematography": 10,
+        "familyFriendly": 7,
+        "funny": 6,
+        "action": 9
+      }
+    },
+    {
+      "title": "Jurassic World: Dominion",
+      "starring": ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern"],
+      "runtime": 147,
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "description": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "releaseYear": 2022,
+      "rating": "PG-13",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "categories": {
+        "plot": 6,
+        "acting": 7,
+        "ending": 6,
+        "soundtrack": 9,
+        "cinematography": 9,
+        "familyFriendly": 7,
+        "funny": 5,
+        "action": 9
+      }
+    },
+    {
+      "title": "Blade Runner 2049",
+      "starring": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"],
+      "runtime": 163,
+      "genre": ["Cyberpunk", "Sci-Fi", "Neo Noir"],
+      "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+      "releaseYear": 2017,
+      "rating": "R",
+      "image": "MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+      "categories": {
+        "plot": 8,
+        "acting": 8,
+        "ending": 9,
+        "soundtrack": 9,
+        "cinematography": 10,
+        "familyFriendly": 6,
+        "funny": 2,
+        "action": 7
+      }
+    },
+    {
+      "title": "City of God",
+      "starring": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Matheus Nachtergaele"
+      ],
+      "runtime": 130,
+      "genre": ["Crime", "Drama"],
+      "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "releaseYear": 2002,
+      "rating": "R",
+      "image": "MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "categories": {
+        "plot": 9,
+        "acting": 9,
+        "ending": 8,
+        "soundtrack": 7,
+        "cinematography": 10,
+        "familyFriendly": 4,
+        "funny": 3,
+        "action": 5
+      }
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "starring": ["Harrison Ford", "Karen Allen", "Paul Freeman"],
+      "runtime": 115,
+      "genre": ["Action", "Adventure"],
+      "description": "The year is 1936 and the intrepid archaeologist Indiana Jones sets out in search of the fabled Lost Ark of the Covenant, racing a bitter rival and his Nazi cohorts to the prize. Over the course of a hair-raising adventure, Indy endures explosions, spiders, snakes, booby traps, and bad guys in his quest to save the holy relic.",
+      "releaseYear": 1981,
+      "rating": "PG",
+      "image": "https://www.lucasfilm.com/app/uploads/IJ1_IA_1587_D-1-480x733.jpg",
+      "categories": {
+        "plot": 7,
+        "acting": 9,
+        "ending": 7,
+        "soundtrack": 10,
+        "cinematography": 8,
+        "familyFriendly": 5,
+        "funny": 9,
+        "action": 9
+      }
+    },
+    {
+      "title": "The Dark Knight",
+      "starring": ["Christian Bale", "Michael Caine", "Heath Ledger"],
+      "runtime": 152,
+      "genre": ["Superhero", "Action"],
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "releaseYear": 2008,
+      "rating": "PG-13",
+      "image": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/the_dark_knight_key_art.jpg",
+      "categories": {
+        "plot": 8,
+        "acting": 10,
+        "ending": 7,
+        "soundtrack": 10,
+        "cinematography": 8,
+        "familyFriendly": 5,
+        "funny": 2,
+        "action": 8
+      }
+    }
+  ]
+}
