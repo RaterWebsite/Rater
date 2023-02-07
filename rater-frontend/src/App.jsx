@@ -70,7 +70,7 @@ function App() {
             //var inputs = document.getElementById('tag-input').value.split(',')
             var inputs = []
             var allButtons = document.getElementById('search-nav').children
-            
+
             var weights = []
             for(let i = 0; i < allButtons.length; i++){
               inputs.push(allButtons[i].children[0].textContent)
@@ -103,14 +103,31 @@ function App() {
 
               const titleDiv = document.createElement("div")
               titleDiv.className = 'title-item'
-              titleDiv.style.fontSize = "25px";
-              titleDiv.innerHTML = titles[i]
+              titleDiv.style.fontSize = "32px";
+              titleDiv.innerHTML = titles[i] + ' (2008)'
               middleDiv.appendChild(titleDiv)
+
+              const infoDiv = document.createElement("div")
+              infoDiv.className = 'info-item'
+              infoDiv.innerHTML = '2008 • PG-13 • 2h 32m'
+              middleDiv.appendChild(infoDiv)
 
               const descDiv = document.createElement("div")
               descDiv.className = 'desc-item'
               descDiv.innerHTML = descriptions[i]
               middleDiv.appendChild(descDiv)
+
+              const genreDiv = document.createElement("div")
+              genreDiv.className = 'genre-item'
+              genreDiv.innerHTML = 'Superhero • Action'
+              middleDiv.appendChild(genreDiv)
+
+              const starringDiv = document.createElement("div")
+              starringDiv.className = 'starring-item'
+              starringDiv.innerHTML = 'Christian Bale • Michael Caine • Heath Ledger'
+              middleDiv.appendChild(starringDiv)
+
+
 
               var overallTotal = 0
               var overallOutOf = 0
