@@ -1,0 +1,24 @@
+{
+    "title": "City of God",
+    "starring": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "runtime": 130,
+    "genre": ["Crime", "Drama"],
+    "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "releaseYear": 2002,
+    "rating": "R",
+    "image": "MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "categories": {
+      "plot": 9,
+      "acting": 9,
+      "ending": 8,
+      "soundtrack": 7,
+      "cinematography": 10,
+      "familyFriendly": 4,
+      "funny": 3,
+      "action": 5
+    }
+  }
