@@ -55,14 +55,29 @@ function App() {
       </div>
       <h1>Rater</h1>
       <h2>Movie search</h2>
+
+      <div className="sidenav" id = "search-nav">
+      </div>
+
+      <div id='button-list'></div>
+
       <div className="card">
         <p>
-          Enter tags you would like to see
+          Click tags you would like to see
         </p>
-        <input type="text" id="tag-input"/>
+        {/* <input type="text" id="tag-input"/> */}
         <button className="button" onClick={() => {
-            var inputs = document.getElementById('tag-input').value.split(',')
-            document.getElementById('tag-input').value = ''
+            //var inputs = document.getElementById('tag-input').value.split(',')
+            var inputs = []
+            var allButtons = document.getElementById('search-nav').children
+            
+            var weights = []
+            for(let i = 0; i < allButtons.length; i++){
+              inputs.push(allButtons[i].children[0].textContent)
+              weights.push(allButtons[i].children[1].children[1].textContent.replace('x', ''))
+            }
+            console.log(weights)
+            //document.getElementById('tag-input').value = ''
 
             for(let i = 0; i < 10; i++){
               const containerDiv = document.createElement("div")
@@ -97,15 +112,26 @@ function App() {
               descDiv.innerHTML = descriptions[i]
               middleDiv.appendChild(descDiv)
 
-              for(var input of inputs){
+              var overallTotal = 0
+              var overallOutOf = 0
+              for(let i = 0; i < inputs.length; i++){
                 const ratingDiv = document.createElement("div")
                 ratingDiv.className = 'rating-item'
                 let rating = Math.floor(Math.random() * 10)
-                ratingDiv.innerHTML = input + ': ' + rating;
+                overallTotal+= rating * weights[i]
+                overallOutOf+= 10 * weights[i]
+                ratingDiv.innerHTML = inputs[i] + ': ' + rating;
                 ratingDiv.style.borderColor = getProgressColor(rating*10)
                 rightDiv.appendChild(ratingDiv)
               }
-
+              console.log(overallTotal)
+              console.log(overallOutOf)
+              const overallDiv = document.createElement("div")
+              overallDiv.className = 'rating-item'
+              let rating = (overallTotal / overallOutOf) * 10
+              overallDiv.innerHTML =  'Overall: ' + rating.toFixed(2);;
+              overallDiv.style.borderColor = getProgressColor(rating*10)
+              rightDiv.appendChild(overallDiv)
 
               document.getElementById('items-list').appendChild(containerDiv)
             }
