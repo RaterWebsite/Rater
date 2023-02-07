@@ -71,26 +71,65 @@ body {
 }
 
 .title-item {
-  border: solid #888;
-  border-width: 1 1px;
-  padding: 0.5em;
+  /* border: solid #888;
+  border-width: 1 1px; */
+  padding-top: 0.3em;
+  padding-right: 0em;
+  padding-bottom: 0.3em;
+  padding-left: 1.5%;
   overflow: hidden;
-  margin: 0.75em;
-  text-align: center;
+  margin: 0.15em;
+  text-align: left;
+  position: relative;
+  line-height: 1em;
 }
 
 .desc-item {
-  border: solid #888;
-  border-width: 1 1px;
-  padding: 0.5em;
+  /* border: solid #888;
+  border-width: 1 1px; */
+  padding-top: 0.3em;
+  padding-right: 0em;
+  padding-bottom: 0.3em;
+  padding-left: 2%;
   overflow: hidden;
-  margin: 0.75em;
-  text-align: center;
+  margin: 0.15em;
+  text-align: left;
 }
 
+.info-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+.genre-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+.starring-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+
 .left-container {
-  min-width: 25%;
-  max-width: 25%;
+  min-width: 15%;
+  max-width: 15%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,8 +139,8 @@ body {
   min-width: 50%;
   max-width: 50%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   flex-direction: column;
 }
 .right-container {
@@ -128,8 +167,9 @@ body {
 }
 
 .movie-image {
-  max-width: 120px;
-  max-height: 200px;
+  max-width: 170px;
+  min-height: 255px;
+  max-height: 255px;
 }
 
 .sidenav {
