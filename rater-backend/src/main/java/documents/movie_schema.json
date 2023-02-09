@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "title": "Movie Schema",
+  "required": [
+    "title",
+    "starring",
+    "runtime",
+    "genre",
+    "description",
+    "releaseYear",
+    "rating",
+    "image",
+    "categories"
+  ],
+  "properties": {
+    "title": { "type": "string" },
+    "starring": { "type": "array", "items": { "type": "string" } },
+    "runtime": { "type": "integer" },
+    "genre": { "type": "array", "items": { "type": "string" } },
+    "description": { "type": "string" },
+    "releaseYear": { "type": "integer" },
+    "rating": { "type": "string" },
+    "image": { "type": "string" },
+    "categories": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
+    }
+  }
+}

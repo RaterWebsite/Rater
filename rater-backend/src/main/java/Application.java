@@ -1,5 +1,3 @@
-package net.rater5914.springboot;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -24,12 +22,13 @@ import co.elastic.clients.json.jackson.JacksonJsonpMapper;
 import co.elastic.clients.transport.ElasticsearchTransport;
 import co.elastic.clients.transport.rest_client.RestClientTransport;
 import jakarta.json.spi.JsonProvider;
-import net.rater5914.springboot.model.*;
-import net.rater5914.springboot.repository.*;
+
+import models.*;
+import repositories.*;
 
 
 @SpringBootApplication
-public class SpringbootBackendApplication implements CommandLineRunner {
+public class Application implements CommandLineRunner {
     
     public static void main(String[] args) {
         ElasticsearchTransport transport = new RestClientTransport(RestClient.builder(new HttpHost("localhost", 9200, "http")).build(), new JacksonJsonpMapper());
@@ -37,7 +36,7 @@ public class SpringbootBackendApplication implements CommandLineRunner {
 
         BulkResponse result = bulkJsonIndex(esClient);
 
-        //SpringApplication.run(SpringbootBackendApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
     @Autowired
@@ -65,7 +64,7 @@ public class SpringbootBackendApplication implements CommandLineRunner {
         BulkResponse result = null;
         try {
             System.out.println("User directory is: " + System.getProperty("user.dir"));
-            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/net/rater5914/springboot/documents");
+            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/documents");
             File[] jsonFiles = jsonDirectory.listFiles();
 
             BulkRequest.Builder br = new BulkRequest.Builder();

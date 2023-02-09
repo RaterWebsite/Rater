@@ -1,4 +1,4 @@
-package net.rater5914.springboot.model;
+package models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
