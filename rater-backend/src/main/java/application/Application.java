@@ -1,3 +1,4 @@
+package application;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -23,8 +24,8 @@ import co.elastic.clients.transport.ElasticsearchTransport;
 import co.elastic.clients.transport.rest_client.RestClientTransport;
 import jakarta.json.spi.JsonProvider;
 
-import models.*;
-import repositories.*;
+import application.models.*;
+import application.repositories.*;
 
 
 @SpringBootApplication
@@ -64,7 +65,7 @@ public class Application implements CommandLineRunner {
         BulkResponse result = null;
         try {
             System.out.println("User directory is: " + System.getProperty("user.dir"));
-            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/documents");
+            File jsonDirectory = new File(System.getProperty("user.dir") + "/src/main/java/application/documents");
             File[] jsonFiles = jsonDirectory.listFiles();
 
             BulkRequest.Builder br = new BulkRequest.Builder();

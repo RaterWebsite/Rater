@@ -1,4 +1,4 @@
-package controllers;
+package application.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -7,20 +7,20 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
-import models.User;
-import repositories.UserRepository;
+import application.models.Rating;
+import application.repositories.RatingRepository;
 
 @CrossOrigin(origins = "http://localhost:3000/")
 @RestController
 @RequestMapping("api/")
-public class UserController {
+public class RatingController {
 
     @Autowired
-    private UserRepository userRepository;
+    private RatingRepository ratingRepository;
 
-    @GetMapping("users")
-    public List<User> getUsers() {
-        return this.userRepository.findAll();
+    @GetMapping("ratings")
+    public List<Rating> getRatings() {
+        return this.ratingRepository.findAll();
     }
     
 }
