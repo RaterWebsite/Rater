@@ -70,7 +70,7 @@ function App() {
             //var inputs = document.getElementById('tag-input').value.split(',')
             var inputs = []
             var allButtons = document.getElementById('search-nav').children
-
+            document.getElementById('search-nav').hidden = true
             var weights = []
             for(let i = 0; i < allButtons.length; i++){
               inputs.push(allButtons[i].children[0].textContent)
@@ -134,7 +134,8 @@ function App() {
               for(let i = 0; i < inputs.length; i++){
                 const ratingDiv = document.createElement("div")
                 ratingDiv.className = 'rating-item'
-                let rating = Math.floor(Math.random() * 10)
+                //let rating = Math.floor(Math.random() * 10)
+                let rating = Math.floor(Math.random() * 5) + 6
                 overallTotal+= rating * weights[i]
                 overallOutOf+= 10 * weights[i]
                 ratingDiv.innerHTML = inputs[i] + ': ' + rating;
