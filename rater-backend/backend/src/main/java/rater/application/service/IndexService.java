@@ -3,6 +3,7 @@ package rater.application.service;
 import rater.application.helper.Indices;
 import rater.application.helper.Util;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
@@ -22,7 +23,10 @@ import javax.annotation.PostConstruct;
 @Service
 public class IndexService {
     private static final Logger LOG = LoggerFactory.getLogger(IndexService.class);
-    private static final List<String> INDICES = List.of(Indices.MOVIE_INDEX);
+    private static final List<String> INDICES = new ArrayList<>();
+    {
+        INDICES.add(Indices.MOVIE_INDEX);
+    }
     private final RestHighLevelClient client;
 
     @Autowired
