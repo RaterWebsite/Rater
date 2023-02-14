@@ -1,10 +1,17 @@
 {
-    "properties" : {
-      "id": {
-        "type": "keyword"
-      },
-      "title": {
-        "type": "text"
-      }
+  "properties": {
+    "id": { "type": "keyword"},
+    "title": { "type": "string" },
+    "starring": { "type": "array", "items": { "type": "string" } },
+    "runtime": { "type": "integer" },
+    "genre": { "type": "array", "items": { "type": "string" } },
+    "description": { "type": "string" },
+    "releaseYear": { "type": "integer" },
+    "rating": { "type": "string" },
+    "image": { "type": "string" },
+    "categories": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
     }
+  }
 }

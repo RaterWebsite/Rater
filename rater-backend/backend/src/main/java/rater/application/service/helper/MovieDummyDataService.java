@@ -34,7 +34,9 @@ public class MovieDummyDataService {
 
     private static Movie buildMovie(File jsonDoc) {
         try {
+            LOG.info("The file used is:" + jsonDoc.getPath());
             Movie result = MAPPER.readValue(jsonDoc, Movie.class);
+            LOG.info("We succesfully created a movie object from JSON");
             return result;
         } catch (Exception e) {
             LOG.error("Error building movie from JSON document");
