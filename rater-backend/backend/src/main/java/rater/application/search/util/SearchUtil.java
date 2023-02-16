@@ -94,7 +94,7 @@ public class SearchUtil {
         final BoolQueryBuilder queryBuilder = new BoolQueryBuilder();
 
         for (Map.Entry<String, Double> category : categories.entrySet()) {
-            String fieldName = "categories:" + category.getKey().toLowerCase(); //gets "categories:categoryName", the name of the category in the json doc
+            String fieldName = "categories." + category.getKey().toLowerCase(); //gets "categories:categoryName", the name of the category in the json doc
             RangeQueryBuilder rangeQuery = new RangeQueryBuilder(fieldName);
             rangeQuery.gte(7); //specifies that value of category should be greater than or equal (gte) to 7
             //TODO: right now, we don't want to use category.value since that will only be 0.5, 1, or 1.5 (most movies will be above that range)
