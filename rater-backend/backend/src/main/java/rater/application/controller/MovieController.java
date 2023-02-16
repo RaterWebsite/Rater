@@ -1,6 +1,7 @@
 package rater.application.controller;
 
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -47,6 +48,10 @@ public class MovieController {
         return service.search(dto);
     }
 
+    @PostMapping("/categorySearch")
+    public List<Movie> categorySearch(@RequestBody final Map<String, Double> categories) {
+        return service.categorySearch(categories);
+    }
     
 
 

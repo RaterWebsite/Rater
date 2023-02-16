@@ -3,6 +3,7 @@ package rater.application.service;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 
 import org.elasticsearch.action.get.GetRequest;
 import org.elasticsearch.action.get.GetResponse;
@@ -45,6 +46,12 @@ public class MovieService {
         return searchInternal(request);
     }
 
+    public List<Movie> categorySearch(final Map<String, Double> categories) {
+        final SearchRequest request = SearchUtil.buildSearchRequest(Indices.MOVIE_INDEX, categories);
+        LOG.info("Here is the SearchRequest: " + request.toString());
+        return searchInternal(request);
+    }
+
     private List<Movie> searchInternal(final SearchRequest request) {
         if (request == null) {
             LOG.error("Failed to build search request");
@@ -55,6 +62,7 @@ public class MovieService {
             final SearchResponse response = client.search(request, RequestOptions.DEFAULT);
 
             final SearchHit[] searchHits = response.getHits().getHits();
+            LOG.info("The size of hits is: " + searchHits.length);
             final List<Movie> movies = new ArrayList<>(searchHits.length);
             for (SearchHit hit : searchHits) {
                 movies.add(MAPPER.readValue(hit.getSourceAsString(), Movie.class));
@@ -84,10 +92,10 @@ public class MovieService {
         }
     }
 
-    public Movie getById(final String vehicleId) {
+    public Movie getById(final String movieId) {
         try {
             final GetResponse documentFields = client.get(
-                    new GetRequest(Indices.MOVIE_INDEX, vehicleId),
+                    new GetRequest(Indices.MOVIE_INDEX, movieId),
                     RequestOptions.DEFAULT
             );
             if (documentFields == null || documentFields.isSourceEmpty()) {
