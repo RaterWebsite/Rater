@@ -1,0 +1,21 @@
+{
+    "id": "6",
+    "title": "The Dark Knight",
+    "starring": ["Christian Bale", "Michael Caine", "Heath Ledger"],
+    "runtime": 152,
+    "genre": ["Superhero", "Action"],
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "releaseYear": 2008,
+    "rating": "PG-13",
+    "image": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/the_dark_knight_key_art.jpg",
+    "categories": {
+      "plot": 8,
+      "acting": 10,
+      "ending": 7,
+      "soundtrack": 10,
+      "cinematography": 8,
+      "familyFriendly": 5,
+      "funny": 2,
+      "action": 8
+    }
+  }

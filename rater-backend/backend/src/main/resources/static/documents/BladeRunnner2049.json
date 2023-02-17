@@ -1,0 +1,21 @@
+{
+    "id": "2",
+    "title": "Blade Runner 2049",
+    "starring": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"],
+    "runtime": 163,
+    "genre": ["Cyberpunk", "Sci-Fi", "Neo Noir"],
+    "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "releaseYear": 2017,
+    "rating": "R",
+    "image": "MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+    "categories": {
+      "plot": 8,
+      "acting": 8,
+      "ending": 9,
+      "soundtrack": 9,
+      "cinematography": 10,
+      "familyFriendly": 6,
+      "funny": 2,
+      "action": 7
+    }
+  }
