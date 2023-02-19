@@ -7,15 +7,15 @@
     "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
     "releaseYear": 2017,
     "rating": "R",
-    "image": "MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
     "categories": {
-      "plot": 8,
-      "acting": 8,
-      "ending": 9,
-      "soundtrack": 9,
-      "cinematography": 10,
-      "familyFriendly": 6,
-      "funny": 2,
-      "action": 7
+      "plot": 8.8,
+      "acting": 8.2,
+      "ending": 9.5,
+      "soundtrack": 9.2,
+      "cinematography": 10.0,
+      "familyFriendly": 6.0,
+      "funny": 2.3,
+      "action": 7.4
     }
   }

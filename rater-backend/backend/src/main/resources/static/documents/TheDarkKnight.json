@@ -9,13 +9,13 @@
     "rating": "PG-13",
     "image": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/the_dark_knight_key_art.jpg",
     "categories": {
-      "plot": 8,
-      "acting": 10,
-      "ending": 7,
-      "soundtrack": 10,
-      "cinematography": 8,
-      "familyFriendly": 5,
-      "funny": 2,
-      "action": 8
+      "plot": 8.3,
+      "acting": 10.0,
+      "ending": 7.4,
+      "soundtrack": 10.0,
+      "cinematography": 8.7,
+      "familyFriendly": 5.1,
+      "funny": 2.5,
+      "action": 8.4
     }
   }
