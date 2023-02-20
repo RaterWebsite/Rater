@@ -46,7 +46,7 @@ public class MovieService {
         return searchInternal(request);
     }
 
-    public List<Movie> categorySearch(final Map<String, Double> categories) {
+    public List<Movie> categorySearch(final Map<String, Float> categories) {
         final SearchRequest request = SearchUtil.buildSearchRequest(Indices.MOVIE_INDEX, categories);
         LOG.info("Here is the SearchRequest: " + request.toString());
         return searchInternal(request);

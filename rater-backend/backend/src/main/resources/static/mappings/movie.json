@@ -1,17 +1,17 @@
 {
   "properties": {
     "id": { "type": "keyword"},
-    "title": { "type": "string" },
-    "starring": { "type": "array", "items": { "type": "string" } },
+    "title": { "type": "text" },
+    "starring": { "type": "array", "items": { "type": "keyword" } },
     "runtime": { "type": "integer" },
-    "genre": { "type": "array", "items": { "type": "string" } },
-    "description": { "type": "string" },
+    "genre": { "type": "array", "items": { "type": "keyword" } },
+    "description": { "type": "text" },
     "releaseYear": { "type": "integer" },
-    "rating": { "type": "string" },
-    "image": { "type": "string" },
+    "rating": { "type": "keyword" },
+    "image": { "type": "text" },
     "categories": {
       "type": "object",
-      "additionalProperties": { "type": "number" }
+      "additionalProperties": { "type": "float" }
     }
   }
 }

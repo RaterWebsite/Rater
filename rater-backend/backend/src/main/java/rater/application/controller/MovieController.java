@@ -49,7 +49,7 @@ public class MovieController {
     }
 
     @PostMapping("/categorySearch")
-    public List<Movie> categorySearch(@RequestBody final Map<String, Double> categories) {
+    public List<Movie> categorySearch(@RequestBody final Map<String, Float> categories) {
         return service.categorySearch(categories);
     }
     
