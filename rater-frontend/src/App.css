@@ -11,7 +11,7 @@ body {
 }
 
 .logo {
-  height: 6em;
+  height: 9em;
   padding: 1.5em;
   will-change: filter;
 }
@@ -171,6 +171,13 @@ body {
   min-height: 255px;
   max-height: 255px;
 }
+.category-button {
+  margin: 0.1em;
+}
+
+.search-container {
+    margin: 2em;
+}
 
 .sidenav {
   height: 50%; /* Full-height: remove this if you want "auto" height */
@@ -178,8 +185,15 @@ body {
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
-  left: 5%;
+  left: 50%; /* 5% old*/
   /* background-color: #111; /* Black */
   /* overflow-x: hidden; Disable horizontal scroll */
   padding-top: 220px;
+}
+
+.sidenav-off {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
