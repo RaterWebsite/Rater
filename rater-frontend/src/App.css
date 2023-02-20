@@ -11,7 +11,7 @@ body {
 }
 
 .logo {
-  height: 6em;
+  height: 9em;
   padding: 1.5em;
   will-change: filter;
 }
@@ -71,26 +71,65 @@ body {
 }
 
 .title-item {
-  border: solid #888;
-  border-width: 1 1px;
-  padding: 0.5em;
+  /* border: solid #888;
+  border-width: 1 1px; */
+  padding-top: 0.3em;
+  padding-right: 0em;
+  padding-bottom: 0.3em;
+  padding-left: 1.5%;
   overflow: hidden;
-  margin: 0.75em;
-  text-align: center;
+  margin: 0.15em;
+  text-align: left;
+  position: relative;
+  line-height: 1em;
 }
 
 .desc-item {
-  border: solid #888;
-  border-width: 1 1px;
-  padding: 0.5em;
+  /* border: solid #888;
+  border-width: 1 1px; */
+  padding-top: 0.3em;
+  padding-right: 0em;
+  padding-bottom: 0.3em;
+  padding-left: 2%;
   overflow: hidden;
-  margin: 0.75em;
-  text-align: center;
+  margin: 0.15em;
+  text-align: left;
 }
 
+.info-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+.genre-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+.starring-item {
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 2%;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: left;
+}
+
+
 .left-container {
-  min-width: 25%;
-  max-width: 25%;
+  min-width: 15%;
+  max-width: 15%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,8 +139,8 @@ body {
   min-width: 50%;
   max-width: 50%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   flex-direction: column;
 }
 .right-container {
@@ -128,6 +167,33 @@ body {
 }
 
 .movie-image {
-  max-width: 120px;
-  max-height: 200px;
+  max-width: 170px;
+  min-height: 255px;
+  max-height: 255px;
+}
+.category-button {
+  margin: 0.1em;
+}
+
+.search-container {
+    margin: 2em;
+}
+
+.sidenav {
+  height: 50%; /* Full-height: remove this if you want "auto" height */
+  width: 15%; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 50%; /* 5% old*/
+  /* background-color: #111; /* Black */
+  /* overflow-x: hidden; Disable horizontal scroll */
+  padding-top: 220px;
+}
+
+.sidenav-off {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
