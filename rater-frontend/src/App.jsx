@@ -72,11 +72,11 @@ function App() {
             //var inputs = document.getElementById('tag-input').value.split(',')
             var inputs = []
             var weight_scale = {
+              "-1.0": -1,
+              "-0.5": -0.5,
               "0.0": 0,
               "0.5": 0.5,
-              "1.0": 1,
-              "1.5": 1.5,
-              "2.0": 2
+              "1.0": 1
             }
             var allButtons = document.getElementById('search-nav').children
             document.getElementById('search-nav').hidden = true
@@ -88,7 +88,7 @@ function App() {
               body[inputs[i].replace(' ', '')] = weight_scale[weights[i]]
             }
 
-            let url = ''
+            let url = 'localhost:9187/api/movie/categorySearch'
 
             console.log(body)
 
