@@ -86,7 +86,7 @@ function generateItem(movieData, categories, weights){
   let rating = (overallTotal / overallOutOf) * 10
   overallDiv.innerHTML =  'Overall: ' + rating.toFixed(2);;
   overallDiv.style.borderColor = getProgressColor(rating*10)
-  rightDiv.appendChild(overallDiv)
+  //rightDiv.appendChild(overallDiv)
 
   return containerDiv
 }
