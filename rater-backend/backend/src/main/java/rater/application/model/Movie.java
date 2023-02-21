@@ -14,7 +14,7 @@ public class Movie {
     private int releaseYear;
     private String rating; //G, PG, etc.
     private String image;
-    private Map<String, Integer> categories;
+    private Map<String, Float> categories;
     
     public List<String> getStarring() {
         return starring;
@@ -58,10 +58,10 @@ public class Movie {
     public void setImage(String image) {
         this.image = image;
     }
-    public Map<String, Integer> getCategories() {
+    public Map<String, Float> getCategories() {
         return categories;
     }
-    public void setCategories(Map<String, Integer> categories) {
+    public void setCategories(Map<String, Float> categories) {
         this.categories = categories;
     }
     public String getId() {

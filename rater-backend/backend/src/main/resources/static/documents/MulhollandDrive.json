@@ -1,0 +1,21 @@
+{
+    "id": "10",
+    "title": "Mulholland Drive",
+    "starring": ["Naomi Watts", "Laura Harring", "Justin Theroux"],
+    "runtime": 146,
+    "genre": ["Myster", "Thriller"],
+    "description": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+    "releaseYear": 2001,
+    "rating": "R",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Mulholland.png",
+    "categories": {
+      "plot": 8.8,
+      "acting": 9.6,
+      "ending": 10.0,
+      "soundtrack": 8.2,
+      "cinematography": 10.0,
+      "familyFriendly": 2.7,
+      "funny": 3.2,
+      "action": 2.1
+    }
+  }
