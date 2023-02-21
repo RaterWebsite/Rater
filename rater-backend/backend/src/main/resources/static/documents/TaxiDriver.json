@@ -1,0 +1,21 @@
+{
+    "id": "12",
+    "title": "Taxi Driver",
+    "starring": ["Robert De Niro", "Harvey Keitel", "Jodie Foster"],
+    "runtime": 114,
+    "genre": ["Drama", "Neo-Noir"],
+    "description": "Suffering from insomnia, disturbed loner Travis Bickle (Robert De Niro) takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+    "releaseYear": 1976,
+    "rating": "R",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Taxi_Driver_%281976_film_poster%29.jpg/220px-Taxi_Driver_%281976_film_poster%29.jpg",
+    "categories": {
+      "plot": 8.2,
+      "acting": 9.1,
+      "ending": 8.3,
+      "soundtrack": 7.0,
+      "cinematography": 7.7,
+      "familyFriendly": 1.4,
+      "funny": 3.6,
+      "action": 5.3
+    }
+  }
