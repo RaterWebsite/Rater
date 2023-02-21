@@ -39,7 +39,7 @@ function populate(response, inputs, weights) {
   }
   console.log(responseData)
   for(let data in responseData) {
-    document.getElementById('items-list').appendChild(generateItem(data, inputs, weights))
+    //document.getElementById('items-list').appendChild(generateItem(data, inputs, weights))
   }
 }
 
@@ -66,13 +66,17 @@ function App() {
         {/* <input type="text" id="tag-input"/> */}
         <button className="button" onClick={() => {
             //var inputs = document.getElementById('tag-input').value.split(',')
+            let il = document.getElementById('items-list')
+            while(il.firstChild != null){
+              il.removeChild(il.firstChild)
+            }
             var inputs = []
             var weight_scale = {
-              "0.0": 0,
+              "0.0": 0.0,
               "0.5": 0.5,
-              "1.0": 1,
+              "1.0": 1.0,
               "1.5": 1.5,
-              "2.0": 2
+              "2.0": 2.0
             }
             var allButtons = document.getElementById('search-nav').children
             document.getElementById('search-nav').hidden = true
@@ -97,7 +101,8 @@ function App() {
             },
             body: requestBody
             })
-            .then(response => populate(response,inputs,weights))
+            .then(response => response.json())
+            .then(response => response.forEach((element) => { document.getElementById('items-list').appendChild(generateItem(element, inputs, weights)) }))
 
         }}>
           search
