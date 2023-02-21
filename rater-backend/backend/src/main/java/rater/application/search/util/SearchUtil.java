@@ -5,30 +5,38 @@ import java.util.List;
 import java.util.Map;
 
 import org.elasticsearch.action.search.SearchRequest;
+import org.elasticsearch.common.lucene.search.function.CombineFunction;
+import org.elasticsearch.common.lucene.search.function.FunctionScoreQuery.ScoreMode;
 import org.elasticsearch.index.query.MultiMatchQueryBuilder;
+import org.elasticsearch.index.query.functionscore.FunctionScoreQueryBuilder;
+import org.elasticsearch.index.query.functionscore.ScoreFunctionBuilders;
+import org.elasticsearch.script.Script;
 import org.elasticsearch.index.query.*;
 import org.elasticsearch.search.builder.SearchSourceBuilder;
+import org.elasticsearch.search.sort.SortBuilders;
 import org.elasticsearch.search.sort.SortOrder;
 import org.springframework.util.CollectionUtils;
 
 import rater.application.search.SearchRequestDTO;
 
 public class SearchUtil {
-    private SearchUtil() {}
+    private SearchUtil() {
+    }
 
     public static SearchRequest buildSearchRequest(final String indexName, final SearchRequestDTO dto) {
-        
+
         try {
             final int page = dto.getPage();
             final int size = dto.getSize();
             final int from = page <= 0 ? 0 : page * size;
 
-            SearchSourceBuilder builder = new SearchSourceBuilder().from(from).size(size).postFilter(getQueryBuilder(dto));
+            SearchSourceBuilder builder = new SearchSourceBuilder().from(from).size(size)
+                    .postFilter(getQueryBuilder(dto));
 
             if (dto.getSortBy() != null) {
                 builder = builder.sort(
-                    dto.getSortBy(),
-                    dto.getOrder() != null ? dto.getOrder() : SortOrder.ASC);
+                        dto.getSortBy(),
+                        dto.getOrder() != null ? dto.getOrder() : SortOrder.ASC);
             }
 
             final SearchRequest request = new SearchRequest(indexName);
@@ -41,15 +49,45 @@ public class SearchUtil {
         }
     }
 
-    public static SearchRequest buildSearchRequest(final String indexName, Map<String, Double> categories) {
-        
+    public static SearchRequest buildSearchRequest(final String indexName, Map<String, Float> categoriesBoost) {
+
         try {
-            SearchSourceBuilder builder = new SearchSourceBuilder().query(getQueryBuilder(categories));
+            SearchRequest searchRequest = new SearchRequest(indexName);
+            SearchSourceBuilder searchSourceBuilder = new SearchSourceBuilder();
+        
+            //TODO: assumes that categores is non-null and non-empty
+            final BoolQueryBuilder queryBuilder = new BoolQueryBuilder();
 
-            final SearchRequest request = new SearchRequest(indexName);
-            request.source(builder);
-
-            return request;
+            for (Map.Entry<String, Float> category : categoriesBoost.entrySet()) {
+                String fieldName = "categories." + category.getKey().toLowerCase(); //gets "categories:categoryName", the name of the category in the json doc
+                RangeQueryBuilder rangeQuery = new RangeQueryBuilder(fieldName);
+                Float boost = category.getValue();
+                if (boost < 0) {
+                    if (boost < -0.5) {
+                        rangeQuery.lte(5);
+                    } else {
+                        rangeQuery.lte(3);
+                    }
+                } else {
+                    if (boost > 0.5) {
+                        rangeQuery.gte(9);
+                    } else {
+                        rangeQuery.gte(7);
+                    }
+                }
+                //TODO: right now, we don't want to use category.value since that will only be 0.5, 1, or 1.5 (most movies will be above that range)
+                //in the future, we want to fine tune the gte value, but for now, if the category is listed, we will assume just make it gte 7
+                queryBuilder.should(rangeQuery);
+            }
+        
+            // set query and sort
+            searchSourceBuilder.query(queryBuilder);
+            searchSourceBuilder.sort(SortBuilders.scoreSort().order(SortOrder.DESC));
+            searchSourceBuilder.from(0);
+            searchSourceBuilder.size(3);
+        
+            searchRequest.source(searchSourceBuilder);
+            return searchRequest;
         } catch (final Exception e) {
             e.printStackTrace();
             return null;
@@ -80,34 +118,19 @@ public class SearchUtil {
         }
 
         if (fields.size() > 1) {
-            final MultiMatchQueryBuilder queryBuilder = QueryBuilders.multiMatchQuery(dto.getSearchTerm()).type(MultiMatchQueryBuilder.Type.CROSS_FIELDS).operator(Operator.AND);
+            final MultiMatchQueryBuilder queryBuilder = QueryBuilders.multiMatchQuery(dto.getSearchTerm())
+                    .type(MultiMatchQueryBuilder.Type.CROSS_FIELDS).operator(Operator.AND);
             fields.forEach(queryBuilder::field);
 
             return queryBuilder;
         }
 
-        return fields.stream().findFirst().map(field -> QueryBuilders.matchQuery(field, dto.getSearchTerm()).operator(Operator.AND)).orElse(null);
+        return fields.stream().findFirst()
+                .map(field -> QueryBuilders.matchQuery(field, dto.getSearchTerm()).operator(Operator.AND)).orElse(null);
     }
 
-    private static QueryBuilder getQueryBuilder(final Map<String, Double> categories) {
-        //TODO: assumes that categores is non-null and non-empty
-        final BoolQueryBuilder queryBuilder = new BoolQueryBuilder();
-
-        for (Map.Entry<String, Double> category : categories.entrySet()) {
-            String fieldName = "categories:" + category.getKey().toLowerCase(); //gets "categories:categoryName", the name of the category in the json doc
-            RangeQueryBuilder rangeQuery = new RangeQueryBuilder(fieldName);
-            rangeQuery.gte(7); //specifies that value of category should be greater than or equal (gte) to 7
-            //TODO: right now, we don't want to use category.value since that will only be 0.5, 1, or 1.5 (most movies will be above that range)
-            //in the future, we want to fine tune the gte value, but for now, if the category is listed, we will assume just make it gte 7
-            queryBuilder.should(rangeQuery);
-        }
-
-        return queryBuilder;
-
-    }
-    
     private static QueryBuilder getQueryBuilder(final String field, final Date date) {
         return QueryBuilders.rangeQuery(field).gte(date);
     }
-    
+
 }

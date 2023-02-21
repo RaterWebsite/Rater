@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -17,6 +18,7 @@ import rater.application.service.MovieService;
 import rater.application.service.helper.MovieDummyDataService;
 
 @RestController
+@CrossOrigin
 @RequestMapping("/api/movie")
 public class MovieController {
     private final MovieService service;
@@ -49,7 +51,7 @@ public class MovieController {
     }
 
     @PostMapping("/categorySearch")
-    public List<Movie> categorySearch(@RequestBody final Map<String, Double> categories) {
+    public List<Movie> categorySearch(@RequestBody final Map<String, Float> categories) {
         return service.categorySearch(categories);
     }
     
