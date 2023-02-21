@@ -3,7 +3,8 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function populate(response, inputs, weights) {
-  console.log(response)
+  response.json()
+  let responseData = JSON.stringify(response)
   var test_data = {
       "id": "5",
       "title": "Raiders of the Lost Ark",
@@ -36,11 +37,9 @@ function populate(response, inputs, weights) {
   while(il.firstChild != null){
     il.removeChild(il.firstChild)
   }
-
-  let response_data = [test_data,test_data,test_data]
-
-  for(let i = 0; i < response_data.length; i++){
-    document.getElementById('items-list').appendChild(generateItem(response_data[i], inputs, weights))
+  console.log(responseData)
+  for(let data in responseData) {
+    document.getElementById('items-list').appendChild(generateItem(data, inputs, weights))
   }
 }
 
@@ -56,9 +55,6 @@ function App() {
       </div>
       <h1>Rater</h1>
       <h2>Movie search</h2>
-
-
-
       <div id='button-list'></div>
 
       <div className="card">
@@ -88,22 +84,20 @@ function App() {
               body[inputs[i].replace(' ', '')] = weight_scale[weights[i]]
             }
 
-            let url = ''
+            let url = 'http://localhost:9187/api/movie/categorySearch/'
 
             console.log(body)
 
             let requestBody = JSON.stringify(body)
-              fetch(url, {
-              method: 'POST',
-              headers: {
-                  'Accept': 'application/json',
-                  'Content-Type': 'application/json'
-              },
-              body: requestBody
-              })
-              .then(response => response.json())
-              .then(response => console.log(JSON.stringify(response)))
-              .then(response => populate(response,inputs,weights))
+            const address = fetch(url, {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json',
+            },
+            body: requestBody
+            })
+            .then(response => populate(response,inputs,weights))
 
         }}>
           search

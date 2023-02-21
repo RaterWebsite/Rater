@@ -31,11 +31,11 @@ window.onload = function () {
             range.value = 2
 
             const multiplier = document.createElement("label")
-            var yv = '1.0x'
+            var yv = '0.0'
             multiplier.innerHTML = yv
 
             range.addEventListener("input", (event) => {
-                let multiplier_values = ['0.0x', '0.5x', '1.0x', '1.5x', '2.0x']
+                let multiplier_values = ['-1.0', '-0.5', '0.0', '0.5', '1.0']
                 multiplier.innerHTML = multiplier_values[event.target.value]
 
               })
