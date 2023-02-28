@@ -55,36 +55,43 @@ public class SearchUtil {
             SearchRequest searchRequest = new SearchRequest(indexName);
             SearchSourceBuilder searchSourceBuilder = new SearchSourceBuilder();
         
-            //TODO: assumes that categores is non-null and non-empty
             final BoolQueryBuilder queryBuilder = new BoolQueryBuilder();
 
             for (Map.Entry<String, Float> category : categoriesBoost.entrySet()) {
-                String fieldName = "categories." + category.getKey().toLowerCase(); //gets "categories:categoryName", the name of the category in the json doc
+                String fieldName = "categories." + category.getKey().toLowerCase(); //gets "categories.categoryName", the name of the category in the json doc
+                if (fieldName.equals("categories.familyfriendly")) {
+                    fieldName = "categories.familyFriendly";
+                }
                 RangeQueryBuilder rangeQuery = new RangeQueryBuilder(fieldName);
                 Float boost = category.getValue();
+                if (boost == 0) {
+                    continue;
+                }
                 if (boost < 0) {
                     if (boost < -0.5) {
-                        rangeQuery.lte(5);
-                    } else {
-                        rangeQuery.lte(3);
+                        queryBuilder.should(new RangeQueryBuilder(fieldName).lte(4));
+                        queryBuilder.should(new RangeQueryBuilder(fieldName).lte(3));
+                        queryBuilder.should(new RangeQueryBuilder(fieldName).lte(2));
                     }
+                    queryBuilder.should(new RangeQueryBuilder(fieldName).lte(5));
+                    queryBuilder.should(new RangeQueryBuilder(fieldName).lte(6));
                 } else {
                     if (boost > 0.5) {
-                        rangeQuery.gte(9);
-                    } else {
-                        rangeQuery.gte(7);
-                    }
+                        queryBuilder.should(new RangeQueryBuilder(fieldName).gte(9));
+                        queryBuilder.must(new RangeQueryBuilder(fieldName).gte(8));
+                    } 
+                    queryBuilder.must(new RangeQueryBuilder(fieldName).gte(7));
                 }
                 //TODO: right now, we don't want to use category.value since that will only be 0.5, 1, or 1.5 (most movies will be above that range)
                 //in the future, we want to fine tune the gte value, but for now, if the category is listed, we will assume just make it gte 7
-                queryBuilder.should(rangeQuery);
+                //queryBuilder.should(rangeQuery);
             }
         
             // set query and sort
             searchSourceBuilder.query(queryBuilder);
             searchSourceBuilder.sort(SortBuilders.scoreSort().order(SortOrder.DESC));
             searchSourceBuilder.from(0);
-            searchSourceBuilder.size(3);
+            searchSourceBuilder.size(10);
         
             searchRequest.source(searchSourceBuilder);
             return searchRequest;
