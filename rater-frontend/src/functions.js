@@ -7,14 +7,18 @@ function getProgressColor(percent){
 function getTimeString(minutes){
   let message = ""
   if(minutes >= 60){
-    message+= Math.floor(minutes/60) + 'h '
+    message+= Math.floor(minutes/60) + 'h'
     minutes = minutes % 60
+    if(minutes>0){
+      message+= ' '
+    }
   }
   if(minutes > 0){
     message+= minutes +'m'
   }
   return message
 }
+module.exports = {getTimeString} 
 
 function generateItem(movieData, categories, weights){
   const containerDiv = document.createElement("div")
