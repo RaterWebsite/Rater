@@ -1,5 +1,7 @@
 package rater.application.service;
 
+import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -16,7 +18,17 @@ public class UserService {
         this.repository = repository;
     }
 
-    public void createUser(User user) {
+    public void saveUser(User user) {
         repository.save(user);
+    }
+
+    public User getUserByUsername(String username) {
+        Optional<User> user = repository.findById(username);
+        if (user.isPresent()) {
+            return user.get();
+        } else {
+            System.out.println("Couldn't find user with username: " + username);
+            return null;
+        }
     }
 }
