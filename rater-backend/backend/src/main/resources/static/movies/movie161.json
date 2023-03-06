@@ -1,0 +1,23 @@
+{
+  "id": 161,
+  "title": "Mr. Smith Goes to Washington",
+  "starring": [
+    "James Stewart",
+    "Jean Arthur"
+  ],
+  "runtime": 129,
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "description": "Naive and idealistic Jefferson Smith, leader of the Boy Rangers, is appointed to the United States Senate by the puppet governor of his state. He soon discovers, upon going to Washington, many shortcomings of the political process as his earnest goal of a national boys' camp leads to a conflict with the state political boss.",
+  "year": "1939",
+  "rating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "This movie is just a plain and simple classic and overall great movie to watch."
+    }
+  ]
+}
