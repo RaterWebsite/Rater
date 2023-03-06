@@ -60,7 +60,4 @@ window.onload = function () {
       }
 
     var b = document.getElementById('button1')
-    console.log(b)
-    console.log(document.getElementById('tag-input'))
-
 }

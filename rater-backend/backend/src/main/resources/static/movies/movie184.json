@@ -1,0 +1,23 @@
+{
+  "id": 184,
+  "title": "To Be or Not to Be",
+  "starring": [
+    "Carole Lombard",
+    "Jack Benny"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Comedy",
+    "War"
+  ],
+  "description": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+  "year": "1942",
+  "rating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Hem senaryo hem mizah m\u00fckemmel seviyede. Zeka dolu ve usta i\u015fi tam bir ba\u015fyap\u0131t. Kesinlikle izlenmeli."
+    }
+  ]
+}
