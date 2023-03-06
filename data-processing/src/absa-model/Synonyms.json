@@ -1,0 +1,64 @@
+{
+    "plot": [
+        "plot", "plots",
+        "subplot", "subplots",
+        "story", "stories",
+        "storyline", "storylines",
+        "theme", "themes", "thematic",
+        "narrative", "narratives",
+        "exposition",
+        "climax",
+        "character", "characters", "characterization",
+        "drama", "dramatic",
+        "tension"
+    ],
+    "acting": [
+        "acting", "actor", "actors", "actress", "actresses", 
+        "character", "characters", "characterization",
+        "perform", "performs", "performance", "performances",
+        "portray", "portrays", "portrayal", "portraying", "portrayals",
+        "drama", 
+        "emotional", "emotion", "emotions"
+    ],
+    "ending": [
+        "ending", "end", "ends",
+        "finale", "final",
+        "resolution",
+        "climax"
+    ],
+    "soundtrack": [
+        "soundtrack", "sound track", "soundtracks", "sound tracks",
+        "music",
+        "sound design"
+    ],
+    "cinematography": [
+        "cinematography",
+        "camera", "camerawork",
+        "lighting",
+        "composition",
+        "color", "colour", "colors", "colours"
+    ],
+    "familyFriendly": [
+        "family friendly", "familyfriendly",
+        "kid friendly", "kidfriendly", "for kids",
+        "wholesome"
+    ],
+    "funny": [
+        "funny",
+        "comedic", "comedy",
+        "hilarious",
+        "humor", "humour", "humorous", "humourous",
+        "laugh", "laughs", "laughing", "laughter"
+    ],
+    "action": [
+        "action",
+        "thrilling", "thrill", "thrills", "thrill-ride", "thrillride",
+        "edge of your seat", "edge-of-your-seat",
+        "hair-raising", "hair raising",
+        "electrifying",
+        "exciting",
+        "breathtaking", "breath-taking",
+        "choreography", "choreographed", "choreographer",
+        "fight", "fights", "fighting"
+    ]
+}
