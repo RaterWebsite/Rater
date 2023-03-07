@@ -1,4 +1,5 @@
 from analyzer import Analyzer
+import pandas as pd
 
 # Required information for a review
 class Review:
