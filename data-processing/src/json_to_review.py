@@ -11,10 +11,3 @@ def json_to_reviews(file_path: str):
         reviews.append(Review(id, x["rating"], x["text"]))
     
     return reviews
-  
-
-
-
-path = "rater-backend/backend/src/main/resources/static/movies/movie1.json"
-
-print(json_to_reviews(path))
