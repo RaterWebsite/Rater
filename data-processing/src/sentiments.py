@@ -29,7 +29,7 @@ class Sentiments:
         self.raw_sentiments = pd.concat([self.raw_sentiments, sentiments], ignore_index=True)
 
     # Scores the movie
-    def calculate_score(self):
+    def __calculate_score(self):
         final_scores = {}
         # Take a weighted average of the scores based on the number of mentions in each review
         for column in self.raw_sentiments.drop(columns="score").columns:
@@ -44,7 +44,7 @@ class Sentiments:
 
     # Creates a json string representing this object
     def to_json(self) -> str:
-      self.calculate_score()
+      self.__calculate_score()
       categories = {}
       for category in self.scores.keys():
           categories[category] = self.scores[category]
