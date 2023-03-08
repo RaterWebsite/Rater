@@ -1,11 +1,10 @@
 from analyzer import Analyzer
-import pandas as pd
 
 # Required information for a review
 class Review:
 
-    def __init__(self, movie_id, score, raw_text) -> None:
-        self.movie_id = movie_id
+    # Constructor. Performs sentiment analysis on the raw text
+    def __init__(self, score, raw_text) -> None:
         self.score = score
         self.raw_text = raw_text
 

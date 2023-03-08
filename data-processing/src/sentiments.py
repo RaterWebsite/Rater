@@ -18,10 +18,15 @@ class Sentiments:
     
     # Adds the sentiments of multiple reviews
     def add_reviews(self, reviews: list[Review]) -> None:
-        l = [review.sentiments for review in reviews]
-        df = pd.concat(l, axis=1).transpose()
-        df["score"] = [int(review.score) for review in reviews]
-        self.raw_sentiments = pd.concat([self.raw_sentiments, df], ignore_index=True)
+        # Extract the sentiments from the reviews
+        sentiments = [review.sentiments for review in reviews]
+        
+        # Transform to a dataframe
+        sentiments = pd.concat(sentiments, axis=1).transpose()
+        sentiments["score"] = [int(review.score) for review in reviews]
+
+        # Append to existing data
+        self.raw_sentiments = pd.concat([self.raw_sentiments, sentiments], ignore_index=True)
 
     # Scores the movie
     def calculate_score(self):
@@ -29,7 +34,7 @@ class Sentiments:
         # Take a weighted average of the scores based on the number of mentions in each review
         for column in self.raw_sentiments.drop(columns="score").columns:
 
-            # Default to 5 if no reviews include categories
+            # Default to 5 if no reviews includes that category
             if np.sum(self.raw_sentiments[column]) == 0:
                 val = 5
             else:
@@ -37,8 +42,8 @@ class Sentiments:
             final_scores[column] = val
         self.scores = final_scores
 
-    # Print a json string
-    def to_json(self):
+    # Creates a json string representing this object
+    def to_json(self) -> str:
       self.calculate_score()
       categories = {}
       for category in self.scores.keys():
@@ -47,4 +52,4 @@ class Sentiments:
 
 
 s = Sentiments(json_to_reviews("rater-backend/backend/src/main/resources/static/movies/movie1.json"))
-s.to_json()
+print(s.to_json())
