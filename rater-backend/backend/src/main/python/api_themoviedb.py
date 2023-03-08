@@ -1,30 +1,13 @@
 import requests
 import json
-from dataclasses import dataclass
-from typing import List, Dict
-
-@dataclass
-class MovieData:
-    id: int = -1
-    title: str = None
-    starring: List[str] = None
-    runtime: str = None
-    genre: List[str] = None
-    description: str = None
-    year: int = None
-    rating: str = None
-    imageUrl: str = None
-    reviews: List[Dict] = None
-    
-    def json(self):
-        return json.dumps(self.__dict__, indent=2)
+from classes import Movie
 
 # Define the API endpoint URLs
 search_url = 'https://api.themoviedb.org/3/search/movie'
 movie_url = 'https://api.themoviedb.org/3/movie/'
 
 # Set the API key
-api_key = 'GetYourOwnKeyBud'
+api_key = 'StopStealingSecretesNerd'
 
 def getMovieData(movie_title): 
     # Set the query parameters for the search endpoint
@@ -76,30 +59,21 @@ def getMovieData(movie_title):
     poster_path = movie_data['poster_path']
     image_url = f'https://image.tmdb.org/t/p/w500{poster_path}'
 
-    # Map the extracted data to the JSON schema
-    schema = {
+    # Map the extracted data to dict
+    data = {
         'title': title,
         'starring': starring,
         'runtime': runtime,
         'genre': genres,
         'description': description,
-        'year': year,
-        'rating': mpaa_rating,
+        'releaseYear': year,
+        'mpaaRating': mpaa_rating,
         'imageUrl': image_url
     }
     
-    return MovieData(
-        title=title, 
-        starring=starring, 
-        runtime=runtime, 
-        genre=genres, 
-        description=description, 
-        year=year, 
-        rating=mpaa_rating, 
-        imageUrl=image_url
-        )
+    return Movie(**data)
 
 if __name__ == "__main__":
-    movie_title = input("Enter a movie title: ")
+    movie_title = "The Godfather"
     data = getMovieData(movie_title)
     print(json.dumps(data.__dict__, indent=2))
