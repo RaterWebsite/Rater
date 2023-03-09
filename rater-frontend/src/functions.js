@@ -39,7 +39,7 @@ function generateItem(movieData, categories, weights){
 
   const imageDiv = document.createElement("img")
   imageDiv.className = 'movie-image'
-  imageDiv.src = movieData['image']
+  imageDiv.src = movieData['imageUrl']
   leftDiv.appendChild(imageDiv)
 
   const titleDiv = document.createElement("div")
@@ -50,7 +50,7 @@ function generateItem(movieData, categories, weights){
 
   const infoDiv = document.createElement("div")
   infoDiv.className = 'info-item'
-  infoDiv.innerHTML = movieData['releaseYear'] + ' • ' + movieData['rating'] + ' • ' + getTimeString(movieData['runtime'])
+  infoDiv.innerHTML = movieData['releaseYear'] + ' • ' + movieData['mpaaRating'] + ' • ' + getTimeString(movieData['runtime'])
   middleDiv.appendChild(infoDiv)
 
   const descDiv = document.createElement("div")
