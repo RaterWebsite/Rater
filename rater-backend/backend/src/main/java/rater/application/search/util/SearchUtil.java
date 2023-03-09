@@ -59,7 +59,11 @@ public class SearchUtil {
             String code = 
                 "double score = 100000.0;" +
                 "for (def category : params.categories.keySet()) {" +
-                "    score += doc['categories.' + category].value * params.categories[category];" +
+                "    String categoryLower = category.toLowerCase();" +
+                "    if (categoryLower.equals(\"familyfriendly\")) {" +
+                "           categoryLower = \"familyFriendly\";" +
+                "    }" +
+                "    score += doc['categories.' + categoryLower].value * params.categories[category];" +
                 "}" +
                 "return score;"; 
             Map<String, Object> params = Collections.singletonMap("categories", categoriesBoost);
