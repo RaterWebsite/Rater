@@ -57,15 +57,15 @@ public class SearchUtil {
     public static SearchRequest buildSearchRequest(final String indexName, Map<String, Float> categoriesBoost) {
         try {
             String code = 
-                "double score = 100000.0;" +
-                "for (def category : params.categories.keySet()) {" +
-                "    String categoryLower = category.toLowerCase();" +
-                "    if (categoryLower.equals(\"familyfriendly\")) {" +
-                "           categoryLower = \"familyFriendly\";" +
-                "    }" +
-                "    score += doc['categories.' + categoryLower].value * params.categories[category];" +
-                "}" +
-                "return score;"; 
+                "double score = 100000.0;"
+                + "for (def category : params.categories.keySet()) {"
+                + "    String categoryLower = category.toLowerCase();"
+                + "    if (categoryLower.equals(\"familyfriendly\")) {"
+                + "           categoryLower = \"familyFriendly\";"
+                + "    }"
+                + "    score += doc['categories.' + categoryLower].value * params.categories[category];"
+                + "}"
+                + "return score;"; 
             Map<String, Object> params = Collections.singletonMap("categories", categoriesBoost);
             // create the function score query  
             Script script = new Script(ScriptType.INLINE, "painless", code, params);
