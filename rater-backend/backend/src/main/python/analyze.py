@@ -209,22 +209,20 @@ reviews= [
 thesaurus = json.load(open("./Synonyms.json"))
 
 def analyze(reviews):
-    categories = dict()
+    categories = Categories()
     for category, synonyms in thesaurus.items():
-        categories[category] = [0, 0.0] # (count, score)
-        for review in reviews:                                                  # for each review
-            try: 
-                for word in review.text.split():                                # for each word in the review
-                    for synonym in synonyms:                                    # for each related synonym
-                        if word == synonym:                                     # if word matches category/synonyms
-                            categories[category][0] += 1                        # add to count
-                            categories[category][1] += float(review.rating)     # add to score
-            except Exception: pass # ignore misformatted reviews 
-        if categories[category][0]:                                             # if the category appeared in reviews
-            categories[category][1] /= categories[category][0]                  # normalize
-        else:                                                                   # else
-            categories[category][1] = 4.0                                       # default to 4.0f
-    return Categories(**{cat: score for cat, (_, score) in categories.items()})                        
+      score, count = 0, 0
+      for review in reviews:                              # for each review
+        try: 
+          for word in review.text.split():                # for each word in the review
+            for synonym in synonyms:                      # for each related synonym
+              if word == synonym:                         # if word matches category/synonyms
+                count += 1                                # add to count
+                score += float(review.rating)             # add to score
+        except Exception: pass # ignore misformatted reviews 
+        if count:                                         # if the category appeared in reviews
+            setattr(categories, category, score / count)  # normalize else leave default
+    return categories                        
 
 if __name__ == "__main__":
     from scrape_metacritic import getMovieReviews
