@@ -1,8 +1,8 @@
 var categories = ['Plot', 'Acting', 'Ending', 'Soundtrack', 'Cinematography', 'Family Friendly', 'Funny', 'Action']
 
 window.onload = function () {
-    document.getElementById('tag-input').style.height="35px";
-    document.getElementById('tag-input').style.fontSize="16pt";
+    // document.getElementById('tag-input').style.height="35px";
+    // document.getElementById('tag-input').style.fontSize="16pt";
     var buttonList = document.getElementById('button-list')
 
     for(var i = 0; i < categories.length; i++){
