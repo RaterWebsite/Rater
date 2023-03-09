@@ -1,0 +1,45 @@
+{
+  "id": 165,
+  "title": "Room",
+  "starring": [
+    "Brie Larson",
+    "Jacob Tremblay"
+  ],
+  "runtime": 118,
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+  "releaseYear": "2015",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+  "categories": {
+    "plot": 4.0,
+    "acting": 0.0,
+    "ending": 4.0,
+    "soundtrack": 4.0,
+    "cinematography": 4.0,
+    "familyFriendly": 4.0,
+    "funny": 4.0,
+    "action": 4.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Ok people, this has got to be the worst, i repeat, WORST, movie ever! forget the chubby woman acting as some sad middle age mid-america wife on mushrooms - it's the so-called director that should immedially quit pretending to be a movie artiste. no one is ever going to give me back the 73 minutes i just wasted watching this piece of garbage!! seriously people, get a clue on life and stop calling yourselves 'indie lovers'. this ain't indie stuff. this is some serious crap."
+    },
+    {
+      "rating": "0",
+      "text": "Ok people, this has got to be the worst, i repeat, WORST, movie ever! forget the chubby woman acting as some sad middle age mid-america wife on mushrooms - it's the so-called director that should immedially quit pretending to be a movie artiste. no one is ever going to give me back the 73 minutes i just wasted watching this piece of garbage!! seriously people, get a fucking clue on life and stop calling yourselves 'indie lovers'. this ain't indie stuff. this is some serious crap."
+    },
+    {
+      "rating": "8",
+      "text": "ROOM is an interesting, moving, and troubling film"
+    },
+    {
+      "rating": "7",
+      "text": "When Julia(Cyndi Williams) ditches her family to search for the room that materializes itself from a series of fainting spells(why doesn't anybody suggest a hospital?), the filmmaker pointedly assures the audience that she isn't having a \"I've Never Been to Me\" declaration of independence. She walks into a room, the wrong room; it's a room full of women doing deep relaxation exercises. Julia quietly walks out. Her quest is not a feminist one. So what is the point of Julia's journey? Updates about the Iraqi War stream from televisions and radios throughout \"Room\", which Julia(like you and me) converts largely into background noise, offers a tantalyzing clue to understanding the nature of this woman's vision. Julia, like President Bush, of course, is from Texas. If she's a conservative, maybe the filmmaker is saying that the room doesn't exist, just like how Bush's Iraq doesn't exist. The room is a lie. Julia's journey to New York might be a metaphor for the deployment of our soldiers in Iraq. If your state of mind is a political one, \"Room\" will seem engrossing rather than mind-numbing."
+    }
+  ]
+}

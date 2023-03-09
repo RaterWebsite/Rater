@@ -82,7 +82,6 @@ public class MovieService {
             final IndexRequest request = new IndexRequest(Indices.MOVIE_INDEX);
             request.id(movie.getId());
             request.source(movieAsString, XContentType.JSON);
-            LOG.info("here is the movie as string that we are trying to index: \n" + movieAsString);
             final IndexResponse response = client.index(request, RequestOptions.DEFAULT);
 
             return response != null && response.status().equals(RestStatus.OK);

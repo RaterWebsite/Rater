@@ -1,0 +1,50 @@
+{
+  "id": 182,
+  "title": "The Best Years of Our Lives",
+  "starring": [
+    "Myrna Loy",
+    "Fredric March"
+  ],
+  "runtime": 171,
+  "genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "description": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+  "releaseYear": "1946",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 9.5,
+    "ending": 4.0,
+    "soundtrack": 4.0,
+    "cinematography": 9.0,
+    "familyFriendly": 4.0,
+    "funny": 4.0,
+    "action": 4.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Hollywood's first real honest look at the effects of war on veterans returning home.  This deeply felt, extremely well performed movie shows the painful experiences of 3 WW2 veterans trying to cope with trauma of battle and the altered reality of homecoming, and the failings of trying to explain that agony to their family and friends"
+    },
+    {
+      "rating": "10",
+      "text": "Wyler's best collaboration with Sam Goldwyn results in a tale of how war impacts on the ordinary soldier when they return home, the battle scars sometimes psychological. Brilliant score by Hugo Friedhofer."
+    },
+    {
+      "rating": "9",
+      "text": "This film is a marvel. It perfectly stands the test of time despite one or two antiquated special effects. Whilst it is as realistic as possible and tries to capture a fleeting moment in American history it manages to reveal the quintessence of the American soul, its extreme optimism, strength in front of pain and adversity, as well as supreme magnanimity (what was foreseen and celebrated as the real \u00fcbermensch by Nietzsche and, sadly, despised by Dostoyevsky)...exactly what has made American culture so universally revered and envied by its enemies to this day. This is the same artistic transcendence found in other American art forms such as jazz for instance.Not only do the script, acting and editing manage to make this 3-hour film feel so engaging and entertaining, some of scenes' cinematography shows glimpses of brilliance."
+    },
+    {
+      "rating": "0",
+      "text": "I can not say much, but seeing it bored me, and It was also very bad!!!!!!!"
+    },
+    {
+      "rating": "10",
+      "text": "Even at nearly three hours in length, this visceral, gripping drama film about three war veterans never fails to interest."
+    }
+  ]
+}

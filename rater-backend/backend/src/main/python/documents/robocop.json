@@ -1,0 +1,35 @@
+{
+    "id": 69420,
+    "title": "Robocop",
+    "starring": [
+      "Nancy Allen",
+      "Peter Weller",
+      "Stephen Boxwell"
+    ],
+    "runtime": 102,
+    "genre": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+     "releaseYear": "1987",
+    "mpaaRating": "R",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/RoboCop_%281987%29_theatrical_poster.jpg/220px-RoboCop_%281987%29_theatrical_poster.jpg",
+    "categories": {
+      "plot": 0,
+      "acting": 0,
+      "ending": 0,
+      "soundtrack": 0,
+      "cinematography": 0,
+      "familyFriendly": 0,
+      "funny": 0,
+      "action": 0
+    },
+    "reviews": [
+      {
+        "rating": "0",
+        "text": "Hello class, we will not be got again!"
+      }
+    ]
+  }
