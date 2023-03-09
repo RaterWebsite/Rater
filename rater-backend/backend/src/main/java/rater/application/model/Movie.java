@@ -12,9 +12,10 @@ public class Movie {
     private List<String> genre;
     private String description;
     private int releaseYear;
-    private String rating; //G, PG, etc.
-    private String image;
+    private String mpaaRating; //G, PG, etc.
+    private String imageUrl;
     private Map<String, Float> categories;
+    private List<Review> reviews;
     
     public List<String> getStarring() {
         return starring;
@@ -46,17 +47,17 @@ public class Movie {
     public void setReleaseYear(int releaseYear) {
         this.releaseYear = releaseYear;
     }
-    public String getRating() {
-        return rating;
+    public String getMpaaRating() {
+        return mpaaRating;
     }
-    public void setRating(String rating) {
-        this.rating = rating;
+    public void setMpaaRating(String rating) {
+        this.mpaaRating = rating;
     }
-    public String getImage() {
-        return image;
+    public String getImageUrl() {
+        return imageUrl;
     }
-    public void setImage(String image) {
-        this.image = image;
+    public void setImageUrl(String image) {
+        this.imageUrl = image;
     }
     public Map<String, Float> getCategories() {
         return categories;
@@ -76,7 +77,14 @@ public class Movie {
     public void setTitle(String title) {
         this.title = title;
     }
+    public List<Review> getReviews() {
+        return reviews;
+    }
+    public void setReviews(List<Review> reviews) {
+        this.reviews = reviews;
+    }
 
+    
     
     
 }
