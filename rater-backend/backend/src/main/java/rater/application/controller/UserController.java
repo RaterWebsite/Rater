@@ -37,6 +37,7 @@ public class UserController {
     
     @PostMapping ("/createUser")
     public void createUser(@RequestBody final User user) {
+        user.setRatings(new ArrayList<Rating>());
         service.saveUser(user);
         
     }
@@ -52,7 +53,11 @@ public class UserController {
     @PostMapping("/addRating")
     public void addUserRating(@RequestBody Rating rating, @RequestHeader("username") String username) {
         User user = service.getUserByUsername(username);
-        //user.addRating(rating);
+        //user.getRatings().add(rating);
+        List<Rating> ratings = new ArrayList<Rating>();
+        ratings.add(rating);
+        user.setRatings(ratings);
+        user.setPassword("newpassword");
         service.saveUser(user);
     }
 
