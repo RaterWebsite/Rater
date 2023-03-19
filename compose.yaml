@@ -33,7 +33,5 @@ services:
     container_name: reactjs
     ports:
       - '5173:5173'
-    environment:
-      - BACKEND_URL="http://backend:9187"
     depends_on:
       - backend
