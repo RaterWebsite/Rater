@@ -1,22 +1,20 @@
 package com.rater.application.model;
 
 public class Review {
-    private int rating;
+    private float rating;
     private String text;
 
     
-
-
     public Review() {
     }
-    public Review(int rating, String text) {
+    public Review(float rating, String text) {
         this.rating = rating;
         this.text = text;
     }
-    public int getRating() {
+    public float getRating() {
         return rating;
     }
-    public void setRating(int rating) {
+    public void setRating(float rating) {
         this.rating = rating;
     }
     public String getText() {
