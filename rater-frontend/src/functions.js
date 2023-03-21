@@ -100,11 +100,11 @@ function generateItem(movieData, categories, weights){
   var overallOutOf = 0
   for(let i = 0; i < categories.length; i++){
     let categoryName = categories[i]
-    categories[i] = categories[i][0].toLowerCase() + categories[i].substring(1).replace(' ','')
+    let categoryKeyName = categories[i][0].toLowerCase() + categories[i].substring(1).replace(' ','')
     const ratingDiv = document.createElement("div")
     ratingDiv.className = 'rating-item'
     //let rating = Math.floor(Math.random() * 10)
-    let rating = movieData['categories'][categories[i]]
+    let rating = movieData['categories'][categoryKeyName]
     overallTotal+= rating * weights[i]
     overallOutOf+= 10 * weights[i]
     ratingDiv.innerHTML = categoryName + ': ' + rating;
