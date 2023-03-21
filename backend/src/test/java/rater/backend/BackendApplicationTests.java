@@ -7,8 +7,8 @@ import com.rater.application.configuration.Config;
 @SpringBootTest(classes = Config.class)
 class BackendApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
