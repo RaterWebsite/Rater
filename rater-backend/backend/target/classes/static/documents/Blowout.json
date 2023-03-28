@@ -1,0 +1,21 @@
+{
+    "id": "14",
+    "title": "Blowout",
+    "starring": ["John Travolta", "Nancy Allen", "John Lithgrow"],
+    "runtime": 108,
+    "genre": ["Mystery", "Neo-Noir", "Crime"],
+    "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+    "releaseYear": 1981,
+    "rating": "R",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Blow_outENG.jpg/220px-Blow_outENG.jpg",
+    "categories": {
+      "plot": 7.2,
+      "acting": 7.5,
+      "ending": 9.0,
+      "soundtrack": 7.6,
+      "cinematography": 9.4,
+      "familyFriendly": 5.0,
+      "funny": 5.2,
+      "action": 6.3
+    }
+  }
