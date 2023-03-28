@@ -5,6 +5,8 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+import org.springframework.beans.factory.annotation.Value;
+
 import com.rater.application.database.table.UserDB.ReviewTable;
 import com.rater.application.database.table.UserDB.UserTable;
 import com.rater.application.model.Review;
@@ -14,14 +16,18 @@ public class UserDatabase implements ApplicationDatabase {
 
     private Connection dbConn;
 
+    @Value("${spring.datasource.url}")
+    private String dbUrl;
+
     public UserDatabase() {
 
     }
     
     public void connectToDB() {
         String url = "jdbc:mysql:" + System.getProperty("user.dir") + "/src/main/resources/static/User.db";
+        
         try {
-            this.dbConn = DriverManager.getConnection(url);
+            this.dbConn = DriverManager.getConnection(dbUrl);
         } catch (SQLException e) {
             System.out.println(e);
         }
