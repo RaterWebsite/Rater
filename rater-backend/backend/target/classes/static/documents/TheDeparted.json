@@ -1,0 +1,21 @@
+{
+    "id": "7",
+    "title": "The Departed",
+    "starring": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+    "runtime": 151,
+    "genre": ["Crime", "Drama"],
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "releaseYear": 2006,
+    "rating": "R",
+    "image": "https://lh3.googleusercontent.com/zMaKqSU9rxUNr4keOrnFB53Tpr1sBR-hUjld_XBAD2ouAXMeC4ap6haiNN8Wpg33l9aKPbOSVYlSpS5HiTvXOPmtunt_Go8gWIczOnQX",
+    "categories": {
+      "plot": 9.3,
+      "acting": 9.1,
+      "ending": 10.0,
+      "soundtrack": 7.4,
+      "cinematography": 7.7,
+      "familyFriendly": 4.4,
+      "funny": 2.6,
+      "action": 6.7
+    }
+  }

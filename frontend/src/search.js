@@ -80,4 +80,53 @@ window.onload = function () {
       }
 
     var b = document.getElementById('button1')
+
+
+    var buttonList = document.getElementById('options-list')
+    var brightnessButton = document.createElement('button')
+    brightnessButton.innerHTML = 'Switch to 🌞'
+    brightnessButton.addEventListener("click", function(event) {
+      if(document.body.style.color == "white"){
+        document.body.style.backgroundColor = "#fdfdfd";
+        document.body.style.color = "#3F3F3F";
+        brightnessButton.innerHTML = 'Switch to 🌙'
+      }
+      else {
+        document.body.style.backgroundColor = "#3F3F3F";
+        document.body.style.color = "white";
+        brightnessButton.innerHTML = 'Switch to 🌞'
+      }
+    })
+    document.body.style.color = "white";
+    buttonList.appendChild(brightnessButton)
+
+    const loginBtn = document.getElementById("login-btn");
+    const popup = document.getElementById("popup");
+    const closeBtn = document.getElementById("login-button");
+
+    // loginBtn.addEventListener("click", () => {
+      popup.style.display = "block";
+    // });
+
+    closeBtn.addEventListener("click", () => {
+      popup.style.display = "none";
+      let body = {}
+      body['username'] = document.getElementById("username-input").value
+      body['password'] = document.getElementById("password-input").value
+
+      let url = 'http://localhost:9187/api/user/createUser/'
+
+      let requestBody = JSON.stringify(body)
+      console.log(requestBody)
+      const address = fetch(url, {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+        },
+        body: requestBody
+        })
+        .then(response => response.json())
+    });
+
 }

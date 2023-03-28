@@ -68,16 +68,43 @@ function generateItem(movieData, categories, weights){
   starringDiv.innerHTML = movieData['starring'].join(' • ')
   middleDiv.appendChild(starringDiv)
 
+  const reviewsCollapsible = document.createElement("button")
+  reviewsCollapsible.innerHTML = 'Show Reviews'
+  reviewsCollapsible.className = 'collapsible'
+
+  const reviewDiv = document.createElement("div")
+  //reviewDiv.innerHTML = '5/10 review'
+  reviewDiv.className = 'content'
+  for(let i = 0; i < Math.min(movieData['reviews'].length,5); i++){
+    const indReviewDiv = document.createElement("div")
+    indReviewDiv.innerHTML = '<b>' + movieData['reviews'][i]['rating'] + '/10 : </b>' + movieData['reviews'][i]['text']
+    reviewDiv.appendChild(indReviewDiv)
+  }
+
+
+  middleDiv.appendChild(reviewsCollapsible)
+  middleDiv.appendChild(reviewDiv)
+          
+  reviewsCollapsible.addEventListener("click", function () {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+          content.style.display = "none";
+      } else {
+          content.style.display = "block";
+      }
+  });
+
 
   var overallTotal = 0
   var overallOutOf = 0
   for(let i = 0; i < categories.length; i++){
     let categoryName = categories[i]
-    categories[i] = categories[i][0].toLowerCase() + categories[i].substring(1).replace(' ','')
+    let categoryKeyName = categories[i][0].toLowerCase() + categories[i].substring(1).replace(' ','')
     const ratingDiv = document.createElement("div")
     ratingDiv.className = 'rating-item'
     //let rating = Math.floor(Math.random() * 10)
-    let rating = movieData['categories'][categories[i]]
+    let rating = movieData['categories'][categoryKeyName]
     overallTotal+= rating * weights[i]
     overallOutOf+= 10 * weights[i]
     ratingDiv.innerHTML = categoryName + ': ' + rating;
