@@ -19,7 +19,7 @@ public class UserDatabase implements ApplicationDatabase {
     }
     
     public void connectToDB() {
-        String url = "jdbc:sqlite:" + System.getProperty("user.dir") + "/src/main/resources/static/User.db";
+        String url = "jdbc:mysql:" + System.getProperty("user.dir") + "/src/main/resources/static/User.db";
         try {
             this.dbConn = DriverManager.getConnection(url);
         } catch (SQLException e) {
