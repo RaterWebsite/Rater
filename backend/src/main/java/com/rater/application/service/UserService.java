@@ -16,8 +16,8 @@ public class UserService {
     @Autowired
     public UserService() {
         this.userDB = new UserDatabase();
-        userDB.connectToDB();
-        userDB.createTables();
+        //userDB.connectToDB();
+        //userDB.createTables();
         
     }
 
