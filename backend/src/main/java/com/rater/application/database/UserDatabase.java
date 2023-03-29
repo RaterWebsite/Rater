@@ -19,13 +19,19 @@ public class UserDatabase implements ApplicationDatabase {
     @Value("${spring.datasource.url}")
     private String dbUrl;
 
+    @Value("${spring.datasource.username}")
+    private String dbUser;
+
+    @Value("${spring.datasource.password}")
+    private String dbPass;
+
     public UserDatabase() {
 
     }
     
     public void connectToDB() {
         String url = "jdbc:mysql:" + System.getProperty("user.dir") + "/src/main/resources/static/User.db";
-        
+        String f = "jdbc:mysql://db:3306/my_database";
         try {
             this.dbConn = DriverManager.getConnection(dbUrl);
         } catch (SQLException e) {
