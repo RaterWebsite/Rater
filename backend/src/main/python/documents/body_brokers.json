@@ -1,0 +1,37 @@
+{
+  "id": 87,
+  "title": "Body Brokers",
+  "starring": [
+    "Jack Kilmer",
+    "Michael Kenneth Williams"
+  ],
+  "runtime": 111,
+  "genre": [
+    "Thriller",
+    "Crime"
+  ],
+  "description": "Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fNQUUrtlN79pDIMAPigX8NUvNW2.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 8.0,
+    "ending": 5.0,
+    "soundtrack": 8.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 8.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "From regular to decent, and although I know that doesn't say much, to be honest this was just fleeting entertainment."
+    },
+    {
+      "rating": "8",
+      "text": "I don't write a lot of movie reviews but I feel compelled to write one about this movie. Body Brokers is a rare movie that is exciting to watch, and yet has a message. I don't know how much of it is a true story but I found the whole thing engaging and enlightening. It reminded me a little of War Dogs, though perhaps not quite as high energy. Also reminded me of Traffic, with perhaps a little less weightiness (probably a good thing). Great acting all around. Very well done. Oh and a good soundtrack too! I looked up the writer/director's profile and I guess this is his first movie?! Great start. Would 10/10 watch more movies by John Swab."
+    }
+  ]
+}

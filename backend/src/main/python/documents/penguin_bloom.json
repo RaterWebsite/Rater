@@ -1,0 +1,44 @@
+{
+  "id": 1380,
+  "title": "Penguin Bloom",
+  "starring": [
+    "Naomi Watts",
+    "Andrew Lincoln"
+  ],
+  "runtime": 95,
+  "genre": [
+    "Drama"
+  ],
+  "description": "When an unlikely ally enters the Bloom family's world in the form of an injured baby magpie they name Penguin, the bird\u2019s arrival makes a profound difference in the struggling family\u2019s life.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/iUn7594Rwfstu5njA8hf9WQIcFi.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Naomi Watts was the only one who put more than average effort in this dull film."
+    },
+    {
+      "rating": "5",
+      "text": "(Mauro Lanari)Difficult to grasp the differences with \"Soul Surfer\" (McNamara 2011) and with the reception received by moviegoes and critics. An inspirational true drama, however formulaic and sweetened since it is aimed at those who have experienced similar traumas managing to overcome them, so I'd not recommend it to the Schumacher family, to the Zanardi, to M\u00e1rquez or, outside the sporting sphere, to Sposini, Nuti and so on."
+    },
+    {
+      "rating": "7",
+      "text": "Es una pel\u00edcula basada en una historia real; la actuaci\u00f3n de Naomi Watts es muy buena y la cinematograf\u00eda es excelente; es una experiencia entretenida y conmovedora."
+    },
+    {
+      "rating": "10",
+      "text": "The best. Ella es impresionante, la m\u00fasica es un boom y la actuaci\u00f3n lo mejor."
+    }
+  ]
+}

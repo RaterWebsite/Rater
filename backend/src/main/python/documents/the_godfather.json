@@ -1,5 +1,5 @@
 {
-  "id": 2,
+  "id": 1069,
   "title": "The Godfather",
   "starring": [
     "Marlon Brando",
@@ -19,9 +19,9 @@
     "acting": 9.484848484848484,
     "ending": 10.0,
     "soundtrack": 9.0,
-    "cinematography": 4.0,
-    "familyFriendly": 9.0,
-    "funny": 4.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
     "action": 10.0
   },
   "reviews": [

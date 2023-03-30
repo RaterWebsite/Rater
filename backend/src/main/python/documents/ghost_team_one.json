@@ -1,0 +1,33 @@
+{
+  "id": 4145,
+  "title": "Ghost Team One",
+  "starring": [
+    "Fernanda Romero",
+    "Carlos Santos"
+  ],
+  "runtime": 107,
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "description": "Two roommates deathly afraid of ghosts both fall in love with a girl who believes their home is haunted.",
+  "releaseYear": "2013",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dfZERS5Xk1s4xuPpkEn5o2acQu.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "I initially thought this was stupid, but watched it again distraction free the second go round. If you give it a bit of a try, it's surprisingly sort of funny."
+    }
+  ]
+}

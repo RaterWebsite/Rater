@@ -1,0 +1,36 @@
+{
+  "id": 310,
+  "title": "Madres",
+  "starring": [
+    "Ariana Guerra",
+    "Tenoch Huerta Mej\u00eda"
+  ],
+  "runtime": 83,
+  "genre": [
+    "Horror"
+  ],
+  "description": "A Mexican-American couple expecting their first child relocate to a migrant farming community in 1970's California. When the wife begins to experience strange symptoms and terrifying visions, she tries to determine if it's related to a legendary curse or something more nefarious.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/19pHi0qrUKvnUtwx6EoVbFNxg1E.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "I found it more competent than I initially expected because it manages to invoke a good atmosphere of suspense and an engaging mystery.However, as this mystery begins to unfold, the story also starts to lose pace and impact, and its final act responds more to a portion of anguish rather than horror.The closing with the mention of eugenics applied to immigrants feels gratuitous and insubstantial because it seems like a device that tries to justify this story in general, but fails in a resounding way to give a real voice to that issue."
+    },
+    {
+      "rating": "4",
+      "text": "Pregnant couple move for farming work opportunities but start experiencing visions and noticing that there are no Hispanic children being born in the community so after initially suspecting the farm fertilisers to be causing pregnancy problems, they realise the local doctor is a racist who's performing unwanted abortions."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": 57,
+  "id": 515,
   "title": "Inglourious Basterds",
   "starring": [
     "Brad Pitt",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 3.1333333333333333,
     "acting": 5.55,
-    "ending": 6.818181818181818,
+    "ending": 7.083333333333333,
     "soundtrack": 5.5,
     "cinematography": 8.0,
-    "familyFriendly": 9.666666666666666,
+    "familyFriendly": 3.0,
     "funny": 7.0,
-    "action": 9.2
+    "action": 9.285714285714286
   },
   "reviews": [
     {

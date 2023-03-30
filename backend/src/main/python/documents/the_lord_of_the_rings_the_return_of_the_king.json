@@ -1,9 +1,9 @@
 {
-  "id": 6,
+  "id": 519,
   "title": "The Lord of the Rings: The Return of the King",
   "starring": [
     "Elijah Wood",
-    "Sean Astin"
+    "Ian McKellen"
   ],
   "runtime": 201,
   "genre": [
@@ -20,8 +20,8 @@
     "acting": 9.952380952380953,
     "ending": 9.916666666666666,
     "soundtrack": 10.0,
-    "cinematography": 4.0,
-    "familyFriendly": 10.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
     "funny": 10.0,
     "action": 9.4
   },

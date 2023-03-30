@@ -1,0 +1,40 @@
+{
+  "id": 512,
+  "title": "The Seventh Day",
+  "starring": [
+    "Guy Pearce",
+    "Vadhir Derbez"
+  ],
+  "runtime": 87,
+  "genre": [
+    "Horror"
+  ],
+  "description": "A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "(Mauro Lanari)A B movie that dares to escape the banal horror of \"The Conjuring\" saga to return to the unresolved points of the omnipervasiveness of evil (the famous thesis of Hanna Arendt was refuted by Milgram with his experiment). 3rd millennium and the Pauline \"mysterium iniquitatis\" of 2 Thessalonians 2:7, as well as Boethius (430) and Leibniz (1710), still ask in vain: \"si Deus non est, unde bonum?\". Among the blockbusters one has to go back no less than \"Seven/Se7en\" (Fincher 1995) to relive similar emotions."
+    },
+    {
+      "rating": "7",
+      "text": "Recently-trained priest with an interest in exorcism is taken under the wing of a very successful, if disillusioned, exorcist priest who turns out, in fact, to have been possessed himself since his first exorcism."
+    },
+    {
+      "rating": "5",
+      "text": "just fine, although not scary at all :(maybe I did not catch something but title has almost nothing to do with the movie itselft"
+    }
+  ]
+}

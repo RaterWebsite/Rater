@@ -1,0 +1,45 @@
+{
+  "id": 20,
+  "title": "Separation",
+  "starring": [
+    "Brian Cox",
+    "Rupert Friend"
+  ],
+  "runtime": 107,
+  "genre": [
+    "Horror",
+    "Drama"
+  ],
+  "description": "A young girl finds solace in her artist father and the ghost of her dead mother.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg",
+  "categories": {
+    "plot": 2.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "An excellent horror film. I enjoyed this film from start to finish. Nothing complicated, just a good ol fashioned haunting."
+    },
+    {
+      "rating": "2",
+      "text": "If you want to fall asleep, use it as a remedy.If you want to watch a horror movie, look elsewhere."
+    },
+    {
+      "rating": "5",
+      "text": "Horror movie of 2021. The film again tells about the suffering of a soul in order to tell something. While talking about the custody of a divorced mother and father's daughters, the mother's death as a result of a car crash and the strange events that occur in the house where the father and child live are told. I think it was a simple and ineffective film for a veteran actor like Brian Cox. The subject is very familiar and contains many clich\u00e9s. It offers a lot of similarities with the movie named \"Mama\". It would have been more frightening if they had used the black-and-white clown in the man's dream, walking backwards.There are no nudity or sexually explicit scenes in the movie. There are no scary scenes either. I've watched more scary cartoons. For example (see Courage the Cowardly Dog)"
+    },
+    {
+      "rating": "2",
+      "text": "Some good effects but, I did not understand the plot at all. The contortionist did a good job eliciting unsettling feelings, but other than that this movie plays like a trailer. Full of unresolved storylines but it leaves the audience with little reason to care."
+    }
+  ]
+}

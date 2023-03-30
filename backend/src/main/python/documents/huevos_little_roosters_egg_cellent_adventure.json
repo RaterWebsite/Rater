@@ -1,0 +1,39 @@
+{
+  "id": 2544,
+  "title": "Huevos: Little Rooster's Egg-Cellent Adventure",
+  "starring": [
+    "Bruno Bichir",
+    "Carlos Espejel"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "description": "Toto has grown and now is a young cock. An evil rancher tricks the female owner of the ranch where they live and forces her to bet the property in a cockfight in the arena. Toto is the only option to defend their home, so he must train in just one week and win the championship of the arena.",
+  "releaseYear": "2015",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/e55ZEtyXkknzBgNmrcyTICAG3gA.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Es una tercera parte decente; la trama est\u00e1 bien, los actores de voz son muy buenos y la animaci\u00f3n en CGI es pasable; la recomiendo si te gustan las pel\u00edculas de Huevocartoon Producciones."
+    },
+    {
+      "rating": "1",
+      "text": "La pel\u00edcula de huevo que quiso ser como la primera pero de hueva, todo tiene un lado bueno y es la animaci\u00f3n dejando en lado que la trama es p\u00e9sima con chistes de mal gusto queda en claro que la animaci\u00f3n en M\u00e9xico tiene mucho potencial si se tiene un buen guion."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 124,
+  "title": "Bartkowiak",
+  "starring": [
+    "J\u00f3zef Paw\u0142owski",
+    "Zofia Domalik"
+  ],
+  "runtime": 91,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub \u2014 and soon learns his sibling's death wasn\u2019t an accident.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Since this movie, my eyes hurt. Dialogue level as in primary school. The sound, as in any Polish film, is weak. My 2-year-old son would write a better script."
+    }
+  ]
+}

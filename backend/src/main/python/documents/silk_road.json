@@ -1,0 +1,53 @@
+{
+  "id": 1533,
+  "title": "Silk Road",
+  "starring": [
+    "Jason Clarke",
+    "Nick Robinson"
+  ],
+  "runtime": 116,
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "description": "Philosophical twenty-something Ross Ulbricht creates Silk Road, a dark net website that sells drugs, while DEA agent Rick Bowden goes undercover to bring him down.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg",
+  "categories": {
+    "plot": 3.1666666666666665,
+    "acting": 5.5,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "The actual story of the Silk Road is amazing and fantasticalThis film is an extremely poor execution. Really disappointing as there was so much content they could have worked with. Sadly the product is a poorly acted, poorly directed, rather boring movie."
+    },
+    {
+      "rating": "9",
+      "text": "Well done, was drawn in by the characters and felt the execution was satisfying. Loved that we weren't railed into feeling that one side was right or wrong, allows us to make our own decisions"
+    },
+    {
+      "rating": "6",
+      "text": "admirable[ ad-mer-uh-buhl ]adjectiveworthy of admiration; inspiring approval, reverence, or affection."
+    },
+    {
+      "rating": "2",
+      "text": "The Silk Road (film) fails to present the incredibly gripping story of the actual silk road to the audience. The makers of the film took innumerable wrong decisions and the result is a story that moves too fast to show the magnitude of the events they attempt to portray on screen. It comes off as arrogant and amateurish to modify the facts of the story for no real value to the movie plot. I recommend you skip the movie altogether and either read about the actual Silk Road or wait for a decent adaptation in the future."
+    },
+    {
+      "rating": "5",
+      "text": "Was not bad movie, but nothing impressive either, maybe couldve made it a bit more interesting"
+    },
+    {
+      "rating": "1",
+      "text": "This movie is missing damn near all of the things that made this story so compelling, taking the path of least resistance while leaving out some of the most influential people involved. Variety Jones is MIA\u2026who highly influenced everything from the hit on Green to the expansion of the site. Ross\u2019s travels to lay low are gone, even how he started everything from a dingy rented room growing mushrooms to get a small start on the drug inventory. Go read American Kingpin, and if reading is not your thing wait for something better to come out. People eat true crime up now days so you know it\u2019s coming."
+    }
+  ]
+}

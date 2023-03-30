@@ -1,0 +1,34 @@
+{
+  "id": 507,
+  "title": "Twist",
+  "starring": [
+    "Raff Law",
+    "Michael Caine"
+  ],
+  "runtime": 92,
+  "genre": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "description": "A Dickens classic brought thrillingly up to date in the teeming heartland of modern London, where a group of street smart young hustlers plan the heist of the century for the ultimate payday.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/7sXthW46RwmPBdacGHnhOzLv40d.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 9.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Subtle, gritty with excellent acting. I liked the low key but honest emotional story. Not Hollywood style - much better. Extraordinary considering the age of the writer/director."
+    }
+  ]
+}

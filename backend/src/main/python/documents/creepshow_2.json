@@ -1,0 +1,37 @@
+{
+  "id": 4570,
+  "title": "Creepshow 2",
+  "starring": [
+    "George Kennedy",
+    "Dorothy Lamour"
+  ],
+  "runtime": 92,
+  "genre": [
+    "Horror",
+    "Comedy"
+  ],
+  "description": "EC Comics-inspired weirdness returns with three tales. In the first, a wooden statue of a Native American comes to life to exact vengeance on the murderer of his elderly owners. In the second, four teens are stranded on a raft on a lake with a blob that is hungry. And in the third, a hit and run woman is terrorized by the hitchhiker she accidentally killed... or did she?",
+  "releaseYear": "1987",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/rfPwZFtqGHiOvfMhN00sNyO2Umb.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Abysmal directing, acting, and some of the worst cell-shaded animation I have ever seen."
+    },
+    {
+      "rating": "5",
+      "text": "Though not nearly as memorable as its predecessor, it's still a fun adaptation of some creative Stephen King short stories (particularly The Raft). When I saw it during its theatrical run, my parents got offended and made us leave about halfway through. So it was years later as an adult that I revisited it, and although it wasn't very scary, it had a few great lines and memorable scenes. \"Thanks for the ride, lady!\""
+    }
+  ]
+}

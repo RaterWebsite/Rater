@@ -1,0 +1,34 @@
+{
+  "id": 48,
+  "title": "Jurassic Hunt",
+  "starring": [
+    "Courtney Loggins",
+    "Ruben Pla"
+  ],
+  "runtime": 83,
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "description": "Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park \u2013 but the hunters quickly become the hunted. Even worse, the park\u2019s manager suspects Parker of being a spy and sends a hit squad after her. This battle\u2019s about to become primitive!",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/bZnOioDq1ldaxKfUoj3DenHU7mp.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 0.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Horrible, low budget, poorly written and poorly directed effort that should be lucky it even made it to post-production.I only watched it because I was bored and it was free and I regret my decision.My time would have been better spent watching my toenails grow, or watching the paint on the walls flake.Everyone involved in this movie should swear an oath to never work on another film ever again."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 3113,
+  "title": "Saludos Amigos",
+  "starring": [
+    "Fred Shields",
+    "Jos\u00e9 Oliveira"
+  ],
+  "runtime": 42,
+  "genre": [
+    "Animation",
+    "Family",
+    "Adventure"
+  ],
+  "description": "Live-action segments show members of the Disney staff touring South America and recording their impressions in sketches. These segue into four animated sections: \"Lake Titicaca\" depicts tourist Donald Duck's troubles with a stubborn llama; \"Pedro\" tells of a little mail plane's adventures flying over the treacherous Andes; \"El Gaucho Goofy\" transplants an American cowboy into the Argentine pampas; and in \"Aquarela do Brasil,\" Jose Carioca shows Donald the sights and sounds of Rio de Janiero.",
+  "releaseYear": "1942",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jiNSrKpgKdLXEUasOvNaCBgEner.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "i know this was made so mexico and the rest Latina america go Nazi gaga but still goofy as a vaquero is pretty good and Donald and Jose  have good chemistry the only bad thing just that if you look at it for to long it starts to become propaganda but still pretty good"
+    },
+    {
+      "rating": "6",
+      "text": "Es la pel\u00edcula m\u00e1s corta que haya visto; consiste en un conjuto de cortos animados que narran historias centradas en la cultura de varios pa\u00edses, la recomiendo si eres un fan de Disney."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": 124,
+  "id": 2126,
   "title": "The Thing",
   "starring": [
     "Kurt Russell",
@@ -20,10 +20,10 @@
     "acting": 7.1875,
     "ending": 7.636363636363637,
     "soundtrack": 7.0,
-    "cinematography": 4.0,
-    "familyFriendly": 6.25,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
     "funny": 8.0,
-    "action": 8.0
+    "action": 8.333333333333334
   },
   "reviews": [
     {

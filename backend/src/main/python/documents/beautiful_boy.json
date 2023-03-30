@@ -1,0 +1,40 @@
+{
+  "id": 2612,
+  "title": "Beautiful Boy",
+  "starring": [
+    "Steve Carell",
+    "Timoth\u00e9e Chalamet"
+  ],
+  "runtime": 121,
+  "genre": [
+    "Drama"
+  ],
+  "description": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 6.5,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Aside from the good acting by the leads in this film, The entire film is boring and lacks that emotional connection that should have been there. Its a poor job by the director for not making this film more real then what it should have been. Also I hated how the director was literally up close and personal in every shot."
+    },
+    {
+      "rating": "6",
+      "text": "Michael Sheen and Maria Bello both give notable performances as grief-stricken parents coping with the unthinkable. The premise is dark, relating to many tragedies such as this in recent years."
+    },
+    {
+      "rating": "8",
+      "text": "It can be hard to evaluate a film such as this. Its striking realism is both a gift and a curse: seeing its protagonists in their naturally empty and shell-shocked state for much of the film doesn't make for entertaining viewing - nonetheless its emotional scenes pack such a weighty punch, heightened by Sheen and Bello's terrific performances, you can truly feel their agony.While the fallout from the unconscionable number of tragedies that inspired this film tends to focus mainly on the perpetrator, then on the victims and their families, \"Beautiful Boy\" wisely forces its audience to think about the side of the story that is rarely heard."
+    }
+  ]
+}

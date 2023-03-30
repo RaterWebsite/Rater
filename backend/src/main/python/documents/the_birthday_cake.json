@@ -1,0 +1,45 @@
+{
+  "id": 4762,
+  "title": "The Birthday Cake",
+  "starring": [
+    "Shiloh Fernandez",
+    "Ewan McGregor"
+  ],
+  "runtime": 93,
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "description": "On the 10th anniversary of his father's death, Giovanni reluctantly accepts the task of bringing a cake to the home of his uncle, a mob boss, for a celebration. Just two hours into the night, Gio's life is forever changed.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/kI3lTv3f24Fzl2kD0sYVCvCOZh2.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 0.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Absolute dumpster fire. I don\u2019t think I\u2019ve ever hated the movie more than I\u2019ve hated this movie in my entire life. There is no plot, nothing ties together and to add insult to injury the ending sucks."
+    },
+    {
+      "rating": "8",
+      "text": "Very spirited film, accomplishes so much with a fraction of the budget of some huge bloated expensive movie."
+    },
+    {
+      "rating": "0",
+      "text": "This film went nowhere! You keep thinking and wondering what the hell is going to finally be revealed, only to get to the end without so much as a trace of a plot. Terrible and an absolute waste of time. Thoroughly disappointed."
+    },
+    {
+      "rating": "7",
+      "text": "Very enjoyable and tense thriller. I loved the tempo of the movie and the central character Gio was very well acted. It's no classic but it delivers as a well thought out and emotionally charged thriller. Kudos to Shiloh Fernandez. Some of the scores here are ridiculous, zero is not a score so don't listen to those experts, give this movie a go, worth the admission price!"
+    }
+  ]
+}

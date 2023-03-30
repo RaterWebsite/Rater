@@ -1,0 +1,31 @@
+{
+  "id": 4836,
+  "title": "Misha and the Wolves",
+  "starring": [
+    "Misha Defonseca"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Documentary"
+  ],
+  "description": "A woman\u2019s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/1wjefBDTCMnrij8fB472op30CjO.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "What starts as an intriguing premise for a documentary quickly turns into a run of the mill, predictable fare. The lack of the main protaganist also leaves a big hole in this movie."
+    }
+  ]
+}

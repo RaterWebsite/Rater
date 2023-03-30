@@ -1,0 +1,38 @@
+{
+  "id": 3124,
+  "title": "13 Minutes",
+  "starring": [
+    "Amy Smart",
+    "Thora Birch"
+  ],
+  "runtime": 109,
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "description": "As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/oKng4fEr4QgS869UuWLSjAsR2rz.jpg",
+  "categories": {
+    "plot": 6.75,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "The most important thing about this serviceable, high production value Nazi era movie is that it brings to light the  relatively unknown true story of Georg Elser, the first person who courageously attempted to assassinate Hitler in 1939. There are vivid scenes of small town Germany in the 1930s & the encroachment of Nazism into ordinary life - either welcome, passively accepted or reviled. The obligatory torture scenes of the protagonist by the Nazi officers are hard to watch but perhaps necessary. However, the directorial/screenplay choice to portray one of Esler's interrogators - the infamous Arthur Nebe (an Einstatzgruppe commander who oversaw mass murder, and who also plotted to kill Hitler late in the war) - as a relatively 'sympathetic' character compared to the side kick SS official, is both frustratingly disturbing in it's white washing of Nebe, but also questionable in its attempt to soften the stereotype of the merciless high ranking Nazi (who by all accounts was indeed, merciless). Because there are so many films about the Nazi era, I think it's difficult to execute a film that brings the events of the period to audiences in a new way. So despite the historical importance and gravitas of the story, the film presents a little too familiarly to be a groundbreaking take on the subject. Yet it's highly watchable and worth watching just to know the story of one ordinary person without any powerful forces behind him, single handedly attempting to sabotage Hitler's regime."
+    },
+    {
+      "rating": "6",
+      "text": "A decent enough telling of the true story of Georg Elser. A solid enough biopic that just seems to be playing it too safe."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": 113,
+  "id": 1073,
   "title": "Shutter Island",
   "starring": [
     "Leonardo DiCaprio",
@@ -14,16 +14,16 @@
   "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
   "releaseYear": "2010",
   "mpaaRating": "R",
-  "imageUrl": "https://image.tmdb.org/t/p/w500/kve20tXwUZpu4GUX8l6X7Z4jmL6.jpg",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
   "categories": {
-    "plot": 8.277777777777779,
+    "plot": 8.31578947368421,
     "acting": 7.136363636363637,
-    "ending": 7.470588235294118,
+    "ending": 7.739130434782608,
     "soundtrack": 6.25,
     "cinematography": 6.666666666666667,
-    "familyFriendly": 4.0,
-    "funny": 4.0,
-    "action": 8.2
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.555555555555555
   },
   "reviews": [
     {
@@ -93,6 +93,10 @@
     {
       "rating": "9",
       "text": "In this film, two American police officers try to solve a crime that occurred in a prison insane asylum, isolated on an island full of mysteries. Directed by Scorcese, it is carried out by an excellent Leonardo DiCaprio, always impeccable in his character, deep and complex. Ben Kingsley also did a great job as the prison director. Mark Ruffalo was fine, but his character is almost erased by the brilliance of his colleagues. Max von Sydow makes a short appearance, but in an intense and striking character.The script is at least intelligent and provocative. He cleverly uses period elements, makes an unexpected but well-exploited connection to the drama of the Nazi death camps, the traumas of war, and the suffering that was felt in the early psychiatric hospitals. In fact, it is not by chance that most of them still have the reputation of being haunted, whether they are ruined or still in use. The psychiatric therapies used in this period, though they seemed absolutely barbarous to us, were the best at that time and contributed greatly to the better understanding of this field of medicine. Despite this, the movie is full of mysteries, unanswered questions or answers hidden in small details. Therefore, watch closely. If you blink, you may miss something decisive to understand the movie. The ending seemed disconcerting, but it made perfect sense. Cinematography makes an excellent introduction into the movie environment, which is pure mystery and suspense. It is dark, gray, misty, directing us to all the dark secrets that the island supposedly seems to hide. The soundtrack cleverly helps, as well as the shooting scenarios and locations, meticulously thought out to fit in history and historical time.A ambiguous movie full of mysteries, that never answers all our questions but requires a lot of attention and perhaps more than a visualization to understand. It certainly will not please all people but fans of DiCaprio, Scorcese and thriller movies will be very pleased with the result."
+    },
+    {
+      "rating": "9",
+      "text": "Pacing, content, acting, cinematography. This film has it all. There are very few flaws, if any, in this film. Ideal films should act like a dream, where the viewer is pulled from the world in which they exist and completely trans fixed with the fictional world in which they find themselves. Shutter Island does just that. Someone who is actively watching this movie will find themselves engrossed in the story and invested in the advancement of the plot. As far as the genre of psychological thrillers goes, this is just about as good as it gets. I will always recommend this movie to lovers of cinema."
     },
     {
       "rating": "9",
@@ -221,10 +225,6 @@
     {
       "rating": "10",
       "text": "Loved this movie!! I love movies that are unpredictable, and this was as good as it gets. Thank you!!!"
-    },
-    {
-      "rating": "9",
-      "text": "BRILLIANT!"
     }
   ]
 }
