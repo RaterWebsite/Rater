@@ -4,6 +4,11 @@ FROM maven:3.8.4-jdk-8 AS builder
 # Set working directory
 WORKDIR /app
 
+# Copy the movie documents into the final container
+COPY src/main/python/documents/ /app/documents/
+COPY src/main/resources/static/es-settings.json /app/resources/es-settings.json
+COPY src/main/resources/static/mappings/movie.json /app/resources/movie.json
+
 # Copy the source code and pom.xml file to the container
 COPY src /app/src
 COPY pom.xml /app/pom.xml
@@ -20,9 +25,6 @@ WORKDIR /app
 # Copy the executable JAR file to the final container from the builder image
 COPY --from=builder /app/target/backend-0.0.1-SNAPSHOT.jar /app/backend.jar
 
-# Copy the movie documents into the final container
-COPY src/main/python/documents/ /app/documents/
-COPY src/main/resources/static/es-settings.json /app/resources/es-settings.json
 
 EXPOSE 9187
 

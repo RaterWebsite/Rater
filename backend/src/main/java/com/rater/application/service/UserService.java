@@ -1,6 +1,8 @@
 package com.rater.application.service;
 
 
+import java.sql.SQLException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -16,7 +18,7 @@ public class UserService {
     @Autowired
     public UserService() {
         this.userDB = new UserDatabase();
-        //userDB.connectToDB();
+        userDB.connectToDB();
         //userDB.createTables();
         
     }
@@ -41,5 +43,15 @@ public class UserService {
 
     public void updateReview(Review review) {
         this.userDB.updateRecord(review);
+    }
+
+    public String getDBInfo() {
+        try {
+            return "Database metadata: \n" + this.userDB.dbConn.getMetaData();
+        } catch(SQLException e) {
+            System.out.println(e);
+            return null;
+        }
+        
     }
 }

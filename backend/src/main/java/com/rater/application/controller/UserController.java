@@ -54,5 +54,10 @@ public class UserController {
         service.updateReview(review);
     }
 
+    @GetMapping("/getDBInfo")
+    public String getDBInfo() {
+        return service.getDBInfo();
+    }
+
 
 }

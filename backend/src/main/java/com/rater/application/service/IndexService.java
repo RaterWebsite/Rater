@@ -40,7 +40,7 @@ public class IndexService {
     }
 
     public void recreateIndices(final boolean deleteExisting) {
-        final String settings = Util.loadAsString("app/resources/es-settings.json");
+        final String settings = Util.loadAsString("/app/resources/es-settings.json");
 
         if (settings == null) {
             LOG.error("Failed to load index settings");
@@ -74,7 +74,7 @@ public class IndexService {
     }
 
     private String loadMappings(String indexName) {
-        final String mappings = Util.loadAsString("static/mappings/" + indexName + ".json");
+        final String mappings = Util.loadAsString("/app/resources/movie.json");
         if (mappings == null) {
             LOG.error("Failed to load mappings for index with name '{}'", indexName);
             return null;

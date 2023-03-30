@@ -14,7 +14,7 @@ import com.rater.application.model.User;
 
 public class UserDatabase implements ApplicationDatabase {
 
-    private Connection dbConn;
+    public Connection dbConn;
 
     @Value("${spring.datasource.url}")
     private String dbUrl;
@@ -32,11 +32,14 @@ public class UserDatabase implements ApplicationDatabase {
     public void connectToDB() {
         String DB_URL = "jdbc:mysql://localhost/USERS";
         String USER = "root";
-        String pass = "pass";
+        String PASS = "pass";
+        String dockerUrl = "jdbc:mysql://db:9201/USERS";
         try {
-            this.dbConn = DriverManager.getConnection(DB_URL, USER, pass);
+            this.dbConn = DriverManager.getConnection(dockerUrl, USER, PASS);
             String sql = "CREATE DATABASE USERS";
             Statement stmt = dbConn.createStatement();
+            System.out.println("HERE IS THE METADATA FOR THE DATABASE");
+            System.out.println(dbConn.getMetaData());
             //stmt.executeUpdate(sql);
         } catch (SQLException e) {
             System.out.println(e);
