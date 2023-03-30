@@ -1,0 +1,33 @@
+{
+  "id": 4378,
+  "title": "Black Water",
+  "starring": [
+    "Jean-Claude Van Damme",
+    "Dolph Lundgren"
+  ],
+  "runtime": 105,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "A deep cover operative awakens to find himself imprisoned on a submarine. With the help of a fellow prisoner and an amateur agent, he must race against the clock to escape the vessel and expose who set him up.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 5.0,
+    "ending": 7.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "This action flick was somewhat better than I expected, with all the poor reviews it has received. Jean-Claude Van Damme stars as a veteran CIA agent who is taken to a Black Site, which is a retrofitted former Navy sub, when he is thought to have changed sides. He will have to try and escape teaming with a new agent (Jasmine Waltz). They'll be plenty of surprises and double-crosses along the way. Dolph Lundgren has more of a secondary role, but does appear more often in the final third of the movie. Overall, some of the plot elements here are very non-believable but the film kept me engaged and I would say it's not a great movie but certainly watchable."
+    }
+  ]
+}

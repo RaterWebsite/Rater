@@ -1,0 +1,34 @@
+{
+  "id": 2759,
+  "title": "The Mule",
+  "starring": [
+    "Clint Eastwood",
+    "Bradley Cooper"
+  ],
+  "runtime": 116,
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "description": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/klazQbxk3yfuZ8JcfO9jdKOZQJ7.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "You know this is a typical Clint Eastwood movie, with a lot of human drama. What I didn't understand was, that the DEA had such an effort only to catch the driver (?!). This doesnt' make sense in any way if you catch only a 90 years old driver instead of the whole cartel. wtf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4362,
+  "title": "Presumed Innocent",
+  "starring": [
+    "Harrison Ford",
+    "Brian Dennehy"
+  ],
+  "runtime": 127,
+  "genre": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "description": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+  "releaseYear": "1990",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 7.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "+Fantastic cast+Great cinematography+Memorable Soundtrack from John Williams+Interesting legal/political setting-Dialogue felt stilted at timesAn entertaining movie particularly for fans of the courtroom drama type of setting. The screenplay felt a bit off and in some areas felt unnatural. Excellent cinematography, cast and soundtrack keep things moving along at an even pace. Overall a well made and entertaining film."
+    }
+  ]
+}

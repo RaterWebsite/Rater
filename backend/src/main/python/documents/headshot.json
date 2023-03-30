@@ -1,0 +1,34 @@
+{
+  "id": 3319,
+  "title": "Headshot",
+  "starring": [
+    "Iko Uwais",
+    "Chelsea Islan"
+  ],
+  "runtime": 117,
+  "genre": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "description": "A young man washes ashore, his memory gone - but his past comes back to haunt him after he is nursed back to health and his killing ability is needed when he takes on a powerful drug lord.",
+  "releaseYear": "2016",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dpdmO3PNKwCOzf68y8J4Gu19i3r.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "One of the most underestimated Thai films. There are certain logical flaws and some parts too perfect to be true,still, it's an outstanding movie. I don't reckon the police himself is looking for some sort redemption, but, rather sacrificing himself to let justice prevail,and this belief let him down into the pitfall."
+    }
+  ]
+}

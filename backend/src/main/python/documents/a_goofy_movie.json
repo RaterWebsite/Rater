@@ -1,0 +1,36 @@
+{
+  "id": 3123,
+  "title": "A Goofy Movie",
+  "starring": [
+    "Bill Farmer",
+    "Jason Marsden"
+  ],
+  "runtime": 78,
+  "genre": [
+    "Romance",
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "description": "Though Goofy always means well, his amiable cluelessness and klutzy pratfalls regularly embarrass his awkward adolescent son, Max. When Max's lighthearted prank on his high-school principal finally gets his longtime crush, Roxanne, to notice him, he asks her on a date. Max's trouble at school convinces Goofy that he and the boy need to bond over a cross-country fishing trip like the one he took with his dad when he was Max's age, which throws a kink in his son's plans to impress Roxanne.",
+  "releaseYear": "1995",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Great movie classic, and great message.  Critics are so freaking pretentious and can\u2019t understand the real message of the movie"
+    }
+  ]
+}

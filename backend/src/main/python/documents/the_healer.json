@@ -1,0 +1,38 @@
+{
+  "id": 4075,
+  "title": "The Healer",
+  "starring": [
+    "Oliver Jackson-Cohen",
+    "Camilla Luddington"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Family",
+    "Drama",
+    "Comedy"
+  ],
+  "description": "The film follows a man with an unwanted gift for healing who meets a teenager with cancer who helps him to find himself.",
+  "releaseYear": "2017",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mwBsg7cFE7GwDPKP4Pv26w2Txmp.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "This movie gave me a headache, it's the most far fetched half assed movie I've ever seen. Would definitely not recommend !!!"
+    },
+    {
+      "rating": "9",
+      "text": "I really loved this film. It arrived at a spiritually significant time for me. It\u2019s a movie about grace and redemption. Maybe you\u2019ll like it as much as I did! By the way, I am not conventionally religious. Also , I am not a sap."
+    }
+  ]
+}

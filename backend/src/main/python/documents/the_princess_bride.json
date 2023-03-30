@@ -1,5 +1,5 @@
 {
-  "id": 328,
+  "id": 3597,
   "title": "The Princess Bride",
   "starring": [
     "Cary Elwes",
@@ -20,12 +20,12 @@
   "categories": {
     "plot": 8.323529411764707,
     "acting": 7.523809523809524,
-    "ending": 9.333333333333334,
+    "ending": 9.6,
     "soundtrack": 5.0,
     "cinematography": 5.0,
     "familyFriendly": 8.0,
-    "funny": 8.666666666666666,
-    "action": 8.75
+    "funny": 8.56,
+    "action": 9.0
   },
   "reviews": [
     {

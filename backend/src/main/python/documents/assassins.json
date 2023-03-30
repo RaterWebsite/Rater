@@ -1,0 +1,32 @@
+{
+  "id": 3831,
+  "title": "Assassins",
+  "starring": [
+    "Siti Aisyah",
+    "Doan Thi Huong"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Documentary"
+  ],
+  "description": "True crime meets global spy thriller in this gripping account of the assassination of Kim Jong-nam, the half brother of the North Korean leader. The film follows the trial of the two female assassins, probing the question: were the women trained killers or innocent pawns of North Korea?",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/guEH393qNWWh2wBJoGP7oqmjTK5.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "This is an intrguing documentary. I remember hearing the story in the news a few years ago and certainly Korea (esp. North Korea) is well known for being incredibly secretive as far as their royalty and government is concerned. Its a good, solid documentary. I felt it was interesting in terms of the media/press perspectives, the way the legal case developed and so on. If your interested in the story or North Korea in general, then I'd recommend this documentary, yes."
+    }
+  ]
+}

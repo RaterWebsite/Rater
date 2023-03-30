@@ -1,0 +1,37 @@
+{
+  "id": 1008,
+  "title": "Bingo Hell",
+  "starring": [
+    "Adriana Barraza",
+    "L. Scott Caldwell"
+  ],
+  "runtime": 85,
+  "genre": [
+    "Thriller",
+    "Horror"
+  ],
+  "description": "In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/86VKuiaox9eVJTETel0ld7XZtiO.jpg",
+  "categories": {
+    "plot": 4.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "The problem with Bingo Hell, and Black as Night, is that their very structure and production make them feel like movies that can barely stand on their own.Both films are the latest releases of the more than mediocre ''horror'' anthology: Welcome to the Blumhouse.These two movies, especially Bingo Hell, look like movies straight out of a TV show with the quality of series like Goosebumps or Are You Afraid of the Dark?That's how simplistic they are.Of course, they have more budget, but they're still cheap and disposable.This one also has themes rooted in poverty, racial and neighborhood issues, but there's very little to save from them.After all, they are parts of the story, but not the important thing about it."
+    },
+    {
+      "rating": "6",
+      "text": "Community of old folks have their bingo hall bought over by an evil force that kills them when they win the big prizes."
+    }
+  ]
+}

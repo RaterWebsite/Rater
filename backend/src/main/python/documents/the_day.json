@@ -1,0 +1,35 @@
+{
+  "id": 1307,
+  "title": "The Day",
+  "starring": [
+    "Shawn Ashmore",
+    "Ashley Bell"
+  ],
+  "runtime": 85,
+  "genre": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Science Fiction"
+  ],
+  "description": "Open war against humanity rages. For five survivors \u2013 lost and on the run \u2013 the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.",
+  "releaseYear": "2011",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/zNFCkFmgI4Dnv3UpC0lLM7jWhYU.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 8.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "This was a nice little surprise of a film as it started very slow and was not attracting my interest but when the action kicked into gear and the audience finally learnt about what's really going on then it never lost my attention! Acting was decent as were the characters, but the general concept and events of the film were what made it so interesting! There were also some nice little surprises along the way that you won't see coming, especially like the first kill! Overall a solid film!"
+    }
+  ]
+}

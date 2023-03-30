@@ -1,0 +1,44 @@
+{
+  "id": 2755,
+  "title": "The Intruder",
+  "starring": [
+    "Michael Ealy",
+    "Joseph Sikora"
+  ],
+  "runtime": 102,
+  "genre": [
+    "Thriller"
+  ],
+  "description": "A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg",
+  "categories": {
+    "plot": 9.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 8.5,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "If you crave any sort of narrative thread, certainty, or literal message this film wil probably annoy you. If, instead, you surrender to Denis' fascinating storytelling, allow the gorgeous cinematography to saturate you and cherish the gaps in understanding that give the film its meaning then you'll emerge from viewing this as one does after falling fully clothed into a river with an erratic and often powerful current: grateful, disturbed and breathless. Life, like \"The Intruder,\" isn't Cartesian. Get over it and get with it."
+    },
+    {
+      "rating": "8",
+      "text": "Possibly Denis' most eliptical film, and that's saying something. It's clearly not for everybody. But it's captivating even when it doesn't make conventional \"sense.\" It's more like a death-dream, really. And Agnes Godard's cinematography is succulent as usual. A fine farewell to the late, great Wellspring."
+    },
+    {
+      "rating": "1",
+      "text": "This is the second worst international film I have ever seen. The worst one was \"Tequila 5\" Incredibly erratic and baffling plot. Continuity errors in many scenes, lack of logic with unexplained disjointed violent scenes. This is one of those movies that \"enligthened\" snobs will advertise as poetic or surrealist, but I just see that the Emperor has no clothes."
+    },
+    {
+      "rating": "9",
+      "text": "No one makes visual poetry better than Claire Denis. This movie has same slow pacing and gorgeous photography as Beau Travail, but with an even more elusive plot and even less dialogue. Give yourself over to it and you'll be rewarded with ecstacy."
+    }
+  ]
+}

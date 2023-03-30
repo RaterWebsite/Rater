@@ -1,0 +1,43 @@
+{
+  "id": 1356,
+  "title": "Abominable",
+  "starring": [
+    "Chloe Bennet",
+    "Albert Tsai"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "description": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "This movie was worse than the reviews said, if thats possible."
+    },
+    {
+      "rating": "1",
+      "text": "This movie is very painful. Everything was wrong. The director is obviously either new to the industry or just sucks in general."
+    },
+    {
+      "rating": "10",
+      "text": "this is a combination of Rear Window and Sasquatch, just a great movie."
+    }
+  ]
+}

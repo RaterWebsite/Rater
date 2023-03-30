@@ -1,0 +1,33 @@
+{
+  "id": 114,
+  "title": "Trigger Point",
+  "starring": [
+    "Barry Pepper",
+    "Laura Vandervoort"
+  ],
+  "runtime": 82,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "Nicolas Shaw is a retired U.S. special operative who becomes part of an elite 'invisible' team that quietly takes out the worst villains around the world.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "Who said that Barry Pepper can't get into these kinds of movies?It doesn't work but he did his job."
+    }
+  ]
+}

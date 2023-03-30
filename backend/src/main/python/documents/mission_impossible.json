@@ -1,5 +1,5 @@
 {
-  "id": 340,
+  "id": 2765,
   "title": "Mission: Impossible",
   "starring": [
     "Tom Cruise",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 7.066666666666666,
     "acting": 7.037037037037037,
-    "ending": 7.076923076923077,
+    "ending": 6.642857142857143,
     "soundtrack": 7.666666666666667,
     "cinematography": 8.0,
     "familyFriendly": 6.0,
-    "funny": 6.666666666666667,
-    "action": 7.090909090909091
+    "funny": 7.0,
+    "action": 7.0
   },
   "reviews": [
     {

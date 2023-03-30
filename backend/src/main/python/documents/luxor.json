@@ -1,0 +1,37 @@
+{
+  "id": 2289,
+  "title": "Luxor",
+  "starring": [
+    "Andrea Riseborough",
+    "Karim Saleh"
+  ],
+  "runtime": 85,
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "description": "When British aid worker Hana returns to Luxor, a sleepy city on the banks of the Nile, she comes across Sultan, a talented archeologist and former lover. As she wanders, haunted by the familiar place, she struggles to reconcile the choices of the past with the uncertainty of the present.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/cCsC9M49KB2x7VtcO7hK8UlXeCo.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Less than OK is this small intimate film that meanders and doesn't go anywhere."
+    },
+    {
+      "rating": "6",
+      "text": "This lady feels trauma from performing surgery on Syrians, so she goes back to Luxor and hooks up with some guys. 6/10"
+    }
+  ]
+}

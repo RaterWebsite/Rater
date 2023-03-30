@@ -1,0 +1,41 @@
+{
+  "id": 43,
+  "title": "Rogue Hostage",
+  "starring": [
+    "Tyrese Gibson",
+    "John Malkovich"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "A former Marine races against time to save a group of hostages -- including his young daughter and a congressman \u2014 when armed militants take over his stepfather's store.",
+  "releaseYear": "2021",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ePYagdzUwKpzTP73n9CD3D1MFn.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 3.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."
+    },
+    {
+      "rating": "1",
+      "text": "This movie is just plain boring. It's poorly written & directed & while it has a few well known actors in it, it doesn't help the movie at all. I figured it was going to be pretty terrible when I never heard of it & it came out last summer."
+    },
+    {
+      "rating": "5",
+      "text": "This is a low budget made-for-TV type action movie. It is certainly watchable, as long as you can ignore lots of \"they would never do that\" plot conveniences. Tyrese Gibson is excellent as the lead, I would watch more of his movies, and John Malkovich is as good as ever. The lady actor in the red dress should stop \"acting\" immediately. I found it entertaining enough, with a bit better screenplay it could have been excellent for a low budget movie."
+    }
+  ]
+}

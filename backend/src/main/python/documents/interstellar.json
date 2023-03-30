@@ -1,5 +1,5 @@
 {
-  "id": 347,
+  "id": 297,
   "title": "Interstellar",
   "starring": [
     "Matthew McConaughey",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 6.389830508474576,
     "acting": 6.076923076923077,
-    "ending": 5.7727272727272725,
+    "ending": 5.888888888888889,
     "soundtrack": 4.8,
     "cinematography": 5.0,
     "familyFriendly": 5.8,
-    "funny": 5.666666666666667,
-    "action": 6.5
+    "funny": 4.25,
+    "action": 6.166666666666667
   },
   "reviews": [
     {

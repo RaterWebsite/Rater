@@ -20,7 +20,7 @@ if __name__=="__main__":
     step = 250
     for i in range(0, len(titles), step):
         sublist = titles[i:i+step]
-        movies = collect(sublist, i * step + i) # '+ i' paranoid for repeating id's
+        movies = collect(sublist, i + 1) # '+ 1' paranoid for repeating id's
         print("Analyzing...")
         for movie in movies:
             movie.categories = analyze(movie.reviews)

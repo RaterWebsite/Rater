@@ -1,5 +1,5 @@
 {
-  "id": 308,
+  "id": 1828,
   "title": "Rocky",
   "starring": [
     "Sylvester Stallone",
@@ -17,12 +17,12 @@
   "categories": {
     "plot": 8.952380952380953,
     "acting": 8.71875,
-    "ending": 8.8,
+    "ending": 8.818181818181818,
     "soundtrack": 8.5,
     "cinematography": 8.0,
     "familyFriendly": 8.0,
-    "funny": 9.333333333333334,
-    "action": 9.1875
+    "funny": 9.25,
+    "action": 9.235294117647058
   },
   "reviews": [
     {

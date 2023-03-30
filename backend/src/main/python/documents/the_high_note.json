@@ -1,0 +1,39 @@
+{
+  "id": 4844,
+  "title": "The High Note",
+  "starring": [
+    "Dakota Johnson",
+    "Tracee Ellis Ross"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Romance",
+    "Comedy",
+    "Music",
+    "Drama"
+  ],
+  "description": "Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace\u2019s overworked personal assistant who\u2019s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace\u2019s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.",
+  "releaseYear": "2020",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/yHsu8swJSgqDrsPiu7adBjOPLlp.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 6.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Perfectly easy-breezy whatever fluff. Dakota Johnson still charming in anything that isn\u2019t the \u201c50 Shades\u201d movies..."
+    },
+    {
+      "rating": "6",
+      "text": "Because of the poor marketing I really thought this was going to suck pretty bad but it was actually quite decent.It lacked a bit more solidity and also better music but personally I didn't see it as a boring experience."
+    }
+  ]
+}

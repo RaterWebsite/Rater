@@ -1,0 +1,42 @@
+{
+  "id": 68,
+  "title": "LEGO Star Wars Terrifying Tales",
+  "starring": [
+    "Jake Green",
+    "Raphael Alejandro"
+  ],
+  "runtime": 45,
+  "genre": [
+    "Animation",
+    "Family",
+    "Science Fiction",
+    "Comedy",
+    "Action",
+    "Horror",
+    "TV Movie"
+  ],
+  "description": "Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader\u2019s castle and is renovating it into the galaxy\u2019s first all-inclusive Sith-inspired luxury hotel.",
+  "releaseYear": "2021",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 8.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "\"Lego Star Wars Terrifying Tales\" (10/1/21, 45-min, Dis+) is a cute, often humorous addition to the Lego Star Wars franchise. The pacing is quick, entertaining and the voicing is really good, too, with the quickly recognizable Dana Snyder as Graballa the Hutt. IIRC, the various \"tales\"  aren't so much separate like an anthology but different chapters of the story."
+    },
+    {
+      "rating": "7",
+      "text": "Ca\u0142kiem zabawna i interesuj\u0105ca pozycja w klimatach haloweenowych dla m\u0142odszej widowni, z kilkoma skoczkami te\u017c dla starszych wyjadaczy. Przyjemnie si\u0119 ogl\u0105da\u0142o"
+    }
+  ]
+}

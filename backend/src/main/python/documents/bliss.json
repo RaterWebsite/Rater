@@ -1,0 +1,38 @@
+{
+  "id": 2334,
+  "title": "Bliss",
+  "starring": [
+    "Owen Wilson",
+    "Salma Hayek"
+  ],
+  "runtime": 103,
+  "genre": [
+    "Science Fiction",
+    "Romance",
+    "Drama"
+  ],
+  "description": "A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel\u2019s wild conspiracy.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 9.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Excellent movie. Highly recommended. Great story, gripping main character, excellent acting and beautiful scenery. One of those movies that you have no idea if it's heading towards heartbreaking tragedy or poetic justice."
+    },
+    {
+      "rating": "10",
+      "text": "Best movie I have seen in a long time. Beautifully acted and photographed. A love story. Shows the internal conflicts of people adapting to new opportunities. Puts abstract values we take for granted into a context where we can see their personal importance with renewed clarity."
+    }
+  ]
+}

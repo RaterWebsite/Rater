@@ -19,7 +19,7 @@ def collect(titles=None, offset=0):
                 movie_data.id = id
                 movie_data.reviews = reviews
                 movies.append(movie_data)
-                print(f"{idx + offset + 1}/{len(titles)}", end="\r")
+                print(f"{idx + 1}/{len(titles)}", end="\r")
         except Exception: pass # This is a pretty bad idea
     print(f"\nSuccesfully scraped {id} movies.")
     return movies
