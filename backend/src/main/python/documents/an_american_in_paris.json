@@ -1,0 +1,38 @@
+{
+  "id": 297,
+  "title": "An American in Paris",
+  "starring": [
+    "Gene Kelly",
+    "Leslie Caron"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "description": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+  "releaseYear": "1951",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 10.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "As a whole,  this musical has fits and starts.  But the sole reason to see this movie is the finale, an 18 minute ballet to the title Gershwin classic. Wow.  A stunning mindblower of color, choreography, grace, wit,  and fun."
+    },
+    {
+      "rating": "10",
+      "text": "The finale of this film is magnificent! The final scene of La La Land is affected by it! This is not the whole story. There is a whole lot of big and small ideas that can keep you entertained."
+    }
+  ]
+}

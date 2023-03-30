@@ -1,5 +1,5 @@
 {
-  "id": 71,
+  "id": 265,
   "title": "Return of the Jedi",
   "starring": [
     "Mark Hamill",
@@ -19,9 +19,9 @@
     "plot": 8.586206896551724,
     "acting": 8.84,
     "ending": 8.545454545454545,
-    "soundtrack": 4.0,
-    "cinematography": 4.0,
-    "familyFriendly": 8.5,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 8.0,
     "funny": 8.0,
     "action": 7.909090909090909
   },

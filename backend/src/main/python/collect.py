@@ -4,10 +4,10 @@ from scrape_imdb import getMovieTitles
 from api_themoviedb import getMovieData
 from scrape_metacritic import getMovieReviews
 
-def collect():
-    titles = getMovieTitles()
+def collect(titles=None, offset=0):
+    titles = titles or getMovieTitles()
     movies = list()
-    id = 0
+    id = offset
     print(f"Collecting data for {len(titles)} movies.")
     for idx, title in enumerate(titles):
         sleep(.125)
@@ -19,7 +19,7 @@ def collect():
                 movie_data.id = id
                 movie_data.reviews = reviews
                 movies.append(movie_data)
-                print(f"{idx + 1}/{len(titles)}", end="\r")
+                print(f"{idx + offset + 1}/{len(titles)}", end="\r")
         except Exception: pass # This is a pretty bad idea
     print(f"\nSuccesfully scraped {id} movies.")
     return movies

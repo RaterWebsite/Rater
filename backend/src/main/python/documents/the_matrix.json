@@ -1,5 +1,5 @@
 {
-  "id": 14,
+  "id": 261,
   "title": "The Matrix",
   "starring": [
     "Keanu Reeves",
@@ -15,12 +15,12 @@
   "mpaaRating": "R",
   "imageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
   "categories": {
-    "plot": 9.484848484848484,
+    "plot": 9.470588235294118,
     "acting": 9.363636363636363,
     "ending": 9.0,
-    "soundtrack": 9.333333333333334,
+    "soundtrack": 9.25,
     "cinematography": 10.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 3.0,
     "funny": 9.666666666666666,
     "action": 9.566666666666666
   },
@@ -92,6 +92,10 @@
     {
       "rating": "9",
       "text": "The movie gets me through the holidays. Makes me feel like it's a new movie every single time. Excellent special effect (iconic, in fact) and is the best example of \"thinking outside of the box\" with regard to movies."
+    },
+    {
+      "rating": "9",
+      "text": "The Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. The action scenes are also excellent and the soundtrack doesn't even need to be explained how masterful it is. This is a MUST-SEE movie."
     },
     {
       "rating": "9",
@@ -187,6 +191,10 @@
     },
     {
       "rating": "9",
+      "text": "Not only this movie is a kind of a solid element among the classics of sci-fi genre and considered a must-see for a lot of reasons, what I can agree with is that this movie is to make you think, even when it's been a whole while after you seen it; this will stay in your head. It is the topic, the idea, yeah, I call it philosophy behind THE MATRIX. That one thought everything we call our \"reality\" could for real be fake, nothing more than a simulation being projected into our heads is at the same time insanely fascinating and extraordinary frightening.It's a thesis already know to modern science and in the Matrix it's very well expressed, wrapped into an interesting fassade, which is obscure enough to make it exiting and clear enough to not get you lost in confusion. It's exciting, overwhelming and keeps you hooked until the ending. Also the visual effects, the music and certain scenarios are characteristic and will ever be associated with what The Matrix is. The only reason for me not rating it all 10 points is that as a movie itself, when leaving the message and the idea behind it aside for a second, this was nothing to blow me off. There was nothing very much not being seen among elsewhere within the genre and the plot development isn't any special either. So as I said, if you are into philosophy, this is one of the movies to watch. For a genre enthusiast The Matrix is a solid expereince, which is worth watching, but probably not very astonishing."
+    },
+    {
+      "rating": "9",
       "text": "Truly a genre defining film. Exhilarating action, mind bending plot and amazing sfx. If you have ever played Deus Ex before watching this movie (like I did), you'll definitely get some of its vibes from it."
     },
     {
@@ -207,10 +215,6 @@
     },
     {
       "rating": "9",
-      "text": "The Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. The action scenes are also excellent and the soundtrack doesn't even need to be explained how masterful it is. This is a MUST-SEE movie."
-    },
-    {
-      "rating": "9",
       "text": "This film is the start of one of the greatest movie trilogy of all time, and the special effects make this movie awesome. (Along with Hugo Weaving as Agent Smith.)"
     },
     {
@@ -220,10 +224,6 @@
     {
       "rating": "10",
       "text": "Watching this in 2021 for a 1999 the special effects still impress me, and the cast and plot is the state of art"
-    },
-    {
-      "rating": "10",
-      "text": "I honestly believe this is the greatest sci-fi movie ever made, even better than 2001: A Space Odyssey."
     }
   ]
 }

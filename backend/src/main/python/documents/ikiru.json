@@ -14,14 +14,14 @@
   "mpaaRating": null,
   "imageUrl": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
   "categories": {
-    "plot": 4.0,
+    "plot": 5.0,
     "acting": 10.0,
     "ending": 10.0,
-    "soundtrack": 4.0,
-    "cinematography": 4.0,
-    "familyFriendly": 4.0,
-    "funny": 4.0,
-    "action": 4.0
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
   },
   "reviews": [
     {

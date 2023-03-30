@@ -7,7 +7,8 @@ search_url = 'https://api.themoviedb.org/3/search/movie'
 movie_url = 'https://api.themoviedb.org/3/movie/'
 
 # Set the API key
-api_key = 'StopStealingSecretesNerd'
+# api_key = 'StopStealingSecretesNerd'
+api_key = '8aecf38586cae0a3c247c9c685a49efc'
 
 def getMovieData(movie_title): 
     # Set the query parameters for the search endpoint

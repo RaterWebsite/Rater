@@ -1,5 +1,5 @@
 {
-  "id": 169,
+  "id": 170,
   "title": "Tokyo Story",
   "starring": [
     "Chish\u016b Ry\u016b",
@@ -16,12 +16,12 @@
   "categories": {
     "plot": 10.0,
     "acting": 10.0,
-    "ending": 4.0,
-    "soundtrack": 4.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
     "familyFriendly": 10.0,
-    "funny": 4.0,
-    "action": 4.0
+    "funny": 5.0,
+    "action": 5.0
   },
   "reviews": [
     {
@@ -59,6 +59,10 @@
     {
       "rating": "9",
       "text": "Tokyo Story is a beautiful work of art with a very important message, to pay attention to everyone, and in this film especially your parents. The film expresses that with showing an old couple visit their children, and you could think that it's not enough to base a film around but somehow Tokyo Story make it look so simple and deliver it so perfectly. That's one of the reasons that make this film so special. Another thing is how its made, the film is of course very old and the way of filming was sourly very different back then. The film is so casual and something other films don't tend to include or think about to include is well built-in in this film, and it's those little things which make it so special. I also think this film could not be made again the same way nor some other way then it did, it just so perfect with the time period, the culture, the characters, the atmosphere, etc. But the film still has so much reflection of the reality and maybe more than ever."
+    },
+    {
+      "rating": "10",
+      "text": "The greatest 02 hours: and 16 minutes ever!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
     }
   ]
 }

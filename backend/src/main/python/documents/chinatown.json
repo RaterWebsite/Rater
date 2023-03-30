@@ -1,5 +1,5 @@
 {
-  "id": 127,
+  "id": 302,
   "title": "Chinatown",
   "starring": [
     "Jack Nicholson",
@@ -15,14 +15,14 @@
   "description": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
   "releaseYear": "1974",
   "mpaaRating": "R",
-  "imageUrl": "https://image.tmdb.org/t/p/w500/7ljxmU9L0ugUvyyg0GBkFaarjEq.jpg",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
   "categories": {
     "plot": 9.363636363636363,
     "acting": 9.551724137931034,
     "ending": 8.833333333333334,
     "soundtrack": 9.2,
     "cinematography": 8.8,
-    "familyFriendly": 10.0,
+    "familyFriendly": 3.0,
     "funny": 8.0,
     "action": 10.0
   },

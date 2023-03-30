@@ -1,5 +1,5 @@
 {
-  "id": 118,
+  "id": 119,
   "title": "Monty Python and the Holy Grail",
   "starring": [
     "Graham Chapman",
@@ -14,16 +14,16 @@
   "description": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
   "releaseYear": "1975",
   "mpaaRating": "PG",
-  "imageUrl": "https://image.tmdb.org/t/p/w500/8AVb7tyxZRsbKJNOTJHQZl7JYWO.jpg",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg",
   "categories": {
     "plot": 9.8,
     "acting": 9.75,
     "ending": 8.5,
     "soundtrack": 9.0,
-    "cinematography": 4.0,
-    "familyFriendly": 4.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
     "funny": 9.203703703703704,
-    "action": 4.0
+    "action": 5.0
   },
   "reviews": [
     {

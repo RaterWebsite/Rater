@@ -1,5 +1,5 @@
 {
-  "id": 136,
+  "id": 137,
   "title": "Prisoners",
   "starring": [
     "Hugh Jackman",
@@ -19,9 +19,9 @@
     "plot": 8.886363636363637,
     "acting": 8.69811320754717,
     "ending": 8.523809523809524,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 8.75,
-    "familyFriendly": 8.333333333333334,
+    "familyFriendly": 3.0,
     "funny": 7.666666666666667,
     "action": 9.2
   },

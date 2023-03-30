@@ -1,5 +1,5 @@
 {
-  "id": 194,
+  "id": 195,
   "title": "Persona",
   "starring": [
     "Bibi Andersson",
@@ -15,12 +15,12 @@
   "imageUrl": "https://image.tmdb.org/t/p/w500/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
   "categories": {
     "plot": 10.0,
-    "acting": 8.777777777777779,
+    "acting": 8.5,
     "ending": 10.0,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
-    "familyFriendly": 4.0,
-    "funny": 4.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
     "action": 10.0
   },
   "reviews": [
@@ -51,6 +51,10 @@
     {
       "rating": "10",
       "text": "Brilliant acting. An existential and psychological study on who you are on the outside and inside..."
+    },
+    {
+      "rating": "6",
+      "text": "I'm going to keep this one simple. I have literally no clue what just happened. Good filmmaking and acting"
     }
   ]
 }

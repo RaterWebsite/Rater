@@ -1,5 +1,5 @@
 {
-  "id": 10,
+  "id": 260,
   "title": "Fight Club",
   "starring": [
     "Edward Norton",
@@ -21,7 +21,7 @@
     "ending": 9.909090909090908,
     "soundtrack": 10.0,
     "cinematography": 9.5,
-    "familyFriendly": 10.0,
+    "familyFriendly": 3.0,
     "funny": 10.0,
     "action": 9.285714285714286
   },

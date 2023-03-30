@@ -1,5 +1,5 @@
 {
-  "id": 88,
+  "id": 323,
   "title": "Up",
   "starring": [
     "Ed Asner",
@@ -15,13 +15,13 @@
   "description": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
   "releaseYear": "2009",
   "mpaaRating": "PG",
-  "imageUrl": "https://image.tmdb.org/t/p/w500/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
   "categories": {
     "plot": 9.242424242424242,
     "acting": 5.9375,
     "ending": 6.666666666666667,
-    "soundtrack": 4.0,
-    "cinematography": 4.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
     "familyFriendly": 7.555555555555555,
     "funny": 7.8,
     "action": 9.75

@@ -1,5 +1,5 @@
 {
-  "id": 53,
+  "id": 52,
   "title": "American Beauty",
   "starring": [
     "Kevin Spacey",
@@ -19,7 +19,7 @@
     "ending": 9.25,
     "soundtrack": 10.0,
     "cinematography": 9.75,
-    "familyFriendly": 9.75,
+    "familyFriendly": 3.0,
     "funny": 9.666666666666666,
     "action": 9.75
   },

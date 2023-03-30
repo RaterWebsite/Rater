@@ -1,5 +1,5 @@
 {
-  "id": 108,
+  "id": 109,
   "title": "Casino",
   "starring": [
     "Robert De Niro",
@@ -20,7 +20,7 @@
     "ending": 8.4,
     "soundtrack": 9.0,
     "cinematography": 9.428571428571429,
-    "familyFriendly": 8.75,
+    "familyFriendly": 3.0,
     "funny": 9.0,
     "action": 9.2
   },
@@ -79,6 +79,10 @@
     },
     {
       "rating": "10",
+      "text": "Scorsese's epic true story about how the mafia build Vegas, is as close to a perfect movie as I have ever seen! The story is just so good and you will be hard pressed to ever find a better pair of performances than the ones by Robert De Niro and Joe Pesci. I love this film, I loved it the first time I saw it, and I loved it the hundredth time I saw it. Casino follows a pair of gangsters who earned their reputations in Las Vegas in two very different ways. De Niro is Ace Rothstein, the man with the plan. He always made money, but since he was Jewish, he was never fully trusted. Pesci is of course, Nicky Santoro, the tough guy who says  seven thousand times, while doing things his own way. Everything about this movie is pure genius. It's on my top ten list and I suspect will always have its place."
+    },
+    {
+      "rating": "10",
       "text": "Best movies I've seen in this year is Looper and batman the dark knight rises  ,my all time favorite movie's are  The Godfather (1972) .Taxi Driver (1976).  Carrie (1976). Scarface (1983). GoodFellas (1990) . Raging Bull (1980) .Casino (1995) there masterpiece movies, what i don't like are the silly remakes why a new carrie movie ? this is the 4th movie carrie the made it's just stupid ,Sissy Spacek and Piper Laurie are absolutely perfect ,they both got Oscar nominations out of it, for God sake!"
     },
     {
@@ -92,10 +96,6 @@
     {
       "rating": "9",
       "text": "Fifteen years after its release, Casino remains one of Martin Scorcese's tightest and most focused films to date. The narrative flows beautifully, driven by misplaced trust, greed, and betrayal. The dialogue is sharp and delivered flawlessly by an absolutely brilliant cast. Robert de Niro gives what I consider to be his finest performance since Taxi Driver, absolutely nailing the role and outshining his co-stars. Joe Pesci also does well, and as usual he and de Niro have great on-screen chemistry. Despite being three hours long, every scene feels natural and necessary, with no real filler. While I don't consider it to be better than Goodfellas, it is still an incredible film in its own right."
-    },
-    {
-      "rating": "10",
-      "text": "Scorsese's epic true story about how the mafia build Vegas, is as close to a perfect movie as I have ever seen! The story is just so good and you will be hard pressed to ever find a better pair of performances than the ones by Robert De Niro and Joe Pesci. I love this film, I loved it the first time I saw it, and I loved it the hundredth time I saw it. Casino follows a pair of gangsters who earned their reputations in Las Vegas in two very different ways. De Niro is Ace Rothstein, the man with the plan. He always made money, but since he was Jewish, he was never fully trusted. Pesci is of course, Nicky Santoro, the tough guy who says  seven thousand times, while doing things his own way. Everything about this movie is pure genius. It's on my top ten list and I suspect will always have its place."
     },
     {
       "rating": "9",

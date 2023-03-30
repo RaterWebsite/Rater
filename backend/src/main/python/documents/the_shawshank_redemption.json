@@ -1,5 +1,5 @@
 {
-  "id": 1,
+  "id": 344,
   "title": "The Shawshank Redemption",
   "starring": [
     "Tim Robbins",
@@ -20,9 +20,9 @@
     "ending": 7.375,
     "soundtrack": 10.0,
     "cinematography": 9.666666666666666,
-    "familyFriendly": 4.0,
+    "familyFriendly": 3.0,
     "funny": 10.0,
-    "action": 4.0
+    "action": 5.0
   },
   "reviews": [
     {

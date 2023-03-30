@@ -1,5 +1,5 @@
 {
-  "id": 80,
+  "id": 301,
   "title": "A Clockwork Orange",
   "starring": [
     "Malcolm McDowell",
@@ -20,7 +20,7 @@
     "ending": 5.25,
     "soundtrack": 10.0,
     "cinematography": 0.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 3.0,
     "funny": 7.75,
     "action": 1.0
   },

@@ -1,5 +1,5 @@
 {
-  "id": 155,
+  "id": 158,
   "title": "The Third Man",
   "starring": [
     "Joseph Cotten",
@@ -18,10 +18,10 @@
     "plot": 7.5,
     "acting": 9.0,
     "ending": 8.0,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 8.0,
-    "familyFriendly": 7.0,
-    "funny": 4.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
     "action": 7.0
   },
   "reviews": [

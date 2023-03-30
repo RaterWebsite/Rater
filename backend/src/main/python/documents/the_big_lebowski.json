@@ -1,5 +1,5 @@
 {
-  "id": 168,
+  "id": 169,
   "title": "The Big Lebowski",
   "starring": [
     "Jeff Bridges",
@@ -20,7 +20,7 @@
     "ending": 10.0,
     "soundtrack": 10.0,
     "cinematography": 10.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 3.0,
     "funny": 9.5,
     "action": 9.333333333333334
   },

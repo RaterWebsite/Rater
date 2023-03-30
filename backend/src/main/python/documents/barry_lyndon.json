@@ -1,5 +1,5 @@
 {
-  "id": 156,
+  "id": 155,
   "title": "Barry Lyndon",
   "starring": [
     "Ryan O'Neal",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 7.3076923076923075,
     "acting": 6.909090909090909,
-    "ending": 4.0,
+    "ending": 5.0,
     "soundtrack": 7.0,
     "cinematography": 8.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 8.0,
     "funny": 10.0,
-    "action": 4.0
+    "action": 5.0
   },
   "reviews": [
     {

@@ -1,5 +1,5 @@
 {
-  "id": 190,
+  "id": 191,
   "title": "Cool Hand Luke",
   "starring": [
     "Paul Newman",
@@ -18,9 +18,9 @@
     "plot": 9.0,
     "acting": 10.0,
     "ending": 10.0,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 8.0,
     "funny": 9.5,
     "action": 6.0
   },

@@ -1,5 +1,5 @@
 {
-  "id": 42,
+  "id": 310,
   "title": "Apocalypse Now",
   "starring": [
     "Marlon Brando",
@@ -20,7 +20,7 @@
     "ending": 9.615384615384615,
     "soundtrack": 5.0,
     "cinematography": 9.666666666666666,
-    "familyFriendly": 7.0,
+    "familyFriendly": 3.0,
     "funny": 10.0,
     "action": 8.0
   },

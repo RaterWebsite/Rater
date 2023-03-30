@@ -1,5 +1,5 @@
 {
-  "id": 55,
+  "id": 54,
   "title": "The Dark Knight Rises",
   "starring": [
     "Christian Bale",
@@ -21,8 +21,8 @@
     "acting": 7.985074626865671,
     "ending": 7.7727272727272725,
     "soundtrack": 10.0,
-    "cinematography": 4.0,
-    "familyFriendly": 8.333333333333334,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
     "funny": 9.333333333333334,
     "action": 8.0
   },

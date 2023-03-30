@@ -1,5 +1,5 @@
 {
-  "id": 111,
+  "id": 112,
   "title": "Unforgiven",
   "starring": [
     "Clint Eastwood",
@@ -17,10 +17,10 @@
     "plot": 8.872340425531915,
     "acting": 8.857142857142858,
     "ending": 8.818181818181818,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 9.5,
-    "familyFriendly": 9.0,
-    "funny": 4.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
     "action": 9.142857142857142
   },
   "reviews": [
@@ -179,6 +179,10 @@
     {
       "rating": "8",
       "text": "\"Unforgiven\" may be one of the best (anti) western movies made in the last thirty years. As always, when Eastwood's films are in question, narrated story does not tell much, but the movie is in fact a powerful analysis of morale and hypocrisy of the old West, about \"killing or being killed\", about the difference between myth and history."
+    },
+    {
+      "rating": "9",
+      "text": "Eastwood deconstructs the myths of the Wild West in almost every scene, but it is never heavy handed."
     },
     {
       "rating": "8",
