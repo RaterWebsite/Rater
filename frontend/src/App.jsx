@@ -12,13 +12,34 @@ function App() {
           <img src="/logo.png" className="logo" alt="Rater logo" />
         </a>
       </div>
+      <div id="popup" className="popup">
+        <div className="popup-content">
+          <h2>Login</h2>
+          <label>
+            Username:
+          </label>
+          <input type="text" id="username-input"/>
+          <br></br>
+          <label>
+            Password:
+          </label>
+          <input type="password" id="password-input"/>
+          <br></br>
+          <button id="login-button">Login</button>
+        </div>
+        
+      </div>
       <h1>Rater</h1>
       <h2>Movie search</h2>
+      <div id='options-list'></div>
       <div id='button-list'></div>
 
       <div className="card">
         <p>
-          Click on tags that would like to see or enter in your own custom tags!
+          Click on tags that would like to see!
+        </p>
+        <p>
+          Drag sliders to how much weight you would like the tag to have (positive means more and negative means less weight)!
         </p>
         <div className="sidenav-off" id = "search-nav">
         </div>
@@ -69,33 +90,51 @@ function App() {
               .then(response => response.forEach((element) => { document.getElementById('items-list').appendChild(generateItem(element, inputs, weights)) }))
             }else {
               let element = {
-                  "id": "6",
-                  "title": "The Dark Knight",
-                  "starring": [
-                      "Christian Bale",
-                      "Michael Caine",
-                      "Heath Ledger"
-                  ],
-                  "runtime": 152,
-                  "genre": [
-                      "Superhero",
-                      "Action"
-                  ],
-                  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-                  "releaseYear": 2008,
-                  "rating": "PG-13",
-                  "image": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/the_dark_knight_key_art.jpg",
-                  "categories": {
-                      "plot": 8,
-                      "acting": 10,
-                      "ending": 7,
-                      "soundtrack": 10,
-                      "cinematography": 8,
-                      "familyFriendly": 5,
-                      "funny": 2,
-                      "action": 8
-                  }
+                "id": "69420",
+                "title": "Robocop",
+                "starring": [
+                    "Nancy Allen",
+                    "Peter Weller",
+                    "Stephen Boxwell"
+                ],
+                "runtime": 102,
+                "genre": [
+                    "Adventure",
+                    "Action",
+                    "Science Fiction"
+                ],
+                "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+                "releaseYear": 1987,
+                "mpaaRating": "R",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/RoboCop_%281987%29_theatrical_poster.jpg/220px-RoboCop_%281987%29_theatrical_poster.jpg",
+                "categories": {
+                    "plot": 0.0,
+                    "acting": 0.0,
+                    "ending": 0.0,
+                    "soundtrack": 0.0,
+                    "cinematography": 0.0,
+                    "familyFriendly": 0.0,
+                    "funny": 0.0,
+                    "action": 0.0
+                },
+                "reviews": [
+                    {
+                        "rating": 0,
+                        "text": "Hello class, we will not be got again!"
+                    },
+                    {
+                      "rating": 5,
+                      "text": "Hello class, we will not be got again!"
+                    },
+                    {
+                      "rating": 7,
+                      "text": "really long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long reviewreally long review"
+                    }
+                  
+                ]
                 }
+              document.getElementById('items-list').appendChild(generateItem(element, inputs, weights))
+              document.getElementById('items-list').appendChild(generateItem(element, inputs, weights))
               document.getElementById('items-list').appendChild(generateItem(element, inputs, weights))
 
             }
@@ -108,6 +147,7 @@ function App() {
         <div className="card" id="items-list">
 
         </div>
+        
       </div>
 
     </div>
