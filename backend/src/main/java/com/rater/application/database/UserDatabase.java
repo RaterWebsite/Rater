@@ -30,12 +30,13 @@ public class UserDatabase implements ApplicationDatabase {
     }
     
     public void connectToDB() {
-        String DB_URL = "jdbc:mysql://localhost/USERS";
+        String DB_URL = "jdbc:mysql://localhost/USERS"; //correct url if using mysql locally
         String USER = "root";
         String PASS = "pass";
-        String dockerUrl = "jdbc:mysql://db:9201/USERS";
+        String dockerUrl = "${spring.user_datasource.url}";
+        String test = "jdbc:mysql://db:3306/USERS";
         try {
-            this.dbConn = DriverManager.getConnection(dockerUrl, USER, PASS);
+            this.dbConn = DriverManager.getConnection(test, USER, PASS);
             String sql = "CREATE DATABASE USERS";
             Statement stmt = dbConn.createStatement();
             System.out.println("HERE IS THE METADATA FOR THE DATABASE");

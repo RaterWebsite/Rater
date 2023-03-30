@@ -19,7 +19,7 @@ public class UserService {
     public UserService() {
         this.userDB = new UserDatabase();
         userDB.connectToDB();
-        //userDB.createTables();
+        userDB.createTables();
         
     }
 
@@ -47,6 +47,8 @@ public class UserService {
 
     public String getDBInfo() {
         try {
+            this.userDB.connectToDB();
+            this.userDB.createTables();
             return "Database metadata: \n" + this.userDB.dbConn.getMetaData();
         } catch(SQLException e) {
             System.out.println(e);
