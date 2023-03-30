@@ -8,20 +8,24 @@ from analyze import analyze, capFamilyFriendly
 import csv
 
 def read_csv(filename):
-    with open(filename, "r") as fileIn:
-        csv_reader = csv.reader(fileIn, delimiter=',')
-        output = []
-        for row in csv_reader:
-            output.append(row[0])
-    return output
+    with open(filename, newline='', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        titles = [row['original_title'] for row in reader]
+    return titles
 
 if __name__=="__main__":
-    movies = collect()
-    movies.extend(collect(read_csv("movies.csv"), 250))
-    print("Analyzing...")
-    for movie in movies:
-        movie.categories = analyze(movie.reviews)
-        capFamilyFriendly(movie)
-    print("Serializing...")
-    serialize(movies)
+    titles = read_csv("LotOfMovies.csv")
+    # This sucker is huge idk if I have the RAM for that
+    # Break it up in chunks of 250
+    step = 250
+    for i in range(0, len(titles), step):
+        sublist = titles[i:i+step]
+        movies = collect(sublist, i * step + i) # '+ i' paranoid for repeating id's
+        print("Analyzing...")
+        for movie in movies:
+            movie.categories = analyze(movie.reviews)
+            capFamilyFriendly(movie)
+        print("Serializing...")
+        serialize(movies)
     print("Done.")
+    
