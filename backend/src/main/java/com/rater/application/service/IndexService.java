@@ -40,7 +40,7 @@ public class IndexService {
     }
 
     public void recreateIndices(final boolean deleteExisting) {
-        final String settings = Util.loadAsString("static/es-settings.json");
+        final String settings = Util.loadAsString("app/resources/es-settings.json");
 
         if (settings == null) {
             LOG.error("Failed to load index settings");

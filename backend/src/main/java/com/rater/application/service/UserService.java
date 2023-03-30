@@ -1,34 +1,45 @@
 package com.rater.application.service;
 
-import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.rater.application.database.UserDatabase;
+import com.rater.application.model.Review;
 import com.rater.application.model.User;
-import com.rater.application.repository.UserRepository;
 
 @Service
 public class UserService {
 
-    private final UserRepository repository;
+    private final UserDatabase userDB;
     
     @Autowired
-    public UserService(UserRepository repository) {
-        this.repository = repository;
+    public UserService() {
+        this.userDB = new UserDatabase();
+        //userDB.connectToDB();
+        //userDB.createTables();
+        
     }
 
-    public void saveUser(User user) {
-        repository.save(user);
+    public void createUser(User user) {
+        this.userDB.addRecord(user);
     }
 
     public User getUserByUsername(String username) {
-        Optional<User> user = repository.findById(username);
-        if (user.isPresent()) {
-            return user.get();
-        } else {
-            System.out.println("Couldn't find user with username: " + username);
-            return null;
-        }
+        User user = new User();
+        user.setUsername(username);
+        return (User)this.userDB.getRecord(user);
+    }
+
+    public void createReview(Review review) {
+        this.userDB.addRecord(review);
+    }
+
+    public Review getReview(Review review) {
+        return (Review)this.userDB.getRecord(review);
+    }
+
+    public void updateReview(Review review) {
+        this.userDB.updateRecord(review);
     }
 }
