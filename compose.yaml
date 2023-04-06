@@ -22,6 +22,8 @@ services:
     environment:
       MYSQL_DATABASE: USERS
       MYSQL_ROOT_PASSWORD: pass
+    volumes:
+      - rater-database:/var/lib/mysql
     ports:
       - 3307:3306
     healthcheck:
@@ -58,3 +60,6 @@ services:
       - '5173:5173'
     depends_on:
       - backend
+
+volumes:
+  rater-database:
