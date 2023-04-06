@@ -4,10 +4,10 @@ from scrape_imdb import getMovieTitles
 from api_themoviedb import getMovieData
 from scrape_metacritic import getMovieReviews
 
-def collect():
-    titles = getMovieTitles()
+def collect(titles=None, offset=0):
+    titles = titles or getMovieTitles()
     movies = list()
-    id = 0
+    id = offset
     print(f"Collecting data for {len(titles)} movies.")
     for idx, title in enumerate(titles):
         sleep(.125)

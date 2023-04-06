@@ -24,7 +24,7 @@
         "ending", "end", "ends",
         "finale", "final",
         "resolution",
-        "climax"
+        "climax", "payoff", "twist"
     ],
     "soundtrack": [
         "soundtrack", "sound track", "soundtracks", "sound tracks",
@@ -48,7 +48,8 @@
         "comedic", "comedy",
         "hilarious",
         "humor", "humour", "humorous", "humourous",
-        "laugh", "laughs", "laughing", "laughter", "happy", "lucky"
+        "laugh", "laughs", "laughing", "laughter", "happy", "lucky",
+        "comedian", "jokes", "witty", "wit"
     ],
     "action": [
         "action",
@@ -59,6 +60,6 @@
         "exciting",
         "breathtaking", "breath-taking",
         "choreography", "choreographed", "choreographer",
-        "fight", "fights", "fighting"
+        "fight", "fights", "fighting", "intense", "wild", "dynamic"
     ]
 }

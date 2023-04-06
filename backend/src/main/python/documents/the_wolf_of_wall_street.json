@@ -1,5 +1,5 @@
 {
-  "id": 104,
+  "id": 315,
   "title": "The Wolf of Wall Street",
   "starring": [
     "Leonardo DiCaprio",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 4.074074074074074,
     "acting": 5.575,
-    "ending": 3.0,
+    "ending": 2.5,
     "soundtrack": 9.0,
     "cinematography": 10.0,
-    "familyFriendly": 4.285714285714286,
-    "funny": 4.466666666666667,
-    "action": 4.0
+    "familyFriendly": 3.0,
+    "funny": 4.470588235294118,
+    "action": 6.5
   },
   "reviews": [
     {

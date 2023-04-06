@@ -7,7 +7,7 @@ search_url = 'https://api.themoviedb.org/3/search/movie'
 movie_url = 'https://api.themoviedb.org/3/movie/'
 
 # Set the API key
-api_key = 'StopStealingSecretesNerd'
+api_key = 'chilloutbro'
 
 def getMovieData(movie_title): 
     # Set the query parameters for the search endpoint
@@ -74,6 +74,6 @@ def getMovieData(movie_title):
     return Movie(**data)
 
 if __name__ == "__main__":
-    movie_title = "The Godfather"
+    movie_title = "Fatherhood"
     data = getMovieData(movie_title)
     print(json.dumps(data.__dict__, indent=2))

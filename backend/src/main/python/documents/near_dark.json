@@ -1,0 +1,48 @@
+{
+  "id": 4855,
+  "title": "Near Dark",
+  "starring": [
+    "Adrian Pasdar",
+    "Jenny Wright"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Horror"
+  ],
+  "description": "A farm boy reluctantly becomes a member of the undead when a girl he meets turns out to be part of a band of vampires who roam the highways in stolen cars.",
+  "releaseYear": "1987",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+  "categories": {
+    "plot": 8.5,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "The unknown and under-appreciated \"Near Dark\" is one of the best vampire flicks of the last 40 years. Katherine Bigelow's sophomore effort demonstrated genre-bending excellence before she was known for The Hurt Locker and Zero Dark Thirty."
+    },
+    {
+      "rating": "10",
+      "text": "This was excellent, it is like 70% The Terminator, the director of this was married to James Cameron at the time.  Very well made, good script and excellent performances and production values all around."
+    },
+    {
+      "rating": "6",
+      "text": "Empieza lenta, la historia se desarrolla bien de la mitad en adelante, la escenas de muerte son buenas."
+    },
+    {
+      "rating": "10",
+      "text": "Probabily my favourite vampire movie ever. I'm very keen on this genre when it is well made and this is surely a great one. Bigelow direction is so skilfull that I suggest you to watch this movie as soon as possible. This movie is a western, a love story and a vampire movie and it works in all of its aspects. Bigelow's masterpiece."
+    },
+    {
+      "rating": "7",
+      "text": "This is a dark and interesting alternative vampire movie. There were no points were I wanted to turn away from the screen. This is not traditionally scary; the fear comes from the band of the small number of travelling hungry murderous vampires who have seemingly been getting away with killing under the radar for decades. The action is thoroughly exciting and the style so downplayed that it becomes introspective making it even more interesting. Very well acted and with a vampire style never seen elsewhere. This is not a traditional fangs biting villagers type of affair - this is a very human story told at a breakneck pace with stunning visuals and explosive drama. Enthralling stuff."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2345,
+  "title": "Stolen",
+  "starring": [
+    "Nicolas Cage",
+    "Sami Gayle"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "description": "Master thief Will Montgomery is just released from the State penitentiary after serving a 10 year sentence, is contacted by Vincent, his ex comrade in crime, who is holding Will\u2019s teenage daughter ransom in a hijacked taxi cab. Vincent will only surrender her when Will reveals the whereabouts of the 20 million dollars he contrived to conceal from their last robbery.",
+  "releaseYear": "2012",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/9UDl3jgTsITaaIJw8nlo9TdW7if.jpg",
+  "categories": {
+    "plot": 8.4,
+    "acting": 8.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "When you watch a lot of independent and direct-to-video films, you see a lot of garbage, but occasionally you find a gem that makes it all worthwhile, Stolen, is one of those gems. This story was so intriguing and well written that I was absolutely blown away. The film is about a detective whose son went missing, without a trace, eight years ago. The trail is cold and he's beginning to accept that he will never find him, when a local construction crew finds a boy in a box. The body has been there for at least fifty years, but the case awakens something in the detective who has to learn the truth. From there, quite ingeniously, the film is divided into three different stories, the story of the boy in the box, the detectives investigation, and the story of his own child. It was seriously like watching three different movies at once, and they were all great! The cast was pretty phenomenal too, as this was a very hard thing to pull off, but they did it seemingly with ease. Josh Lucas just blew my mind, giving an unrivaled performance as the father of the other missing boy. I've seen him in things before, but nothing was as memorable as this. Stolen is a film that consists of three stories in once, that will pull on your emotions and have you on the edge of your seat. It's one of the best films I've seen all year and I can't recommend it enough!"
+    },
+    {
+      "rating": "10",
+      "text": "I actually enjoyed this movie. I was empathetic to the lead characters, all of whom I felt gave respectable performances. I liked the concept of the parallel stories of the two missing boys and thought the unravelling of the clues which leads Hamm to solving the case of his missing son was paced in such a way as to keep the viewer's interest in the story. A decent movie worthy of renting for some entertainment."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2860,
+  "title": "The Package",
+  "starring": [
+    "Gene Hackman",
+    "Joanna Cassidy"
+  ],
+  "runtime": 108,
+  "genre": [
+    "Crime",
+    "Thriller",
+    "Action"
+  ],
+  "description": "Experienced Green Beret sergeant Johnny Gallagher is escorting a prisoner, Airborne Ranger Thomas Boyette, back to the US, but Boyette escapes and Gallagher must risk life and limb to catch him.",
+  "releaseYear": "1989",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/h91tvQQQ1o8591yYLTkO0AtVho2.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 8.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "The twist to \"The Package\" is pretty interesting once you find out what it is.I found it  pretty good, considering it`s a low budget movie. Stone Cold should be in more movies. Also nice to see Dolph Lundgren in something besides the Expendables,  I love how he deals with his enemies in this one. The movie has some nice action. I`m glad I chose to watch it."
+    }
+  ]
+}

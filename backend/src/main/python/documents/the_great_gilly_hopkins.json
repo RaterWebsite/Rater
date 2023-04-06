@@ -1,0 +1,42 @@
+{
+  "id": 3320,
+  "title": "The Great Gilly Hopkins",
+  "starring": [
+    "Sophie N\u00e9lisse",
+    "Kathy Bates"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "description": "Wisecracking, gum-chewing 12-year-old Gilly is well known in the foster system. Totally unmanageable, she has stayed with more families than she can remember and has outwitted them all. After all, how can she settle down when her real mother, the beautiful and glamourous Courtney, might be out there waiting for her? When Gilly is sent to live with the Trotters, the weirdest family yet, she isn\u2019t planning to stick around. But cheerful, affectionate Maime Trotter isn\u2019t giving up on Gilly just yet...",
+  "releaseYear": "2015",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jytUg1RkzYVfF4tzyXBRrAXRWII.jpg",
+  "categories": {
+    "plot": 3.0,
+    "acting": 4.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 10.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "The Great Gilly Hopkins has an underdeveloped story with unnecessary scenes and annoying character introduction, with a character without charisma, but at least have great actresses like Kathy Banes and Glenn Close that leaves the experience of watching it much less unpleasant."
+    },
+    {
+      "rating": "7",
+      "text": "fairly good, it never feels like it takes itself to seriously and the emotional moments hit the right notes."
+    },
+    {
+      "rating": "10",
+      "text": "Es una historia bien elaborada, con toques de humor y momentos sentimentales."
+    }
+  ]
+}

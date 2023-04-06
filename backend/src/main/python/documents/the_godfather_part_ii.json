@@ -1,5 +1,5 @@
 {
-  "id": 4,
+  "id": 1786,
   "title": "The Godfather Part II",
   "starring": [
     "Al Pacino",
@@ -18,10 +18,10 @@
     "plot": 7.7254901960784315,
     "acting": 8.487804878048781,
     "ending": 8.666666666666666,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
-    "familyFriendly": 10.0,
-    "funny": 4.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
     "action": 9.6
   },
   "reviews": [

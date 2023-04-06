@@ -1,0 +1,33 @@
+{
+  "id": 887,
+  "title": "Initiation",
+  "starring": [
+    "Lindsay LaVanchy",
+    "Isabella Gomez"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "description": "During a Whiton University's pledge week, the carefree partying turns deadly when brutal murders start befalling the students, sending Ellery into a race against time to uncover the truth behind the school's dark secrets and the horrifying meaning of a recurring symbol: a single exclamation mark.",
+  "releaseYear": "2020",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/oT3q1gClsLyDS6kI15FYISy4arw.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "There's a possible fraternity party-based rape so the father of the girl involved dresses up as a slasher villain and kills the fraternity members, whilst also serving as lead detective on the cases."
+    }
+  ]
+}

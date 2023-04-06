@@ -1,5 +1,5 @@
 {
-  "id": 33,
+  "id": 2332,
   "title": "The Prestige",
   "starring": [
     "Hugh Jackman",
@@ -18,10 +18,10 @@
   "categories": {
     "plot": 7.7894736842105265,
     "acting": 8.620689655172415,
-    "ending": 7.5,
+    "ending": 7.909090909090909,
     "soundtrack": 10.0,
     "cinematography": 10.0,
-    "familyFriendly": 8.4,
+    "familyFriendly": 6.0,
     "funny": 9.0,
     "action": 10.0
   },

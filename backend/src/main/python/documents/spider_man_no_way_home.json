@@ -1,5 +1,5 @@
 {
-  "id": 123,
+  "id": 34,
   "title": "Spider-Man: No Way Home",
   "starring": [
     "Tom Holland",
@@ -19,9 +19,9 @@
     "plot": 5.947368421052632,
     "acting": 6.285714285714286,
     "ending": 6.636363636363637,
-    "soundtrack": 4.0,
-    "cinematography": 4.0,
-    "familyFriendly": 10.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
     "funny": 6.0,
     "action": 7.222222222222222
   },

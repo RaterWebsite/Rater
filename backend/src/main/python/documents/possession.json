@@ -1,0 +1,36 @@
+{
+  "id": 3789,
+  "title": "Possession",
+  "starring": [
+    "Isabelle Adjani",
+    "Sam Neill"
+  ],
+  "runtime": 124,
+  "genre": [
+    "Horror"
+  ],
+  "description": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+  "releaseYear": "1981",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2MZCZyTNpHKQcOmz0USt6vLFJTE.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "The BEST HORROR MOVIE OF 2008!!!Sarah Michelle Gellar Does A Great Job!The Plot Is Very Creative, And Is Never Even The Least Bit Dull!Most Of The Cast Is Very Good! :) I Can Watch This Movie Over & Over!"
+    },
+    {
+      "rating": "8",
+      "text": "Two brothers are in comas after a car crash and one wakes up and pretends to be the other one, just returned in the wrong body, so that he can get it on with his brother's wife."
+    }
+  ]
+}

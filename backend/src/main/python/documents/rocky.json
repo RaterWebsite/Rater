@@ -1,11 +1,11 @@
 {
-  "id": 172,
+  "id": 1828,
   "title": "Rocky",
   "starring": [
     "Sylvester Stallone",
     "Talia Shire"
   ],
-  "runtime": 120,
+  "runtime": 119,
   "genre": [
     "Drama",
     "Romance"
@@ -17,12 +17,12 @@
   "categories": {
     "plot": 8.952380952380953,
     "acting": 8.71875,
-    "ending": 8.8,
+    "ending": 8.818181818181818,
     "soundtrack": 8.5,
     "cinematography": 8.0,
-    "familyFriendly": 9.0,
-    "funny": 9.333333333333334,
-    "action": 9.1875
+    "familyFriendly": 8.0,
+    "funny": 9.25,
+    "action": 9.235294117647058
   },
   "reviews": [
     {
@@ -164,6 +164,10 @@
     {
       "rating": "10",
       "text": "It's not a boxing movie, it's a love story with boxing as the backdrop. Rocky and Adrian for life"
+    },
+    {
+      "rating": "10",
+      "text": "Here is a moving film that will motivate its viewers and make them cheer, in awe of their new hero."
     },
     {
       "rating": "6",

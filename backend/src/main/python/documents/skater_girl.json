@@ -1,0 +1,33 @@
+{
+  "id": 4778,
+  "title": "Skater Girl",
+  "starring": [
+    "Rachel Sanchita Gupta",
+    "Amy Maghera"
+  ],
+  "runtime": 107,
+  "genre": [
+    "Drama",
+    "Family"
+  ],
+  "description": "Prerna, a teenager growing up in rural India, comes of age when she\u2019s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Es un buen drama deportivo que se puede disfrutar en Netflix; las actuaciones son decentes, la trama es buena y las escenas con patinetas est\u00e1n bien dirigidas; es una pel\u00edcula recomendable."
+    }
+  ]
+}

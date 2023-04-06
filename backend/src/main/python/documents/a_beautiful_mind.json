@@ -1,5 +1,5 @@
 {
-  "id": 114,
+  "id": 2763,
   "title": "A Beautiful Mind",
   "starring": [
     "Russell Crowe",
@@ -15,12 +15,12 @@
   "mpaaRating": "PG-13",
   "imageUrl": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
   "categories": {
-    "plot": 8.36,
+    "plot": 8.391304347826088,
     "acting": 7.466666666666667,
-    "ending": 4.0,
+    "ending": 4.5,
     "soundtrack": 7.5,
-    "cinematography": 4.0,
-    "familyFriendly": 8.666666666666666,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
     "funny": 9.0,
     "action": 8.5
   },
@@ -88,6 +88,10 @@
     {
       "rating": "4",
       "text": "The 2nd act is horribly paced. It felt like most boring and linear film I'd ever seen. The ending is a bit of a saver. Strong performance from Russell Crowe and Ron Howard directs well for the most part but at the end of the film, I was most glad that I was able to finish the film without dozing off."
+    },
+    {
+      "rating": "0",
+      "text": "ArtificialToxic movies that I hate forever I really believe that films like this harm not only the cinema but also our worldAfter watching this movie, I had nausea with the noble knowledge of mathematics. Russell Crowe and Jennifer Connelly were the worst choices for these roles. This movie can't even make proper use of its very flawed script. A child's game in the world of politics and scientists. Everything in it seems too artificial.There is no positive point in this picture except an incomplete explain of a messy story. The ending of the film is awful and tries to deceive the audience. As the opening of the film is more awful and we don't know what kind of person we are facing. In my opinion, if Russell Crowe did not act in the movie and only read the dialogues, the result would be much, much better. At least we saw a human mathematician.I have seen his American Gangster Phil. It was very good there. Nothing is received from him here. A biographical documentary is even more beautiful."
     },
     {
       "rating": "5",
@@ -220,10 +224,6 @@
     {
       "rating": "5",
       "text": "Slow and steady does not win this race depicting the troubles of John Nash's struggles with schizophrenia while working hard on his scientific work"
-    },
-    {
-      "rating": "8",
-      "text": "Something about the story of \u201cA Beautiful Mind\u201d is just so compelling.  It isn't a mystery, but it kept me guessing the whole time what would happen next.  It is one of those stories that sounds too unbelievable to possibly be true, but yet it is based on the life of a real person.  I give it a B, next time you\u2019re in the mood for a movie, this one won\u2019t disappoint."
     }
   ]
 }

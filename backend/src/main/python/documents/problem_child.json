@@ -1,0 +1,36 @@
+{
+  "id": 4253,
+  "title": "Problem Child",
+  "starring": [
+    "John Ritter",
+    "Jack Warden"
+  ],
+  "runtime": 81,
+  "genre": [
+    "Comedy"
+  ],
+  "description": "Ben Healy and his social climbing wife Flo adopt fun-loving seven year old Junior. But they soon discover he's a little monster as he turns a camping trip, a birthday party and even a baseball game into comic nightmares.",
+  "releaseYear": "1990",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/me4kJXgZebuz1doS8y4oW8XUAly.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 6.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Problem Child is an outrageous funny 90's family-fun comedy. Micheal Oliver a crude,funny,vulgar boy giving a performance that'll give the adults and teens chuckles and laughs. And this movie is Adam Sandler's director Dennis Dugan  (Happy Gilmore), directorial debut. Dugan is one of America's worst comedy directors he is so detached to comedy instead of what a director should do hire good actors, making your visions come true! Dugan does the opposite of a good film into a bad one. Grade C+"
+    },
+    {
+      "rating": "2",
+      "text": "Problem Child's unlovable and mean. Also terrible and unfunny.... Problem Child's biggest problem is the many immaturity this child's up to. This movie's not even comedy."
+    }
+  ]
+}

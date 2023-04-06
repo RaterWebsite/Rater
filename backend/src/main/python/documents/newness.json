@@ -1,0 +1,41 @@
+{
+  "id": 3139,
+  "title": "Newness",
+  "starring": [
+    "Nicholas Hoult",
+    "Laia Costa"
+  ],
+  "runtime": 112,
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "description": "In contemporary Los Angeles, two millennials navigating a social media\u2013driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+  "releaseYear": "2017",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 8.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 8.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Drake Doremus plays with the same idea of what he did in Equals but now he transfers it to a world that looks like a Tinder movie and thinks he's somehow revealing something interesting or remarkable about romantic relationships among millennials.But boy, he ain't doing it."
+    },
+    {
+      "rating": "8",
+      "text": "I really enjoyed this film! To watch the struggle young adults are facing when deciding between open and traditional relationships! The excitement of open relationships and what they may bring at the beginning is intriguing, but after a while many of these exciting detours lead to frustration and emptiness that cause most of these people to reassess what they really want from someone they love and what they want in someone who loves them back! Thought both of the actors did an excellent job at acting and making these characters believable, especially Laia Costa, a Spanish hotty!!"
+    },
+    {
+      "rating": "10",
+      "text": "It's the most realistic movie I've ever seen.You can learn a lot from it.There are problems that we encounter in today's relationships.As the movie's advertisement says...it's good for soul..."
+    }
+  ]
+}

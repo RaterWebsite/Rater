@@ -1,0 +1,34 @@
+{
+  "id": 3326,
+  "title": "Heist",
+  "starring": [
+    "Jeffrey Dean Morgan",
+    "Robert De Niro"
+  ],
+  "runtime": 93,
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "description": "A father is without the means to pay for his daughter's medical treatment. As a last resort, he partners with a greedy co-worker to rob a casino. When things go awry they're forced to hijack a city bus.",
+  "releaseYear": "2015",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/eKdz5i9gbzJthAxUZBBj5SVbzKR.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Best heist movie I have seen, though the pleasure is hidden in the details and the many twists and turns the plot takes. Heist rewards really only those viewers who pay attention, as if Mamet made a nice movie for the casual watcher and an excellent one for the detail-obsessed. Point in case (attention -here comes a spoiler): when the gold bars get molten into boat railings, the railings are solid, not hollow. At the end, when Hackman lets his wife and her lover steal the gold from him, they entices them to take the wrong ones - hollow tubes. This detail is typical for the whole movie. Overlooking such finesse lets a viewer underestimate and underrate Heist grossly."
+    }
+  ]
+}

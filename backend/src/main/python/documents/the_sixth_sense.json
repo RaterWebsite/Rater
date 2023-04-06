@@ -1,5 +1,5 @@
 {
-  "id": 112,
+  "id": 2125,
   "title": "The Sixth Sense",
   "starring": [
     "Bruce Willis",
@@ -11,18 +11,18 @@
     "Thriller",
     "Drama"
   ],
-  "description": "Following an unexpected tragedy, a child psychologist named Malcolm Crowe meets an nine year old boy named Cole Sear, who is hiding a dark secret.",
+  "description": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
   "releaseYear": "1999",
   "mpaaRating": "PG-13",
   "imageUrl": "https://image.tmdb.org/t/p/w500/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
   "categories": {
     "plot": 7.0,
     "acting": 8.538461538461538,
-    "ending": 7.833333333333333,
-    "soundtrack": 4.0,
-    "cinematography": 4.0,
-    "familyFriendly": 8.4,
-    "funny": 4.0,
+    "ending": 8.025641025641026,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 5.0,
     "action": 8.5
   },
   "reviews": [

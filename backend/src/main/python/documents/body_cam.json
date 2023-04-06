@@ -1,0 +1,34 @@
+{
+  "id": 4398,
+  "title": "Body Cam",
+  "starring": [
+    "Mary J. Blige",
+    "Nat Wolff"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+  ],
+  "description": "As a police officer investigates the gruesome murder of her colleague, she discovers that a mysterious supernatural force is behind it.",
+  "releaseYear": "2020",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 7.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "This movie had so much potential. The premise is so good. It was wasted. Even the ending and the revelations make you wish the film had been better written. There was so much here."
+    }
+  ]
+}

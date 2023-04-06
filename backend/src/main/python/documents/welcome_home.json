@@ -1,0 +1,53 @@
+{
+  "id": 3561,
+  "title": "Welcome Home",
+  "starring": [
+    "Aaron Paul",
+    "Emily Ratajkowski"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Thriller",
+    "Horror"
+  ],
+  "description": "A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner's intentions.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fMhJQoMitAh0pN0fLlD7iUGcBp0.jpg",
+  "categories": {
+    "plot": 3.3333333333333335,
+    "acting": 3.0,
+    "ending": 8.0,
+    "soundtrack": 5.0,
+    "cinematography": 3.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Despite the fact that Welcome Home showcases strong performances from both Paul and Ratajkowski, it is infuriating, incoherent, predictable and a sorry excuse of a thriller film that had nothing strong going for it from the start; even both leads were a gamble."
+    },
+    {
+      "rating": "5",
+      "text": "Telefilme with a budget, I was expecting something darker or with a more ambitious plot. I did not read the plot just went for it."
+    },
+    {
+      "rating": "3",
+      "text": "The premise is something we've seen 1000 times before, I was hoping for something a bit more ambitious but the script here is predictable and the last half of the film is infuriatingly stupid that it wastes any potential that it had. Alot of this film is just wasted opportunities, the villain is insanely creepy and so poorly written that you almost feel bad for the actor trying to play him, the same guy was the main villain in John Wick 2. On the flip side, Emily Ratajkowski gives off a incredibly strong performance here. She does a good job portraying someone whose made a mistake and is genuinely working to fix it, Aaron Paul is good here as well but his character comes off like a bit of an unforgiving **** that it makes him genuinely unlikable throughout the film. The film is also decently shot, it's just very poorly written and directed, had someone more ambitious been behind the camera then this could have been a solid thriller"
+    },
+    {
+      "rating": "6",
+      "text": "Estan bonitos los paisajes, pero la historia predesible, aunque el giro de tuerca al final es interesante. Lo m\u00e1s decepcionante es que no hay nakeds."
+    },
+    {
+      "rating": "2",
+      "text": "(Mauro Lanari)Aaron Paul acts as if he's still under the meth's effect, Emily Ratajkowski takes more showers than Edwige Fenech in her softcores, the plot is trapped between \"Sliver\" (Noyce, 1993) and \"Vacancy\" (Antal, 2007)."
+    },
+    {
+      "rating": "10",
+      "text": "Exciting from the beginning to the end, really amazing, and the ending mua!"
+    }
+  ]
+}

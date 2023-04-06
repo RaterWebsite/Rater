@@ -1,0 +1,41 @@
+{
+  "id": 1527,
+  "title": "Books of Blood",
+  "starring": [
+    "Britt Robertson",
+    "Freda Foh Shen"
+  ],
+  "runtime": 107,
+  "genre": [
+    "Horror",
+    "Science Fiction"
+  ],
+  "description": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+  "releaseYear": "2020",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 3.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "Another disastrous missed opportunity to do Clive Barker justice.If you're only interested in graphic violence as an excuse for \"horror\" on Halloween, you may overlook most of its painful shortcomings."
+    },
+    {
+      "rating": "3",
+      "text": "I had the Clive Barker books in my reading list since long ago. After seeing this mess I have no desire to ever getting to read them. Zero atmosphere, corny acting at times and awful rythm."
+    },
+    {
+      "rating": "8",
+      "text": "It probably comes off a little strange if you haven\u2019t read the books, but I thought it was a pretty good horror anthology."
+    }
+  ]
+}

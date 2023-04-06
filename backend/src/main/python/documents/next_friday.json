@@ -1,0 +1,56 @@
+{
+  "id": 4619,
+  "title": "Next Friday",
+  "starring": [
+    "Ice Cube",
+    "Mike Epps"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Comedy"
+  ],
+  "description": "A streetwise man flees South Central Los Angeles, heading to the suburbs and his lottery-winner uncle and cousin, to avoid a neighborhood thug with a grudge who has just escaped from prison.",
+  "releaseYear": "2000",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dP4fYCGQZzg17ta7FvLwJVCwwt9.jpg",
+  "categories": {
+    "plot": 7.666666666666667,
+    "acting": 7.666666666666667,
+    "ending": 10.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 9.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "This movie was absolutely hilarious. I laughed my ass off."
+    },
+    {
+      "rating": "7",
+      "text": "This is the definition of sequels not living up to the original and I think it is mainly due to the absence of Chris Tucker. Epps plays Dae Dae, who is the best new character the film gives us. Try to overlook the stereotypes."
+    },
+    {
+      "rating": "10",
+      "text": "This movie was hilarious. I was seriously laughing my tail end off the entire time. Day-Day was such a great character and of course our very own Craig Jones (Ice Cube)."
+    },
+    {
+      "rating": "6",
+      "text": "While it may not lived up to the expectations of first I thoroughly enjoyed it, Day-Day is a new addition (shame no Smokey) but they do well to establish him and his character is different. They done good."
+    },
+    {
+      "rating": "8",
+      "text": "Great movie, but the edge was not as cunning and funny as the other one was."
+    },
+    {
+      "rating": "8",
+      "text": "Not as good as the first. Still really hilarious. This movie could have been the funniest movie ever made if Chris Tucker was in it too."
+    },
+    {
+      "rating": "9",
+      "text": "Still very enjoyable today people hate on it but I personally love and adore this film."
+    }
+  ]
+}

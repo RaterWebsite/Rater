@@ -1,0 +1,34 @@
+{
+  "id": 3844,
+  "title": "Duel",
+  "starring": [
+    "Dennis Weaver",
+    "Jacqueline Scott"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Action",
+    "Thriller",
+    "TV Movie"
+  ],
+  "description": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
+  "releaseYear": "1971",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/shucsx2yo0cIlnJU1RPrBFaTT9U.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 10.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 10.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Widely hailed as the greatest made for tv movie ever. Brilliant directing by Spielberg. The scene at the railroad crossing is amazing. An astounding action thriller. Every camera"
+    }
+  ]
+}
