@@ -54,6 +54,6 @@ public class UserTable {
     }
 
     public static void updateRecord(User user, Connection dbConn) {
-
+        
     }
 }

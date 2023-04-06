@@ -65,6 +65,16 @@ public class UserDatabase implements ApplicationDatabase {
                 + " FOREIGN KEY (username) REFERENCES users(username)\n" 
                 + ");";
             stmt.execute(createRatingTable);
+
+            String createFriendsTable = "CREATE TABLE IF NOT EXISTS friends (\n"
+                + " relatingUsername varchar(40),\n"
+                + " relatedUsername varchar(40),\n"
+                + " relatingUserStatus varchar(40),\n"
+                + " relatedUserStatus varchar(40),\n"
+                + " CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername)\n"
+                + " FOREIGN KEY (relatingUsername) REFERENCES users(username),\n"
+                + " FOREIGN KEY (relatedUsername) REFERENCES users(username)\n"
+                + ");";
         } catch (SQLException e) {
             System.out.println(e);
         }
