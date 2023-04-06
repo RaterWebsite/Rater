@@ -7,10 +7,12 @@ import java.sql.Statement;
 
 import org.springframework.beans.factory.annotation.Value;
 
+import com.rater.application.database.table.UserDB.FriendsTable;
 import com.rater.application.database.table.UserDB.ReviewTable;
 import com.rater.application.database.table.UserDB.UserTable;
 import com.rater.application.model.Review;
 import com.rater.application.model.User;
+import com.rater.application.model.UserRelationship;
 
 public class UserDatabase implements ApplicationDatabase {
 
@@ -71,10 +73,11 @@ public class UserDatabase implements ApplicationDatabase {
                 + " relatedUsername varchar(40),\n"
                 + " relatingUserStatus varchar(40),\n"
                 + " relatedUserStatus varchar(40),\n"
-                + " CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername)\n"
+                + " CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername),\n"
                 + " FOREIGN KEY (relatingUsername) REFERENCES users(username),\n"
                 + " FOREIGN KEY (relatedUsername) REFERENCES users(username)\n"
                 + ");";
+            stmt.execute(createFriendsTable);
         } catch (SQLException e) {
             System.out.println(e);
         }
@@ -100,6 +103,9 @@ public class UserDatabase implements ApplicationDatabase {
         } else if (object instanceof Review) {
             Review review = (Review)object;
             return ReviewTable.getRecord(review, dbConn);
+        } else if (object instanceof UserRelationship) {
+            UserRelationship relationship = (UserRelationship)object;
+            return FriendsTable.getRecord(relationship, dbConn);
         } else {
             System.out.println("Cannot add invalid object. Needed type: User OR type: Review.\n");
             return null;

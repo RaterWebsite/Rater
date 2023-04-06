@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 import com.rater.application.database.UserDatabase;
 import com.rater.application.model.Review;
 import com.rater.application.model.User;
+import com.rater.application.model.UserRelationship;
 
 @Service
 public class UserService {
@@ -18,8 +19,17 @@ public class UserService {
     @Autowired
     public UserService() {
         this.userDB = new UserDatabase();
-        //userDB.connectToDB();
-        //userDB.createTables();
+    }
+
+    public String connectToDB() {
+        try {
+            this.userDB.connectToDB();
+            this.userDB.createTables();
+            return "Database metadata: \n" + this.userDB.dbConn.getMetaData();
+        } catch(SQLException e) {
+            System.out.println(e);
+            return null;
+        }
         
     }
 
@@ -45,15 +55,25 @@ public class UserService {
         this.userDB.updateRecord(review);
     }
 
-    public String connectToDB() {
-        try {
-            this.userDB.connectToDB();
-            this.userDB.createTables();
-            return "Database metadata: \n" + this.userDB.dbConn.getMetaData();
-        } catch(SQLException e) {
-            System.out.println(e);
-            return null;
+    //TODO: want logic to prevent user from following if they already are (give them a message or something (need to communictE WITH webiste for this))
+    public void followUser(String follower, String followed) {
+        UserRelationship relationship = new UserRelationship(follower, followed);
+        UserRelationship returned = (UserRelationship)this.userDB.getRecord(relationship);
+        if (returned == null) {
+            //not in database
+            relationship.setRelatingUserStatus("follows");
+            this.userDB.addRecord(relationship);
+        } else {
+            //was in database, take look
+            if (follower.equals(returned.getRelatingUser())) {
+                returned.setRelatingUserStatus("follows");
+            } else {
+                returned.setRelatedUserStatus("follows");
+            }
+            this.userDB.addRecord(returned);
         }
         
     }
+
+    
 }

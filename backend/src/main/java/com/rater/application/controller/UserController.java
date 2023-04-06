@@ -56,7 +56,12 @@ public class UserController {
 
     @GetMapping("/connectToDB")
     public String connectToDB() {
-        return service.getDBInfo();
+        return service.connectToDB();
+    }
+
+    @PostMapping("/followUser")
+    public void followUser(@RequestBody String follower, String followed) {
+        service.followUser(follower, followed);
     }
 
 
