@@ -32,18 +32,14 @@ public class UserDatabase implements ApplicationDatabase {
     }
     
     public void connectToDB() {
-        String DB_URL = "jdbc:mysql://localhost/USERS"; //correct url if using mysql locally
-        String USER = "root";
-        String PASS = "pass";
-        String dockerUrl = "${spring.user_datasource.url}";
-        String test = "jdbc:mysql://db:3306/USERS";
+        String username = "root";
+        String password = "pass";
+        //String dockerUrl = "${spring.user_datasource.url}";
+        String dbUrl = "jdbc:mysql://db:3306/USERS";
         try {
-            this.dbConn = DriverManager.getConnection(test, USER, PASS);
-            String sql = "CREATE DATABASE USERS";
-            Statement stmt = dbConn.createStatement();
+            this.dbConn = DriverManager.getConnection(dbUrl, username, password);
             System.out.println("HERE IS THE METADATA FOR THE DATABASE");
             System.out.println(dbConn.getMetaData());
-            //stmt.executeUpdate(sql);
         } catch (SQLException e) {
             System.out.println(e);
         }
@@ -86,10 +82,10 @@ public class UserDatabase implements ApplicationDatabase {
 
     public void addRecord(Object record) {
         if (record instanceof User) {
-            User user = (User)record;
+            User user = (User) record;
             UserTable.addRecord(user, dbConn);
         } else if (record instanceof Review) {
-            Review review = (Review)record;
+            Review review = (Review) record;
             ReviewTable.addRecord(review, dbConn);
         } else {
             System.out.println("Cannot add invalid object. Needed type: User OR type: Review.\n");
@@ -98,13 +94,13 @@ public class UserDatabase implements ApplicationDatabase {
 
     public Object getRecord(Object object) {
         if (object instanceof User) {
-            User user = (User)object;
+            User user = (User) object;
             return UserTable.getRecord(user, dbConn);
         } else if (object instanceof Review) {
-            Review review = (Review)object;
+            Review review = (Review) object;
             return ReviewTable.getRecord(review, dbConn);
         } else if (object instanceof UserRelationship) {
-            UserRelationship relationship = (UserRelationship)object;
+            UserRelationship relationship = (UserRelationship) object;
             return FriendsTable.getRecord(relationship, dbConn);
         } else {
             System.out.println("Cannot add invalid object. Needed type: User OR type: Review.\n");
@@ -114,10 +110,10 @@ public class UserDatabase implements ApplicationDatabase {
 
     public void updateRecord(Object record) {
         if (record instanceof User) {
-            User user = (User)record;
+            User user = (User) record;
             UserTable.updateRecord(user, dbConn);
         } else if (record instanceof Review) {
-            Review review = (Review)record;
+            Review review = (Review) record;
             ReviewTable.updateRecord(review, dbConn);
         } else {
             System.out.println("Cannot update invalid object. Needed type: User OR type: Review.\n");

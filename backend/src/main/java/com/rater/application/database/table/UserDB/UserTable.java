@@ -18,10 +18,9 @@ public class UserTable {
             stmt.executeUpdate();
         } catch (SQLException e) {
             System.out.println(e);
-        }
-        finally {
+        } finally {
             try {
-                if (stmt != null) {stmt.close(); }
+                if (stmt != null) { stmt.close(); }
             } catch (Exception e) {
                 System.out.println(e);
             }
@@ -43,10 +42,9 @@ public class UserTable {
         } catch (SQLException e) {
             System.out.println(e);
             return null;
-        }
-        finally {
+        } finally {
             try {
-                if (stmt != null) {stmt.close(); }
+                if (stmt != null) { stmt.close(); }
             } catch (Exception e) {
                 System.out.println(e);
             }

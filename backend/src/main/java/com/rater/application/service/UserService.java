@@ -26,7 +26,7 @@ public class UserService {
             this.userDB.connectToDB();
             this.userDB.createTables();
             return "Database metadata: \n" + this.userDB.dbConn.getMetaData();
-        } catch(SQLException e) {
+        } catch (SQLException e) {
             System.out.println(e);
             return null;
         }
@@ -40,7 +40,7 @@ public class UserService {
     public User getUserByUsername(String username) {
         User user = new User();
         user.setUsername(username);
-        return (User)this.userDB.getRecord(user);
+        return (User) this.userDB.getRecord(user);
     }
 
     public void createReview(Review review) {
@@ -48,7 +48,7 @@ public class UserService {
     }
 
     public Review getReview(Review review) {
-        return (Review)this.userDB.getRecord(review);
+        return (Review) this.userDB.getRecord(review);
     }
 
     public void updateReview(Review review) {
@@ -58,7 +58,7 @@ public class UserService {
     //TODO: want logic to prevent user from following if they already are (give them a message or something (need to communictE WITH webiste for this))
     public void followUser(String follower, String followed) {
         UserRelationship relationship = new UserRelationship(follower, followed);
-        UserRelationship returned = (UserRelationship)this.userDB.getRecord(relationship);
+        UserRelationship returned = (UserRelationship) this.userDB.getRecord(relationship);
         if (returned == null) {
             //not in database
             relationship.setRelatingUserStatus("follows");
@@ -77,3 +77,4 @@ public class UserService {
 
     
 }
+
