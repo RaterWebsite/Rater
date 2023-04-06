@@ -1,5 +1,5 @@
 {
-  "id": 166,
+  "id": 1358,
   "title": "Jaws",
   "starring": [
     "Roy Scheider",
@@ -16,12 +16,12 @@
   "mpaaRating": "PG",
   "imageUrl": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
   "categories": {
-    "plot": 9.583333333333334,
-    "acting": 9.735294117647058,
-    "ending": 9.5,
+    "plot": 9.914285714285715,
+    "acting": 9.914285714285715,
+    "ending": 9.666666666666666,
     "soundtrack": 10.0,
     "cinematography": 10.0,
-    "familyFriendly": 10.0,
+    "familyFriendly": 8.0,
     "funny": 10.0,
     "action": 10.0
   },
@@ -196,6 +196,10 @@
     },
     {
       "rating": "10",
+      "text": "Jaws is about a shark lol... Obviously. It's a 1975 movie directed by Steven Spielberg and it stars Lorraine Gary, Robert Shaw, Richard Dreyfuss and Roy Scheider as Chief Brody.. The film is about a shark causing havoc in a peaceful community town and some fisherman guy (Robert Shaw) and Brody at the end go to Kill the shark. Jaws is the original and still the best movie in the series, the sequels were mainly horrible. Jaws brings suspense, terror and entertainment on every level and it bites you and never let's go. The characters are all good and the acting is fairly decent."
+    },
+    {
+      "rating": "10",
       "text": "Best movie of all time!!!!!"
     },
     {
@@ -221,10 +225,6 @@
     {
       "rating": "9",
       "text": "One of Steven Spielberg's best films, and possibly the most revolutionary of them all, \"Jaws\" is the first blockbuster ever made. It is brilliantly executed and so effective as thriller that has been scaring the audience for decades."
-    },
-    {
-      "rating": "4",
-      "text": "Was not exactly the gold that many describe this film as. A bit of a slow plot line needing just a tad more of character development that may have improved the film drastically."
     }
   ]
 }

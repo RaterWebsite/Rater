@@ -1,0 +1,39 @@
+{
+  "id": 4874,
+  "title": "James and the Giant Peach",
+  "starring": [
+    "Paul Terry",
+    "Miriam Margolyes"
+  ],
+  "runtime": 79,
+  "genre": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "description": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
+  "releaseYear": "1996",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.5,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 8.0,
+    "familyFriendly": 5.0,
+    "funny": 8.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "True, it isn't as good as the book, which is a childhood favourite of mine, but it is still a delightful and charming film. The look of the film is splendid, with bright colours in most scenes and some very memorable scenes such as the killer sharks, and the peach was stupendous. The script is very clever and funny, especially with Centipede, who has some truly hilarious lines. The performances are exceptional, Paul Terry is very appealing as James and Pete Postelthwaite delights as the mysterious man, who is responsible for changing James's life forever. There is also a terrific voice cast, including Simon Callow, Richard Dreyfuss, Susan Sarandon and David Thewlis who breathe fresh air into the screenplay, but it is certainly Miriam Margoyles and Joanna Lumley as the ghastly aunts who steal the show. I do however have two complaints of the film. I did find Randy Newman's songs forgettable, and they occasionally mar the film's pacing, and Paul Terry's singing voice just was a bit weak. Other than that, it is a delightful film, with an 8/10. Bethany Cox"
+    },
+    {
+      "rating": "7",
+      "text": "A little light on story, though that stop-motion animation is noice.At just under 1hr 20mins, 'James and the Giant Peach is simply a pleasant to watch flick with a sweet story and excellent animation. Miriam Margolyes and Joanna Lumley as the aunts is great casting, while the voice cast all perform well.I like it enough, even with the ineffective singing bits. Overall, this 1996 release is, in my opinion, nothing great but nothing bad either."
+    }
+  ]
+}

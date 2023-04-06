@@ -1,5 +1,5 @@
 {
-  "id": 32,
+  "id": 3634,
   "title": "The Usual Suspects",
   "starring": [
     "Gabriel Byrne",
@@ -18,11 +18,11 @@
   "categories": {
     "plot": 8.173913043478262,
     "acting": 8.23076923076923,
-    "ending": 8.36,
-    "soundtrack": 4.0,
+    "ending": 8.486486486486486,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
-    "familyFriendly": 6.5,
-    "funny": 4.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
     "action": 8.5
   },
   "reviews": [

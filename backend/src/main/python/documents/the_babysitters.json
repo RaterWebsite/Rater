@@ -1,0 +1,44 @@
+{
+  "id": 2576,
+  "title": "The Babysitters",
+  "starring": [
+    "John Leguizamo",
+    "Katherine Waterston"
+  ],
+  "runtime": 88,
+  "genre": [
+    "Drama"
+  ],
+  "description": "Seventeen-year-old Shirley is a good student who works as a babysitter in order to make money for college. One night Michael, a father Shirley works for, confesses he's unhappy with married life. Shirley has a crush on Michael, and seizes this moment to kiss him. Michael is so happy he presents Shirley with a big tip, which gives her an idea. Shirley plans to make extra money by setting up her teenage friends with other unhappy fathers.",
+  "releaseYear": "2008",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/nsrNUqGXI95unRKZEu8BJ584xWn.jpg",
+  "categories": {
+    "plot": 6.0,
+    "acting": 9.0,
+    "ending": 3.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "It was a pretty stupid movie. Unbelievable at times, disappointing at other, it had an original idea and a pretty good cast, but it somehow ended up being disappointing. It's not a particularly bad movie, it's just not that good."
+    },
+    {
+      "rating": "10",
+      "text": "This was the greatest movie i have ever seen, it needs a squeal though as it ended suddenly and left me wishing there was more. Does she go back to the work. Doesn't she. I have lost sleep over this."
+    },
+    {
+      "rating": "9",
+      "text": "An excellent movie with fantastic performances that challenges puritan-based sexual taboos that maybe are not ready to be challenged in the USA yet.  Katherine Watson is great in this film.  The whole cast is solid.  It is an entertaining, sexually daring, drama that is thoroughly enjoyable.  I think it would have gained from more stylistic direction but I am glad this movie was made.  While it is not surprising that most critics felt they had to condemn the content it is interesting to see which values are acceptable to shatter in any given decade.  Anyway, some of us thoroughly enjoy watching films that break rules.  This is a good movie."
+    },
+    {
+      "rating": "3",
+      "text": "Many directors and writers fail in films that deal with these issues because they believe they're exploring them adequately, but they don't realize they end up being just as exploitative as films that actually embrace the thematic to be like that.Like in this film in which the director give in to an approach that enables a sort of middle-aged suburban male fantasy with teenagers."
+    }
+  ]
+}

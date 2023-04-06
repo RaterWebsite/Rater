@@ -1,5 +1,5 @@
 {
-  "id": 158,
+  "id": 61,
   "title": "Hacksaw Ridge",
   "starring": [
     "Andrew Garfield",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 8.86,
     "acting": 8.916666666666666,
-    "ending": 8.6,
+    "ending": 8.666666666666666,
     "soundtrack": 8.5,
     "cinematography": 8.5,
-    "familyFriendly": 7.5,
-    "funny": 7.333333333333333,
-    "action": 8.5
+    "familyFriendly": 3.0,
+    "funny": 8.0,
+    "action": 8.444444444444445
   },
   "reviews": [
     {

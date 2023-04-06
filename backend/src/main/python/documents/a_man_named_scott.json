@@ -1,0 +1,33 @@
+{
+  "id": 4322,
+  "title": "A Man Named Scott",
+  "starring": [
+    "Kid Cudi",
+    "Jaden Smith"
+  ],
+  "runtime": 95,
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "description": "In 2009, Scott Mescudi aka Kid Cudi released his debut LP, Man on the Moon: The End of Day. A genre-bending album that broke barriers by featuring songs dealing with depression, anxiety and loneliness, it resonated deeply with young listeners and launched Cudi as a musical star and cultural hero. A Man Named Scott explores Cudi\u2019s journey over a decade of creative choices, struggles and breakthroughs, making music that continues to move and empower his millions of fans around the world.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/sihn5PoMqS4EvVOqO5zRtPKJjns.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Kid cudi saved our lives and gave us some unique songs that still can\u2019t be matched , not even by his current self."
+    }
+  ]
+}

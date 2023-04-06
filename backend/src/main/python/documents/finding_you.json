@@ -1,0 +1,45 @@
+{
+  "id": 269,
+  "title": "Finding You",
+  "starring": [
+    "Rose Reid",
+    "Jedidiah Goodacre"
+  ],
+  "runtime": 119,
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "description": "Finley, a talented aspiring violinist, meets Beckett, a famous young movie star, on the way to her college semester abroad program in a small coastal village in Ireland. An unexpected romance emerges as the heartthrob Beckett leads the uptight Finley on an adventurous reawakening, and she emboldens him to take charge of his future, until the pressures of his stardom get in the way.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mRSsYtYcbhNAfHBp3ha1Nr65agi.jpg",
+  "categories": {
+    "plot": 4.833333333333333,
+    "acting": 5.0,
+    "ending": 4.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 9.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Predictable, happy ending.  After a year plus of isolation and divisiveness I\u2019ll take joy any time."
+    },
+    {
+      "rating": "5",
+      "text": "A violinist (Rose Reid) meets a movie heartthrob (Jedidiah Goodacre) on a flight to an Irish coastal village for a semester abroad. Because this film is predictable at every plot point, you can rest assured that they\u2019ll be an item before it\u2019s over. The writers of this film decided that it was necessary to have several subplots to drag out the length and add no value (at least one of them features Vanessa Redgrave). With a romcom like this, you at least need interesting or quirky characters to make it special. Sadly, Reid\u2019s performance as written is relatively bland, while Goodacre gets to flash his considerable dimples and the charm that goes with them. Ultimately, this is an inconsequential little romance without anything that sets it apart. Wild Mountain Thyme is a similar story set in Ireland did a much better job of showing off the scenery and creating a story with more interesting characters."
+    },
+    {
+      "rating": "4",
+      "text": "(Mauro Lanari)Scraping the barrel of stories for Teen / Young Adult, you come across works that are less and less plausible and convincing. If, moreover, the twist mistakes the motivational with the inspirational, then one gets bogged down in the territories of the Kendrick brothers."
+    },
+    {
+      "rating": "10",
+      "text": "Every once in a long while you come across a movie with zero expectations and enjoy the heck out of it."
+    }
+  ]
+}

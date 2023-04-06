@@ -1,0 +1,41 @@
+{
+  "id": 4027,
+  "title": "Under Siege",
+  "starring": [
+    "Steven Seagal",
+    "Tommy Lee Jones"
+  ],
+  "runtime": 103,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "Disgruntled ex-CIA operative Strannix, his assistant Krill and their group of terrorists seize the battleship with nuclear blackmail in mind. They've planned for every contingency but ignore the ship's cook, former Navy SEAL Casey Ryback -- an error that could be fatal.",
+  "releaseYear": "1992",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 6.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "Under Siege, all of Steven Seagal movies always outstands me for what a colossal hold and a colossal mess it is both at the same time. The result is all of them but not this one. I know all of you people are gonna say, you all going to say that Steven Seagal is crap cause I know I've heard my dad said it. But for me, I'm a big Steven Seagal fan. This film is good, very underrated. It might be worth a watch."
+    },
+    {
+      "rating": "7",
+      "text": "\"Die Hard\" on a battleship, with a touch of \"Dr. Strangelove\". This is one of the earlier (and better) Die Hard rip-offs, and while Steven Seagal's Casey Ryback is not nearly as interesting as John McClane, the tension and violence deliver. Seagal's best by a long shot."
+    },
+    {
+      "rating": "6",
+      "text": "Some people say this movie is a rip-off of Die Hard. But I see it as Die Hard with less interesting characters, and a hero with no emotions or personality. But somehow it isn't a bad movie. Maybe it has the ability to be solely entertaining, or it is protected by the power of nostalgia."
+    }
+  ]
+}

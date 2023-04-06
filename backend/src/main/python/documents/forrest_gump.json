@@ -1,5 +1,5 @@
 {
-  "id": 9,
+  "id": 1352,
   "title": "Forrest Gump",
   "starring": [
     "Tom Hanks",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 9.80952380952381,
     "acting": 9.833333333333334,
-    "ending": 4.0,
+    "ending": 5.0,
     "soundtrack": 9.0,
-    "cinematography": 4.0,
-    "familyFriendly": 9.333333333333334,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
     "funny": 9.555555555555555,
-    "action": 4.0
+    "action": 5.0
   },
   "reviews": [
     {

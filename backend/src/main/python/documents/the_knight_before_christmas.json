@@ -1,0 +1,41 @@
+{
+  "id": 4101,
+  "title": "The Knight Before Christmas",
+  "starring": [
+    "Vanessa Hudgens",
+    "Josh Whitehouse"
+  ],
+  "runtime": 92,
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "description": "A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.",
+  "releaseYear": "2019",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg",
+  "categories": {
+    "plot": 4.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "A soulless, empty assault on any and all other cinematic works trying (even a little) to do something honest with the filmic medium, \"The Knight Before Christmas\" is exactly what it sounds like it is -- a nearly unwatchable slog through every woeful beat and cliche you've ever seen in any movie like this ever, with a razor thin concept that most likely came about after this borderline morally reprehensible title did first, and a thematic backbone so shriveled and meager, it'd make even the most loyal of Hallmark junkies cry foul. Easily one of the year's worst."
+    },
+    {
+      "rating": "4",
+      "text": "Vanessa Hudgens is a talented lead and if you're into Christmas movies and rom-coms, this film could probably scratch your itch. It just didn't do much to scratch mine"
+    },
+    {
+      "rating": "6",
+      "text": "Arguably one of the better Christmas movies released this year and it's somewhat original - at least I never heard of such a story. However, the plot lacks consistency which could be overlooked. One thing though: Despite being a Christmas movie, it lacks the cheer and joyfulness aka what make Christmas, Christmas."
+    }
+  ]
+}

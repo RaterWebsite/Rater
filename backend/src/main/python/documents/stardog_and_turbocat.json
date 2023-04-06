@@ -1,0 +1,34 @@
+{
+  "id": 4062,
+  "title": "StarDog and TurboCat",
+  "starring": [
+    "Luke Evans",
+    "Nick Frost"
+  ],
+  "runtime": 88,
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "description": "When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddy\u2019s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "i watched this movie on my birthday, and i also got splatoon 2, its like getting wendys but then drinking a dr.pepper rip-off!"
+    }
+  ]
+}

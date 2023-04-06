@@ -1,9 +1,9 @@
 {
-  "id": 195,
+  "id": 835,
   "title": "The Iron Giant",
   "starring": [
-    "Eli Marienthal",
-    "Jennifer Aniston"
+    "Vin Diesel",
+    "Eli Marienthal"
   ],
   "runtime": 86,
   "genre": [
@@ -15,16 +15,16 @@
   "description": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
   "releaseYear": "1999",
   "mpaaRating": "PG",
-  "imageUrl": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mThOw5rXLtdbY3WmuTsS9zsQBMG.jpg",
   "categories": {
     "plot": 9.01639344262295,
     "acting": 9.35135135135135,
     "ending": 7.666666666666667,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 10.0,
-    "familyFriendly": 9.3125,
+    "familyFriendly": 8.0,
     "funny": 9.2,
-    "action": 10.0
+    "action": 7.0
   },
   "reviews": [
     {

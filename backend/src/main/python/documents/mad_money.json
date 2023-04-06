@@ -1,0 +1,42 @@
+{
+  "id": 2300,
+  "title": "Mad Money",
+  "starring": [
+    "Diane Keaton",
+    "Queen Latifah"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "description": "Three female employees of the Federal Reserve plot to steal money that is about to be destroyed.",
+  "releaseYear": "2008",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/le0r7Hf7YOy3QFdOoYXRI29T1mW.jpg",
+  "categories": {
+    "plot": 6.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "I had to write this after reading Conrad B.'s review. He is either suffering from weight issues or more likely, just doesn't get the fact that this is a MOVIE! If over weight people are offended then tough! Is it ok to make a film such as the Godfather trilogy without offending Italian Americans? Cinema is at it's best, an art form. So deal with it. Easily the best movie I've seen since Lost in Translation. But better. Some have complained that the silent picture start is better than the rest of the film, but consider how the two leads desires and motives affect the story while firmly being rooted in thei own motives. Brilliant. Not since Chaplin has a film been so pitch perfect in making a statement and touching hearts. This is the kind of film (art piece) that changes the world in it's wake."
+    },
+    {
+      "rating": "0",
+      "text": "Awful is a compliment for this movie!"
+    },
+    {
+      "rating": "6",
+      "text": "Mad Money is harmless. Sure, Katie Holmes is awkward (I think they may have casted her precisely for that reason), but Diane Keaton and Queen Latifah create a fun environment to spend an hour and a half amidst."
+    }
+  ]
+}

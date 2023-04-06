@@ -1,0 +1,34 @@
+{
+  "id": 320,
+  "title": "Sentinelle",
+  "starring": [
+    "Olga Kurylenko",
+    "Marilyn Lima"
+  ],
+  "runtime": 80,
+  "genre": [
+    "Thriller",
+    "Action",
+    "Drama"
+  ],
+  "description": "Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.",
+  "releaseYear": "2021",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jt9NNFFAjvMouzHt06U3uANBpUm.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Its structure and duration are very clear examples of how disposable this thriller ends up being."
+    }
+  ]
+}

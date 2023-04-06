@@ -1,5 +1,5 @@
 {
-  "id": 30,
+  "id": 2252,
   "title": "American History X",
   "starring": [
     "Edward Norton",
@@ -17,11 +17,11 @@
     "plot": 9.136363636363637,
     "acting": 9.28125,
     "ending": 8.818181818181818,
-    "soundtrack": 4.0,
+    "soundtrack": 5.0,
     "cinematography": 9.333333333333334,
-    "familyFriendly": 7.666666666666667,
+    "familyFriendly": 3.0,
     "funny": 9.0,
-    "action": 10.0
+    "action": 9.5
   },
   "reviews": [
     {
@@ -125,10 +125,6 @@
       "text": "\"American History X\" is immensely relevant to modern audiences, perhaps now more than ever. A gritty and provocative drama that puts in graphic terms the dangers of racism and hatred, propelled to greatness by Edward Norton's mesmerising and powerful performance and his interplay with Edward Furlong is one of the most affecting pairings in film. And the ending is shattering no matter how many times it's watched."
     },
     {
-      "rating": "10",
-      "text": "Truly great movie, really does depict racial tensions in america to this day (despite being made in 90s)\rGreat acting,setting is great and it is also a really entertaining movie. One of the best"
-    },
-    {
       "rating": "9",
       "text": "A truly powerful film, with a message that will stay with you long after the screen goes off, American History X is a force to be reckoned with.  Edward Norton's performance stands out.  It is a very believable and gripping performance.  I love any movie that touches on 'touchy' subjects.  In this case, it's racism.  The thing with this topics in films is that they are very easy to mess up, or become cliche.  Luckily, this movie wonderfully, and shockingly tells the story of a man that escapes the life of a Skinhead, and further tries to prevent his younger brother from falling down the same path.  A classic film, and a must-see for any movie-buff.  9/10"
     },
@@ -199,6 +195,10 @@
     {
       "rating": "9",
       "text": "American History X is purely brilliant. It dispels and breaks down racism and prejudice without bashing it. Finally, a film that can convey a willingness to open oneself to new ideas, without writing off certain beliefs as taboo or evil. I can't say it doesn't take any side, but it certainly doesn't force any side on the viewer, and instead forces us to assert the situation as a whole. It's just an excellently directed and acted film in every way, and I think everyone should get the chance to witness what it has to offer."
+    },
+    {
+      "rating": "10",
+      "text": "Truly great movie, really does depict racial tensions in america to this day (despite being made in 90s)\rGreat acting,setting is great and it is also a really entertaining movie. One of the best"
     },
     {
       "rating": "10",

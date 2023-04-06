@@ -31,7 +31,7 @@ def getMovieReviews(movie_title):
     return reviews 
 
 if __name__ == "__main__":
-    movie_title = "The Godfather" 
+    movie_title = "Fatherhood" 
     reviews = getMovieReviews(movie_title)
     for review in reviews[:3]:
         print(review)

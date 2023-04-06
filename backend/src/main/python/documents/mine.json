@@ -1,0 +1,45 @@
+{
+  "id": 2135,
+  "title": "Mine",
+  "starring": [
+    "Armie Hammer",
+    "Annabelle Wallis"
+  ],
+  "runtime": 107,
+  "genre": [
+    "War",
+    "Thriller"
+  ],
+  "description": "After a failed assassination attempt, a soldier finds himself stranded in the desert. Exposed to the elements, he must survive the dangers of the desert and battle the psychological and physical toll of the treacherous conditions.",
+  "releaseYear": "2016",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/xfQV6nTH6zpvhmdcTOoBR2Q4Z2M.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 9.0,
+    "ending": 0.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Quite a good movie to show how intense it can be in a war zone and what a soldier can go through even if this is a situation where not many people survive and it doesn't happen often, movie manages to show emotions and the past running through the soldiers minds when they are at war. As for movie itself, it felt a bit too long at some points, there were interesting moments, but at the same time there were boring parts too."
+    },
+    {
+      "rating": "0",
+      "text": "Few ideas (actually just one idea) to last 90 minutes. Good images which lead nowhere. A story without a real nexus, it is a film made of nothing and at the end of the day, it's more boring than exciting."
+    },
+    {
+      "rating": "10",
+      "text": "First ever review on Metacritic. Shocked this movie only garnered a 40. Thus I will explain. Every once in a while, a movie breaks the traditional format. Either a romance or adventure: subject begins journey, is transformed by events or love (or both), corrects course, completes journey with success. This movie does not follow that exact path. Instead it relies on a metaphysical base. It builds on many principles that are simple in appearance but deeply rooted in nature. I have to say this movie reaches depths few others have; the acting, clear focus, and small overall scope contains the experience to the bare minimum. If you do not pick up on the emotion in the first 20 minutes this movie is not for you; it is too subtle for your taste. I find the overarching and detailed themes so visceral, well acted, written, and directed. You forget Hammer is an actor. Take this movie at face value and listen to what it tells you. The metaphysics are all there, you will not find so much in a similar genre. Truly great writing and directing. Top 10 of all time in my book."
+    },
+    {
+      "rating": "10",
+      "text": ")the film brings a message of \"knowing how to forgive\" above all and moving forward and not being stuck in past traumas, where these problems can bring us an interpretation of life, much more intense, and we can never take a step forward. It's what we call traumas due to a strong emotional impact, and because we are stuck with it, we often reach the bottom of the well, we go through several problems to finally be able to unlock it, when we can. The scene in which his father appears (in the protagonist's unconscious) was not shown, and they hug each other, conveying the main message of the film: forgiveness, despite the fact that his father beat him as a child. But anyway, those who have been through similar situations know how much it is to live that way, especially with father and mother involved. This can stop any human being, many manage to move on, others live to avenge a moment in the past, start to live from that moment"
+    }
+  ]
+}

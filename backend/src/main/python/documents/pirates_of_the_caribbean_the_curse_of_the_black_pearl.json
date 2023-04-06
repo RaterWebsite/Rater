@@ -1,5 +1,5 @@
 {
-  "id": 186,
+  "id": 388,
   "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
   "starring": [
     "Johnny Depp",
@@ -18,11 +18,11 @@
   "categories": {
     "plot": 8.857142857142858,
     "acting": 8.162162162162161,
-    "ending": 9.166666666666666,
+    "ending": 9.375,
     "soundtrack": 10.0,
     "cinematography": 8.0,
-    "familyFriendly": 8.333333333333334,
-    "funny": 9.083333333333334,
+    "familyFriendly": 6.0,
+    "funny": 8.9375,
     "action": 9.375
   },
   "reviews": [

@@ -1,0 +1,49 @@
+{
+  "id": 1521,
+  "title": "Baby on Board",
+  "starring": [
+    "Heather Graham",
+    "Jerry O'Connell"
+  ],
+  "runtime": 95,
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "description": "The story of Angela, an ambitious, image-conscious businesswoman working for over-demanding boss Mary. When Angela becomes unexpectedly pregnant at the peak of her career, her life with her divorce attorney husband, Curtis, is turned upside-down.",
+  "releaseYear": "2009",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/5fsemnPiqmx0RMFFVytHN0nRTXY.jpg",
+  "categories": {
+    "plot": 3.75,
+    "acting": 4.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 1.3333333333333333,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "This is the latest disaster movie that wasted my time. It was fairly dirty as well - thinking it was going to be comedy for the family when a name like \"baby on board\" is used. Not funny at all."
+    },
+    {
+      "rating": "3",
+      "text": "Disappointing, I like Heather Graham and Jerry O'Connell both but this movie just falls flat. It's really not funny."
+    },
+    {
+      "rating": "4",
+      "text": "Strained comedy that goes to extremes too much. Too many duds and not enough laughs, it's predictable and some of the characters are so crass and unappealing. The premise wears thin pretty quickly."
+    },
+    {
+      "rating": "9",
+      "text": "Actually found this film to be very funny. There were plot gaps but they were overcome by a terrific cast and clever direction. Laughed out loud more than once!"
+    },
+    {
+      "rating": "1",
+      "text": "I really like these actors, but this is just a really bad movie.  The main plot was sad and the secondary plot was disturbing.  John Corbett played a jerk who never should have been taken back by his wife."
+    }
+  ]
+}

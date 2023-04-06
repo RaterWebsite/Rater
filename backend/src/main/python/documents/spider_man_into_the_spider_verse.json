@@ -1,5 +1,5 @@
 {
-  "id": 52,
+  "id": 252,
   "title": "Spider-Man: Into the Spider-Verse",
   "starring": [
     "Shameik Moore",
@@ -19,12 +19,12 @@
   "categories": {
     "plot": 9.106060606060606,
     "acting": 9.272727272727273,
-    "ending": 8.714285714285714,
+    "ending": 8.875,
     "soundtrack": 9.454545454545455,
     "cinematography": 10.0,
-    "familyFriendly": 9.0,
-    "funny": 9.285714285714286,
-    "action": 8.75
+    "familyFriendly": 8.0,
+    "funny": 9.352941176470589,
+    "action": 8.764705882352942
   },
   "reviews": [
     {

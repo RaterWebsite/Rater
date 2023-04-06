@@ -1,0 +1,40 @@
+{
+  "id": 4312,
+  "title": "Amityville II: The Possession",
+  "starring": [
+    "James Olson",
+    "Burt Young"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Horror"
+  ],
+  "description": "Eager to start afresh, the unsuspecting couple of Anthony and Dolores Montelli, along with their four children, move into their dream house in Amityville. However, right from the very first night, strange paranormal experiences shatter the Montellis' fantasy, as the restless spirits of the dead and the new home's dark secrets open the unfathomable black portal of hell. Now, the family's older child, Sonny, has become the perfect vessel of destruction, as the invisible demonic forces claim his soul. Can Father Frank Adamsky cleanse the infernal Amityville House?",
+  "releaseYear": "1982",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/tmSdu5bKUQUbO5kZxeUooXuuQpk.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "La \u00fanica secuela (precuela mejor dicho) que vale la pena de esta longeva franquicia con 10 pel\u00edculas oficiales en su haber y otro pu\u00f1ado de pel\u00edculas no oficiales, aunque da igual si son oficiales o no ya que absolutamente ninguna, excepto esta, tiene continuidad con las dem\u00e1s."
+    },
+    {
+      "rating": "4",
+      "text": "Getting Ridiculous AlreadyThis sequel is more of your typical (In a bad way) horror movie with a lack of imagination."
+    },
+    {
+      "rating": "7",
+      "text": "One of the only few good movies in the worst horror franchise of all time!!"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": 17,
+  "id": 1599,
   "title": "Saving Private Ryan",
   "starring": [
     "Tom Hanks",
@@ -21,9 +21,9 @@
     "ending": 10.0,
     "soundtrack": 9.0,
     "cinematography": 10.0,
-    "familyFriendly": 9.5,
-    "funny": 4.0,
-    "action": 9.625
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 9.555555555555555
   },
   "reviews": [
     {

@@ -1,0 +1,49 @@
+{
+  "id": 2112,
+  "title": "The Exorcist III",
+  "starring": [
+    "George C. Scott",
+    "Ed Flanders"
+  ],
+  "runtime": 110,
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "description": "Fifteen years after the original film, the philosophical Lieutenant William F. Kinderman is investigating a baffling series of murders on Georgetown that all contain the hallmarks of The Gemini, a deceased serial killer. His investigation eventually leads him to a catatonic patient in a psychiatric hospital who has recently started to speak, claiming he is The Gemini and detailing the murders, but bears a striking resemblance to Father Damien Karras.",
+  "releaseYear": "1990",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/bl6nSPcyqz6xD2Igd2VQvz8qWo0.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 7.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "To me, The Exorcist III is a nice mysterious horror flick with many nice scary moments."
+    },
+    {
+      "rating": "8",
+      "text": "La \u00fanica y mejor secuela de la saga, a\u00fan si se tratara de una pel\u00edcula aparte, se sostiene perfectamente por s\u00ed sola, buenas actuaciones, buena historia y pese a que es m\u00e1s Thriller que Terror, logra tener momentos aterradores."
+    },
+    {
+      "rating": "6",
+      "text": "Definitely Better Than 2It may be no classic like the first film, But it\u2019s a major improvement over the 2nd film."
+    },
+    {
+      "rating": "7",
+      "text": "The atmosphere just builds and builds and builds... And George C. Scott & Brad Dourif are simply amazing in this!"
+    },
+    {
+      "rating": "7",
+      "text": "The Exorcist III is in fact the only entry in the franchise that really scare the s**t out of me. Some sequences are just creepy as hell. As always both George C Scott and Brad Dourif are absolutely brilliant and the directing is actually very fine for someone who wasn't a director (since the job was done by William Peter Blatty, the franchise's creator). The director's cut (titled The Exorcist III Legion) is superior on many points, but the theatrical version is still a very good version. Barry DeVorzon's original score added more scare and is also probably the best of the franchise, ironically the soundtrack is still unreleased to date. Some boring unnecessary sequences are going to decrease the overall rating but that's nothing to be mad about."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": 8,
+  "id": 372,
   "title": "The Lord of the Rings: The Fellowship of the Ring",
   "starring": [
     "Elijah Wood",
@@ -18,12 +18,12 @@
   "categories": {
     "plot": 9.666666666666666,
     "acting": 9.90625,
-    "ending": 9.428571428571429,
+    "ending": 9.25,
     "soundtrack": 9.6,
     "cinematography": 9.333333333333334,
-    "familyFriendly": 9.666666666666666,
+    "familyFriendly": 6.0,
     "funny": 10.0,
-    "action": 9.666666666666666
+    "action": 9.615384615384615
   },
   "reviews": [
     {
@@ -195,6 +195,10 @@
       "text": "Wonderful adventure movie. Best ever."
     },
     {
+      "rating": "8",
+      "text": "Really good. It\u00b4s beautiful, exciting, emotive, epic. It has all that, but you can\u00b4t give it a 10. First of all the last part of the trilogy is the best, so you have to reserve it for that one if anything. It\u00b4s a really good mix of characters, wonderful to see all of them working together. Although the heart of the film and the entire trilogy (especially in the last sequel) is the relationship between Frodo and Sam. It can be all the epic you want when it comes to action, score, visuals, etc, but this is what makes the movie. And this is why many other big budget films fail miserably quality wise. I was going to give this one a 9 but there are a few scenes towards the end that I don\u00b4t like too much, a little bit repetitive. Best moments are the beginning of the journey and the whole time the spend in Moria, really exciting."
+    },
+    {
       "rating": "10",
       "text": "I just cant decide between this movie and the 3rd LOTR movie of which is my favourite. The action and story is amazing and keeps you glued to the screen from start to end!"
     },
@@ -221,10 +225,6 @@
     {
       "rating": "10",
       "text": "The Story of this movie is one the best in cinemahistory.the execution is even better, What makes this movie great is that you care about the characters, so once some stuff goes down you feel for them en your emotional invested. What can i say about this movie that has not been said already, Its A Masterpiece! 10/10"
-    },
-    {
-      "rating": "10",
-      "text": "This is how you make fantasy movie that does honor the work of J.R.R Tolkien"
     }
   ]
 }
