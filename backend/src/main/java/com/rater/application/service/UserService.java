@@ -45,7 +45,7 @@ public class UserService {
         this.userDB.updateRecord(review);
     }
 
-    public String getDBInfo() {
+    public String connectToDB() {
         try {
             this.userDB.connectToDB();
             this.userDB.createTables();
