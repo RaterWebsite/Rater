@@ -58,34 +58,6 @@ public class UserDatabase implements ApplicationDatabase {
             while (scan.hasNext()) {
                 stmt.execute(scan.next());
             }
-            // String createUserTable = "CREATE TABLE IF NOT EXISTS users (\n"  
-            //     + " username varchar(40) PRIMARY KEY,\n"  
-            //     + " password text NOT NULL\n"  
-            //     + ");";
-            // String testFile = Util.loadAsString("/app/documents/database/Create.txt");
-            
-            
-            // stmt.execute(testFile);
-            // String createRatingTable = "CREATE TABLE IF NOT EXISTS reviews (\n"  
-            //     + " username varchar(40) NOT NULL,\n"  
-            //     + " reviewee varchar(60) NOT NULL,\n" 
-            //     + " reviewText text,\n" 
-            //     + " score float NOT NULL,\n"  
-            //     + " CONSTRAINT user_review PRIMARY KEY (username, reviewee),\n"
-            //     + " FOREIGN KEY (username) REFERENCES users(username)\n" 
-            //     + ");";
-            // stmt.execute(createRatingTable);
-
-            // String createFriendsTable = "CREATE TABLE IF NOT EXISTS friends (\n"
-            //     + " relatingUsername varchar(40),\n"
-            //     + " relatedUsername varchar(40),\n"
-            //     + " relatingUserStatus varchar(40),\n"
-            //     + " relatedUserStatus varchar(40),\n"
-            //     + " CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername),\n"
-            //     + " FOREIGN KEY (relatingUsername) REFERENCES users(username),\n"
-            //     + " FOREIGN KEY (relatedUsername) REFERENCES users(username)\n"
-            //     + ");";
-            // stmt.execute(createFriendsTable);
         } catch (SQLException e) {
             System.out.println(e);
         } catch (FileNotFoundException e) {
