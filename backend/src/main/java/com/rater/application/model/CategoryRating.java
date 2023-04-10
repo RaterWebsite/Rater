@@ -4,7 +4,7 @@ import java.util.Map;
 
 public interface CategoryRating {
 
-    void setCategoryRatings();
+    void setCategoryRatings(Map<String, Float> ratings);
 
     Map<String, Float> getCategoryRatings();
 }

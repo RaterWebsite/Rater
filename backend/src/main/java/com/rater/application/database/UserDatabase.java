@@ -2,10 +2,17 @@ package com.rater.application.database;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.sql.Connection;  
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -48,6 +55,21 @@ public class UserDatabase implements ApplicationDatabase {
             System.out.println(e);
         }
         
+    }
+
+    public void insertDBDummyData() {
+        try {
+            Scanner scan = new Scanner(new File("/app/documents/database/Populate.txt"));
+            scan.useDelimiter(";");
+            Statement stmt = this.dbConn.createStatement();
+            while (scan.hasNext()) {
+                stmt.execute(scan.next());
+            }
+        } catch (SQLException e) {
+            System.out.println(e);
+        } catch (FileNotFoundException e) {
+            System.out.println(e);
+        }
     }
 
     public void createTables() {
@@ -104,6 +126,49 @@ public class UserDatabase implements ApplicationDatabase {
         } else {
             System.out.println("Cannot update invalid object. Needed type: User OR type: Review.\n");
         }
+    }
+
+    public List<Review> getReviewsByReviewee(String reviewee) {
+        try {
+            List<Review> reviews = new ArrayList<>();
+            Scanner scan = new Scanner(new File("/app/documents/database/movie_ratingsQueries.txt"));
+            scan.useDelimiter(";");
+            String sql = scan.next();
+            PreparedStatement stmt = dbConn.prepareStatement(sql);
+            stmt.setString(1, reviewee);
+            ResultSet rs = stmt.executeQuery();
+            String reviewer;
+            Map<String, Float> ratings = new HashMap<String, Float>();
+
+            while (rs.next()) {
+                reviewer = rs.getString("reviewer");
+                ratings.put("plot", rs.getFloat("plot"));
+                ratings.put("acting", rs.getFloat("acting"));
+                ratings.put("ending", rs.getFloat("ending"));
+                ratings.put("soundtrack", rs.getFloat("soundtrack"));
+                ratings.put("cinematography", rs.getFloat("cinematography"));
+                ratings.put("family_friendly", rs.getFloat("family_friendly"));
+                ratings.put("funny", rs.getFloat("funny")); 
+                ratings.put("action", rs.getFloat("action"));
+                Review review = new Review();
+                review.setReviewer(reviewer);
+                review.setReviewee(reviewee);
+                review = (Review) getRecord(review);    
+                review.setRating(ratings);
+
+                reviews.add(review);
+                ratings.clear();           
+            }
+            return reviews;
+        } catch (SQLException e) {
+            System.out.println(e);
+            return null;
+        } catch (IOException e) {
+            System.out.println(e);
+            return null;
+        }
+        
+        
     }
 
 }

@@ -1,0 +1,22 @@
+INSERT INTO users (username, password) values ("alexb", "alexpassword");
+INSERT INTO users (username, password) values ("andrewl", "andrewpassword");
+INSERT INTO users (username, password) values ("jacobs", "jacobpassword");
+INSERT INTO users (username, password) values ("keithc", "keithpassword");
+
+INSERT INTO reviews (reviewer, reviewee, reviewText) values
+("alexb", "Raiders of the Lost Ark", "My personal favorite movie of all time!");
+INSERT INTO reviews (reviewer, reviewee, reviewText) values
+("jacobs", "Raiders of the Lost Ark", "The perfect action movie. Excellent pacing.");
+INSERT INTO reviews (reviewer, reviewee, reviewText) values
+("andrewl", "Raiders of the Lost Ark", "I really loved the soundtrack of this movie and the dynamic between Indiana and Belloch.");
+INSERT INTO reviews (reviewer, reviewee, reviewText) values
+("keithc", "Raiders of the Lost Ark", "Definitely a cult classic must-watch.");
+
+INSERT INTO movie_ratings (reviewer, reviewee, plot, acting, ending, soundtrack, cinematography, family_friendly, funny, action)
+values ("alexb", "Raiders of the Lost Ark", 10.0, 9.5, 10.0, 10.0, 10.0, 10.0, 9.0, 10.0);
+INSERT INTO movie_ratings (reviewer, reviewee, plot, acting, ending, soundtrack, cinematography, family_friendly, funny, action)
+values ("jacobs", "Raiders of the Lost Ark", 10.0, 9.2, 10.0, 9.0, 10.0, 10.0, 9.0, 10.0);
+INSERT INTO movie_ratings (reviewer, reviewee, plot, acting, ending, soundtrack, cinematography, family_friendly, funny, action)
+values ("andrewl", "Raiders of the Lost Ark", 9.8, 9.5, 10.0, 10.0, 10.0, 10.0, 9.0, 9.8);
+INSERT INTO movie_ratings (reviewer, reviewee, plot, acting, ending, soundtrack, cinematography, family_friendly, funny, action)
+values ("keithc", "Raiders of the Lost Ark", 10.0, 9.2, 9.3, 9.0, 9.7, 10.0, 9.2, 10.0);

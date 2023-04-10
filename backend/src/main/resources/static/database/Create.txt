@@ -3,15 +3,6 @@ CREATE TABLE IF NOT EXISTS users (
     password text NOT NULL
 );
 
-CREATE TABLE IF NOT EXISTS reviews (
-    username varchar(40) NOT NULL,
-    reviewee varchar(60) NOT NULL,
-    reviewText text,
-    score float NOT NULL,
-    CONSTRAINT user_review PRIMARY KEY (username, reviewee),
-    FOREIGN KEY (username) REFERENCES users(username)
-);
-
 CREATE TABLE IF NOT EXISTS friends (
     relatingUsername varchar(40),
     relatedUsername varchar(40),
@@ -20,4 +11,28 @@ CREATE TABLE IF NOT EXISTS friends (
     CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername),
     FOREIGN KEY (relatingUsername) REFERENCES users(username),
     FOREIGN KEY (relatedUsername) REFERENCES users(username)
+);
+
+CREATE TABLE IF NOT EXISTS reviews (
+    reviewer varchar(40) NOT NULL,
+    reviewee varchar(60) NOT NULL,
+    reviewText text,
+    CONSTRAINT user_review PRIMARY KEY (reviewer, reviewee),
+    FOREIGN KEY (reviewer) REFERENCES users(username)
+);
+
+CREATE TABLE IF NOT EXISTS movie_ratings (
+    reviewer varchar(40) NOT NULL,
+    reviewee varchar(60) NOT NULL,
+    plot float NOT NULL,
+    acting float NOT NULL,
+    ending float NOT NULL,
+    soundtrack float NOT NULL,
+    cinematography float NOT NULL,
+    family_friendly float NOT NULL,
+    funny float NOT NULL,
+    action float NOT NULL,
+    FOREIGN KEY (reviewer) REFERENCES users(username),
+    FOREIGN KEY (reviewee) REFERENCES reviews(reviewee),
+    CONSTRAINT user_review PRIMARY KEY (reviewer, reviewee)
 );

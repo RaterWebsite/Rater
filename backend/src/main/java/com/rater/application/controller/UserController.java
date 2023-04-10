@@ -61,6 +61,11 @@ public class UserController {
         return service.connectToDB();
     }
 
+    @PostMapping("/insertDBDummyData")
+    public void insertDBDummyData() {
+        service.insertDBDummyData();
+    }
+
     @PostMapping("/followUser")
     public void followUser(@RequestBody String follower, String followed) {
         service.followUser(follower, followed);

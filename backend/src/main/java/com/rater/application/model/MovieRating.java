@@ -1,18 +1,17 @@
 package com.rater.application.model;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class MovieRating implements CategoryRating {
-    
-    public void setCategoryRatings() {
 
+    private Map<String, Float> ratings;
+    
+    public void setCategoryRatings(Map<String, Float> ratings) {
+        this.ratings = ratings;
     }
 
     public Map<String, Float> getCategoryRatings() {
-        return new HashMap<>();
+        return this.ratings;
     }
 
 

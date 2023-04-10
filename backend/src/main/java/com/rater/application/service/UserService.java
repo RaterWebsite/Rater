@@ -35,6 +35,10 @@ public class UserService {
         
     }
 
+    public void insertDBDummyData() {
+        userDB.insertDBDummyData();
+    }
+
     public void createUser(User user) {
         this.userDB.addRecord(user);
     }
