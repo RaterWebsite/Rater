@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS users (
+    username varchar(40) NOT NULL PRIMARY KEY,
+    password text NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS reviews (
+    username varchar(40) NOT NULL,
+    reviewee varchar(60) NOT NULL,
+    reviewText text,
+    score float NOT NULL,
+    CONSTRAINT user_review PRIMARY KEY (username, reviewee),
+    FOREIGN KEY (username) REFERENCES users(username)
+);
+
+CREATE TABLE IF NOT EXISTS friends (
+    relatingUsername varchar(40),
+    relatedUsername varchar(40),
+    relatingUserStatus varchar(40),
+    relatedUserStatus varchar(40),
+    CONSTRAINT userPair PRIMARY KEY (relatingUsername, relatedUsername),
+    FOREIGN KEY (relatingUsername) REFERENCES users(username),
+    FOREIGN KEY (relatedUsername) REFERENCES users(username)
+);

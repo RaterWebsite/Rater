@@ -1,5 +1,6 @@
 package com.rater.application.database.table.UserDB;
 
+import com.rater.application.model.MovieRating;
 import com.rater.application.model.Review;
 import java.sql.Connection;  
 import java.sql.PreparedStatement;
@@ -16,7 +17,7 @@ public class ReviewTable {
             stmt.setString(1, review.getReviewer().getUsername());
             stmt.setString(2, review.getReviewee());
             stmt.setString(3, review.getText());
-            stmt.setFloat(4, review.getRating());
+            stmt.setFloat(4, 1.0f);
             stmt.executeUpdate();
         } catch (SQLException e) {
             System.out.println(e);
@@ -39,7 +40,7 @@ public class ReviewTable {
             stmt.setString(2, review.getReviewee());
             ResultSet rs = stmt.executeQuery();
             rs.next(); //get first row
-            review.setRating(rs.getFloat("score"));
+            review.setRating(new MovieRating());
             review.setText(rs.getString("reviewText"));
             return review;
         } catch (SQLException e) {
@@ -63,7 +64,7 @@ public class ReviewTable {
                 + ", score=?\n"
                 + "WHERE reviews.username=? AND reviews.reviewee=?;");
             stmt.setString(1, review.getText());
-            stmt.setFloat(2, review.getRating());
+            stmt.setFloat(2, 1.0f);
             stmt.setString(3, review.getReviewer().getUsername());
             stmt.setString(4, review.getReviewee());
             stmt.executeUpdate();

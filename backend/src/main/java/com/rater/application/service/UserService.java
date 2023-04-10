@@ -2,6 +2,8 @@ package com.rater.application.service;
 
 
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -73,6 +75,10 @@ public class UserService {
             this.userDB.addRecord(returned);
         }
         
+    }
+
+    public List<Review> getReviewsByReviewee(String reviewee) {
+        return new ArrayList<>();
     }
 
     

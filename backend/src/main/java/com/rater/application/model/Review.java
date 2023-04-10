@@ -1,7 +1,7 @@
 package com.rater.application.model;
 
 public class Review {
-    private float rating;
+    private CategoryRating rating;
     private String text;
     private User reviewer;
     private String reviewee;
@@ -9,14 +9,14 @@ public class Review {
     
     public Review() {
     }
-    public Review(float rating, String text) {
+    public Review(CategoryRating rating, String text) {
         this.rating = rating;
         this.text = text;
     }
-    public float getRating() {
+    public CategoryRating getRating() {
         return rating;
     }
-    public void setRating(float rating) {
+    public void setRating(CategoryRating rating) {
         this.rating = rating;
     }
     public String getText() {

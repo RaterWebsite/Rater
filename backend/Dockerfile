@@ -22,6 +22,7 @@ COPY --from=builder /app/target/backend-0.0.1-SNAPSHOT.jar /app/backend.jar
 
 # Copy the movie documents into the final container
 COPY src/main/python/documents/ /app/documents/
+COPY src/main/resources/static/database/ /app/documents/database
 COPY src/main/resources/static/es-settings.json /app/resources/es-settings.json
 COPY src/main/resources/static/mappings/movie.json /app/resources/movie.json
 

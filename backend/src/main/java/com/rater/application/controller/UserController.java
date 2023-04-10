@@ -1,5 +1,7 @@
 package com.rater.application.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -62,6 +64,11 @@ public class UserController {
     @PostMapping("/followUser")
     public void followUser(@RequestBody String follower, String followed) {
         service.followUser(follower, followed);
+    }
+
+    @GetMapping("reviewsByReviewee")
+    public List<Review> getReviewsByReviewee(@RequestBody String reviewee) {
+        return service.getReviewsByReviewee(reviewee);
     }
 
 
