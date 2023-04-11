@@ -33,6 +33,5 @@ CREATE TABLE IF NOT EXISTS movie_ratings (
     funny float NOT NULL,
     action float NOT NULL,
     FOREIGN KEY (reviewer) REFERENCES users(username),
-    FOREIGN KEY (reviewee) REFERENCES reviews(reviewee),
     CONSTRAINT user_review PRIMARY KEY (reviewer, reviewee)
 );

@@ -7,6 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
+import java.util.Map;
 
 
 public class ReviewTable {
@@ -34,15 +35,35 @@ public class ReviewTable {
     public static Review getRecord(Review review, Connection dbConn) {
         PreparedStatement stmt = null;
         try {
-            stmt = dbConn.prepareStatement("SELECT reviewText, score\n" 
+            stmt = dbConn.prepareStatement("SELECT reviewText\n" 
                 + "FROM reviews\n"
-                + "WHERE reviews.username=? AND reviews.reviewee=?;");
+                + "WHERE reviews.reviewer=? AND reviews.reviewee=?;");
             stmt.setString(1, review.getReviewer());
             stmt.setString(2, review.getReviewee());
             ResultSet rs = stmt.executeQuery();
             rs.next(); //get first row
-            review.setRating(new HashMap<String, Float>());
             review.setText(rs.getString("reviewText"));
+            stmt.close();
+            rs.close();
+
+            stmt = dbConn.prepareStatement("SELECT plot, acting, ending, soundtrack, cinematography, family_friendly, funny, action\n"
+                + "FROM movie_ratings\n"
+                + "WHERE movie_ratings.reviewer=? AND movie_ratings.reviewee=?");
+            stmt.setString(1, review.getReviewer());
+            stmt.setString(2, review.getReviewee());
+            rs = stmt.executeQuery();
+            rs.next();
+            Map<String, Float> ratings = new HashMap<>();
+            ratings.put("plot", rs.getFloat("plot"));
+            ratings.put("acting", rs.getFloat("acting"));
+            ratings.put("ending", rs.getFloat("ending"));
+            ratings.put("soundtrack", rs.getFloat("soundtrack"));
+            ratings.put("cinematography", rs.getFloat("cinematography"));
+            ratings.put("family_friendly", rs.getFloat("family_friendly"));
+            ratings.put("funny", rs.getFloat("funny")); 
+            ratings.put("action", rs.getFloat("action"));
+
+            review.setRating(ratings);
             return review;
         } catch (SQLException e) {
             System.out.println(e);
