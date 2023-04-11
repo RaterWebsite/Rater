@@ -35,6 +35,7 @@ public class ReviewTable {
     public static Review getRecord(Review review, Connection dbConn) {
         PreparedStatement stmt = null;
         try {
+            System.out.println("Retrieving review given user: " + review.getReviewer() + " and reviewee: " + review.getReviewee());
             stmt = dbConn.prepareStatement("SELECT reviewText\n" 
                 + "FROM reviews\n"
                 + "WHERE reviews.reviewer=? AND reviews.reviewee=?;");

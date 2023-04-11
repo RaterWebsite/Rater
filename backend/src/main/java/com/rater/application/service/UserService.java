@@ -82,7 +82,7 @@ public class UserService {
     }
 
     public List<Review> getReviewsByReviewee(String reviewee) {
-        return new ArrayList<>();
+        return userDB.getReviewsByReviewee(reviewee);
     }
 
     

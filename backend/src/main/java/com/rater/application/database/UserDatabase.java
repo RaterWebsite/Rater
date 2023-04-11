@@ -138,9 +138,9 @@ public class UserDatabase implements ApplicationDatabase {
             stmt.setString(1, reviewee);
             ResultSet rs = stmt.executeQuery();
             String reviewer;
-            Map<String, Float> ratings = new HashMap<String, Float>();
 
             while (rs.next()) {
+                Map<String, Float> ratings = new HashMap<String, Float>();
                 reviewer = rs.getString("reviewer");
                 ratings.put("plot", rs.getFloat("plot"));
                 ratings.put("acting", rs.getFloat("acting"));
@@ -155,9 +155,7 @@ public class UserDatabase implements ApplicationDatabase {
                 review.setReviewee(reviewee);
                 review = (Review) getRecord(review);    
                 review.setRating(ratings);
-
-                reviews.add(review);
-                ratings.clear();           
+                reviews.add(review);     
             }
             return reviews;
         } catch (SQLException e) {
