@@ -15,7 +15,8 @@ public class Movie {
     private String mpaaRating; //G, PG, etc.
     private String imageUrl;
     private Map<String, Float> categories;
-    private List<Review> reviews;
+    private Object reviews; //dummy member for deserialization purposes
+    
     
     public List<String> getStarring() {
         return starring;
@@ -77,13 +78,14 @@ public class Movie {
     public void setTitle(String title) {
         this.title = title;
     }
-    public List<Review> getReviews() {
+    public Object getReviews() {
         return reviews;
     }
-    public void setReviews(List<Review> reviews) {
+    public void setReviews(Object reviews) {
         this.reviews = reviews;
     }
-
+   
+    
     
     
     

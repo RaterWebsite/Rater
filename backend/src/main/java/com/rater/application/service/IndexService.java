@@ -62,7 +62,6 @@ public class IndexService {
                 createIndexRequest.settings(settings, XContentType.JSON);
 
                 final String mappings = loadMappings(indexName);
-                System.out.println("Here are the mappings we loaded: \n" + mappings);
                 if (mappings != null) {
                     createIndexRequest.mapping(mappings, XContentType.JSON);
                 }
@@ -75,7 +74,7 @@ public class IndexService {
     }
 
     private String loadMappings(String indexName) {
-        final String mappings = Util.loadAsString("/app/resources/movie.json");
+        final String mappings = Util.loadAsString("/app/resources/" + indexName + ".json");
         if (mappings == null) {
             LOG.error("Failed to load mappings for index with name '{}'", indexName);
             return null;

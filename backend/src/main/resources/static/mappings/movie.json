@@ -2,9 +2,9 @@
   "properties": {
     "id": { "type": "keyword"},
     "title": { "type": "text" },
-    "starring": { "type": "text", "items": { "type": "keyword" } },
+    "starring": { "type": "keyword" },
     "runtime": { "type": "integer" },
-    "genre": { "type": "text", "items": { "type": "keyword" } },
+    "genre": { "type": "keyword" },
     "description": { "type": "text" },
     "releaseYear": { "type": "integer" },
     "rating": { "type": "keyword" },
