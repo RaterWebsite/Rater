@@ -62,6 +62,7 @@ public class IndexService {
                 createIndexRequest.settings(settings, XContentType.JSON);
 
                 final String mappings = loadMappings(indexName);
+                System.out.println("Here are the mappings we loaded: \n" + mappings);
                 if (mappings != null) {
                     createIndexRequest.mapping(mappings, XContentType.JSON);
                 }
