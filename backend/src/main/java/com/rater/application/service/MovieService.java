@@ -107,4 +107,15 @@ public class MovieService {
             return null;
         }
     }
+
+    public Movie getByTitle(final String movieTitle) {
+        SearchRequestDTO titleSearch = new SearchRequestDTO();
+        titleSearch.setSearchTerm(movieTitle); //use title as search term
+        List<String> searchFields = new ArrayList<String>();
+        searchFields.add("title");
+        titleSearch.setFields(searchFields);
+        SearchRequest elasticSearchRequest = SearchUtil.buildSearchRequest(Indices.MOVIE_INDEX, titleSearch);
+        LOG.info("Here is the SearchRequest: " + elasticSearchRequest.toString());
+        return searchInternal(elasticSearchRequest).get(0); //titles are unique, only one will be returned
+    }
 }

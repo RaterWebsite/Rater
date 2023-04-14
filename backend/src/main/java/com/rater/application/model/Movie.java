@@ -15,7 +15,7 @@ public class Movie {
     private String mpaaRating; //G, PG, etc.
     private String imageUrl;
     private Map<String, Float> categories;
-    private Object reviews; //dummy member for deserialization purposes
+    private Object reviews; //dummy member for deserialization purposes, will be obsolete soon (getting rid of reviews in movie jsons)
     
     
     public List<String> getStarring() {
