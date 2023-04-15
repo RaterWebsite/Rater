@@ -10,8 +10,17 @@
     "rating": { "type": "keyword" },
     "image": { "type": "text" },
     "categories": {
-      "type": "object",
-      "additionalProperties": { "type": "float" }
+      "type": "nested",
+      "properties": { 
+        "plot": { "type": "float "},
+        "acting": { "type": "float "},
+        "ending": { "type": "float "},
+        "soundtrack": { "type": "float "},
+        "cinematography": { "type": "float "},
+        "familyFriendly": { "type": "float "},
+        "funny": { "type": "float "},
+        "action": { "type": "float "}
+      }
     }
   }
 }

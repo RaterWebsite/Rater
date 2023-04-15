@@ -24,12 +24,10 @@ public class UserService {
 
     private final UserDatabase userDB;
     private final MovieService movieService;
-    private final RestHighLevelClient client;
     
     @Autowired
     public UserService(RestHighLevelClient client, MovieService movieService) {
         this.userDB = new UserDatabase();
-        this.client = client;
         this.movieService = movieService;
     }
 
@@ -61,7 +59,12 @@ public class UserService {
 
     //TOOD: make reviewee interface/superclass and make this method generic for type reviewee
     public void createReview(Review review) {
-        int numReviews = this.userDB.getReviewsByReviewee(review.getReviewee()).size(); //might want to cache number of records at some point
+        List<Review> reviews = this.userDB.getReviewsByReviewee(review.getReviewee()); //might want to cache number of records at some point
+        int numReviews = 0;
+        if (reviews != null) {
+            //already has review history
+            numReviews = reviews.size();
+        }
         //need to update the elastic search document with new review score (add it to running average)
         Movie current = movieService.getByTitle(review.getReviewee());
         Map<String, Float> reviewRating = review.getRating();

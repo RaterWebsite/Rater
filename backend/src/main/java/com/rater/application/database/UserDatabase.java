@@ -18,6 +18,7 @@ import java.util.Scanner;
 import org.springframework.beans.factory.annotation.Value;
 
 import com.rater.application.database.table.UserDB.FriendsTable;
+import com.rater.application.database.table.UserDB.MovieRatingsTable;
 import com.rater.application.database.table.UserDB.ReviewTable;
 import com.rater.application.database.table.UserDB.UserTable;
 import com.rater.application.helper.Util;
@@ -95,6 +96,7 @@ public class UserDatabase implements ApplicationDatabase {
         } else if (record instanceof Review) {
             Review review = (Review) record;
             ReviewTable.addRecord(review, dbConn);
+            MovieRatingsTable.addRecord(review, dbConn);
         } else {
             System.out.println("Cannot add invalid object. Needed type: User OR type: Review.\n");
         }
@@ -106,7 +108,13 @@ public class UserDatabase implements ApplicationDatabase {
             return UserTable.getRecord(user, dbConn);
         } else if (object instanceof Review) {
             Review review = (Review) object;
-            return ReviewTable.getRecord(review, dbConn);
+            Review mainReview = ReviewTable.getRecord(review, dbConn);
+            Review reviewRating = MovieRatingsTable.getRecord(review, dbConn);
+            if (mainReview == null || reviewRating == null) {
+                return null;
+            }
+            mainReview.setRating(reviewRating.getRating());
+            return mainReview;
         } else if (object instanceof UserRelationship) {
             UserRelationship relationship = (UserRelationship) object;
             return FriendsTable.getRecord(relationship, dbConn);
@@ -147,13 +155,16 @@ public class UserDatabase implements ApplicationDatabase {
                 ratings.put("ending", rs.getFloat("ending"));
                 ratings.put("soundtrack", rs.getFloat("soundtrack"));
                 ratings.put("cinematography", rs.getFloat("cinematography"));
-                ratings.put("family_friendly", rs.getFloat("family_friendly"));
+                ratings.put("familyFriendly", rs.getFloat("family_friendly"));
                 ratings.put("funny", rs.getFloat("funny")); 
                 ratings.put("action", rs.getFloat("action"));
                 Review review = new Review();
                 review.setReviewer(reviewer);
                 review.setReviewee(reviewee);
-                review = (Review) getRecord(review);    
+                review = (Review) getRecord(review);
+                if (review == null) {
+                    return null;
+                }    
                 review.setRating(ratings);
                 reviews.add(review);     
             }
