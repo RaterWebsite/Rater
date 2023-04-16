@@ -2,16 +2,25 @@
   "properties": {
     "id": { "type": "keyword"},
     "title": { "type": "text" },
-    "starring": { "type": "array", "items": { "type": "keyword" } },
+    "starring": { "type": "keyword" },
     "runtime": { "type": "integer" },
-    "genre": { "type": "array", "items": { "type": "keyword" } },
+    "genre": { "type": "keyword" },
     "description": { "type": "text" },
     "releaseYear": { "type": "integer" },
     "rating": { "type": "keyword" },
     "image": { "type": "text" },
     "categories": {
-      "type": "object",
-      "additionalProperties": { "type": "float" }
+      "type": "nested",
+      "properties": { 
+        "plot": { "type": "float "},
+        "acting": { "type": "float "},
+        "ending": { "type": "float "},
+        "soundtrack": { "type": "float "},
+        "cinematography": { "type": "float "},
+        "familyFriendly": { "type": "float "},
+        "funny": { "type": "float "},
+        "action": { "type": "float "}
+      }
     }
   }
 }

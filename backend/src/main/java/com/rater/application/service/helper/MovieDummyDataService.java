@@ -25,7 +25,7 @@ public class MovieDummyDataService {
     }
 
     public void insertDummyData() {
-        File jsonDirectory = new File("/app/documents");
+        File jsonDirectory = new File("/app/documents/movieJsons");
         File[] jsonFiles = jsonDirectory.listFiles();
         for (File jsonDoc: jsonFiles) {
             movieService.index(buildMovie(jsonDoc));

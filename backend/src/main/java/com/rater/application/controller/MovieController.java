@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.rater.application.model.Movie;
+import com.rater.application.model.Review;
 import com.rater.application.search.SearchRequestDTO;
 import com.rater.application.service.MovieService;
 import com.rater.application.service.helper.MovieDummyDataService;

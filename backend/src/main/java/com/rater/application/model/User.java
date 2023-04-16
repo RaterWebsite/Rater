@@ -25,8 +25,7 @@ public class User {
     @Column(name = "password")
     private String password;
 
-    @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER, targetEntity = User.class)
-    public List<Rating> ratings;
+    
 
     public User() {
 
@@ -35,11 +34,6 @@ public class User {
     public User(User other) {
         this.username = other.username;
         this.password = other.password;
-        if (other.ratings == null) {
-            this.ratings = new ArrayList<Rating>();
-        } else {
-            this.ratings = other.ratings;
-        }
     }
 
     public User(String username, String password) {
@@ -63,20 +57,7 @@ public class User {
         this.password = password;
     }
 
-    public List<Rating> getRatings() {
-        if (this.ratings == null) {
-            return new ArrayList<Rating>();
-        }
-        return ratings;
-    }
 
-    public void setRatings(List<Rating> ratings) {
-        this.ratings = ratings;
-    }
-
-    public void addRating(Rating rating) {
-        getRatings().add(rating);
-    }
 
     
     

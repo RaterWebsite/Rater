@@ -5,6 +5,8 @@ services:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.12.1
     environment:
       - discovery.type=single-node
+    volumes:
+      - esdata1:/usr/share/elasticsearch/data:rw
     healthcheck:
       test: ['CMD-SHELL', 'curl --silent --fail localhost:9200/_cluster/health || exit 1']
       interval: 30s
@@ -12,6 +14,24 @@ services:
       retries: 3
     ports:
       - '9200:9200' # backend/src/resources/application.properites references 'elasticsearch:9200'
+
+  db:
+    image: mysql
+    # NOTE: use of "mysql_native_password" is not recommended: https://dev.mysql.com/doc/refman/8.0/en/upgrading-from-previous-series.html#upgrade-caching-sha2-password
+    # (this is just an example, not intended to be a production configuration)
+    #command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_DATABASE: USERS
+      MYSQL_ROOT_PASSWORD: pass
+    volumes:
+      - rater-database:/var/lib/mysql
+    ports:
+      - 3307:3306
+    healthcheck:
+        test: ['CMD', 'mysqladmin', 'ping', '-h', 'localhost', '-u', 'root', '-p$$MYSQL_ROOT_PASSWORD']
+        timeout: 20s
+        retries: 10
 
   backend:
     build:
@@ -25,6 +45,13 @@ services:
     depends_on:
       elasticsearch:
         condition: service_healthy
+      db:
+        condition: service_healthy
+    environment:
+      MYSQL_HOST: db
+      MYSQL_USER: root
+      MYSQL_PASSWORD: pass
+      MYSQL_PORT: 3306
 
   frontend:
     build:
@@ -35,3 +62,8 @@ services:
       - '5173:5173'
     depends_on:
       - backend
+
+volumes:
+  rater-database:
+  esdata1:
+    driver: local
