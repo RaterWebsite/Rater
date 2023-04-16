@@ -67,6 +67,8 @@ public class UserService {
         }
         //need to update the elastic search document with new review score (add it to running average)
         Movie current = movieService.getByTitle(review.getReviewee());
+        System.out.println("Here are the current ratings: " + current.getCategories().toString());
+
         Map<String, Float> reviewRating = review.getRating();
         for (Map.Entry<String, Float> category : current.getCategories().entrySet()) {
             Float userRating = reviewRating.get(category.getKey());
@@ -76,6 +78,8 @@ public class UserService {
             currentRating = currentRating / (numReviews+1); //get new average score of category
             category.setValue(currentRating);
         }
+        System.out.println("Here are the updated ratings: " + current.getCategories().toString());
+        movieService.update(current);
         this.userDB.addRecord(review);
 
     }
