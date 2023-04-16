@@ -1,1 +1,67 @@
-{"id": 4588, "title": "Buddy Games", "starring": ["Josh Duhamel", "Dan Bakkedahl"], "runtime": 90, "genre": ["Comedy"], "description": "After six lifelong friends have a five-year falling out, \u201cThe Bobfather\u201d, reunites his pals for the Buddy Games, an insane competition of absurd physical and mental challenges with the chance to win a $150,000 pot. Now all bets are off, as the determined dudes' fight, claw, and party for the big bucks.", "releaseYear": "2019", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg", "categories": {"plot": 5.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 9.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Critics are paid to normalize the shuttering of great real life pieces such as the Buddy Games. Firstly, fictional films are as such! Just because you are too **** to go out in the woods and compete with others to ultimately call yourself the alpha does not mean that human nature has been completely lost. I ask you all to rewatch the beginning minute of this film. Humans have been competing with each other to name themselves the ultimate for as long as there have been humans. Seems to me that people have lost their natural response to show who is the best. Of course we have seen the warning signs along the way. For example, in children's sports now, the slogan reads \"Everyone is a winner!\" I remember when you had to actually devote yourself to becoming a winner. Anyways, we all already know these things, soft as some of you are. Buddy Games was a great farce in the history of farces. What a genuinely humorous and likability to the normal Joe. The critics are simply haters who are trying to keep our minds from believing that we should portray any kind of personal creativity and enjoyment. This movie bring out the inner child more than Tag. HATERs have to have something to hate on! PLEASE CONTINUE TO RELEASE ORIGINAL CONTENT THAT EXPANDS OUR MINDS AND SHOWERS US WITH THE POWER OF PURE LAUGHTER! Ty all!"}, {"rating": "9", "text": "Hilarious feel good movie! Doesn't have all the \"woke\" crap in it to ruin it either."}, {"rating": "8", "text": "If you're having a beer with a buddy and you just wanna enjoy a dumb gross-out comedy without any of that irksome woke pandering guff, then this is your movie - 8 stars"}], "recommendations": ["idiocracy", "chappie", "overcomer", "the_lobster", "fear_and_loathing_in_las_vegas", "the_bucket_list", "courageous", "the_art_of_racing_in_the_rain", "facing_the_giants", "fifty_shades_of_black", "the_wolf_of_wall_street", "free_guy", "her", "evan_almighty", "i_still_believe", "mother", "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan", "war_room", "the_happytime_murders", "okja", "heaven_is_for_real", "swiss_army_man", "morbius", "apocalypto", "jojo_rabbit"]}
+{
+  "id": 4588,
+  "title": "Buddy Games",
+  "starring": [
+    "Josh Duhamel",
+    "Dan Bakkedahl"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Comedy"
+  ],
+  "description": "After six lifelong friends have a five-year falling out, \u201cThe Bobfather\u201d, reunites his pals for the Buddy Games, an insane competition of absurd physical and mental challenges with the chance to win a $150,000 pot. Now all bets are off, as the determined dudes' fight, claw, and party for the big bucks.",
+  "releaseYear": "2019",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 9.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Critics are paid to normalize the shuttering of great real life pieces such as the Buddy Games. Firstly, fictional films are as such! Just because you are too **** to go out in the woods and compete with others to ultimately call yourself the alpha does not mean that human nature has been completely lost. I ask you all to rewatch the beginning minute of this film. Humans have been competing with each other to name themselves the ultimate for as long as there have been humans. Seems to me that people have lost their natural response to show who is the best. Of course we have seen the warning signs along the way. For example, in children's sports now, the slogan reads \"Everyone is a winner!\" I remember when you had to actually devote yourself to becoming a winner. Anyways, we all already know these things, soft as some of you are. Buddy Games was a great farce in the history of farces. What a genuinely humorous and likability to the normal Joe. The critics are simply haters who are trying to keep our minds from believing that we should portray any kind of personal creativity and enjoyment. This movie bring out the inner child more than Tag. HATERs have to have something to hate on! PLEASE CONTINUE TO RELEASE ORIGINAL CONTENT THAT EXPANDS OUR MINDS AND SHOWERS US WITH THE POWER OF PURE LAUGHTER! Ty all!"
+    },
+    {
+      "rating": "9",
+      "text": "Hilarious feel good movie! Doesn't have all the \"woke\" crap in it to ruin it either."
+    },
+    {
+      "rating": "8",
+      "text": "If you're having a beer with a buddy and you just wanna enjoy a dumb gross-out comedy without any of that irksome woke pandering guff, then this is your movie - 8 stars"
+    }
+  ],
+  "recommendations": [
+    "idiocracy",
+    "chappie",
+    "overcomer",
+    "the_lobster",
+    "fear_and_loathing_in_las_vegas",
+    "the_bucket_list",
+    "courageous",
+    "the_art_of_racing_in_the_rain",
+    "facing_the_giants",
+    "fifty_shades_of_black",
+    "the_wolf_of_wall_street",
+    "free_guy",
+    "her",
+    "evan_almighty",
+    "i_still_believe",
+    "mother",
+    "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan",
+    "war_room",
+    "the_happytime_murders",
+    "okja",
+    "heaven_is_for_real",
+    "swiss_army_man",
+    "morbius",
+    "apocalypto",
+    "jojo_rabbit"
+  ]
+}

@@ -1,1 +1,155 @@
-{"id": 40, "title": "Redemption Day", "starring": ["Gary Dourdan", "Serinda Swan"], "runtime": 100, "genre": ["Action"], "description": "When his wife is kidnapped by terrorists for ransom, veteran war hero Brad Paxton races against the clock to rescue her in a daring and deadly operation that pits him against powerful and dark forces.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg", "categories": {"plot": 10.0, "acting": 6.0, "ending": 5.0, "soundtrack": 10.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 8.333333333333334}, "reviews": [{"rating": "0", "text": "This movie is a joke. A well prepared propaganda from the kingdom of prostitution"}, {"rating": "0", "text": "Tr\u00e8s mauvais complot et non original tout est pr\u00e9visible et ennuyeux ........"}, {"rating": "0", "text": "Very bad movie  bad actors Hicham  hajii try to send very bad message mix dump  politics   message   in movie  shame on you have no sense  of conscience   I don't  see any art in this ****  this movie  stand by one part this movie try to show nother   country in bad situations shame on you go to learn  the art of scinema  and there is no  thrill   your your such crap"}, {"rating": "1", "text": "Very bad Plot and Unoriginal, every thing is predictable and boring, Low budget effects & action, clear attempt to inject political propaganda.and even the ones are giving the movies positive feedback are Moroccans and director friends :D"}, {"rating": "0", "text": "Horrible movie that has no thriller nothing at all. I just feel sorry for the actors"}, {"rating": "10", "text": "Very proud to see a young Moroccan / Arab director making his Hollywood debut as a director with a breathtaking cast. Starting from not much and achieving such a piece is very admirable."}, {"rating": "10", "text": "Great movie, very thrilling. 100% recommend. The performances are good, the directing is awesome as well, and the music makes it even better. A must-watch for everyone."}, {"rating": "10", "text": "Absolutely stunning, i recommend this film, just amazing!The director is genuis"}, {"rating": "10", "text": "Le film est top rien \u00e0 dire"}, {"rating": "10", "text": "Best movie in 2020, the story is too much considtente, thats way you feel its reel"}, {"rating": "10", "text": "Highly recommended action movie. The director has done a remarkable work. I would highly recommend the movie to you if you want ti watch a great action movie. This would be the best action movie I watched in the recent years."}, {"rating": "10", "text": "The movie is lit"}, {"rating": "0", "text": "Moroccan propaganda. see reviews of 10/10. the producer himself congratulates the Moroccans for putting 10"}, {"rating": "10", "text": "The fact is that sought of morroco is disturbed by Polisario (terrorist group) supported by Algerian government  Unfortunately we witnessed this act of the devil almost every week by the border"}, {"rating": "10", "text": "Remarkable masterpiece; The entire world is talking about this action movie despite its low budget production. The main character is a U.S. Marine, who offers a positive representation of a person of color, showing great courage and perseverance to protect his family and the people he loves. The movie also successfully demonstrated the importance of teamwork.I would have given the movie an 8 or 9 rating, but it is under unjustified 0/10 attack by the Algerians, although it addresses an issue that most countries of the world suffer from, which is terrorism. This is why I gave the movie a rating of 10/10 to balance the reviews."}, {"rating": "10", "text": "I love this movie  i recommended it to Abdelmajid Tebboune.Tebboue will love it I'm sure,  the movie is very well made, it's wonderful that we are starting to see Hollywood directors of North African origin."}, {"rating": "10", "text": "Longue vie au Maroc. De tr\u00e8s beaux paysages et cela traite de Aqmi au Sahel n'en d\u00e9plaise \u00e0 certains c'est juste la r\u00e9alit\u00e9 du d\u00e9sert."}, {"rating": "10", "text": "Best from the BEST In general, I liked everything about this movie; the story , the actors ... peace ...."}, {"rating": "10", "text": "thank you mester Hicham Hajji for this movie, I watched it and i think its an amazing movie and i want to say : morocco and moroccan thes are the best people of the world, from texas"}, {"rating": "10", "text": "Le film est top bien rien \u00e0 direGood , Great movie, very thrilling. 100% recommend"}, {"rating": "8", "text": "Original casting and nice work as a movie director\u2019s first try ! It also needs some big balls to launch it in such a period \u00ab\u00a0pandemic\u00a0\u00bb when most of theaters around the world are still closed"}, {"rating": "10", "text": "Sehr spannender Film! habe dadurch Morocco neu entdeckt,  sehr sch\u00f6nes Land Traumhaft"}, {"rating": "2", "text": "(Mauro Lanari)The director uses his own debut to show his technical skills with drones, long takes and sequence shots, waiting for a script worthy of the name."}, {"rating": "0", "text": "A crappy and lousy film totally overestimated by the partial rating of moroccan people. The script, the production, the directing etc, all is stupid and cheezy, without any talent nor intelligence. There is also pathetic politic propaganda, how this kind of low profile movie is possible in 2021? the pro critics are unanimous: this movie worths nothing."}, {"rating": "0", "text": "Filme merdique il ne repr\u00e9sente pas lalgerie juste pour donner une mauvaise image, je d\u00e9teste ce filme les algerien c des personnes bonne, pas comme vous les repr\u00e9sente"}], "recommendations": ["v_for_vendetta", "songbird", "all_eyez_on_me", "facing_the_giants", "equilibrium", "woodlawn", "ben_hur", "pulp_fiction", "the_shawshank_redemption", "morbius", "antebellum", "the_social_network", "my_name_is_khan", "joker", "they_live", "jarhead", "blade_of_the_47_ronin", "starship_troopers", "samson", "blood_diamond", "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_", "cloud_atlas", "inglourious_basterds", "black_panther_wakanda_forever", "the_last_airbender"]}
+{
+  "id": 40,
+  "title": "Redemption Day",
+  "starring": [
+    "Gary Dourdan",
+    "Serinda Swan"
+  ],
+  "runtime": 100,
+  "genre": [
+    "Action"
+  ],
+  "description": "When his wife is kidnapped by terrorists for ransom, veteran war hero Brad Paxton races against the clock to rescue her in a daring and deadly operation that pits him against powerful and dark forces.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 6.0,
+    "ending": 5.0,
+    "soundtrack": 10.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 8.333333333333334
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "This movie is a joke. A well prepared propaganda from the kingdom of prostitution"
+    },
+    {
+      "rating": "0",
+      "text": "Tr\u00e8s mauvais complot et non original tout est pr\u00e9visible et ennuyeux ........"
+    },
+    {
+      "rating": "0",
+      "text": "Very bad movie  bad actors Hicham  hajii try to send very bad message mix dump  politics   message   in movie  shame on you have no sense  of conscience   I don't  see any art in this ****  this movie  stand by one part this movie try to show nother   country in bad situations shame on you go to learn  the art of scinema  and there is no  thrill   your your such crap"
+    },
+    {
+      "rating": "1",
+      "text": "Very bad Plot and Unoriginal, every thing is predictable and boring, Low budget effects & action, clear attempt to inject political propaganda.and even the ones are giving the movies positive feedback are Moroccans and director friends :D"
+    },
+    {
+      "rating": "0",
+      "text": "Horrible movie that has no thriller nothing at all. I just feel sorry for the actors"
+    },
+    {
+      "rating": "10",
+      "text": "Very proud to see a young Moroccan / Arab director making his Hollywood debut as a director with a breathtaking cast. Starting from not much and achieving such a piece is very admirable."
+    },
+    {
+      "rating": "10",
+      "text": "Great movie, very thrilling. 100% recommend. The performances are good, the directing is awesome as well, and the music makes it even better. A must-watch for everyone."
+    },
+    {
+      "rating": "10",
+      "text": "Absolutely stunning, i recommend this film, just amazing!The director is genuis"
+    },
+    {
+      "rating": "10",
+      "text": "Le film est top rien \u00e0 dire"
+    },
+    {
+      "rating": "10",
+      "text": "Best movie in 2020, the story is too much considtente, thats way you feel its reel"
+    },
+    {
+      "rating": "10",
+      "text": "Highly recommended action movie. The director has done a remarkable work. I would highly recommend the movie to you if you want ti watch a great action movie. This would be the best action movie I watched in the recent years."
+    },
+    {
+      "rating": "10",
+      "text": "The movie is lit"
+    },
+    {
+      "rating": "0",
+      "text": "Moroccan propaganda. see reviews of 10/10. the producer himself congratulates the Moroccans for putting 10"
+    },
+    {
+      "rating": "10",
+      "text": "The fact is that sought of morroco is disturbed by Polisario (terrorist group) supported by Algerian government  Unfortunately we witnessed this act of the devil almost every week by the border"
+    },
+    {
+      "rating": "10",
+      "text": "Remarkable masterpiece; The entire world is talking about this action movie despite its low budget production. The main character is a U.S. Marine, who offers a positive representation of a person of color, showing great courage and perseverance to protect his family and the people he loves. The movie also successfully demonstrated the importance of teamwork.I would have given the movie an 8 or 9 rating, but it is under unjustified 0/10 attack by the Algerians, although it addresses an issue that most countries of the world suffer from, which is terrorism. This is why I gave the movie a rating of 10/10 to balance the reviews."
+    },
+    {
+      "rating": "10",
+      "text": "I love this movie  i recommended it to Abdelmajid Tebboune.Tebboue will love it I'm sure,  the movie is very well made, it's wonderful that we are starting to see Hollywood directors of North African origin."
+    },
+    {
+      "rating": "10",
+      "text": "Longue vie au Maroc. De tr\u00e8s beaux paysages et cela traite de Aqmi au Sahel n'en d\u00e9plaise \u00e0 certains c'est juste la r\u00e9alit\u00e9 du d\u00e9sert."
+    },
+    {
+      "rating": "10",
+      "text": "Best from the BEST In general, I liked everything about this movie; the story , the actors ... peace ...."
+    },
+    {
+      "rating": "10",
+      "text": "thank you mester Hicham Hajji for this movie, I watched it and i think its an amazing movie and i want to say : morocco and moroccan thes are the best people of the world, from texas"
+    },
+    {
+      "rating": "10",
+      "text": "Le film est top bien rien \u00e0 direGood , Great movie, very thrilling. 100% recommend"
+    },
+    {
+      "rating": "8",
+      "text": "Original casting and nice work as a movie director\u2019s first try ! It also needs some big balls to launch it in such a period \u00ab\u00a0pandemic\u00a0\u00bb when most of theaters around the world are still closed"
+    },
+    {
+      "rating": "10",
+      "text": "Sehr spannender Film! habe dadurch Morocco neu entdeckt,  sehr sch\u00f6nes Land Traumhaft"
+    },
+    {
+      "rating": "2",
+      "text": "(Mauro Lanari)The director uses his own debut to show his technical skills with drones, long takes and sequence shots, waiting for a script worthy of the name."
+    },
+    {
+      "rating": "0",
+      "text": "A crappy and lousy film totally overestimated by the partial rating of moroccan people. The script, the production, the directing etc, all is stupid and cheezy, without any talent nor intelligence. There is also pathetic politic propaganda, how this kind of low profile movie is possible in 2021? the pro critics are unanimous: this movie worths nothing."
+    },
+    {
+      "rating": "0",
+      "text": "Filme merdique il ne repr\u00e9sente pas lalgerie juste pour donner une mauvaise image, je d\u00e9teste ce filme les algerien c des personnes bonne, pas comme vous les repr\u00e9sente"
+    }
+  ],
+  "recommendations": [
+    "v_for_vendetta",
+    "songbird",
+    "all_eyez_on_me",
+    "facing_the_giants",
+    "equilibrium",
+    "woodlawn",
+    "ben_hur",
+    "pulp_fiction",
+    "the_shawshank_redemption",
+    "morbius",
+    "antebellum",
+    "the_social_network",
+    "my_name_is_khan",
+    "joker",
+    "they_live",
+    "jarhead",
+    "blade_of_the_47_ronin",
+    "starship_troopers",
+    "samson",
+    "blood_diamond",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "cloud_atlas",
+    "inglourious_basterds",
+    "black_panther_wakanda_forever",
+    "the_last_airbender"
+  ]
+}

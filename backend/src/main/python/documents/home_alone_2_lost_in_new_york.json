@@ -1,1 +1,105 @@
-{"id": 561, "title": "Home Alone 2: Lost in New York", "starring": ["Macaulay Culkin", "Joe Pesci"], "runtime": 120, "genre": ["Comedy", "Family", "Adventure"], "description": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card\u2014despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.", "releaseYear": "1992", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg", "categories": {"plot": 6.5, "acting": 8.2, "ending": 5.0, "soundtrack": 9.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 9.333333333333334, "action": 5.0}, "reviews": [{"rating": "7", "text": "It\u2019s fun, everyone needs to calm down. Of course it\u2019s not the same nostalgic magic like the first film, but this one has Tim Curry so it can\u2019t be all bad!"}, {"rating": "7", "text": "----------------------------------7.3/10-----------------------------------"}, {"rating": "9", "text": "The first Home Alone is very good indeed. The last two are just wannabes and feel like they don't belong. Home Alone 2 is my personal favourite, and I watch it about once a month. The only problem is that the jokes are basically retreads of the first movie, but believe me, they're miles better than the ones in the fourth ( which is one of the worst movies ever) This is still a very solid film, that gets slow in the second half. The performances are excellent. Macaulay Culkin brought a lot of charm to almost all the movies he's been in. Just a shame, he isn't acting any more. Joe Pesci and Daniel Stern are hilarious, as always. Catherine O'Hara and John heard are amiable as the parents, while the wonderful Tim Curry gives a hilarious performance as the Concierge. My favourite scenes were the bathroom scene in the hotel, and when the staff are held hostage by a television. Just priceless. Eddie Bracken and Brenda Fricker also make appearances, and their scenes are touching, as they are of friendship and acceptance. I absolutely adored the soundtrack too, New York looks splendid and the Plaza Hotel was incredible to look at. Brilliant movie! 9/10. Bethany Cox"}, {"rating": "10", "text": "Home Alone 2: Lost in New York. New Christmas and new adventures. The sequel to the excellent family Christmas comedy. The second part is also filled with great music, a lot of comedy and most importantly some life lessons."}, {"rating": "8", "text": "8 out of 10 - Excellent!Although it's much of the same movie, it's almost equally as enjoyable, in some cases even more than the first although the first is better overall. How does Kevin work in a sprawling environment? Although Kevin can get quite greedy - that doesn't avert my attention away from the fact that this one is also a classic. It went downhill from here though, and I have little interest in the next movies"}, {"rating": "6", "text": "Pretty much a rehash of the original with the same characters & story, just this time it's in a different city."}, {"rating": "9", "text": "Oh my god, he made his family disappear but this time he's in New York?Nice."}, {"rating": "9", "text": "Why are critics so crazy these days they always target movies that are actually good"}, {"rating": "8", "text": "\u2606\u2606NotBad\u2606\u2606Better then Home Alone 3,4,5,6,7,8,9,10,11 and a lot of other ****"}, {"rating": "8", "text": "Home Alone 2 is a return to greatness for with some may say is the future jigsaw even though it never was the intend for John Hughes turn Kevin McCallister into a serial killer it's hard not to think that now especially when there's a electrocution scene in the movie some people might have problems with Donald Trump then millionaire and actor being in the movie because of his presidency but that's something enough distance from his presidency will fix"}, {"rating": "8", "text": "Sequels are always a little below the originals, even if it's still a very good film!"}, {"rating": "7", "text": "A decent sequel, but doesnt come close to the original films quality and plot"}], "recommendations": ["night_at_the_museum_secret_of_the_tomb", "ghostbusters_ii", "beetlejuice", "the_parent_trap", "happiest_season", "spider_man_far_from_home", "american_pie_2", "the_santa_clause_2", "hook", "elf", "the_terminal", "the_second_best_exotic_marigold_hotel", "going_in_style", "the_next_karate_kid", "ghostbusters", "the_karate_kid_part_iii", "17_again", "morning_glory", "the_karate_kid", "coming_2_america", "back_to_the_future", "logan_lucky", "back_to_the_future_part_ii", "we_bought_a_zoo", "the_karate_kid_part_ii"]}
+{
+  "id": 561,
+  "title": "Home Alone 2: Lost in New York",
+  "starring": [
+    "Macaulay Culkin",
+    "Joe Pesci"
+  ],
+  "runtime": 120,
+  "genre": [
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "description": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card\u2014despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+  "releaseYear": "1992",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+  "categories": {
+    "plot": 6.5,
+    "acting": 8.2,
+    "ending": 5.0,
+    "soundtrack": 9.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 9.333333333333334,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "It\u2019s fun, everyone needs to calm down. Of course it\u2019s not the same nostalgic magic like the first film, but this one has Tim Curry so it can\u2019t be all bad!"
+    },
+    {
+      "rating": "7",
+      "text": "----------------------------------7.3/10-----------------------------------"
+    },
+    {
+      "rating": "9",
+      "text": "The first Home Alone is very good indeed. The last two are just wannabes and feel like they don't belong. Home Alone 2 is my personal favourite, and I watch it about once a month. The only problem is that the jokes are basically retreads of the first movie, but believe me, they're miles better than the ones in the fourth ( which is one of the worst movies ever) This is still a very solid film, that gets slow in the second half. The performances are excellent. Macaulay Culkin brought a lot of charm to almost all the movies he's been in. Just a shame, he isn't acting any more. Joe Pesci and Daniel Stern are hilarious, as always. Catherine O'Hara and John heard are amiable as the parents, while the wonderful Tim Curry gives a hilarious performance as the Concierge. My favourite scenes were the bathroom scene in the hotel, and when the staff are held hostage by a television. Just priceless. Eddie Bracken and Brenda Fricker also make appearances, and their scenes are touching, as they are of friendship and acceptance. I absolutely adored the soundtrack too, New York looks splendid and the Plaza Hotel was incredible to look at. Brilliant movie! 9/10. Bethany Cox"
+    },
+    {
+      "rating": "10",
+      "text": "Home Alone 2: Lost in New York. New Christmas and new adventures. The sequel to the excellent family Christmas comedy. The second part is also filled with great music, a lot of comedy and most importantly some life lessons."
+    },
+    {
+      "rating": "8",
+      "text": "8 out of 10 - Excellent!Although it's much of the same movie, it's almost equally as enjoyable, in some cases even more than the first although the first is better overall. How does Kevin work in a sprawling environment? Although Kevin can get quite greedy - that doesn't avert my attention away from the fact that this one is also a classic. It went downhill from here though, and I have little interest in the next movies"
+    },
+    {
+      "rating": "6",
+      "text": "Pretty much a rehash of the original with the same characters & story, just this time it's in a different city."
+    },
+    {
+      "rating": "9",
+      "text": "Oh my god, he made his family disappear but this time he's in New York?Nice."
+    },
+    {
+      "rating": "9",
+      "text": "Why are critics so crazy these days they always target movies that are actually good"
+    },
+    {
+      "rating": "8",
+      "text": "\u2606\u2606NotBad\u2606\u2606Better then Home Alone 3,4,5,6,7,8,9,10,11 and a lot of other ****"
+    },
+    {
+      "rating": "8",
+      "text": "Home Alone 2 is a return to greatness for with some may say is the future jigsaw even though it never was the intend for John Hughes turn Kevin McCallister into a serial killer it's hard not to think that now especially when there's a electrocution scene in the movie some people might have problems with Donald Trump then millionaire and actor being in the movie because of his presidency but that's something enough distance from his presidency will fix"
+    },
+    {
+      "rating": "8",
+      "text": "Sequels are always a little below the originals, even if it's still a very good film!"
+    },
+    {
+      "rating": "7",
+      "text": "A decent sequel, but doesnt come close to the original films quality and plot"
+    }
+  ],
+  "recommendations": [
+    "night_at_the_museum_secret_of_the_tomb",
+    "ghostbusters_ii",
+    "beetlejuice",
+    "the_parent_trap",
+    "happiest_season",
+    "spider_man_far_from_home",
+    "american_pie_2",
+    "the_santa_clause_2",
+    "hook",
+    "elf",
+    "the_terminal",
+    "the_second_best_exotic_marigold_hotel",
+    "going_in_style",
+    "the_next_karate_kid",
+    "ghostbusters",
+    "the_karate_kid_part_iii",
+    "17_again",
+    "morning_glory",
+    "the_karate_kid",
+    "coming_2_america",
+    "back_to_the_future",
+    "logan_lucky",
+    "back_to_the_future_part_ii",
+    "we_bought_a_zoo",
+    "the_karate_kid_part_ii"
+  ]
+}

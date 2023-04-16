@@ -1,1 +1,77 @@
-{"id": 4085, "title": "Samson and Delilah", "starring": ["Hedy Lamarr", "Victor Mature"], "runtime": 134, "genre": ["Drama", "Romance", "Adventure"], "description": "When strongman Samson rejects the love of the beautiful Philistine woman Delilah, she seeks vengeance that brings horrible consequences they both regret. The classic story of Samson and Delilah as told by Cecil B. DeMille.", "releaseYear": "1949", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/iNb2KMv056vpCJycqFp5Xbpw61Z.jpg", "categories": {"plot": 10.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 8.0, "familyFriendly": 4.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "8", "text": "This is a magnificent movie all around. The scarce dialogue, cinematography but specially the 2 young leads are ... inspiring, breathtaking, relentless. There is a moment, a single instant that spoke to me when in a car's tape recorder Rocio Durcal is playing Juan Gabriel (Spanish diva + Mexican divo)... the awkward perfection of this sound insert is, for me, the perfect metaphor of the surprising stuff this movie is made of"}, {"rating": "10", "text": "This movie is brilliant. It is one of the bleakest films I have ever seen. By focusing on the touching story of two young Aborigines it successfully shows their harsh reality. Warwick Thornton does a magnificent job in not only bringing attention to the Indigenous issue but also in telling a beautiful love story. I only hope that more films and art like this can have a positive impact on some of the issues that this movie brings into focus."}, {"rating": "10", "text": "Dear METACRITIC ITs: Please help me change my user review NAME from raco2046 to cinemaquote. I have written over 4 months wihout a reply. My email cinemaquote@gmail.com"}, {"rating": "0", "text": "Slow, predictable, boring. Let's get real. Been done over, and over, and over, and much better.good things about this movie.....hum. It was in focus and it had 1/2 a plot."}, {"rating": "9", "text": "Cl\u00c3\u00a1sicos les llaman a las pel\u00c3\u00adculas cuyo mensaje  trasciende su tiempo y su entorno y esta pel\u00c3\u00adcula logra transmitirlo as\u00c3\u00ad seas en Australia o seas de M\u00c3\u00a9xico. AL estar viendo el filme pensaba que cualquier escena podr\u00c3\u00ada confundirse con un filme hecho en M\u00c3\u00a9xico de no ser por los pocos di\u00c3\u00a1logos en ingl\u00c3\u00a9s y en idioma aborigen. Impactante. Bastante recomendable."}], "recommendations": ["upside_down", "casablanca", "hugo", "youth", "the_great_gatsby", "life_of_pi", "in_the_heights", "the_dig", "marie_antoinette", "the_walk", "roma", "titanic", "the_light_between_oceans", "amadeus", "amores_perros", "the_english_patient", "carol", "eternals", "what_dreams_may_come", "call_me_by_your_name", "belfast", "tolkien", "lion", "yesterday", "cloud_atlas"]}
+{
+  "id": 4085,
+  "title": "Samson and Delilah",
+  "starring": [
+    "Hedy Lamarr",
+    "Victor Mature"
+  ],
+  "runtime": 134,
+  "genre": [
+    "Drama",
+    "Romance",
+    "Adventure"
+  ],
+  "description": "When strongman Samson rejects the love of the beautiful Philistine woman Delilah, she seeks vengeance that brings horrible consequences they both regret. The classic story of Samson and Delilah as told by Cecil B. DeMille.",
+  "releaseYear": "1949",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/iNb2KMv056vpCJycqFp5Xbpw61Z.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 8.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "This is a magnificent movie all around. The scarce dialogue, cinematography but specially the 2 young leads are ... inspiring, breathtaking, relentless. There is a moment, a single instant that spoke to me when in a car's tape recorder Rocio Durcal is playing Juan Gabriel (Spanish diva + Mexican divo)... the awkward perfection of this sound insert is, for me, the perfect metaphor of the surprising stuff this movie is made of"
+    },
+    {
+      "rating": "10",
+      "text": "This movie is brilliant. It is one of the bleakest films I have ever seen. By focusing on the touching story of two young Aborigines it successfully shows their harsh reality. Warwick Thornton does a magnificent job in not only bringing attention to the Indigenous issue but also in telling a beautiful love story. I only hope that more films and art like this can have a positive impact on some of the issues that this movie brings into focus."
+    },
+    {
+      "rating": "10",
+      "text": "Dear METACRITIC ITs: Please help me change my user review NAME from raco2046 to cinemaquote. I have written over 4 months wihout a reply. My email cinemaquote@gmail.com"
+    },
+    {
+      "rating": "0",
+      "text": "Slow, predictable, boring. Let's get real. Been done over, and over, and over, and much better.good things about this movie.....hum. It was in focus and it had 1/2 a plot."
+    },
+    {
+      "rating": "9",
+      "text": "Cl\u00c3\u00a1sicos les llaman a las pel\u00c3\u00adculas cuyo mensaje  trasciende su tiempo y su entorno y esta pel\u00c3\u00adcula logra transmitirlo as\u00c3\u00ad seas en Australia o seas de M\u00c3\u00a9xico. AL estar viendo el filme pensaba que cualquier escena podr\u00c3\u00ada confundirse con un filme hecho en M\u00c3\u00a9xico de no ser por los pocos di\u00c3\u00a1logos en ingl\u00c3\u00a9s y en idioma aborigen. Impactante. Bastante recomendable."
+    }
+  ],
+  "recommendations": [
+    "upside_down",
+    "casablanca",
+    "hugo",
+    "youth",
+    "the_great_gatsby",
+    "life_of_pi",
+    "in_the_heights",
+    "the_dig",
+    "marie_antoinette",
+    "the_walk",
+    "roma",
+    "titanic",
+    "the_light_between_oceans",
+    "amadeus",
+    "amores_perros",
+    "the_english_patient",
+    "carol",
+    "eternals",
+    "what_dreams_may_come",
+    "call_me_by_your_name",
+    "belfast",
+    "tolkien",
+    "lion",
+    "yesterday",
+    "cloud_atlas"
+  ]
+}

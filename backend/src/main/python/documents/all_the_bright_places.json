@@ -1,1 +1,104 @@
-{"id": 890, "title": "All the Bright Places", "starring": ["Elle Fanning", "Justice Smith"], "runtime": 108, "genre": ["Romance", "Drama"], "description": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.", "releaseYear": "2020", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg", "categories": {"plot": 5.625, "acting": 7.2, "ending": 6.75, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 9.0, "action": 5.0}, "reviews": [{"rating": "9", "text": "Honestly, I loved this movie so much from the begging to the marvelous speech ending that violet give it to us speech full of emotions I learned how my friends are really important in this world we know that the life is so meanful but at least we have someone who love us. P.S: Stay always positive no matter whatBut I didnt like one thing in this movie that at the end of the film the poor hero Teo he dies I feel that I was living with him all the happy and sad moments I cried with violet \"His Girlfriend\""}, {"rating": "4", "text": "Mental health and suicide. Themes already deeply rooted in films and YA novels that demonstrate a clear problem that has always existed but now seems to be more exposed.All the Bright Places plays in a problematic line and it's that like its show 13 Reasons Why, once again Netflix seems to romanticize suicide and the terrible ambiguity of the characters and their personalities, barely get the necessary coherence to deal with their issue in a good way when it decides to lose itself in the clich\u00e9s of youth romance.Besides that I must say the ending feels incredibly forced in what feels like a desperate attempt to provoke a manipulated emotional blow for the audience.That's the most serious problem of this film regardless of its merits and is that it doesn't give the necessary seriousness to its themes and prefers to easily satisfy its youth audience instead of making them question those realities.Netflix is \u200b\u200balready too focused on YA productions and these are evidently succeeding but that shows how little those audiences are demanding in terms of stories and how little interested Netflix is in producing more adult content."}, {"rating": "5", "text": "It does not earn the places it goes because it does not develop its characters, especially when it comes to Finch. Its love story is a poor, chemistry-less imitation of better love stories, serving no end purpose other than to romanticise and trivialize mental health"}, {"rating": "6", "text": "This isn't really my preference of film, but I was fairly generous with my review because I thought the terrific acting was worth a mention. Very convincing work by both Elle Fanning and Justice Smith. This story also hits kinda close to home for me as well, as I am someone who has suffered from Manic Depression and Bipolar Disorder for most of my life. I've also loved and lost somebody who suffered from the same fate, so I found this picture quite relatable!"}, {"rating": "8", "text": "Beautiful, but bittersweet. I tend to find Netflix dramas overly melodramatic and lazily made, but this was a pleasant surprise. Great showcase of Elle Fanning and a star making performance for Justice Smith. Hope this is the new standard for Netflix originals."}, {"rating": "10", "text": "I was taken aback by the tenderness and vulnerability of All the Bright Places. In a genre that can be emotionally tricky to balance, this sticks the landing."}, {"rating": "10", "text": "I haven't read the book so I don't know the approach that was taken in the book but nonetheless, this movie tackles real-life issues and what could go on in peoples lives and how important mental health is and should be taken, this movie is filled with funny, wholesome, and emotional scenes and I absolutely loved it."}, {"rating": "6", "text": "It's an okay film. Elle Fanning & Justice Smith's performances were mostly great. The storyline is not the best, but acceptable. I would've loved to see more development in the story and the characters. Overall, nothing was exceptional nor impressive."}, {"rating": "0", "text": "It was nothing like the book! Amazing book \u2763\ufe0fawful movie"}, {"rating": "7", "text": "Good acting and alright story. The movie could have been cut down by 10 to 20 minutes. The movie is effective at evoking emotion."}, {"rating": "10", "text": "Honestly, it\u2019s so underrated. I do think they could\u2019ve work more on the side characters but other then that 10/10."}, {"rating": "8", "text": "Heartbroken, emotional movie. And it's a good one. Not any typical teen movie, and it's exactly what I want."}], "recommendations": ["me_before_you", "closer", "the_fault_in_our_stars", "the_book_of_henry", "her", "blue_valentine", "collateral_beauty", "manchester_by_the_sea", "i_kill_giants", "i_still_believe", "secretary", "i_can_only_imagine", "the_book_thief", "wonder", "five_feet_apart", "the_giver", "the_glass_castle", "into_the_wild", "lost_in_translation", "20th_century_women", "the_road", "every_day", "miracles_from_heaven", "the_hunt", "to_the_bone"]}
+{
+  "id": 890,
+  "title": "All the Bright Places",
+  "starring": [
+    "Elle Fanning",
+    "Justice Smith"
+  ],
+  "runtime": 108,
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "description": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
+  "releaseYear": "2020",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+  "categories": {
+    "plot": 5.625,
+    "acting": 7.2,
+    "ending": 6.75,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 9.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Honestly, I loved this movie so much from the begging to the marvelous speech ending that violet give it to us speech full of emotions I learned how my friends are really important in this world we know that the life is so meanful but at least we have someone who love us. P.S: Stay always positive no matter whatBut I didnt like one thing in this movie that at the end of the film the poor hero Teo he dies I feel that I was living with him all the happy and sad moments I cried with violet \"His Girlfriend\""
+    },
+    {
+      "rating": "4",
+      "text": "Mental health and suicide. Themes already deeply rooted in films and YA novels that demonstrate a clear problem that has always existed but now seems to be more exposed.All the Bright Places plays in a problematic line and it's that like its show 13 Reasons Why, once again Netflix seems to romanticize suicide and the terrible ambiguity of the characters and their personalities, barely get the necessary coherence to deal with their issue in a good way when it decides to lose itself in the clich\u00e9s of youth romance.Besides that I must say the ending feels incredibly forced in what feels like a desperate attempt to provoke a manipulated emotional blow for the audience.That's the most serious problem of this film regardless of its merits and is that it doesn't give the necessary seriousness to its themes and prefers to easily satisfy its youth audience instead of making them question those realities.Netflix is \u200b\u200balready too focused on YA productions and these are evidently succeeding but that shows how little those audiences are demanding in terms of stories and how little interested Netflix is in producing more adult content."
+    },
+    {
+      "rating": "5",
+      "text": "It does not earn the places it goes because it does not develop its characters, especially when it comes to Finch. Its love story is a poor, chemistry-less imitation of better love stories, serving no end purpose other than to romanticise and trivialize mental health"
+    },
+    {
+      "rating": "6",
+      "text": "This isn't really my preference of film, but I was fairly generous with my review because I thought the terrific acting was worth a mention. Very convincing work by both Elle Fanning and Justice Smith. This story also hits kinda close to home for me as well, as I am someone who has suffered from Manic Depression and Bipolar Disorder for most of my life. I've also loved and lost somebody who suffered from the same fate, so I found this picture quite relatable!"
+    },
+    {
+      "rating": "8",
+      "text": "Beautiful, but bittersweet. I tend to find Netflix dramas overly melodramatic and lazily made, but this was a pleasant surprise. Great showcase of Elle Fanning and a star making performance for Justice Smith. Hope this is the new standard for Netflix originals."
+    },
+    {
+      "rating": "10",
+      "text": "I was taken aback by the tenderness and vulnerability of All the Bright Places. In a genre that can be emotionally tricky to balance, this sticks the landing."
+    },
+    {
+      "rating": "10",
+      "text": "I haven't read the book so I don't know the approach that was taken in the book but nonetheless, this movie tackles real-life issues and what could go on in peoples lives and how important mental health is and should be taken, this movie is filled with funny, wholesome, and emotional scenes and I absolutely loved it."
+    },
+    {
+      "rating": "6",
+      "text": "It's an okay film. Elle Fanning & Justice Smith's performances were mostly great. The storyline is not the best, but acceptable. I would've loved to see more development in the story and the characters. Overall, nothing was exceptional nor impressive."
+    },
+    {
+      "rating": "0",
+      "text": "It was nothing like the book! Amazing book \u2763\ufe0fawful movie"
+    },
+    {
+      "rating": "7",
+      "text": "Good acting and alright story. The movie could have been cut down by 10 to 20 minutes. The movie is effective at evoking emotion."
+    },
+    {
+      "rating": "10",
+      "text": "Honestly, it\u2019s so underrated. I do think they could\u2019ve work more on the side characters but other then that 10/10."
+    },
+    {
+      "rating": "8",
+      "text": "Heartbroken, emotional movie. And it's a good one. Not any typical teen movie, and it's exactly what I want."
+    }
+  ],
+  "recommendations": [
+    "me_before_you",
+    "closer",
+    "the_fault_in_our_stars",
+    "the_book_of_henry",
+    "her",
+    "blue_valentine",
+    "collateral_beauty",
+    "manchester_by_the_sea",
+    "i_kill_giants",
+    "i_still_believe",
+    "secretary",
+    "i_can_only_imagine",
+    "the_book_thief",
+    "wonder",
+    "five_feet_apart",
+    "the_giver",
+    "the_glass_castle",
+    "into_the_wild",
+    "lost_in_translation",
+    "20th_century_women",
+    "the_road",
+    "every_day",
+    "miracles_from_heaven",
+    "the_hunt",
+    "to_the_bone"
+  ]
+}

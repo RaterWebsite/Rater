@@ -1,1 +1,65 @@
-{"id": 1262, "title": "Pandemic", "starring": ["Rachel Nichols", "Alfie Allen"], "runtime": 91, "genre": ["Action", "Science Fiction", "Horror"], "description": "After a virus of epic proportions overwhelms the planet\u2014with more infected than uninfected\u2014humanity is losing its grip on survival and its only hope is finding a cure and keeping the infected contained. Lauren, a doctor, arrives in Los Angeles with her crack team to lead the hunt for uncontaminated civilian survivors, but nothing can prepare them for the blood-soaked mayhem they witness as they head into the Californian streets where everything is considered a trap.", "releaseYear": "2016", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "2", "text": "I very rarely **** on movies because almost all of them have something going for them. Some have terrible dialogue, are badly produced, but are still entertaining to watch. Others fulffill other combinations of these criteria, not this one, though.It's not an overstatement to say that this is one of the worst movies I've ever gone through the peril of watching. It's not even 2 hours long, yet still felt like an eternity. You can see that it's absolutely cheaply produced, which can be charming sometimes, but just seeing a bunch of people slaughtering faceless, mindless zombies while royaltyfree_shotgun.wav is being played in the background is just not good.I hate this movie, don't watch it, it's a waste of time. Please watch World War Z, Jeruzalem or maybe go outside for once. Pain."}, {"rating": "5", "text": "Woman fakes being a doctor during a viral zombie outbreak so that she can get back into the city to save her family, but gets her unit killed, herself killed but saves her daughter, eventually."}], "recommendations": ["i_care_a_lot", "polaroid", "jurassic_world", "halloween_kills", "transformers_age_of_extinction", "project_x", "the_devil_inside", "cloverfield", "snakes_on_a_plane", "norm_of_the_north", "jaws_the_revenge", "28_weeks_later", "the_purge", "home_sweet_home_alone", "doomsday", "2012", "the_purge_anarchy", "rim_of_the_world", "the_forever_purge", "how_it_ends", "unfriended", "the_strangers", "safer_at_home", "father_christmas_is_back", "saw_3d"]}
+{
+  "id": 1262,
+  "title": "Pandemic",
+  "starring": [
+    "Rachel Nichols",
+    "Alfie Allen"
+  ],
+  "runtime": 91,
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Horror"
+  ],
+  "description": "After a virus of epic proportions overwhelms the planet\u2014with more infected than uninfected\u2014humanity is losing its grip on survival and its only hope is finding a cure and keeping the infected contained. Lauren, a doctor, arrives in Los Angeles with her crack team to lead the hunt for uncontaminated civilian survivors, but nothing can prepare them for the blood-soaked mayhem they witness as they head into the Californian streets where everything is considered a trap.",
+  "releaseYear": "2016",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "I very rarely **** on movies because almost all of them have something going for them. Some have terrible dialogue, are badly produced, but are still entertaining to watch. Others fulffill other combinations of these criteria, not this one, though.It's not an overstatement to say that this is one of the worst movies I've ever gone through the peril of watching. It's not even 2 hours long, yet still felt like an eternity. You can see that it's absolutely cheaply produced, which can be charming sometimes, but just seeing a bunch of people slaughtering faceless, mindless zombies while royaltyfree_shotgun.wav is being played in the background is just not good.I hate this movie, don't watch it, it's a waste of time. Please watch World War Z, Jeruzalem or maybe go outside for once. Pain."
+    },
+    {
+      "rating": "5",
+      "text": "Woman fakes being a doctor during a viral zombie outbreak so that she can get back into the city to save her family, but gets her unit killed, herself killed but saves her daughter, eventually."
+    }
+  ],
+  "recommendations": [
+    "i_care_a_lot",
+    "polaroid",
+    "jurassic_world",
+    "halloween_kills",
+    "transformers_age_of_extinction",
+    "project_x",
+    "the_devil_inside",
+    "cloverfield",
+    "snakes_on_a_plane",
+    "norm_of_the_north",
+    "jaws_the_revenge",
+    "28_weeks_later",
+    "the_purge",
+    "home_sweet_home_alone",
+    "doomsday",
+    "2012",
+    "the_purge_anarchy",
+    "rim_of_the_world",
+    "the_forever_purge",
+    "how_it_ends",
+    "unfriended",
+    "the_strangers",
+    "safer_at_home",
+    "father_christmas_is_back",
+    "saw_3d"
+  ]
+}

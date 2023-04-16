@@ -1,1 +1,121 @@
-{"id": 3267, "title": "The Ultimate Gift", "starring": ["Drew Fuller", "Abigail Breslin"], "runtime": 114, "genre": ["Romance", "Drama", "Family"], "description": "When his wealthy grandfather finally dies, Jason Stevens fully expects to benefit when it comes to the reading of the will. But instead of a sizable inheritance, Jason receives a test, a series of tasks he must complete before he can get any money.", "releaseYear": "2007", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/8BdVk1u110lwHFELTEO9HrPrIDa.jpg", "categories": {"plot": 9.25, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 8.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "An amazing film that goes straight to the heart!"}, {"rating": "9", "text": "This was a fantastic movie. Well acted and directed, and edited. This will not appeal to the \"progressive\" types I suppose, but the long proven values represented here were woven together to make a great little story."}, {"rating": "10", "text": "A soul awakening refresher that also gently pushes one to a new level of responsibility in life."}, {"rating": "7", "text": "Earnest, heartfelt powerful story told with a few stumbles and some thin characterization."}, {"rating": "9", "text": "If you, like me, have discovered that 'feel good' movies tend to make you feel good, then you have to see this movie. Not a dry eye in the house. I also noticed that NOBODY stirred during the credits as the 'gifts' were reprised. I left the theater feeling uplifted and was quick to start telling friends to go see this largely unadvertised movie. Enjoy!"}, {"rating": "10", "text": "A must see. Oscar stuff. Garner and Breslin will definately be nominated! But the entire cast was great!"}, {"rating": "10", "text": "A movie very much worth watching."}, {"rating": "10", "text": "Excellent movie with good moral values, something not seen too often in films anymore."}, {"rating": "7", "text": "Yes on the whole the film was good had some good morals, and teachings in the form of gifts. Garner plays well although briefly. good overall story."}, {"rating": "10", "text": "Awesome movie. It seems that critics enjoy trashy films more than this well made inspirational movie. Great message and well acted."}, {"rating": "10", "text": "A good example of why critics are called critics, as most of them would have given only 1 star to \"It's a Wonderful Life\", and moviegoers are called moviegoers. A most uplifting drama with a star-studded cast. Highly recommended."}, {"rating": "9", "text": "It's a very nice film.And pretty much well acted film. I liked it."}, {"rating": "10", "text": "Cynics will cry foul, the rest of us will see the need for a \"nudge\" toward something good like this movie---for a change."}, {"rating": "2", "text": "Painful to watch. Characters are undeveloped one-dimensional. The movie is WAY TOO preachy!!"}, {"rating": "10", "text": "I am captivated by this movie. Its moral and archetypal themes are timeless, the plot is well-paced, and the acting is superb, especially Drew Fuller. The rich family is an absurd caricature, but still really funny."}, {"rating": "9", "text": "This was a movie that I thought would be crappy, but turned out to be one of the greatest movies i've ever seen, it's got a touching story, my only complaint is that it's got bad acting, even with that you will enjoy the story, one I would highly recommend seeing."}], "recommendations": ["my_name_is_khan", "eternals", "the_blind_side", "the_lucky_one", "remember_the_titans", "the_upside", "just_before_i_go", "the_shawshank_redemption", "cinderella_man", "coach_carter", "eternal_sunshine_of_the_spotless_mind", "passengers", "paddington_2", "eddie_the_eagle", "wish_dragon", "the_illusionist", "ben_hur", "delivery_man", "breakthrough", "blood_diamond", "tomorrowland", "cruella", "the_king_of_staten_island", "oz_the_great_and_powerful", "jingle_jangle_a_christmas_journey"]}
+{
+  "id": 3267,
+  "title": "The Ultimate Gift",
+  "starring": [
+    "Drew Fuller",
+    "Abigail Breslin"
+  ],
+  "runtime": 114,
+  "genre": [
+    "Romance",
+    "Drama",
+    "Family"
+  ],
+  "description": "When his wealthy grandfather finally dies, Jason Stevens fully expects to benefit when it comes to the reading of the will. But instead of a sizable inheritance, Jason receives a test, a series of tasks he must complete before he can get any money.",
+  "releaseYear": "2007",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/8BdVk1u110lwHFELTEO9HrPrIDa.jpg",
+  "categories": {
+    "plot": 9.25,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 8.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "An amazing film that goes straight to the heart!"
+    },
+    {
+      "rating": "9",
+      "text": "This was a fantastic movie. Well acted and directed, and edited. This will not appeal to the \"progressive\" types I suppose, but the long proven values represented here were woven together to make a great little story."
+    },
+    {
+      "rating": "10",
+      "text": "A soul awakening refresher that also gently pushes one to a new level of responsibility in life."
+    },
+    {
+      "rating": "7",
+      "text": "Earnest, heartfelt powerful story told with a few stumbles and some thin characterization."
+    },
+    {
+      "rating": "9",
+      "text": "If you, like me, have discovered that 'feel good' movies tend to make you feel good, then you have to see this movie. Not a dry eye in the house. I also noticed that NOBODY stirred during the credits as the 'gifts' were reprised. I left the theater feeling uplifted and was quick to start telling friends to go see this largely unadvertised movie. Enjoy!"
+    },
+    {
+      "rating": "10",
+      "text": "A must see. Oscar stuff. Garner and Breslin will definately be nominated! But the entire cast was great!"
+    },
+    {
+      "rating": "10",
+      "text": "A movie very much worth watching."
+    },
+    {
+      "rating": "10",
+      "text": "Excellent movie with good moral values, something not seen too often in films anymore."
+    },
+    {
+      "rating": "7",
+      "text": "Yes on the whole the film was good had some good morals, and teachings in the form of gifts. Garner plays well although briefly. good overall story."
+    },
+    {
+      "rating": "10",
+      "text": "Awesome movie. It seems that critics enjoy trashy films more than this well made inspirational movie. Great message and well acted."
+    },
+    {
+      "rating": "10",
+      "text": "A good example of why critics are called critics, as most of them would have given only 1 star to \"It's a Wonderful Life\", and moviegoers are called moviegoers. A most uplifting drama with a star-studded cast. Highly recommended."
+    },
+    {
+      "rating": "9",
+      "text": "It's a very nice film.And pretty much well acted film. I liked it."
+    },
+    {
+      "rating": "10",
+      "text": "Cynics will cry foul, the rest of us will see the need for a \"nudge\" toward something good like this movie---for a change."
+    },
+    {
+      "rating": "2",
+      "text": "Painful to watch. Characters are undeveloped one-dimensional. The movie is WAY TOO preachy!!"
+    },
+    {
+      "rating": "10",
+      "text": "I am captivated by this movie. Its moral and archetypal themes are timeless, the plot is well-paced, and the acting is superb, especially Drew Fuller. The rich family is an absurd caricature, but still really funny."
+    },
+    {
+      "rating": "9",
+      "text": "This was a movie that I thought would be crappy, but turned out to be one of the greatest movies i've ever seen, it's got a touching story, my only complaint is that it's got bad acting, even with that you will enjoy the story, one I would highly recommend seeing."
+    }
+  ],
+  "recommendations": [
+    "my_name_is_khan",
+    "eternals",
+    "the_blind_side",
+    "the_lucky_one",
+    "remember_the_titans",
+    "the_upside",
+    "just_before_i_go",
+    "the_shawshank_redemption",
+    "cinderella_man",
+    "coach_carter",
+    "eternal_sunshine_of_the_spotless_mind",
+    "passengers",
+    "paddington_2",
+    "eddie_the_eagle",
+    "wish_dragon",
+    "the_illusionist",
+    "ben_hur",
+    "delivery_man",
+    "breakthrough",
+    "blood_diamond",
+    "tomorrowland",
+    "cruella",
+    "the_king_of_staten_island",
+    "oz_the_great_and_powerful",
+    "jingle_jangle_a_christmas_journey"
+  ]
+}

@@ -1,1 +1,69 @@
-{"id": 1864, "title": "Blood Money", "starring": ["Kunal Khemu", "Amrita Puri"], "runtime": 110, "genre": ["Drama", "Action", "Thriller"], "description": "In South Africa, a young man living with his wife becomes embroiled in an illegal diamond business and with time finds his life changing.", "releaseYear": "2012", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/oX09oi63n3xlmaej3OvtA6PBQ4A.jpg", "categories": {"plot": 2.0, "acting": 2.0, "ending": 1.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "2", "text": "Another bad movie with John Cusack in the lead role. Starting with the tragic poster after the hopeless trailer and the disappointing storyline at all. The film has nothing to offer, and the wooden actress and disappointing characters are the least production problem. It is a pity that such a thing happened."}, {"rating": "1", "text": "i like the locations they used but the beginning scene which is a clip from the end kinda makes you think its gonna be a good one. this movie could have also been called cusack can't shoot at all. if this movie accomplished any good it would be proof that attractive women are greedy greedy and worse than snakes. but I already knew that and I hope everyone realizes. they dont care what happens to the world as long as they get to keep their high paying jobs they get through college and or their bags of money that they are going to use to pretend that they are better than everyone and be a hardcore lesbian and buy drugs. i wish that drugs didn't exist because they distract people from seeing or admitting the truth about attractive women."}, {"rating": "2", "text": "John Cusack is OK as a nutso embezzler here but many of the plot elements are just ridiculous and the characters so annoying and unlikable that by the time the movie came to its conclusion I really didn't care what happened to any of them. All in all, I would say it's not worth your time."}], "recommendations": ["i_care_a_lot", "contagion", "would_you_rather", "fifty_shades_freed", "house_at_the_end_of_the_street", "how_it_ends", "cosmic_sin", "perfect_stranger", "next", "the_tax_collector", "awake", "magic_mikes_last_dance", "jumper", "fifty_shades_of_grey", "21", "the_new_mutants", "shadow_in_the_cloud", "the_last_song", "the_old_guard", "the_loft", "jolt", "men_in_black_international", "the_bounty_hunter", "the_hunger_games_mockingjay_part_1", "captain_marvel"]}
+{
+  "id": 1864,
+  "title": "Blood Money",
+  "starring": [
+    "Kunal Khemu",
+    "Amrita Puri"
+  ],
+  "runtime": 110,
+  "genre": [
+    "Drama",
+    "Action",
+    "Thriller"
+  ],
+  "description": "In South Africa, a young man living with his wife becomes embroiled in an illegal diamond business and with time finds his life changing.",
+  "releaseYear": "2012",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/oX09oi63n3xlmaej3OvtA6PBQ4A.jpg",
+  "categories": {
+    "plot": 2.0,
+    "acting": 2.0,
+    "ending": 1.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "Another bad movie with John Cusack in the lead role. Starting with the tragic poster after the hopeless trailer and the disappointing storyline at all. The film has nothing to offer, and the wooden actress and disappointing characters are the least production problem. It is a pity that such a thing happened."
+    },
+    {
+      "rating": "1",
+      "text": "i like the locations they used but the beginning scene which is a clip from the end kinda makes you think its gonna be a good one. this movie could have also been called cusack can't shoot at all. if this movie accomplished any good it would be proof that attractive women are greedy greedy and worse than snakes. but I already knew that and I hope everyone realizes. they dont care what happens to the world as long as they get to keep their high paying jobs they get through college and or their bags of money that they are going to use to pretend that they are better than everyone and be a hardcore lesbian and buy drugs. i wish that drugs didn't exist because they distract people from seeing or admitting the truth about attractive women."
+    },
+    {
+      "rating": "2",
+      "text": "John Cusack is OK as a nutso embezzler here but many of the plot elements are just ridiculous and the characters so annoying and unlikable that by the time the movie came to its conclusion I really didn't care what happened to any of them. All in all, I would say it's not worth your time."
+    }
+  ],
+  "recommendations": [
+    "i_care_a_lot",
+    "contagion",
+    "would_you_rather",
+    "fifty_shades_freed",
+    "house_at_the_end_of_the_street",
+    "how_it_ends",
+    "cosmic_sin",
+    "perfect_stranger",
+    "next",
+    "the_tax_collector",
+    "awake",
+    "magic_mikes_last_dance",
+    "jumper",
+    "fifty_shades_of_grey",
+    "21",
+    "the_new_mutants",
+    "shadow_in_the_cloud",
+    "the_last_song",
+    "the_old_guard",
+    "the_loft",
+    "jolt",
+    "men_in_black_international",
+    "the_bounty_hunter",
+    "the_hunger_games_mockingjay_part_1",
+    "captain_marvel"
+  ]
+}

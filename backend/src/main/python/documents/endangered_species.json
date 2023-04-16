@@ -1,1 +1,60 @@
-{"id": 565, "title": "Endangered Species", "starring": ["Rebecca Romijn", "Philip Winchester"], "runtime": 101, "genre": ["Thriller", "Action"], "description": "Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg", "categories": {"plot": 5.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "I love it! Philip Winchester is a great actor, definitely is the best actor in the cast."}], "recommendations": ["house_of_gucci", "tombstone", "the_aviator", "a_few_good_men", "the_professor_and_the_madman", "jerry_maguire", "addams_family_values", "james_and_the_giant_peach", "king_richard", "some_like_it_hot", "the_parent_trap", "american_hustle", "a_streetcar_named_desire", "a_star_is_born", "the_iceman", "the_wedding_planner", "palmer", "crazy_heart", "the_royal_tenenbaums", "indiana_jones_and_the_last_crusade", "the_addams_family", "respect", "steve_jobs", "cinderella_man", "hook"]}
+{
+  "id": 565,
+  "title": "Endangered Species",
+  "starring": [
+    "Rebecca Romijn",
+    "Philip Winchester"
+  ],
+  "runtime": 101,
+  "genre": [
+    "Thriller",
+    "Action"
+  ],
+  "description": "Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "I love it! Philip Winchester is a great actor, definitely is the best actor in the cast."
+    }
+  ],
+  "recommendations": [
+    "house_of_gucci",
+    "tombstone",
+    "the_aviator",
+    "a_few_good_men",
+    "the_professor_and_the_madman",
+    "jerry_maguire",
+    "addams_family_values",
+    "james_and_the_giant_peach",
+    "king_richard",
+    "some_like_it_hot",
+    "the_parent_trap",
+    "american_hustle",
+    "a_streetcar_named_desire",
+    "a_star_is_born",
+    "the_iceman",
+    "the_wedding_planner",
+    "palmer",
+    "crazy_heart",
+    "the_royal_tenenbaums",
+    "indiana_jones_and_the_last_crusade",
+    "the_addams_family",
+    "respect",
+    "steve_jobs",
+    "cinderella_man",
+    "hook"
+  ]
+}

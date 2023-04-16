@@ -1,1 +1,82 @@
-{"id": 2016, "title": "Ghosts of War", "starring": ["Brenton Thwaites", "Theo Rossi"], "runtime": 94, "genre": ["Horror", "Thriller", "War", "Fantasy"], "description": "A group of World War II American soldiers encounter a supernatural enemy as they occupy a French castle previously under Nazi control.", "releaseYear": "2020", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/jBeL6pPUPo0wnyTmiuxPegcibPf.jpg", "categories": {"plot": 5.5, "acting": 7.0, "ending": 1.3333333333333333, "soundtrack": 5.0, "cinematography": 7.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "A horrible, horrible piece of propaganda for the superior morality and incredibly good intentioned poor americans, that is able to combine almost all of america' enemies for a puke worthy mashup of historical manipulation with the excuse of being a  fiction piece.It's such a shame that the work of so many people can be put through the mud with such a horrible script and direction. At the end of the day, pooor good american GIs did commit the major war crime of not going into a suicidal mission to save a family, triggering what appears to be the inner suicide bomber every arab woman has in them according to us common belief.. Pointless, propagandistic and damgerous, for the scenes in which the GIs brutally murder german soldiers that were already surrendered or the fact that US intervention was one of the basic causes for what is happening in the middle and far east seem to be justified with a couple of bad looking, cigar smoking villains and the appearance of concentration camp inmates from camps that were never in France in the first place."}, {"rating": "4", "text": "A haunted-house story within a World War II setting?It could've worked, even in the face of such a narrative device, considering the true horrors of war, but ultimately it ends up being a mash-up that is neither scary nor entertaining.Points for the atmosphere, the rest just doesn't work."}, {"rating": "1", "text": "Beginning: ok okHalf: nah...End: lol why geezLove second war and horror movies, that's why I gave it a shot. I wasn't expecting a good movie, even so it was really disapointing."}, {"rating": "0", "text": "This is one of the worst movies I have ever seen in my 40 years of living.I decided to watch a movie without checking reviews for the first time in years and boy do I regret thatone of those movies where the end parts completely ruin the whole movie and remind me that I will never get that time backJust utter garbage. What were they thinking?"}, {"rating": "6", "text": "Some of our cast members in this picture were SUPER cute - VERY easy on the eyes and it was nice to see Billy Zane's fine ass for the first time since Titanic! As for the movie itself? Unfortunately the rest of this film wasn't so easy on the eye. Lots of corny scare tactics, the usual, typical \"haunted house\" convoluted drama."}, {"rating": "7", "text": "I\u2019m going to give credit where it\u2019s due this is a good horror film, not great but good. I understand a few character arcs were a bit underdeveloped and that was a turn off. However looking past that, which is common place in recent horror movies, to see good cinematography coupled with great acting (in this genre) and a antagonist that had actual depth and was portrayed better than many supernatural stereotypes made it a quality horror. Was it a bit rushed in the end? Yes. Was there a bit more room for supporting character development? Yes. But if you look at the primary motif that this movie went for, PTSD, it hit the mark. And for those who don\u2019t agree I understand. To those reading this understand there is a difference between critiquing and being critical especially in a genre that primarily quantity over quality. Overall I have recommended this to many of my friends who thoroughly enjoy this genre and they have all come to a similar conclusion as I. Give it a chance."}], "recommendations": ["the_purge_election_year", "antebellum", "the_girl_with_all_the_gifts", "what_happened_to_monday", "repo_men", "the_mist", "the_kingdom", "chernobyl_diaries", "get_out", "the_invasion", "dark_skies", "the_forever_purge", "apocalypto", "the_unborn", "28_days_later", "the_exorcism_of_emily_rose", "the_darkest_minds", "eastern_promises", "exorcist_the_beginning", "world_war_z", "jarhead", "the_purge", "eden_lake", "brimstone", "pandorum"]}
+{
+  "id": 2016,
+  "title": "Ghosts of War",
+  "starring": [
+    "Brenton Thwaites",
+    "Theo Rossi"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Horror",
+    "Thriller",
+    "War",
+    "Fantasy"
+  ],
+  "description": "A group of World War II American soldiers encounter a supernatural enemy as they occupy a French castle previously under Nazi control.",
+  "releaseYear": "2020",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jBeL6pPUPo0wnyTmiuxPegcibPf.jpg",
+  "categories": {
+    "plot": 5.5,
+    "acting": 7.0,
+    "ending": 1.3333333333333333,
+    "soundtrack": 5.0,
+    "cinematography": 7.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "A horrible, horrible piece of propaganda for the superior morality and incredibly good intentioned poor americans, that is able to combine almost all of america' enemies for a puke worthy mashup of historical manipulation with the excuse of being a  fiction piece.It's such a shame that the work of so many people can be put through the mud with such a horrible script and direction. At the end of the day, pooor good american GIs did commit the major war crime of not going into a suicidal mission to save a family, triggering what appears to be the inner suicide bomber every arab woman has in them according to us common belief.. Pointless, propagandistic and damgerous, for the scenes in which the GIs brutally murder german soldiers that were already surrendered or the fact that US intervention was one of the basic causes for what is happening in the middle and far east seem to be justified with a couple of bad looking, cigar smoking villains and the appearance of concentration camp inmates from camps that were never in France in the first place."
+    },
+    {
+      "rating": "4",
+      "text": "A haunted-house story within a World War II setting?It could've worked, even in the face of such a narrative device, considering the true horrors of war, but ultimately it ends up being a mash-up that is neither scary nor entertaining.Points for the atmosphere, the rest just doesn't work."
+    },
+    {
+      "rating": "1",
+      "text": "Beginning: ok okHalf: nah...End: lol why geezLove second war and horror movies, that's why I gave it a shot. I wasn't expecting a good movie, even so it was really disapointing."
+    },
+    {
+      "rating": "0",
+      "text": "This is one of the worst movies I have ever seen in my 40 years of living.I decided to watch a movie without checking reviews for the first time in years and boy do I regret thatone of those movies where the end parts completely ruin the whole movie and remind me that I will never get that time backJust utter garbage. What were they thinking?"
+    },
+    {
+      "rating": "6",
+      "text": "Some of our cast members in this picture were SUPER cute - VERY easy on the eyes and it was nice to see Billy Zane's fine ass for the first time since Titanic! As for the movie itself? Unfortunately the rest of this film wasn't so easy on the eye. Lots of corny scare tactics, the usual, typical \"haunted house\" convoluted drama."
+    },
+    {
+      "rating": "7",
+      "text": "I\u2019m going to give credit where it\u2019s due this is a good horror film, not great but good. I understand a few character arcs were a bit underdeveloped and that was a turn off. However looking past that, which is common place in recent horror movies, to see good cinematography coupled with great acting (in this genre) and a antagonist that had actual depth and was portrayed better than many supernatural stereotypes made it a quality horror. Was it a bit rushed in the end? Yes. Was there a bit more room for supporting character development? Yes. But if you look at the primary motif that this movie went for, PTSD, it hit the mark. And for those who don\u2019t agree I understand. To those reading this understand there is a difference between critiquing and being critical especially in a genre that primarily quantity over quality. Overall I have recommended this to many of my friends who thoroughly enjoy this genre and they have all come to a similar conclusion as I. Give it a chance."
+    }
+  ],
+  "recommendations": [
+    "the_purge_election_year",
+    "antebellum",
+    "the_girl_with_all_the_gifts",
+    "what_happened_to_monday",
+    "repo_men",
+    "the_mist",
+    "the_kingdom",
+    "chernobyl_diaries",
+    "get_out",
+    "the_invasion",
+    "dark_skies",
+    "the_forever_purge",
+    "apocalypto",
+    "the_unborn",
+    "28_days_later",
+    "the_exorcism_of_emily_rose",
+    "the_darkest_minds",
+    "eastern_promises",
+    "exorcist_the_beginning",
+    "world_war_z",
+    "jarhead",
+    "the_purge",
+    "eden_lake",
+    "brimstone",
+    "pandorum"
+  ]
+}

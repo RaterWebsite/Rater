@@ -1,1 +1,64 @@
-{"id": 22, "title": "After We Fell", "starring": ["Josephine Langford", "Hero Fiennes Tiffin"], "runtime": 99, "genre": ["Romance", "Drama"], "description": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."}, {"rating": "0", "text": "And this is still a thing? Fifty shades franchise at least was exciting, but this... It's just... No."}], "recommendations": ["carnaval", "resort_to_love", "the_return_of_the_texas_chainsaw_massacre", "hellraiser_hellworld", "exorcist_ii_the_heretic", "amityville_ii_the_possession", "jeepers_creepers_reborn", "jason_x", "last_man_down", "day_of_the_dead_bloodline", "anaconda", "rogue_hostage", "jeepers_creepers_3", "the_legend_of_hercules", "jaws_the_revenge", "halloween_resurrection", "supergirl", "the_day_the_earth_stood_still", "mortal_kombat_annihilation", "meet_the_spartans", "apex", "cell", "van_helsing", "suicide_squad", "ghost_rider_spirit_of_vengeance"]}
+{
+  "id": 22,
+  "title": "After We Fell",
+  "starring": [
+    "Josephine Langford",
+    "Hero Fiennes Tiffin"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "description": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."
+    },
+    {
+      "rating": "0",
+      "text": "And this is still a thing? Fifty shades franchise at least was exciting, but this... It's just... No."
+    }
+  ],
+  "recommendations": [
+    "carnaval",
+    "resort_to_love",
+    "the_return_of_the_texas_chainsaw_massacre",
+    "hellraiser_hellworld",
+    "exorcist_ii_the_heretic",
+    "amityville_ii_the_possession",
+    "jeepers_creepers_reborn",
+    "jason_x",
+    "last_man_down",
+    "day_of_the_dead_bloodline",
+    "anaconda",
+    "rogue_hostage",
+    "jeepers_creepers_3",
+    "the_legend_of_hercules",
+    "jaws_the_revenge",
+    "halloween_resurrection",
+    "supergirl",
+    "the_day_the_earth_stood_still",
+    "mortal_kombat_annihilation",
+    "meet_the_spartans",
+    "apex",
+    "cell",
+    "van_helsing",
+    "suicide_squad",
+    "ghost_rider_spirit_of_vengeance"
+  ]
+}

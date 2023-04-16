@@ -1,1 +1,116 @@
-{"id": 4860, "title": "Jackass: The Movie", "starring": ["Johnny Knoxville", "Bam Margera"], "runtime": 88, "genre": ["Comedy", "Documentary"], "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.", "releaseYear": "2002", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg", "categories": {"plot": 5.0, "acting": 0.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 7.428571428571429, "action": 5.0}, "reviews": [{"rating": "8", "text": "The most shocking, gross, hilarious, original and simple movie of the 2000's. You have to admire that these guys made a living doing this, if I had the chance I would totally do most of the sh*t to get money, wouldn't you?"}, {"rating": "9", "text": "Jackass might not be the most intelligent movie but there something of genius about it. It takes some of the dumbest things we can do and turns them into something that will make you fall over in laughter."}, {"rating": "10", "text": "well jackass the movie is my favorite comedy of all time. now be warned jackass is very nasty inappropriate and immature meaning if you find stuff like poop and farts and people getting wrecked not funny you will find jackass the movie dumb! but its ok to watch some dumb stunts and laugh at simple things every once in a while so just know how simple it all is. the stunts are crazy all from zapping there testicles to eating a pee pee snow cone to snorting wasabi and getting off road tattoos! its all hear people. but i think its clever and funny and definitely the best MTV project out there! and the best part is i got my copy for 3 dollars! its so cheap and worth it if you like this stuff."}, {"rating": "10", "text": "All time cult classic perfect mix of pranks and gross out humour that's not for the faint hearted ."}, {"rating": "8", "text": "Watching these guys pull off these hilarious stunts, pranks, and skits is an absolute blast. At times the things these guys do to themselves and each other can be disturbing, gross, and just plain lacking in intelligence, but it's consistently one of the funniest movies I've ever watched. I laughed through the entire thing even when it was making me cringe. Why these guys enjoy hurting themselves so much is beyond me. Even weirder is how the somehow manage to make it funny. All I know is that it is a laugh riot and therefore I can recommend it."}, {"rating": "1", "text": "This movie is, for the most part, completely brain dead and rambunctious. Despite a few decently funny moments, this movie is complete and utter trash. Don't waste your time or money."}, {"rating": "0", "text": "Jackass es el mejor exponente cinematogr\u00e1fico de la estupidez y el retraso mental."}, {"rating": "0", "text": "This movie is the film adaptation of a shameful American television series where crazy people make things even more crazy, and seem happy about it. Directed by Jeff Tremaine, is starring Johnny Knoxville, Bam Margera, Chris Pontius and others whom I cannot call actors, or artists, in order not to insult, thus, the real actors and artists from any country.Unfortunately, film is more of an industry than an art today. And when money speaks louder than judgment or logic, it happen these shameful and unfortunate films, that should never have even been imagined. Not worth wasting my time to analyze what went wrong in this movie because EVERYTHING went the hard way that could run. This is not a movie, isn't worthy of these name. It's garbage, pure waste of time for those who see it and worse, it had sequelae! It's like those pests that affect plants and never come out of there!When trying to see this film (I couldn't for more than ten minutes, I think we need to be totally devoid of intelligence to be able to see it completely!), I found myself reflecting on the decay of the human race. We are at a time when we could be all, achieve knowledge as never had and improve our behavior through more human and beneficial values. But we are wasting these opportunity choosing to worship the idiocy and stupidity. This film, and all that followed, is proof of that. I hope that Darwin is right and natural selection do its job properly, for the good of humanity."}, {"rating": "9", "text": "One of the funniest movies of all time. Don't listen to the critics. They are morons. I almost fell over watching this."}, {"rating": "2", "text": "Generally horrible, but with some outrageously original cinematic moments. Everyone will be blindsided by the humor in at least one of the skits. Told almost as a documentary about the hapless, it purports to claim the dumb must be tough, but its underlying message is that there is no limit to the dumbness of the tough. It is clever and inventive, but I don't consider it a movie of critical consequence just because it was released on film stock. The fact that it's generally offensive is completely besides trhe point. It's an assemblage of video clips, period."}, {"rating": "10", "text": "Awesome... num 2 is due out in sep 22 o6 the filming starts in jan 06 all the boys are back."}, {"rating": "5", "text": "Jackass: The Movie. The movie's got a few funny wtf moments scattered throughout but a lot of them start to get quite boring quite fast."}, {"rating": "10", "text": "Movies don't have plots, and Jackass really settles this film with funny and crazy scenes and can make anyone laugh no matter what is happening! Nothing in this film is boring or a waste of your time, it is the best 87 minutes of your life you will spend. Incredible!"}, {"rating": "7", "text": "----------------------------------7.1/10-----------------------------------"}, {"rating": "10", "text": "This makes Jackass The Movie disgusting and funny to watch and what makes this one special."}], "recommendations": ["movie_43", "deuce_bigalow_european_gigolo", "epic_movie", "the_interview", "sausage_party", "grown_ups_2", "the_hangover", "meet_the_spartans", "hot_tub_time_machine", "the_dictator", "a_haunted_house", "vampires_suck", "fifty_shades_of_black", "miss_march", "this_is_the_end", "one_year_one_night", "scary_movie_5", "jackass_presents_bad_grandpa", "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan", "dinner_for_schmucks", "the_ridiculous_6", "white_chicks", "ted_2", "the_emoji_movie", "idiocracy"]}
+{
+  "id": 4860,
+  "title": "Jackass: The Movie",
+  "starring": [
+    "Johnny Knoxville",
+    "Bam Margera"
+  ],
+  "runtime": 88,
+  "genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",
+  "releaseYear": "2002",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 0.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 7.428571428571429,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "The most shocking, gross, hilarious, original and simple movie of the 2000's. You have to admire that these guys made a living doing this, if I had the chance I would totally do most of the sh*t to get money, wouldn't you?"
+    },
+    {
+      "rating": "9",
+      "text": "Jackass might not be the most intelligent movie but there something of genius about it. It takes some of the dumbest things we can do and turns them into something that will make you fall over in laughter."
+    },
+    {
+      "rating": "10",
+      "text": "well jackass the movie is my favorite comedy of all time. now be warned jackass is very nasty inappropriate and immature meaning if you find stuff like poop and farts and people getting wrecked not funny you will find jackass the movie dumb! but its ok to watch some dumb stunts and laugh at simple things every once in a while so just know how simple it all is. the stunts are crazy all from zapping there testicles to eating a pee pee snow cone to snorting wasabi and getting off road tattoos! its all hear people. but i think its clever and funny and definitely the best MTV project out there! and the best part is i got my copy for 3 dollars! its so cheap and worth it if you like this stuff."
+    },
+    {
+      "rating": "10",
+      "text": "All time cult classic perfect mix of pranks and gross out humour that's not for the faint hearted ."
+    },
+    {
+      "rating": "8",
+      "text": "Watching these guys pull off these hilarious stunts, pranks, and skits is an absolute blast. At times the things these guys do to themselves and each other can be disturbing, gross, and just plain lacking in intelligence, but it's consistently one of the funniest movies I've ever watched. I laughed through the entire thing even when it was making me cringe. Why these guys enjoy hurting themselves so much is beyond me. Even weirder is how the somehow manage to make it funny. All I know is that it is a laugh riot and therefore I can recommend it."
+    },
+    {
+      "rating": "1",
+      "text": "This movie is, for the most part, completely brain dead and rambunctious. Despite a few decently funny moments, this movie is complete and utter trash. Don't waste your time or money."
+    },
+    {
+      "rating": "0",
+      "text": "Jackass es el mejor exponente cinematogr\u00e1fico de la estupidez y el retraso mental."
+    },
+    {
+      "rating": "0",
+      "text": "This movie is the film adaptation of a shameful American television series where crazy people make things even more crazy, and seem happy about it. Directed by Jeff Tremaine, is starring Johnny Knoxville, Bam Margera, Chris Pontius and others whom I cannot call actors, or artists, in order not to insult, thus, the real actors and artists from any country.Unfortunately, film is more of an industry than an art today. And when money speaks louder than judgment or logic, it happen these shameful and unfortunate films, that should never have even been imagined. Not worth wasting my time to analyze what went wrong in this movie because EVERYTHING went the hard way that could run. This is not a movie, isn't worthy of these name. It's garbage, pure waste of time for those who see it and worse, it had sequelae! It's like those pests that affect plants and never come out of there!When trying to see this film (I couldn't for more than ten minutes, I think we need to be totally devoid of intelligence to be able to see it completely!), I found myself reflecting on the decay of the human race. We are at a time when we could be all, achieve knowledge as never had and improve our behavior through more human and beneficial values. But we are wasting these opportunity choosing to worship the idiocy and stupidity. This film, and all that followed, is proof of that. I hope that Darwin is right and natural selection do its job properly, for the good of humanity."
+    },
+    {
+      "rating": "9",
+      "text": "One of the funniest movies of all time. Don't listen to the critics. They are morons. I almost fell over watching this."
+    },
+    {
+      "rating": "2",
+      "text": "Generally horrible, but with some outrageously original cinematic moments. Everyone will be blindsided by the humor in at least one of the skits. Told almost as a documentary about the hapless, it purports to claim the dumb must be tough, but its underlying message is that there is no limit to the dumbness of the tough. It is clever and inventive, but I don't consider it a movie of critical consequence just because it was released on film stock. The fact that it's generally offensive is completely besides trhe point. It's an assemblage of video clips, period."
+    },
+    {
+      "rating": "10",
+      "text": "Awesome... num 2 is due out in sep 22 o6 the filming starts in jan 06 all the boys are back."
+    },
+    {
+      "rating": "5",
+      "text": "Jackass: The Movie. The movie's got a few funny wtf moments scattered throughout but a lot of them start to get quite boring quite fast."
+    },
+    {
+      "rating": "10",
+      "text": "Movies don't have plots, and Jackass really settles this film with funny and crazy scenes and can make anyone laugh no matter what is happening! Nothing in this film is boring or a waste of your time, it is the best 87 minutes of your life you will spend. Incredible!"
+    },
+    {
+      "rating": "7",
+      "text": "----------------------------------7.1/10-----------------------------------"
+    },
+    {
+      "rating": "10",
+      "text": "This makes Jackass The Movie disgusting and funny to watch and what makes this one special."
+    }
+  ],
+  "recommendations": [
+    "movie_43",
+    "deuce_bigalow_european_gigolo",
+    "epic_movie",
+    "the_interview",
+    "sausage_party",
+    "grown_ups_2",
+    "the_hangover",
+    "meet_the_spartans",
+    "hot_tub_time_machine",
+    "the_dictator",
+    "a_haunted_house",
+    "vampires_suck",
+    "fifty_shades_of_black",
+    "miss_march",
+    "this_is_the_end",
+    "one_year_one_night",
+    "scary_movie_5",
+    "jackass_presents_bad_grandpa",
+    "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan",
+    "dinner_for_schmucks",
+    "the_ridiculous_6",
+    "white_chicks",
+    "ted_2",
+    "the_emoji_movie",
+    "idiocracy"
+  ]
+}

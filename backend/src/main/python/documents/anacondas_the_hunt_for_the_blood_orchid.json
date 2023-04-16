@@ -1,1 +1,101 @@
-{"id": 1877, "title": "Anacondas: The Hunt for the Blood Orchid", "starring": ["Johnny Messner", "KaDee Strickland"], "runtime": 96, "genre": ["Adventure", "Action", "Horror"], "description": "The blood orchid - a rare flower that could hold the secret of eternal life and be worth a fortune to the company that finds it. Led by a pharmaceutical research team, a scientific expedition sets out to explore deep into the jungles of Borneo to locate and bring back samples of the legendary plant. Battling through rainstorms to make their way upriver, the group encounters poisonous insects and a ferocious crocodile, only to discover they're being stalked by an even greater danger: a gathering of giant anacondas! Heat-sensing, fifty-foot-long flesh-eaters that'll go after anyone that crosses their path!", "releaseYear": "2004", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/gTlVy3wUApAanIAPdx3yz0YOROD.jpg", "categories": {"plot": 5.2, "acting": 5.333333333333333, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 7.0, "action": 5.0}, "reviews": [{"rating": "4", "text": "Este es el tipo de pel\u00edculas que bien podr\u00edas disfrutar un domingo por la tarde en la TV, eso como mucho."}, {"rating": "8", "text": "\u00d3timos efeitos especiais e uma tens\u00e3o percorrida a persegui\u00e7\u00e3o assassina muito bem produzida e envolvente..."}, {"rating": "5", "text": "Is it amazing? like the first one, hell no. I mean, dear GOD it's far from amazing, what the hell was amazing about it?!?! Well, that one character was cool, as was the monkey, and Mitchell, but other than that it's FAR from amazing. It's an okay film, but dear god, the first time I saw it, it was a decent movie that shouldn't be taken seriously, the second time I saw it, I decide to test it and took it seriously. Boy did it suck that time. I prefer the first one, but please, don't come out with a third one and if you do, make it a quality movie with excellent effects, and for god sake, SHOW THE PEOPLE GET FULLY EATEN! MORE THAN JON VOIGHT IN THE FIRST ONE!"}, {"rating": "8", "text": "It was preety good but the first one was better."}, {"rating": "10", "text": "The movie was great. I loved it and have watched it over 100 times in a week i loved it so much. I recomend that you should get it it is great."}, {"rating": "3", "text": "Realistically and logically improbable, Blood Orchid fails to match up to its more entertaining predecessor; It is inappropriately serious and the comic relief\u00e2"}, {"rating": "7", "text": "If you like b rated giant snake movies then you will like this, this is the kind of movie you would watch with your friends when your bored in the summer and have a couple laughs with your friends, bassically it's a guilty pleasure, a cheesy but enjoyable movie from beginning to end."}, {"rating": "7", "text": "This one is way better than the awful original. It's story is way better, the characters are more likable, and the special effects make up for how bad the original's were"}, {"rating": "4", "text": "Anacondas The Hunt for the Blood Red Orchid: 4/10: I had the following criticisms of the first Anaconda. How did the snakes get to the Amazon when they live hundreds of miles away in the Ecuadorian swamps, man those CGI snakes look really fake, and you know what this movie is missing? Some racist comic relief, you now with the scaredy cat black guy who follows Bob Hope around looking for ghosts. Well they answered my third concern.\r The anacondas are still in the jungle now the film makers have now moved them to Borneo, which is in Asia, which seems a rather large slither from the swamps of Ecuador, in South America. It's kind of like finding tigers in Africa. (Perhaps the snakes escaped from a zoo.)\r The snakes look okay while under water but fail miserably while airborne. Of course most snakes don't do flying well. (Though that would be an interesting explanation for their intercontinental migration.) The snake doesn't even really look right and the effects guys in the extras admit it is a combination of many snakes. (This must explain the fangs and why anacondas in the movie are surprisingly flammable.) Apparently real anacondas don't have the right 'tude.\r With English accented villains, ship crushing waterfalls and paralyzing spiders, the movie comes awfully close to not needing the snakes at all. (This is my Amityville Horror 2 rule. In which the family was so awful a haunted house seemed redundant)\r As for the actors only two stand out Morris Chestnut as the horrible and embarrassing black comic relief, and the monkey who is by far the best actor in the film and definitely needs a new agent. I'm serious the monkey has a Jack Nicholson Five Easy Pieces breakout performance.\r Another helpful hint,if lost in the jungles of Borneo don't try to build a raft to Kota Bharu like the characters in the movie do. It is about a thousand kilometers of open ocean away as the anaconda flies."}, {"rating": "8", "text": "One of those movies that you watch just for fun and chill.It is a nice \"cozy sofa at home, tasty dinner, legs on the table\" type of movie that you just can't resist to enjoy. The actors are fine to be real, the visuals are not so bad, especially the anacondas, the effects are pretty okay, so there is nothing to moan about, apart from the slightly shallow story. Nice movie to watch when tired and you need something to relax with."}, {"rating": "3", "text": "This is not clever and has no depth. It is just a silly big monster movie that is better than other ones but not as good as many with more class and an integral story instead of an integral monster. The monster is quite cool but seems easier to kill until the end. The original is better as it is more violent and sexier. Watchable but dull. Better than most monster movie sequels but nothing more."}], "recommendations": ["ghost_rider", "jurassic_world", "the_meg", "deep_blue_sea", "ghost_rider_spirit_of_vengeance", "teenage_mutant_ninja_turtles", "war_of_the_worlds", "legion", "the_predator", "snakes_on_a_plane", "transformers_revenge_of_the_fallen", "transformers_age_of_extinction", "doomsday", "47_meters_down", "kong_skull_island", "priest", "skyline", "machete_kills", "underworld_blood_wars", "jurassic_world_fallen_kingdom", "into_the_storm", "transformers", "the_shallows", "goosebumps_2_haunted_halloween", "the_darkest_hour"]}
+{
+  "id": 1877,
+  "title": "Anacondas: The Hunt for the Blood Orchid",
+  "starring": [
+    "Johnny Messner",
+    "KaDee Strickland"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Adventure",
+    "Action",
+    "Horror"
+  ],
+  "description": "The blood orchid - a rare flower that could hold the secret of eternal life and be worth a fortune to the company that finds it. Led by a pharmaceutical research team, a scientific expedition sets out to explore deep into the jungles of Borneo to locate and bring back samples of the legendary plant. Battling through rainstorms to make their way upriver, the group encounters poisonous insects and a ferocious crocodile, only to discover they're being stalked by an even greater danger: a gathering of giant anacondas! Heat-sensing, fifty-foot-long flesh-eaters that'll go after anyone that crosses their path!",
+  "releaseYear": "2004",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/gTlVy3wUApAanIAPdx3yz0YOROD.jpg",
+  "categories": {
+    "plot": 5.2,
+    "acting": 5.333333333333333,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 7.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "Este es el tipo de pel\u00edculas que bien podr\u00edas disfrutar un domingo por la tarde en la TV, eso como mucho."
+    },
+    {
+      "rating": "8",
+      "text": "\u00d3timos efeitos especiais e uma tens\u00e3o percorrida a persegui\u00e7\u00e3o assassina muito bem produzida e envolvente..."
+    },
+    {
+      "rating": "5",
+      "text": "Is it amazing? like the first one, hell no. I mean, dear GOD it's far from amazing, what the hell was amazing about it?!?! Well, that one character was cool, as was the monkey, and Mitchell, but other than that it's FAR from amazing. It's an okay film, but dear god, the first time I saw it, it was a decent movie that shouldn't be taken seriously, the second time I saw it, I decide to test it and took it seriously. Boy did it suck that time. I prefer the first one, but please, don't come out with a third one and if you do, make it a quality movie with excellent effects, and for god sake, SHOW THE PEOPLE GET FULLY EATEN! MORE THAN JON VOIGHT IN THE FIRST ONE!"
+    },
+    {
+      "rating": "8",
+      "text": "It was preety good but the first one was better."
+    },
+    {
+      "rating": "10",
+      "text": "The movie was great. I loved it and have watched it over 100 times in a week i loved it so much. I recomend that you should get it it is great."
+    },
+    {
+      "rating": "3",
+      "text": "Realistically and logically improbable, Blood Orchid fails to match up to its more entertaining predecessor; It is inappropriately serious and the comic relief\u00e2"
+    },
+    {
+      "rating": "7",
+      "text": "If you like b rated giant snake movies then you will like this, this is the kind of movie you would watch with your friends when your bored in the summer and have a couple laughs with your friends, bassically it's a guilty pleasure, a cheesy but enjoyable movie from beginning to end."
+    },
+    {
+      "rating": "7",
+      "text": "This one is way better than the awful original. It's story is way better, the characters are more likable, and the special effects make up for how bad the original's were"
+    },
+    {
+      "rating": "4",
+      "text": "Anacondas The Hunt for the Blood Red Orchid: 4/10: I had the following criticisms of the first Anaconda. How did the snakes get to the Amazon when they live hundreds of miles away in the Ecuadorian swamps, man those CGI snakes look really fake, and you know what this movie is missing? Some racist comic relief, you now with the scaredy cat black guy who follows Bob Hope around looking for ghosts. Well they answered my third concern.\r The anacondas are still in the jungle now the film makers have now moved them to Borneo, which is in Asia, which seems a rather large slither from the swamps of Ecuador, in South America. It's kind of like finding tigers in Africa. (Perhaps the snakes escaped from a zoo.)\r The snakes look okay while under water but fail miserably while airborne. Of course most snakes don't do flying well. (Though that would be an interesting explanation for their intercontinental migration.) The snake doesn't even really look right and the effects guys in the extras admit it is a combination of many snakes. (This must explain the fangs and why anacondas in the movie are surprisingly flammable.) Apparently real anacondas don't have the right 'tude.\r With English accented villains, ship crushing waterfalls and paralyzing spiders, the movie comes awfully close to not needing the snakes at all. (This is my Amityville Horror 2 rule. In which the family was so awful a haunted house seemed redundant)\r As for the actors only two stand out Morris Chestnut as the horrible and embarrassing black comic relief, and the monkey who is by far the best actor in the film and definitely needs a new agent. I'm serious the monkey has a Jack Nicholson Five Easy Pieces breakout performance.\r Another helpful hint,if lost in the jungles of Borneo don't try to build a raft to Kota Bharu like the characters in the movie do. It is about a thousand kilometers of open ocean away as the anaconda flies."
+    },
+    {
+      "rating": "8",
+      "text": "One of those movies that you watch just for fun and chill.It is a nice \"cozy sofa at home, tasty dinner, legs on the table\" type of movie that you just can't resist to enjoy. The actors are fine to be real, the visuals are not so bad, especially the anacondas, the effects are pretty okay, so there is nothing to moan about, apart from the slightly shallow story. Nice movie to watch when tired and you need something to relax with."
+    },
+    {
+      "rating": "3",
+      "text": "This is not clever and has no depth. It is just a silly big monster movie that is better than other ones but not as good as many with more class and an integral story instead of an integral monster. The monster is quite cool but seems easier to kill until the end. The original is better as it is more violent and sexier. Watchable but dull. Better than most monster movie sequels but nothing more."
+    }
+  ],
+  "recommendations": [
+    "ghost_rider",
+    "jurassic_world",
+    "the_meg",
+    "deep_blue_sea",
+    "ghost_rider_spirit_of_vengeance",
+    "teenage_mutant_ninja_turtles",
+    "war_of_the_worlds",
+    "legion",
+    "the_predator",
+    "snakes_on_a_plane",
+    "transformers_revenge_of_the_fallen",
+    "transformers_age_of_extinction",
+    "doomsday",
+    "47_meters_down",
+    "kong_skull_island",
+    "priest",
+    "skyline",
+    "machete_kills",
+    "underworld_blood_wars",
+    "jurassic_world_fallen_kingdom",
+    "into_the_storm",
+    "transformers",
+    "the_shallows",
+    "goosebumps_2_haunted_halloween",
+    "the_darkest_hour"
+  ]
+}

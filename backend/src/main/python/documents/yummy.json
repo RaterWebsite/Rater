@@ -1,1 +1,61 @@
-{"id": 3624, "title": "Yummy", "starring": ["Maaike Neuville", "Bart Hollanders"], "runtime": 90, "genre": ["Horror", "Comedy", "Action"], "description": "A young couple travels to a shabby Eastern European hospital for plastic surgery. The young woman wants a breast reduction. Her mother comes along for yet another face-lift. Wandering through an abandoned ward the boyfriend stumbles upon a young woman, gagged and strapped to an operating table; she is the result of an experimental rejuvenation treatment. He frees her, but does not realize he just caused the outbreak of a virus that will change doctors, patients and his mother-in-law into bloodthirsty zombies.", "releaseYear": "2019", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/9U80sW0NNOenmfxWWlPoo8TokJ5.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 6.0, "action": 5.0}, "reviews": [{"rating": "6", "text": "I couldn\u2019t tell if this was supposed to be a comedy or something dark and depressing, either way, I had some fun watching this!"}], "recommendations": ["not_another_teen_movie", "the_night_before", "bad_santa", "eurotrip", "long_story_short", "the_ugly_truth", "vamps", "krampus", "bad_trip", "friday", "american_pie", "christmas_with_the_kranks", "rough_night", "yes_man", "a_haunted_house", "jexi", "the_hangover", "knocked_up", "the_40_year_old_virgin", "step_brothers", "what_happens_in_vegas", "white_chicks", "elf", "scary_movie_2", "nacho_libre"]}
+{
+  "id": 3624,
+  "title": "Yummy",
+  "starring": [
+    "Maaike Neuville",
+    "Bart Hollanders"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Horror",
+    "Comedy",
+    "Action"
+  ],
+  "description": "A young couple travels to a shabby Eastern European hospital for plastic surgery. The young woman wants a breast reduction. Her mother comes along for yet another face-lift. Wandering through an abandoned ward the boyfriend stumbles upon a young woman, gagged and strapped to an operating table; she is the result of an experimental rejuvenation treatment. He frees her, but does not realize he just caused the outbreak of a virus that will change doctors, patients and his mother-in-law into bloodthirsty zombies.",
+  "releaseYear": "2019",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/9U80sW0NNOenmfxWWlPoo8TokJ5.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "I couldn\u2019t tell if this was supposed to be a comedy or something dark and depressing, either way, I had some fun watching this!"
+    }
+  ],
+  "recommendations": [
+    "not_another_teen_movie",
+    "the_night_before",
+    "bad_santa",
+    "eurotrip",
+    "long_story_short",
+    "the_ugly_truth",
+    "vamps",
+    "krampus",
+    "bad_trip",
+    "friday",
+    "american_pie",
+    "christmas_with_the_kranks",
+    "rough_night",
+    "yes_man",
+    "a_haunted_house",
+    "jexi",
+    "the_hangover",
+    "knocked_up",
+    "the_40_year_old_virgin",
+    "step_brothers",
+    "what_happens_in_vegas",
+    "white_chicks",
+    "elf",
+    "scary_movie_2",
+    "nacho_libre"
+  ]
+}

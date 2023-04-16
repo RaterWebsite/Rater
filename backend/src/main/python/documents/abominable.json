@@ -1,1 +1,70 @@
-{"id": 1356, "title": "Abominable", "starring": ["Chloe Bennet", "Albert Tsai"], "runtime": 97, "genre": ["Family", "Animation", "Adventure", "Comedy"], "description": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.", "releaseYear": "2019", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/20djTLqppfBx5WYA67Y300S6aPD.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "This movie was worse than the reviews said, if thats possible."}, {"rating": "1", "text": "This movie is very painful. Everything was wrong. The director is obviously either new to the industry or just sucks in general."}, {"rating": "10", "text": "this is a combination of Rear Window and Sasquatch, just a great movie."}], "recommendations": ["jeepers_creepers_reborn", "meet_the_spartans", "see_no_evil", "vampires_suck", "idiocracy", "the_emoji_movie", "skyline", "gamer", "the_room", "the_day_the_earth_stood_still", "the_matrix_resurrections", "jeepers_creepers_3", "movie_43", "songbird", "doctor_strange_in_the_multiverse_of_madness", "knowing", "epic_movie", "district_9", "gods_of_egypt", "the_happening", "legion", "the_bye_bye_man", "redemption_day", "scary_movie_5", "the_legend_of_hercules"]}
+{
+  "id": 1356,
+  "title": "Abominable",
+  "starring": [
+    "Chloe Bennet",
+    "Albert Tsai"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "description": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "This movie was worse than the reviews said, if thats possible."
+    },
+    {
+      "rating": "1",
+      "text": "This movie is very painful. Everything was wrong. The director is obviously either new to the industry or just sucks in general."
+    },
+    {
+      "rating": "10",
+      "text": "this is a combination of Rear Window and Sasquatch, just a great movie."
+    }
+  ],
+  "recommendations": [
+    "jeepers_creepers_reborn",
+    "meet_the_spartans",
+    "see_no_evil",
+    "vampires_suck",
+    "idiocracy",
+    "the_emoji_movie",
+    "skyline",
+    "gamer",
+    "the_room",
+    "the_day_the_earth_stood_still",
+    "the_matrix_resurrections",
+    "jeepers_creepers_3",
+    "movie_43",
+    "songbird",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "knowing",
+    "epic_movie",
+    "district_9",
+    "gods_of_egypt",
+    "the_happening",
+    "legion",
+    "the_bye_bye_man",
+    "redemption_day",
+    "scary_movie_5",
+    "the_legend_of_hercules"
+  ]
+}

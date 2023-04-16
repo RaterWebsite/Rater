@@ -1,1 +1,80 @@
-{"id": 3317, "title": "The Basketball Diaries", "starring": ["Leonardo DiCaprio", "Mark Wahlberg"], "runtime": 102, "genre": ["Drama", "Crime"], "description": "A high school basketball player\u2019s life turns upside down after free-falling into the harrowing world of drug addiction.", "releaseYear": "1995", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg", "categories": {"plot": 8.2, "acting": 9.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 9.0}, "reviews": [{"rating": "6", "text": "A movie where you can see both - how much harm drugs deal to young people. And how great was Leonardo DiCaprio in his teenage years. Based on a true story."}, {"rating": "9", "text": "Was not sure what to expect coming into the movie but was very pleased with it. Young Leonardo DiCaprio was as good as he was in Inception. Mark Wahlberg did not get very much recognition for the film, I actually did not even know he was in it until the credits rolled, but did an equally astounding job. Basketball Diaries was mos definitely edgy pushing the limits. A fine addition for DiCaprio lovers and movie collectors."}, {"rating": "5", "text": "\"The Basketball Diaries\" was a good movie but also very frustrating , first by the title , that is focusing the life of Jim Carroll and Leonardo DiCaprio did his job , besides the story speaks only of young drug addicts pranksters and not they became talented basketball players , but beyond that the tone was good ."}, {"rating": "7", "text": "Ortalama bir filmdi. Di Caprio oyunuculu her filmde oldu\u011fu gibi bu filmde g\u00fczeldi.Filmin senaryosu ve \u00e7keimleri daha iyi olabilirdi.Filmin m\u00fczikleri g\u00fczeldi ama neden k\u0131s\u0131k sesle verildi genelde. M\u00fczik kullan\u0131m yerlerini de pek be\u011fenmedim. M\u00fczikleri daha etkili kullana bilirlerdi."}, {"rating": "9", "text": "For me, an absolute blast. I knew I was going to like this one, and I damn well did. I love movies like this, where the hero is on top at the beginning and then gradually goes down. I just like darker themes like that and I enjoyed this one a lot. Drugs are evil, and perhaps Requiem for a Dream said it best, but I thought it was of a very high standard here as well. The fact that this is a story based on a true story helped a lot. I think fans of the drug theme can easily go for this film. For me, an amazing film and a great performance by DiCaprio by the way. Some scenes were really breathtaking in my opinion."}, {"rating": "9", "text": "Most underrated movie maybe just because people hating on Leo... 9 out of 10 A movie that really shocked me in my teenage yearsMust see!"}], "recommendations": ["the_blind_side", "remember_the_titans", "17_again", "coach_carter", "scarface", "10_things_i_hate_about_you", "soul_surfer", "the_spectacular_now", "fighting_with_my_family", "straight_outta_compton", "brokeback_mountain", "the_vow", "we_are_your_friends", "boyz_n_the_hood", "let_me_in", "the_perks_of_being_a_wallflower", "3_idiots", "pay_it_forward", "midnight_sun", "fight_club", "how_to_be_single", "freedom_writers", "my_name_is_khan", "the_duff", "i_can_only_imagine"]}
+{
+  "id": 3317,
+  "title": "The Basketball Diaries",
+  "starring": [
+    "Leonardo DiCaprio",
+    "Mark Wahlberg"
+  ],
+  "runtime": 102,
+  "genre": [
+    "Drama",
+    "Crime"
+  ],
+  "description": "A high school basketball player\u2019s life turns upside down after free-falling into the harrowing world of drug addiction.",
+  "releaseYear": "1995",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+  "categories": {
+    "plot": 8.2,
+    "acting": 9.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "A movie where you can see both - how much harm drugs deal to young people. And how great was Leonardo DiCaprio in his teenage years. Based on a true story."
+    },
+    {
+      "rating": "9",
+      "text": "Was not sure what to expect coming into the movie but was very pleased with it. Young Leonardo DiCaprio was as good as he was in Inception. Mark Wahlberg did not get very much recognition for the film, I actually did not even know he was in it until the credits rolled, but did an equally astounding job. Basketball Diaries was mos definitely edgy pushing the limits. A fine addition for DiCaprio lovers and movie collectors."
+    },
+    {
+      "rating": "5",
+      "text": "\"The Basketball Diaries\" was a good movie but also very frustrating , first by the title , that is focusing the life of Jim Carroll and Leonardo DiCaprio did his job , besides the story speaks only of young drug addicts pranksters and not they became talented basketball players , but beyond that the tone was good ."
+    },
+    {
+      "rating": "7",
+      "text": "Ortalama bir filmdi. Di Caprio oyunuculu her filmde oldu\u011fu gibi bu filmde g\u00fczeldi.Filmin senaryosu ve \u00e7keimleri daha iyi olabilirdi.Filmin m\u00fczikleri g\u00fczeldi ama neden k\u0131s\u0131k sesle verildi genelde. M\u00fczik kullan\u0131m yerlerini de pek be\u011fenmedim. M\u00fczikleri daha etkili kullana bilirlerdi."
+    },
+    {
+      "rating": "9",
+      "text": "For me, an absolute blast. I knew I was going to like this one, and I damn well did. I love movies like this, where the hero is on top at the beginning and then gradually goes down. I just like darker themes like that and I enjoyed this one a lot. Drugs are evil, and perhaps Requiem for a Dream said it best, but I thought it was of a very high standard here as well. The fact that this is a story based on a true story helped a lot. I think fans of the drug theme can easily go for this film. For me, an amazing film and a great performance by DiCaprio by the way. Some scenes were really breathtaking in my opinion."
+    },
+    {
+      "rating": "9",
+      "text": "Most underrated movie maybe just because people hating on Leo... 9 out of 10 A movie that really shocked me in my teenage yearsMust see!"
+    }
+  ],
+  "recommendations": [
+    "the_blind_side",
+    "remember_the_titans",
+    "17_again",
+    "coach_carter",
+    "scarface",
+    "10_things_i_hate_about_you",
+    "soul_surfer",
+    "the_spectacular_now",
+    "fighting_with_my_family",
+    "straight_outta_compton",
+    "brokeback_mountain",
+    "the_vow",
+    "we_are_your_friends",
+    "boyz_n_the_hood",
+    "let_me_in",
+    "the_perks_of_being_a_wallflower",
+    "3_idiots",
+    "pay_it_forward",
+    "midnight_sun",
+    "fight_club",
+    "how_to_be_single",
+    "freedom_writers",
+    "my_name_is_khan",
+    "the_duff",
+    "i_can_only_imagine"
+  ]
+}

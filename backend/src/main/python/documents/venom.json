@@ -1,1 +1,88 @@
-{"id": 3290, "title": "Venom", "starring": ["Tom Hardy", "Michelle Williams"], "runtime": 112, "genre": ["Science Fiction", "Action"], "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.", "releaseYear": "2018", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg", "categories": {"plot": 3.0, "acting": 3.0, "ending": 6.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 7.0, "action": 2.0}, "reviews": [{"rating": "6", "text": "No es una gran pel\u00edcula en lo absoluto, pero es muy aceptable y cumple con ser entretenida."}, {"rating": "9", "text": "Nail Biting from start to finish. Considering some other movies that have made no 1 spot, this should reach there also."}, {"rating": "0", "text": "Total, utter, decoded crap!"}, {"rating": "7", "text": "A horror movie explicitly made for fans of the slasher genre who miss what the Halloween and Friday the 13th franchises once were. Here we have an undead, virtually unstoppable killing machine going after a crop of mostly pretty and young actors. It doesn't try to be smart, funny or clever, and so misses where most recent horror movies have failed. Instead, it's a bloody slasher flick. If you like them, pick up Venom."}, {"rating": "7", "text": "I went into this movie with really low expectations, but in the end I had a good time. Why? Well, this movie didn't try to be self-referential, or funny, or anything that bogs down a lot of recent horror movies. Instead it knew what it wanted to show. It wanted to show teenagers getting killed in violent, interesting ways. I succeeds at that, and ends up being pretty fun, not all that scary, but still enjoyable. Plus, the ending of the movie is really great, tight, and actually had me on the edge of my seat. Not bad. Not a classic, but fun."}, {"rating": "1", "text": "This movie, like The Cave and Cry Wolf, shows why movies may be headed in the wrong directions. I know 14 and 15 year olds who think this movie is amazing. Yes I will agree it is amazing, amazingly bad. Poor direction, plot, suspense and just about everything else."}, {"rating": "3", "text": "How bad was Venom? It was so bad, that they couldn't even get things to jump out and scare you at the right time! It absolutely kills me! The story is fairly original with definite potential, the cast is fairly well known, and the movie was just awful! Why? Take your pick between bad writing, cheap special effects, no character development, and a really stupid ending. I like the whole Louisiana Creole background and the mysterious voodoo religion, that no one believe in anymore, but they just didn't take it anywhere. It's 15 minutes of interesting and an hour and 15 minutes of cheesy slasher bull  with typical lines, no eye candy, no comedy, nothing! It was quite boring and the ending just... wow! I don't know if it was rushed or if they just didn't care, but it was so  stupid!! Venom could have been a lot more, but it wasn't anything worthwhile."}, {"rating": "2", "text": "This film is extremely bad. It is not thrilling and scary. I recommend all of you not to watch this film as it is not a good horror film and you will not be shocked, scared or surprised."}], "recommendations": ["the_messengers", "drag_me_to_hell", "friday_the_13th", "cabin_fever", "dead_silence", "malignant", "the_babysitter_killer_queen", "ouija", "see_no_evil", "annabelle", "jason_x", "texas_chainsaw_3d", "the_bye_bye_man", "scream_4", "insidious", "countdown", "disturbia", "devil", "the_texas_chainsaw_massacre_the_beginning", "hostel_part_ii", "the_grudge_2", "the_cabin_in_the_woods", "the_amityville_horror", "the_hills_have_eyes", "rings"]}
+{
+  "id": 3290,
+  "title": "Venom",
+  "starring": [
+    "Tom Hardy",
+    "Michelle Williams"
+  ],
+  "runtime": 112,
+  "genre": [
+    "Science Fiction",
+    "Action"
+  ],
+  "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+  "releaseYear": "2018",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+  "categories": {
+    "plot": 3.0,
+    "acting": 3.0,
+    "ending": 6.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 7.0,
+    "action": 2.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "No es una gran pel\u00edcula en lo absoluto, pero es muy aceptable y cumple con ser entretenida."
+    },
+    {
+      "rating": "9",
+      "text": "Nail Biting from start to finish. Considering some other movies that have made no 1 spot, this should reach there also."
+    },
+    {
+      "rating": "0",
+      "text": "Total, utter, decoded crap!"
+    },
+    {
+      "rating": "7",
+      "text": "A horror movie explicitly made for fans of the slasher genre who miss what the Halloween and Friday the 13th franchises once were. Here we have an undead, virtually unstoppable killing machine going after a crop of mostly pretty and young actors. It doesn't try to be smart, funny or clever, and so misses where most recent horror movies have failed. Instead, it's a bloody slasher flick. If you like them, pick up Venom."
+    },
+    {
+      "rating": "7",
+      "text": "I went into this movie with really low expectations, but in the end I had a good time. Why? Well, this movie didn't try to be self-referential, or funny, or anything that bogs down a lot of recent horror movies. Instead it knew what it wanted to show. It wanted to show teenagers getting killed in violent, interesting ways. I succeeds at that, and ends up being pretty fun, not all that scary, but still enjoyable. Plus, the ending of the movie is really great, tight, and actually had me on the edge of my seat. Not bad. Not a classic, but fun."
+    },
+    {
+      "rating": "1",
+      "text": "This movie, like The Cave and Cry Wolf, shows why movies may be headed in the wrong directions. I know 14 and 15 year olds who think this movie is amazing. Yes I will agree it is amazing, amazingly bad. Poor direction, plot, suspense and just about everything else."
+    },
+    {
+      "rating": "3",
+      "text": "How bad was Venom? It was so bad, that they couldn't even get things to jump out and scare you at the right time! It absolutely kills me! The story is fairly original with definite potential, the cast is fairly well known, and the movie was just awful! Why? Take your pick between bad writing, cheap special effects, no character development, and a really stupid ending. I like the whole Louisiana Creole background and the mysterious voodoo religion, that no one believe in anymore, but they just didn't take it anywhere. It's 15 minutes of interesting and an hour and 15 minutes of cheesy slasher bull  with typical lines, no eye candy, no comedy, nothing! It was quite boring and the ending just... wow! I don't know if it was rushed or if they just didn't care, but it was so  stupid!! Venom could have been a lot more, but it wasn't anything worthwhile."
+    },
+    {
+      "rating": "2",
+      "text": "This film is extremely bad. It is not thrilling and scary. I recommend all of you not to watch this film as it is not a good horror film and you will not be shocked, scared or surprised."
+    }
+  ],
+  "recommendations": [
+    "the_messengers",
+    "drag_me_to_hell",
+    "friday_the_13th",
+    "cabin_fever",
+    "dead_silence",
+    "malignant",
+    "the_babysitter_killer_queen",
+    "ouija",
+    "see_no_evil",
+    "annabelle",
+    "jason_x",
+    "texas_chainsaw_3d",
+    "the_bye_bye_man",
+    "scream_4",
+    "insidious",
+    "countdown",
+    "disturbia",
+    "devil",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "hostel_part_ii",
+    "the_grudge_2",
+    "the_cabin_in_the_woods",
+    "the_amityville_horror",
+    "the_hills_have_eyes",
+    "rings"
+  ]
+}

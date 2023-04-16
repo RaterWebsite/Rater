@@ -1,1 +1,113 @@
-{"id": 4574, "title": "Anna and the Apocalypse", "starring": ["Ella Hunt", "Sarah Swire"], "runtime": 98, "genre": ["Horror", "Comedy", "Fantasy"], "description": "A zombie apocalypse threatens the sleepy town of Little Haven \u2013 at Christmas \u2013 forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.", "releaseYear": "2018", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/jVyqqMzDVRjUMeIoaJKSUpRnB9Y.jpg", "categories": {"plot": 6.125, "acting": 6.166666666666667, "ending": 5.0, "soundtrack": 6.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.5, "action": 5.0}, "reviews": [{"rating": "1", "text": "This movie tackles 3 genres (high school rom com, holiday musical and zombie invasion), which sets it up for 3X the disappointment. The trite love trope (they're best friends since childhood, but he's developed a crush on her) isn't taken in any new directions. The songs are bland pop and their staging never comes close to the creativity of \"Glee.\" Finally, anyone who's seen even one episode of \"Walking Dead\" will have witnessed better zombie action. Kudos for such a daring, original concept, but sadly, nothing good came out of it."}, {"rating": "8", "text": "I really enjoyed this film.  It's dark, frequently funny (although rarely side-splitting) and generally entertaining.  The songs are surprisingly catchy.  Acting is great throughout, even if the film lurches violently at times between light-hearted and sombre.  Production is very polished considering the (presumably) low budget.  Admittedly there's nothing truly groundbreaking here: this is a film which plays on the clich\u00e9s and pays homage to many of its influences (like Shaun of the Dead).  But it does what it sets out to do well, and if you go expecting something imperfect but fun then it's well worth a watch and I happily recommend it."}, {"rating": "7", "text": "I enjoyed it more than I anticipated I would. There's really not much to the story, and the songs are all a little too \"sincere\" (it's not nearly as edgy-funny as you'd think), but the casting is excellent - the three lead young ladies are terrific.  Not sure the \"bif\" guy character is any good at all.  It's a good time."}, {"rating": "6", "text": "While most of the comedy missed the mark and the acting wasn't particularly good, the music was great, the movie was entertaining and the cinematography, while not being exceptional, was still more than decent.If you're looking for a fun, mindless, entertaining zombie movie with a good soundtrack, you'll probably be satisfied."}, {"rating": "7", "text": "If you like musicals, and horror flicks, and comedy, then this is the film for you.  I personally hate all musicals, but there's no denying this film is pretty well done, the characters are appealing, and the story, though not particularly inventive, does hold together well enough for the zombie genre of films.  Which is why I give the film a 7. The only other issue is whether you like tales centered mostly on high school students.  If you liked Scouts' Guide to the Zombie Apocalypse then it's not a problem.And, hey, it's only 93 minutes.  Which is what it should be.  Also, it's set around the Christmas holidays, which has nothing to do with anything except a few jokes."}, {"rating": "6", "text": "Not a fan of the mixture but I can say it was funny enough.Enough to make an impression. Not an everlasting impression but I can say that with its elements it worked enough."}, {"rating": "7", "text": "Scottish High School Musical feat. quirky and lovable characters feat. great songs feat. zombies feat. some good gore feat. a crazy headmaster feat. a lot of heart. It's really good."}, {"rating": "8", "text": "This is an amusing watch - darkly comical, with a musical twist to it, a bit like a Shaun of the Dead type film. I enjoyed the musical numbers and the fast paced zombie related action. It was a little dull at one point but once the plot pace gets going, its quite fun. Its set at Christmas time and so can be categorised as an anti-Christmas film, a bit like 'Bad Santa' or 'Die Hard' - neither is it sentimentally cheesy (well, one or two of the songs are but I felt they were more of a parody of other musical type films) nor typical family friendly viewing. The special effects aren't too bad either. Yes, I'd recommend this film."}, {"rating": "2", "text": "I wanted to like this movie. I'm a huge fan of horror/comedy and I sparingly enjoy musicals. Not happening. What could have been the merciful flush of the overflowing toilet of Zombie movie ends up a Class A floater. The plot itself boring and pedestrian. The songs are preening teenage pop abortions without a ounce of humor or wit.  A missed opportunity on multiple levels."}, {"rating": "6", "text": "Just for the creativity and songs this movie gets a six.    It even takes a departure from the usual musical troupes."}, {"rating": "3", "text": "Anna and the Apocalypse was the biggest waste of an amazing concept I have ever seen in my life."}, {"rating": "10", "text": "FYI I barely ever give 10/10 scores The film is an absolute joy from start to finish. Even if some of the gore is questionabley awful."}, {"rating": "5", "text": "A jack of all trades that unfortunately winds up being a master of none. This comedy/horror/musical/christmas/teen drama movie really only succeeds in the teen drama department. If you're looking for good modern horror/comedy, as I was, there's so much better out there: Shaun of the Dead, This is the End, What we Do in the Shadows, Cabin in the Woods, Get Out, Ready or Not, etc."}, {"rating": "8", "text": "A delightful hidden gem.  Anna and the Apocalypse elevates itself beyond a very simple story by becoming a wildly creative mix of genres with strong performances, fully realized characters, and catchy songs.  It's the sort of movie where everyone on screen looks like they're having a blast making it, and its sense of fun is as infectious as a zombie bite."}], "recommendations": ["the_return_of_the_living_dead", "the_babysitter", "the_mummy", "ginger_snaps", "peter_rabbit", "the_guest", "rango", "krampus", "gremlins", "life_after_beth", "ghostbusters", "zombieland", "ready_or_not", "guardians_of_the_galaxy", "indiana_jones_and_the_temple_of_doom", "rio", "the_cabin_in_the_woods", "pitch_perfect_2", "hotel_transylvania_3_summer_vacation", "jack_the_giant_slayer", "tron_legacy", "copshop", "from_dusk_till_dawn", "puss_in_boots_the_last_wish", "it_follows"]}
+{
+  "id": 4574,
+  "title": "Anna and the Apocalypse",
+  "starring": [
+    "Ella Hunt",
+    "Sarah Swire"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Horror",
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "A zombie apocalypse threatens the sleepy town of Little Haven \u2013 at Christmas \u2013 forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jVyqqMzDVRjUMeIoaJKSUpRnB9Y.jpg",
+  "categories": {
+    "plot": 6.125,
+    "acting": 6.166666666666667,
+    "ending": 5.0,
+    "soundtrack": 6.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.5,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "1",
+      "text": "This movie tackles 3 genres (high school rom com, holiday musical and zombie invasion), which sets it up for 3X the disappointment. The trite love trope (they're best friends since childhood, but he's developed a crush on her) isn't taken in any new directions. The songs are bland pop and their staging never comes close to the creativity of \"Glee.\" Finally, anyone who's seen even one episode of \"Walking Dead\" will have witnessed better zombie action. Kudos for such a daring, original concept, but sadly, nothing good came out of it."
+    },
+    {
+      "rating": "8",
+      "text": "I really enjoyed this film.  It's dark, frequently funny (although rarely side-splitting) and generally entertaining.  The songs are surprisingly catchy.  Acting is great throughout, even if the film lurches violently at times between light-hearted and sombre.  Production is very polished considering the (presumably) low budget.  Admittedly there's nothing truly groundbreaking here: this is a film which plays on the clich\u00e9s and pays homage to many of its influences (like Shaun of the Dead).  But it does what it sets out to do well, and if you go expecting something imperfect but fun then it's well worth a watch and I happily recommend it."
+    },
+    {
+      "rating": "7",
+      "text": "I enjoyed it more than I anticipated I would. There's really not much to the story, and the songs are all a little too \"sincere\" (it's not nearly as edgy-funny as you'd think), but the casting is excellent - the three lead young ladies are terrific.  Not sure the \"bif\" guy character is any good at all.  It's a good time."
+    },
+    {
+      "rating": "6",
+      "text": "While most of the comedy missed the mark and the acting wasn't particularly good, the music was great, the movie was entertaining and the cinematography, while not being exceptional, was still more than decent.If you're looking for a fun, mindless, entertaining zombie movie with a good soundtrack, you'll probably be satisfied."
+    },
+    {
+      "rating": "7",
+      "text": "If you like musicals, and horror flicks, and comedy, then this is the film for you.  I personally hate all musicals, but there's no denying this film is pretty well done, the characters are appealing, and the story, though not particularly inventive, does hold together well enough for the zombie genre of films.  Which is why I give the film a 7. The only other issue is whether you like tales centered mostly on high school students.  If you liked Scouts' Guide to the Zombie Apocalypse then it's not a problem.And, hey, it's only 93 minutes.  Which is what it should be.  Also, it's set around the Christmas holidays, which has nothing to do with anything except a few jokes."
+    },
+    {
+      "rating": "6",
+      "text": "Not a fan of the mixture but I can say it was funny enough.Enough to make an impression. Not an everlasting impression but I can say that with its elements it worked enough."
+    },
+    {
+      "rating": "7",
+      "text": "Scottish High School Musical feat. quirky and lovable characters feat. great songs feat. zombies feat. some good gore feat. a crazy headmaster feat. a lot of heart. It's really good."
+    },
+    {
+      "rating": "8",
+      "text": "This is an amusing watch - darkly comical, with a musical twist to it, a bit like a Shaun of the Dead type film. I enjoyed the musical numbers and the fast paced zombie related action. It was a little dull at one point but once the plot pace gets going, its quite fun. Its set at Christmas time and so can be categorised as an anti-Christmas film, a bit like 'Bad Santa' or 'Die Hard' - neither is it sentimentally cheesy (well, one or two of the songs are but I felt they were more of a parody of other musical type films) nor typical family friendly viewing. The special effects aren't too bad either. Yes, I'd recommend this film."
+    },
+    {
+      "rating": "2",
+      "text": "I wanted to like this movie. I'm a huge fan of horror/comedy and I sparingly enjoy musicals. Not happening. What could have been the merciful flush of the overflowing toilet of Zombie movie ends up a Class A floater. The plot itself boring and pedestrian. The songs are preening teenage pop abortions without a ounce of humor or wit.  A missed opportunity on multiple levels."
+    },
+    {
+      "rating": "6",
+      "text": "Just for the creativity and songs this movie gets a six.    It even takes a departure from the usual musical troupes."
+    },
+    {
+      "rating": "3",
+      "text": "Anna and the Apocalypse was the biggest waste of an amazing concept I have ever seen in my life."
+    },
+    {
+      "rating": "10",
+      "text": "FYI I barely ever give 10/10 scores The film is an absolute joy from start to finish. Even if some of the gore is questionabley awful."
+    },
+    {
+      "rating": "5",
+      "text": "A jack of all trades that unfortunately winds up being a master of none. This comedy/horror/musical/christmas/teen drama movie really only succeeds in the teen drama department. If you're looking for good modern horror/comedy, as I was, there's so much better out there: Shaun of the Dead, This is the End, What we Do in the Shadows, Cabin in the Woods, Get Out, Ready or Not, etc."
+    },
+    {
+      "rating": "8",
+      "text": "A delightful hidden gem.  Anna and the Apocalypse elevates itself beyond a very simple story by becoming a wildly creative mix of genres with strong performances, fully realized characters, and catchy songs.  It's the sort of movie where everyone on screen looks like they're having a blast making it, and its sense of fun is as infectious as a zombie bite."
+    }
+  ],
+  "recommendations": [
+    "the_return_of_the_living_dead",
+    "the_babysitter",
+    "the_mummy",
+    "ginger_snaps",
+    "peter_rabbit",
+    "the_guest",
+    "rango",
+    "krampus",
+    "gremlins",
+    "life_after_beth",
+    "ghostbusters",
+    "zombieland",
+    "ready_or_not",
+    "guardians_of_the_galaxy",
+    "indiana_jones_and_the_temple_of_doom",
+    "rio",
+    "the_cabin_in_the_woods",
+    "pitch_perfect_2",
+    "hotel_transylvania_3_summer_vacation",
+    "jack_the_giant_slayer",
+    "tron_legacy",
+    "copshop",
+    "from_dusk_till_dawn",
+    "puss_in_boots_the_last_wish",
+    "it_follows"
+  ]
+}

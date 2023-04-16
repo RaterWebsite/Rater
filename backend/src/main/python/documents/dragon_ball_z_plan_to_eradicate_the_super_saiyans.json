@@ -1,1 +1,69 @@
-{"id": 2598, "title": "Dragon Ball Z: Plan to Eradicate the Super Saiyans", "starring": ["Masako Nozawa", "Ryou Horikawa"], "runtime": 30, "genre": ["Action", "Animation", "Adventure"], "description": "Dr. Raichi is one of the only survivors of the Tuffles, a race that once lived on Planet Plant before the coming of the Saiyans. The Saiyans not only massacred the entire Tuffle race, but also stole their technology and conquered the planet, renaming it Planet Vegeta in honor of their king. Raichi managed to escape with a capsule and found refuge on the Dark Planet, a world at the end of the universe. His only wish is to eradicate the last remaining Saiyans.", "releaseYear": "2010", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/vkZJ7MIa9XG6N6kaCCWGom5fKQv.jpg", "categories": {"plot": 10.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 10.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Hilarious and engaging buddy comedy with a serious message about the real life impacts of oppressive social policies. It never becomes preachy, indeed it\u2019s laugh out loud for almost all of its short, fast-paced length. The two leads are a revelation, the story works surprisingly well, and the dialogue is sharp and believable. There\u2019s one gross-out scene involving a dare and a piercing but that\u2019s as close as it comes to crossing the current line. Highly recommended."}, {"rating": "10", "text": "This movie was so much fun! Natalie Morales is really proving herself as a must see director:"}, {"rating": "6", "text": "admirable[ ad-mer-uh-buhl ]adjectiveworthy of admiration; inspiring approval, reverence, or affection."}], "recommendations": ["trading_places", "jojo_rabbit", "the_starling", "in_bruges", "fargo", "trainspotting", "men_of_honor", "the_big_sick", "the_big_short", "i_feel_pretty", "while_you_were_sleeping", "the_royal_tenenbaums", "four_good_days", "the_upside", "blackkklansman", "i_am_sam", "the_ballad_of_buster_scruggs", "every_day", "closer", "the_good_shepherd", "secretary", "war_dogs", "eddie_the_eagle", "mainstream", "the_grand_budapest_hotel"]}
+{
+  "id": 2598,
+  "title": "Dragon Ball Z: Plan to Eradicate the Super Saiyans",
+  "starring": [
+    "Masako Nozawa",
+    "Ryou Horikawa"
+  ],
+  "runtime": 30,
+  "genre": [
+    "Action",
+    "Animation",
+    "Adventure"
+  ],
+  "description": "Dr. Raichi is one of the only survivors of the Tuffles, a race that once lived on Planet Plant before the coming of the Saiyans. The Saiyans not only massacred the entire Tuffle race, but also stole their technology and conquered the planet, renaming it Planet Vegeta in honor of their king. Raichi managed to escape with a capsule and found refuge on the Dark Planet, a world at the end of the universe. His only wish is to eradicate the last remaining Saiyans.",
+  "releaseYear": "2010",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/vkZJ7MIa9XG6N6kaCCWGom5fKQv.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 10.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Hilarious and engaging buddy comedy with a serious message about the real life impacts of oppressive social policies. It never becomes preachy, indeed it\u2019s laugh out loud for almost all of its short, fast-paced length. The two leads are a revelation, the story works surprisingly well, and the dialogue is sharp and believable. There\u2019s one gross-out scene involving a dare and a piercing but that\u2019s as close as it comes to crossing the current line. Highly recommended."
+    },
+    {
+      "rating": "10",
+      "text": "This movie was so much fun! Natalie Morales is really proving herself as a must see director:"
+    },
+    {
+      "rating": "6",
+      "text": "admirable[ ad-mer-uh-buhl ]adjectiveworthy of admiration; inspiring approval, reverence, or affection."
+    }
+  ],
+  "recommendations": [
+    "trading_places",
+    "jojo_rabbit",
+    "the_starling",
+    "in_bruges",
+    "fargo",
+    "trainspotting",
+    "men_of_honor",
+    "the_big_sick",
+    "the_big_short",
+    "i_feel_pretty",
+    "while_you_were_sleeping",
+    "the_royal_tenenbaums",
+    "four_good_days",
+    "the_upside",
+    "blackkklansman",
+    "i_am_sam",
+    "the_ballad_of_buster_scruggs",
+    "every_day",
+    "closer",
+    "the_good_shepherd",
+    "secretary",
+    "war_dogs",
+    "eddie_the_eagle",
+    "mainstream",
+    "the_grand_budapest_hotel"
+  ]
+}

@@ -1,1 +1,61 @@
-{"id": 4062, "title": "StarDog and TurboCat", "starring": ["Luke Evans", "Nick Frost"], "runtime": 88, "genre": ["Animation", "Comedy", "Family"], "description": "When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddy\u2019s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.", "releaseYear": "2019", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "2", "text": "i watched this movie on my birthday, and i also got splatoon 2, its like getting wendys but then drinking a dr.pepper rip-off!"}], "recommendations": ["bee_movie", "safer_at_home", "the_lighthouse", "friday_the_13th_part_viii_jason_takes_manhattan", "the_condemned", "the_hot_chick", "pandemic", "friday_the_13th_part_vii_the_new_blood", "everly", "seed_of_chucky", "playmobil_the_movie", "alvin_and_the_chipmunks_the_road_chip", "beverly_hills_chihuahua", "garfield_a_tail_of_two_kitties", "old_dogs", "project_x", "friday_the_13th_the_final_chapter", "the_babysitter_killer_queen", "once_upon_a_deadpool", "the_toll", "deuce_bigalow_male_gigolo", "bad_santa", "leprechaun", "friday_the_13th_part_iii", "scary_movie_5"]}
+{
+  "id": 4062,
+  "title": "StarDog and TurboCat",
+  "starring": [
+    "Luke Evans",
+    "Nick Frost"
+  ],
+  "runtime": 88,
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "description": "When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddy\u2019s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "i watched this movie on my birthday, and i also got splatoon 2, its like getting wendys but then drinking a dr.pepper rip-off!"
+    }
+  ],
+  "recommendations": [
+    "bee_movie",
+    "safer_at_home",
+    "the_lighthouse",
+    "friday_the_13th_part_viii_jason_takes_manhattan",
+    "the_condemned",
+    "the_hot_chick",
+    "pandemic",
+    "friday_the_13th_part_vii_the_new_blood",
+    "everly",
+    "seed_of_chucky",
+    "playmobil_the_movie",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "beverly_hills_chihuahua",
+    "garfield_a_tail_of_two_kitties",
+    "old_dogs",
+    "project_x",
+    "friday_the_13th_the_final_chapter",
+    "the_babysitter_killer_queen",
+    "once_upon_a_deadpool",
+    "the_toll",
+    "deuce_bigalow_male_gigolo",
+    "bad_santa",
+    "leprechaun",
+    "friday_the_13th_part_iii",
+    "scary_movie_5"
+  ]
+}

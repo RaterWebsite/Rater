@@ -1,1 +1,61 @@
-{"id": 4362, "title": "Presumed Innocent", "starring": ["Harrison Ford", "Brian Dennehy"], "runtime": 127, "genre": ["Thriller", "Crime", "Mystery"], "description": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.", "releaseYear": "1990", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg", "categories": {"plot": 7.0, "acting": 7.0, "ending": 5.0, "soundtrack": 7.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "+Fantastic cast+Great cinematography+Memorable Soundtrack from John Williams+Interesting legal/political setting-Dialogue felt stilted at timesAn entertaining movie particularly for fans of the courtroom drama type of setting. The screenplay felt a bit off and in some areas felt unnatural. Excellent cinematography, cast and soundtrack keep things moving along at an even pace. Overall a well made and entertaining film."}], "recommendations": ["old_henry", "chicago", "the_aviator", "butch_cassidy_and_the_sundance_kid", "the_last_of_the_mohicans", "once_upon_a_time_in_america", "the_sting", "the_world_to_come", "the_harder_they_fall", "the_assassination_of_jesse_james_by_the_coward_robert_ford", "murder_on_the_orient_express", "the_grand_budapest_hotel", "the_sound_of_music", "backdraft", "the_untouchables", "tron", "sleepy_hollow", "the_great_gatsby", "jackie_brown", "ammonite", "begin_again", "the_paperboy", "the_french_dispatch", "the_guest", "the_fifth_element"]}
+{
+  "id": 4362,
+  "title": "Presumed Innocent",
+  "starring": [
+    "Harrison Ford",
+    "Brian Dennehy"
+  ],
+  "runtime": 127,
+  "genre": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "description": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+  "releaseYear": "1990",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 7.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "+Fantastic cast+Great cinematography+Memorable Soundtrack from John Williams+Interesting legal/political setting-Dialogue felt stilted at timesAn entertaining movie particularly for fans of the courtroom drama type of setting. The screenplay felt a bit off and in some areas felt unnatural. Excellent cinematography, cast and soundtrack keep things moving along at an even pace. Overall a well made and entertaining film."
+    }
+  ],
+  "recommendations": [
+    "old_henry",
+    "chicago",
+    "the_aviator",
+    "butch_cassidy_and_the_sundance_kid",
+    "the_last_of_the_mohicans",
+    "once_upon_a_time_in_america",
+    "the_sting",
+    "the_world_to_come",
+    "the_harder_they_fall",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "murder_on_the_orient_express",
+    "the_grand_budapest_hotel",
+    "the_sound_of_music",
+    "backdraft",
+    "the_untouchables",
+    "tron",
+    "sleepy_hollow",
+    "the_great_gatsby",
+    "jackie_brown",
+    "ammonite",
+    "begin_again",
+    "the_paperboy",
+    "the_french_dispatch",
+    "the_guest",
+    "the_fifth_element"
+  ]
+}

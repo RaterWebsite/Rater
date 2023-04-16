@@ -1,1 +1,69 @@
-{"id": 4114, "title": "Hot Shots!", "starring": ["Charlie Sheen", "Cary Elwes"], "runtime": 84, "genre": ["Action", "Comedy", "War"], "description": "The gang that created Airplane and The Naked Gun sets its sights on Top Gun in this often hilarious spoof starring Charlie Sheen, who previously only inspired laughs with his personal life. He plays Topper Harley, a fighter pilot with an ax to grind: clearing the family name. He gets involved in a relationship with Valerie Golino, a woman with an unusually talented stomach. But his mission is to avenge his father. Lloyd Bridges, late in his career, revealed an aptitude for this kind of silliness, here as a commander who is both incredibly dim and delightfully accident prone. Directed by Jim Abrahams, the film makes fun of a variety of other films as well, from Dances with Wolves to The Fabulous Baker Boys. It was so successful that they all returned in the sequel, Hot Shots! Part Deux.", "releaseYear": "1991", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/hoPS7RSvdZhZhWf28OfP2IZ0cb3.jpg", "categories": {"plot": 7.5, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 7.833333333333333, "action": 9.0}, "reviews": [{"rating": "10", "text": "Classic comedy movie full of gags on popular other movies. Lloyd Bridges as Admiral Benson is legendary"}, {"rating": "7", "text": "In my childhood this was a must see movie and universally loved in my age group. However I must say it does not hold up to my nostalgia influenced memories anymore. Clarification: It is of cause not garbage and has good humor. It is more that I do not lean to a 9-10/10 anymore. It is a (slapstic) comedy and largely a parody of Top Gun with spoofs of many other movies like Superman, Rocky or Gone with the Wind to name a few. I do not know it the term \u201cSpoof movie\u201d did exist back then (If it did I did not knew it). It is a well remembered role for Charlie Sheen and is liked for its humor, style and ideas for its jokes. Story: It is the story of former top pilot Topper Harley (Not a typo;-) who has retired to a native America reservation and is persuaded to return to active duty as US pilot for a top secret mission called Sleepy Weasel (Also no typo;-). However he carries a lot of baggage with him and there is more to the mission than it seems as different interests collide. Like I said it is a good parody of Top Gun and the story is well done to be a vehicle for the humor. Humor: You already can guess the style of the humor by the names in the story set up. The humor works well and it is entertaining. It reaches not the top levels of the better spoof movies like \u201cSpaceballs\u201d or \u201cThe Naked Gun\u201d movies but it is definitely good. Actors: Charlie Sheen is an excellent Topper Harley. It is a well recognized role and he fully delivers. He has the Leslie Nielsen power of delivering a serious performance in hilariously funny situation. Most memorable is Lloyd Bridges as Admiral Benson. Smaller role but hilariously entertaining in a positive way. Both he and Charlie Sheen became a staple of the movie and sequel. Valeria Gollino delivers a good performance as Ramada Thomson and is a great asset in her role. Cary Elwes as Kent Gregory is a good rival for Topper. Jon Cryer and William O\u2019Leary are good comic relive characters. Finally I want to praise Jerry Haleva for the shortest role I ever find remarkable in a movie ;-). I say we got a fitting cast with an overall good performance by genre standards. Visually the movie looks good and catches the feeling of the source movies it spoofs. Overall I see this as a nostalgic movie I enjoyed as child. It does not hold up anymore to my memories but I say it is still good, entertaining and still worth watching."}, {"rating": "9", "text": "A movie Masterpiece. There are almost no comparable action movies. The tension and strategic approach of the director enables a complete immersion into a realistic and scary war scenario.JK genius jokes and best dark comments ever."}], "recommendations": ["hot_shots_part_deux", "role_models", "johnny_english_strikes_again", "austin_powers_international_man_of_mystery", "men_in_black", "the_pink_panther", "ace_ventura_pet_detective", "police_academy_2_their_first_assignment", "bean", "austin_powers_in_goldmember", "grudge_match", "police_academy", "ace_ventura_when_nature_calls", "meet_the_parents", "ghostbusters", "get_smart", "maverick", "austin_powers_the_spy_who_shagged_me", "horrible_bosses", "coming_to_america", "spy", "fargo", "last_action_hero", "the_fifth_element", "men_in_black_ii"]}
+{
+  "id": 4114,
+  "title": "Hot Shots!",
+  "starring": [
+    "Charlie Sheen",
+    "Cary Elwes"
+  ],
+  "runtime": 84,
+  "genre": [
+    "Action",
+    "Comedy",
+    "War"
+  ],
+  "description": "The gang that created Airplane and The Naked Gun sets its sights on Top Gun in this often hilarious spoof starring Charlie Sheen, who previously only inspired laughs with his personal life. He plays Topper Harley, a fighter pilot with an ax to grind: clearing the family name. He gets involved in a relationship with Valerie Golino, a woman with an unusually talented stomach. But his mission is to avenge his father. Lloyd Bridges, late in his career, revealed an aptitude for this kind of silliness, here as a commander who is both incredibly dim and delightfully accident prone. Directed by Jim Abrahams, the film makes fun of a variety of other films as well, from Dances with Wolves to The Fabulous Baker Boys. It was so successful that they all returned in the sequel, Hot Shots! Part Deux.",
+  "releaseYear": "1991",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/hoPS7RSvdZhZhWf28OfP2IZ0cb3.jpg",
+  "categories": {
+    "plot": 7.5,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 7.833333333333333,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Classic comedy movie full of gags on popular other movies. Lloyd Bridges as Admiral Benson is legendary"
+    },
+    {
+      "rating": "7",
+      "text": "In my childhood this was a must see movie and universally loved in my age group. However I must say it does not hold up to my nostalgia influenced memories anymore. Clarification: It is of cause not garbage and has good humor. It is more that I do not lean to a 9-10/10 anymore. It is a (slapstic) comedy and largely a parody of Top Gun with spoofs of many other movies like Superman, Rocky or Gone with the Wind to name a few. I do not know it the term \u201cSpoof movie\u201d did exist back then (If it did I did not knew it). It is a well remembered role for Charlie Sheen and is liked for its humor, style and ideas for its jokes. Story: It is the story of former top pilot Topper Harley (Not a typo;-) who has retired to a native America reservation and is persuaded to return to active duty as US pilot for a top secret mission called Sleepy Weasel (Also no typo;-). However he carries a lot of baggage with him and there is more to the mission than it seems as different interests collide. Like I said it is a good parody of Top Gun and the story is well done to be a vehicle for the humor. Humor: You already can guess the style of the humor by the names in the story set up. The humor works well and it is entertaining. It reaches not the top levels of the better spoof movies like \u201cSpaceballs\u201d or \u201cThe Naked Gun\u201d movies but it is definitely good. Actors: Charlie Sheen is an excellent Topper Harley. It is a well recognized role and he fully delivers. He has the Leslie Nielsen power of delivering a serious performance in hilariously funny situation. Most memorable is Lloyd Bridges as Admiral Benson. Smaller role but hilariously entertaining in a positive way. Both he and Charlie Sheen became a staple of the movie and sequel. Valeria Gollino delivers a good performance as Ramada Thomson and is a great asset in her role. Cary Elwes as Kent Gregory is a good rival for Topper. Jon Cryer and William O\u2019Leary are good comic relive characters. Finally I want to praise Jerry Haleva for the shortest role I ever find remarkable in a movie ;-). I say we got a fitting cast with an overall good performance by genre standards. Visually the movie looks good and catches the feeling of the source movies it spoofs. Overall I see this as a nostalgic movie I enjoyed as child. It does not hold up anymore to my memories but I say it is still good, entertaining and still worth watching."
+    },
+    {
+      "rating": "9",
+      "text": "A movie Masterpiece. There are almost no comparable action movies. The tension and strategic approach of the director enables a complete immersion into a realistic and scary war scenario.JK genius jokes and best dark comments ever."
+    }
+  ],
+  "recommendations": [
+    "hot_shots_part_deux",
+    "role_models",
+    "johnny_english_strikes_again",
+    "austin_powers_international_man_of_mystery",
+    "men_in_black",
+    "the_pink_panther",
+    "ace_ventura_pet_detective",
+    "police_academy_2_their_first_assignment",
+    "bean",
+    "austin_powers_in_goldmember",
+    "grudge_match",
+    "police_academy",
+    "ace_ventura_when_nature_calls",
+    "meet_the_parents",
+    "ghostbusters",
+    "get_smart",
+    "maverick",
+    "austin_powers_the_spy_who_shagged_me",
+    "horrible_bosses",
+    "coming_to_america",
+    "spy",
+    "fargo",
+    "last_action_hero",
+    "the_fifth_element",
+    "men_in_black_ii"
+  ]
+}

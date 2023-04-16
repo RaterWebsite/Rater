@@ -1,1 +1,101 @@
-{"id": 846, "title": "Paranormal Activity: Next of Kin", "starring": ["Emily Bader", "Ari Notartomaso"], "runtime": 98, "genre": ["Horror", "Mystery", "Thriller"], "description": "Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg", "categories": {"plot": 7.2, "acting": 4.0, "ending": 4.0, "soundtrack": 5.0, "cinematography": 10.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "4", "text": "By quality merits, this is without a doubt the best looking movie of this franchise. By far.Paranormal Activity: Next of Kin plays with some different rules, but the focus continues within the cults, witches, and demons. Only this time we're in the present, and both the tone and atmosphere of this story are clearly inspired by horror movies like The Witch, It Happens At Night, Apostle, and more like them.But that's the only decent thing it tries to emulate, the rest of it, is the same, tedious, repetitive and generic search for answers, from the characters who got into the situation in which they are simply because the script arranged like that, and therefore now they must face the consequences of their ineptitude.Even with its short duration, the paranoia the film tries to induce is not functional because six previous films have already prepared you for everything you could expect in this franchise, and this tale never tries to do something new.There's something demonic at the end of the road, and in this case it looks too much like Tristana Medeiros from the REC series.The last minutes are the only ones that could be considered as true horror because they are trying to escape while being chased by this entity.And the ending that works more like an epilogue of sorts, feels exactly like the ending of Paranormal Activity: The Ghost Dimension, with another demon loose in the world. Only this time, it feels like we're starting over.I can only wish that's not the case."}, {"rating": "10", "text": "I\u2019m not sure what is wrong with the critics here. This is hands down one of the best of the series and top 10 of my favorite scary movies of all time. I have never had my wife literally quit watching and stop watching before. This movie is SCARY!! I love it!! This keeps you on the edge of your seat. It\u2019s wonderful."}, {"rating": "10", "text": "Absolutely phenomenal. I\u2019m not sure what the rest of the trolls are thinking. keep in mind this is the internet and people are always FAR quicker to run and complain than to compliment. This such a fresh change of page from the usual movies franchise makes. It was one of the scariest movies I\u2019ve seen in a long time!! It\u2019s a must watch."}, {"rating": "10", "text": "The ratings here will forever make me not take ratings seriously for movies. People always love to complain and especially for horror movies if it\u2019s not \u201cThe Shining\u201d it\u2019s not a good movie. This movie is fantastic. It\u2019s a must watch."}, {"rating": "10", "text": "Easily my favorite movie in the franchise. The motel scenes, rituals, and camerawork reminded me of many classic horror films. I felt similar scares as ones from more modern horror such as Hereditary. Well worth watching if you are a fan of paranormal activity, and looking to learn more about the next chapter in the franchise. This film builds on the past work in a beautiful way, with some amazing shots, and has a great pace. I especially enjoyed that only 30 some minutes into the film they are already scaring the audience in her mothers bedroom, in many of the same ways we would be afraid in past paranormal films. Looking forward to getting more movies in this style, as they have laid the groundwork for many more interesting stories to take place."}, {"rating": "9", "text": "Not sure I understand the negative reviews. This is easily one of the best of the series. If you're a fan this series at all then you'll like this one. It doesn't continue the story from the others but that story's pretty much been overdone. The story in this one is better anyway."}, {"rating": "8", "text": "Posiblemente \u00e9sta pudo ser cualquier pel\u00edcula bajo el nombre de Paranormal Activity debido a la infinidad de pel\u00edculas de este tipo, pero a\u00fan as\u00ed es una de las mejores de la franquicia superando a la mayor\u00eda de la saga principal exceptuando PA3 que para m\u00ed es la mejor. La historia me recuerda ligeramente a Midsommar por la tem\u00e1tica que abarca y por el ritmo que tiene, pero nada es lo que parece hasta el tercer acto que es donde empieza lo realmente bueno, en fin, creo que este reinicio funcion\u00f3 para m\u00ed y ojal\u00e1 sigan desde aqu\u00ed con la franquicia."}, {"rating": "10", "text": "Phenomenal new coat of paint for the \"Paranormal Activity\" franchise in my opinion. The door is wide open for this reboot's 'sequel' possibilities. Excited for the future!"}, {"rating": "1", "text": "Switched it off only a few minutes in. Really sad to see the BS COVID stuff included."}, {"rating": "10", "text": "Hands down one of the best horror movies Ive ever seen, and this is my top 2 paranormal activity movie just behind Paranormal Activity 3, if you like the franchise this is a must see."}, {"rating": "7", "text": "It's actually not soooooo bad, but it's still not correct in some points, even if it's the most original movie from the paranormal activity saga"}], "recommendations": ["paranormal_activity_the_marked_ones", "jigsaw", "paranormal_activity_4", "insidious_chapter_2", "the_conjuring_the_devil_made_me_do_it", "pandorum", "wish_upon", "dark_skies", "the_strangers_prey_at_night", "unfriended", "chernobyl_diaries", "saw", "the_grudge", "the_blair_witch_project", "saw_iv", "maze_runner_the_scorch_trials", "malignant", "the_grudge_2", "it_follows", "the_ring_two", "paranormal_activity_3", "blair_witch", "happy_death_day_2u", "rings", "paranormal_activity_the_ghost_dimension"]}
+{
+  "id": 846,
+  "title": "Paranormal Activity: Next of Kin",
+  "starring": [
+    "Emily Bader",
+    "Ari Notartomaso"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "description": "Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg",
+  "categories": {
+    "plot": 7.2,
+    "acting": 4.0,
+    "ending": 4.0,
+    "soundtrack": 5.0,
+    "cinematography": 10.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "By quality merits, this is without a doubt the best looking movie of this franchise. By far.Paranormal Activity: Next of Kin plays with some different rules, but the focus continues within the cults, witches, and demons. Only this time we're in the present, and both the tone and atmosphere of this story are clearly inspired by horror movies like The Witch, It Happens At Night, Apostle, and more like them.But that's the only decent thing it tries to emulate, the rest of it, is the same, tedious, repetitive and generic search for answers, from the characters who got into the situation in which they are simply because the script arranged like that, and therefore now they must face the consequences of their ineptitude.Even with its short duration, the paranoia the film tries to induce is not functional because six previous films have already prepared you for everything you could expect in this franchise, and this tale never tries to do something new.There's something demonic at the end of the road, and in this case it looks too much like Tristana Medeiros from the REC series.The last minutes are the only ones that could be considered as true horror because they are trying to escape while being chased by this entity.And the ending that works more like an epilogue of sorts, feels exactly like the ending of Paranormal Activity: The Ghost Dimension, with another demon loose in the world. Only this time, it feels like we're starting over.I can only wish that's not the case."
+    },
+    {
+      "rating": "10",
+      "text": "I\u2019m not sure what is wrong with the critics here. This is hands down one of the best of the series and top 10 of my favorite scary movies of all time. I have never had my wife literally quit watching and stop watching before. This movie is SCARY!! I love it!! This keeps you on the edge of your seat. It\u2019s wonderful."
+    },
+    {
+      "rating": "10",
+      "text": "Absolutely phenomenal. I\u2019m not sure what the rest of the trolls are thinking. keep in mind this is the internet and people are always FAR quicker to run and complain than to compliment. This such a fresh change of page from the usual movies franchise makes. It was one of the scariest movies I\u2019ve seen in a long time!! It\u2019s a must watch."
+    },
+    {
+      "rating": "10",
+      "text": "The ratings here will forever make me not take ratings seriously for movies. People always love to complain and especially for horror movies if it\u2019s not \u201cThe Shining\u201d it\u2019s not a good movie. This movie is fantastic. It\u2019s a must watch."
+    },
+    {
+      "rating": "10",
+      "text": "Easily my favorite movie in the franchise. The motel scenes, rituals, and camerawork reminded me of many classic horror films. I felt similar scares as ones from more modern horror such as Hereditary. Well worth watching if you are a fan of paranormal activity, and looking to learn more about the next chapter in the franchise. This film builds on the past work in a beautiful way, with some amazing shots, and has a great pace. I especially enjoyed that only 30 some minutes into the film they are already scaring the audience in her mothers bedroom, in many of the same ways we would be afraid in past paranormal films. Looking forward to getting more movies in this style, as they have laid the groundwork for many more interesting stories to take place."
+    },
+    {
+      "rating": "9",
+      "text": "Not sure I understand the negative reviews. This is easily one of the best of the series. If you're a fan this series at all then you'll like this one. It doesn't continue the story from the others but that story's pretty much been overdone. The story in this one is better anyway."
+    },
+    {
+      "rating": "8",
+      "text": "Posiblemente \u00e9sta pudo ser cualquier pel\u00edcula bajo el nombre de Paranormal Activity debido a la infinidad de pel\u00edculas de este tipo, pero a\u00fan as\u00ed es una de las mejores de la franquicia superando a la mayor\u00eda de la saga principal exceptuando PA3 que para m\u00ed es la mejor. La historia me recuerda ligeramente a Midsommar por la tem\u00e1tica que abarca y por el ritmo que tiene, pero nada es lo que parece hasta el tercer acto que es donde empieza lo realmente bueno, en fin, creo que este reinicio funcion\u00f3 para m\u00ed y ojal\u00e1 sigan desde aqu\u00ed con la franquicia."
+    },
+    {
+      "rating": "10",
+      "text": "Phenomenal new coat of paint for the \"Paranormal Activity\" franchise in my opinion. The door is wide open for this reboot's 'sequel' possibilities. Excited for the future!"
+    },
+    {
+      "rating": "1",
+      "text": "Switched it off only a few minutes in. Really sad to see the BS COVID stuff included."
+    },
+    {
+      "rating": "10",
+      "text": "Hands down one of the best horror movies Ive ever seen, and this is my top 2 paranormal activity movie just behind Paranormal Activity 3, if you like the franchise this is a must see."
+    },
+    {
+      "rating": "7",
+      "text": "It's actually not soooooo bad, but it's still not correct in some points, even if it's the most original movie from the paranormal activity saga"
+    }
+  ],
+  "recommendations": [
+    "paranormal_activity_the_marked_ones",
+    "jigsaw",
+    "paranormal_activity_4",
+    "insidious_chapter_2",
+    "the_conjuring_the_devil_made_me_do_it",
+    "pandorum",
+    "wish_upon",
+    "dark_skies",
+    "the_strangers_prey_at_night",
+    "unfriended",
+    "chernobyl_diaries",
+    "saw",
+    "the_grudge",
+    "the_blair_witch_project",
+    "saw_iv",
+    "maze_runner_the_scorch_trials",
+    "malignant",
+    "the_grudge_2",
+    "it_follows",
+    "the_ring_two",
+    "paranormal_activity_3",
+    "blair_witch",
+    "happy_death_day_2u",
+    "rings",
+    "paranormal_activity_the_ghost_dimension"
+  ]
+}

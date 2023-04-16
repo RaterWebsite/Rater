@@ -1,1 +1,105 @@
-{"id": 2634, "title": "Matilda", "starring": ["Mara Wilson", "Danny DeVito"], "runtime": 98, "genre": ["Comedy", "Family", "Fantasy"], "description": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.", "releaseYear": "1996", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg", "categories": {"plot": 8.0, "acting": 7.8, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 8.0, "funny": 7.5, "action": 5.0}, "reviews": [{"rating": "3", "text": "very stupid movie, I even never laughed, because all the scenes were so unrealistic."}, {"rating": "6", "text": "Fairly enjoyable film with many laughs though the story is a bit confusing."}, {"rating": "8", "text": "Una muy entretenida pel\u00edcula para chicos, me encantaba cuando era chico y es muy original."}, {"rating": "9", "text": "Based upon a Dahl book, the compelling story about a precocious girl who developed at 2 YO as genius, witty and capable to look after HERSELF!, always excelling over her deadbeat parents and a freakish, evil headmaster. One of the several book characters who sow the seed of Harry Potter. A good choice for kids during the home arrest."}, {"rating": "10", "text": "Matilda is a very fun adventure, a very good movie to watch with a mara Wilson and Pan Ferris best performances."}, {"rating": "8", "text": "Matilda is a wonderful movie with good messages that children and adults can enjoy."}, {"rating": "6", "text": "Not awful, but sometimes this movie has bad acting and the special effects seem cheap. This movie isn\u2019t bad, but it could have been better."}, {"rating": "7", "text": "No esta para nada mal, y de hecho, me entretuvo bastante. Pero el problema es que los personajes son bastante irritantes y molestan a tal grado de querer dejar de ver la pel\u00edcula (y a tal grado de que no le puse un 8 por eso)."}, {"rating": "8", "text": "It 's very fun to watch this movie.I love the the portrayal of moronic corrupt parents whose life is nothing other than  trivial concerns.And then comes their wonderful daughter, Matilda.Matilda literally creates a wonder out of herself without getting influenced by her ignorant parents.She does this by reading a lot.There are five primary characters in the movie, Father, Mother, Teacher, and School Master.Cast is perfect, they all displayed their characters fantastically.Father is a corrupt ignorant moron. His only concern is to make money in anyway. He is a second hand car seller.Mother is modern pop life wife with her only concern of her look.Then there is a School Master who is an frustrated fat sportive single woman terrorising the kids.And finally teacher of Matilda's class  at the school. She  is a good heart angel, and also a victim of school master.Self created, and self confident Matilda feels strong, and becomes a fighter against all the bullying of her parents, and school master.I just love the Matilda creating herself by reading a lot of books, but it felt bit superficial when she got witch like powers like moving things around.This is a great raw comedy. But again, witch like talents were bit too much.My most favorite scene was where Matilda visits the Public Library, and librarian lady asks her if she likes to have books with a lot of picture, her response to the lady."}, {"rating": "10", "text": "----------------------------------9.5/10-----------------------------------"}, {"rating": "7", "text": "It does all seem quite artificial, exaggerated and unrealistic, but it's also inspiring and fun."}, {"rating": "0", "text": "rude movie, annoying and irresponsible child, just wants revenge, I've never seen the movie where it encourages evil"}], "recommendations": ["wonder", "the_perks_of_being_a_wallflower", "stuart_little", "about_a_boy", "the_willoughbys", "endless_love", "sky_high", "12_mighty_orphans", "captain_fantastic", "nanny_mcphee", "young_adult", "the_spiderwick_chronicles", "moxie", "tooth_fairy", "christopher_robin", "juno", "little_monsters", "midnight_sun", "freedom_writers", "mean_girls", "you_again", "the_spectacular_now", "dora_and_the_lost_city_of_gold", "lady_bird", "the_glass_castle"]}
+{
+  "id": 2634,
+  "title": "Matilda",
+  "starring": [
+    "Mara Wilson",
+    "Danny DeVito"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "description": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.",
+  "releaseYear": "1996",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 7.8,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 8.0,
+    "funny": 7.5,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "very stupid movie, I even never laughed, because all the scenes were so unrealistic."
+    },
+    {
+      "rating": "6",
+      "text": "Fairly enjoyable film with many laughs though the story is a bit confusing."
+    },
+    {
+      "rating": "8",
+      "text": "Una muy entretenida pel\u00edcula para chicos, me encantaba cuando era chico y es muy original."
+    },
+    {
+      "rating": "9",
+      "text": "Based upon a Dahl book, the compelling story about a precocious girl who developed at 2 YO as genius, witty and capable to look after HERSELF!, always excelling over her deadbeat parents and a freakish, evil headmaster. One of the several book characters who sow the seed of Harry Potter. A good choice for kids during the home arrest."
+    },
+    {
+      "rating": "10",
+      "text": "Matilda is a very fun adventure, a very good movie to watch with a mara Wilson and Pan Ferris best performances."
+    },
+    {
+      "rating": "8",
+      "text": "Matilda is a wonderful movie with good messages that children and adults can enjoy."
+    },
+    {
+      "rating": "6",
+      "text": "Not awful, but sometimes this movie has bad acting and the special effects seem cheap. This movie isn\u2019t bad, but it could have been better."
+    },
+    {
+      "rating": "7",
+      "text": "No esta para nada mal, y de hecho, me entretuvo bastante. Pero el problema es que los personajes son bastante irritantes y molestan a tal grado de querer dejar de ver la pel\u00edcula (y a tal grado de que no le puse un 8 por eso)."
+    },
+    {
+      "rating": "8",
+      "text": "It 's very fun to watch this movie.I love the the portrayal of moronic corrupt parents whose life is nothing other than  trivial concerns.And then comes their wonderful daughter, Matilda.Matilda literally creates a wonder out of herself without getting influenced by her ignorant parents.She does this by reading a lot.There are five primary characters in the movie, Father, Mother, Teacher, and School Master.Cast is perfect, they all displayed their characters fantastically.Father is a corrupt ignorant moron. His only concern is to make money in anyway. He is a second hand car seller.Mother is modern pop life wife with her only concern of her look.Then there is a School Master who is an frustrated fat sportive single woman terrorising the kids.And finally teacher of Matilda's class  at the school. She  is a good heart angel, and also a victim of school master.Self created, and self confident Matilda feels strong, and becomes a fighter against all the bullying of her parents, and school master.I just love the Matilda creating herself by reading a lot of books, but it felt bit superficial when she got witch like powers like moving things around.This is a great raw comedy. But again, witch like talents were bit too much.My most favorite scene was where Matilda visits the Public Library, and librarian lady asks her if she likes to have books with a lot of picture, her response to the lady."
+    },
+    {
+      "rating": "10",
+      "text": "----------------------------------9.5/10-----------------------------------"
+    },
+    {
+      "rating": "7",
+      "text": "It does all seem quite artificial, exaggerated and unrealistic, but it's also inspiring and fun."
+    },
+    {
+      "rating": "0",
+      "text": "rude movie, annoying and irresponsible child, just wants revenge, I've never seen the movie where it encourages evil"
+    }
+  ],
+  "recommendations": [
+    "wonder",
+    "the_perks_of_being_a_wallflower",
+    "stuart_little",
+    "about_a_boy",
+    "the_willoughbys",
+    "endless_love",
+    "sky_high",
+    "12_mighty_orphans",
+    "captain_fantastic",
+    "nanny_mcphee",
+    "young_adult",
+    "the_spiderwick_chronicles",
+    "moxie",
+    "tooth_fairy",
+    "christopher_robin",
+    "juno",
+    "little_monsters",
+    "midnight_sun",
+    "freedom_writers",
+    "mean_girls",
+    "you_again",
+    "the_spectacular_now",
+    "dora_and_the_lost_city_of_gold",
+    "lady_bird",
+    "the_glass_castle"
+  ]
+}

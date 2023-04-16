@@ -1,1 +1,71 @@
-{"id": 627, "title": "Inside Out", "starring": ["Amy Poehler", "Phyllis Smith"], "runtime": 95, "genre": ["Animation", "Family", "Adventure", "Drama", "Comedy"], "description": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions\u2014 Joy, Fear, Anger, Disgust and Sadness\u2014live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.", "releaseYear": "2015", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg", "categories": {"plot": 2.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Inside Out is a masterpiece. All the actors were perfectly cast, almost every joke hit, the animation was stunning, and the dialogue was smart. The world-building was also extremely impressive. Not since Monsters Inc. has a Pixar film constructed a new, foreign, complex world that was so easy to fall into. I've never cried in a Pixar film before, but this one got me twice the first time, and twice the second in different parts. My only complaint was that it was way too short! Must have more!"}, {"rating": "2", "text": "Acting wasn't the best, and the storyline went from alright to worse in a split moment. Horrible script. Triple H was alright, though he should stay in wrestling shows and not in movies."}, {"rating": "2", "text": "An example of how terrible one movie is and then a future movie named the same thing manages to overtop it like swallowing up a bad gumball with a great gumball. Apparently, Disney/Pixar can make a better Inside Out than WWE and that's total disappointment right there because both the company (WWE) and their crappy movies sucks that someone (I was thinking of a girl that's insanely huge) can eat up the entire arena in one swallow."}], "recommendations": ["teenage_mutant_ninja_turtles", "dragonball_evolution", "transformers_revenge_of_the_fallen", "space_jam_a_new_legacy", "the_legend_of_hercules", "skyline", "transformers_the_last_knight", "battleship", "into_the_storm", "mortal_kombat_annihilation", "dolittle", "the_day_the_earth_stood_still", "independence_day_resurgence", "the_mummy_tomb_of_the_dragon_emperor", "doctor_strange_in_the_multiverse_of_madness", "the_matrix_resurrections", "poseidon", "national_treasure_book_of_secrets", "the_darkest_hour", "war_of_the_worlds", "transformers_age_of_extinction", "suicide_squad", "wonder_woman_1984", "volcano", "jurassic_world_dominion"]}
+{
+  "id": 627,
+  "title": "Inside Out",
+  "starring": [
+    "Amy Poehler",
+    "Phyllis Smith"
+  ],
+  "runtime": 95,
+  "genre": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "description": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions\u2014 Joy, Fear, Anger, Disgust and Sadness\u2014live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+  "categories": {
+    "plot": 2.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Inside Out is a masterpiece. All the actors were perfectly cast, almost every joke hit, the animation was stunning, and the dialogue was smart. The world-building was also extremely impressive. Not since Monsters Inc. has a Pixar film constructed a new, foreign, complex world that was so easy to fall into. I've never cried in a Pixar film before, but this one got me twice the first time, and twice the second in different parts. My only complaint was that it was way too short! Must have more!"
+    },
+    {
+      "rating": "2",
+      "text": "Acting wasn't the best, and the storyline went from alright to worse in a split moment. Horrible script. Triple H was alright, though he should stay in wrestling shows and not in movies."
+    },
+    {
+      "rating": "2",
+      "text": "An example of how terrible one movie is and then a future movie named the same thing manages to overtop it like swallowing up a bad gumball with a great gumball. Apparently, Disney/Pixar can make a better Inside Out than WWE and that's total disappointment right there because both the company (WWE) and their crappy movies sucks that someone (I was thinking of a girl that's insanely huge) can eat up the entire arena in one swallow."
+    }
+  ],
+  "recommendations": [
+    "teenage_mutant_ninja_turtles",
+    "dragonball_evolution",
+    "transformers_revenge_of_the_fallen",
+    "space_jam_a_new_legacy",
+    "the_legend_of_hercules",
+    "skyline",
+    "transformers_the_last_knight",
+    "battleship",
+    "into_the_storm",
+    "mortal_kombat_annihilation",
+    "dolittle",
+    "the_day_the_earth_stood_still",
+    "independence_day_resurgence",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_matrix_resurrections",
+    "poseidon",
+    "national_treasure_book_of_secrets",
+    "the_darkest_hour",
+    "war_of_the_worlds",
+    "transformers_age_of_extinction",
+    "suicide_squad",
+    "wonder_woman_1984",
+    "volcano",
+    "jurassic_world_dominion"
+  ]
+}

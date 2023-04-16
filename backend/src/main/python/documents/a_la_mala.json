@@ -1,1 +1,59 @@
-{"id": 4104, "title": "A la mala", "starring": ["Aislinn Derbez", "Mauricio Ochmann"], "runtime": 99, "genre": ["Comedy"], "description": "Maria Laura \"Mala\" is an actress with little luck, but she is successful working for other women, seducing their boyfriends to know if they are faithful or not. But everything changes when her dream to perform in her acting career depends on a job to be performed with Santiago who breaks the pattern and shakes her professional convictions.", "releaseYear": "2015", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/AinFWAtZFif4SociC1yRTqkk8WQ.jpg", "categories": {"plot": 7.0, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 7.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "\"A La Mala\" is a Spanish language film produced in Mexico and stars Aislin Derbez and Mauricio Ochmann. The film was directed by Pedro Pablo Ibarra and written by Ari Rosen and Issa Lopez. The title of the film comes from the name of its leading character who is called Mara (short for Maria Laura), and is basically the story of her seeking fame and acclaim in the medium of television. Although entertaining with tolerable elements of comedy as she interacts with her roommates and would-be employers, the film is light and better suited for a Hallmark television movie or, in the days of yore, a grade B filler to accompany the main feature when 2 movies were exhibited for the same price. I give the film a 7 and suggest that it might be a viable alternative if all the other films in the muliplex are sold out."}], "recommendations": ["the_french_dispatch", "victor_frankenstein", "boogie_nights", "the_grand_budapest_hotel", "blade_runner", "the_man_in_the_iron_mask", "the_godfather", "close_encounters_of_the_third_kind", "the_sting", "gone_with_the_wind", "the_second_best_exotic_marigold_hotel", "kingdom_of_heaven", "goodfellas", "the_social_network", "gattaca", "dune", "tulip_fever", "who_framed_roger_rabbit", "amores_perros", "samson", "motherless_brooklyn", "the_avengers", "the_last_of_the_mohicans", "redemption_day", "the_girl_with_the_dragon_tattoo"]}
+{
+  "id": 4104,
+  "title": "A la mala",
+  "starring": [
+    "Aislinn Derbez",
+    "Mauricio Ochmann"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Comedy"
+  ],
+  "description": "Maria Laura \"Mala\" is an actress with little luck, but she is successful working for other women, seducing their boyfriends to know if they are faithful or not. But everything changes when her dream to perform in her acting career depends on a job to be performed with Santiago who breaks the pattern and shakes her professional convictions.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/AinFWAtZFif4SociC1yRTqkk8WQ.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 7.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "\"A La Mala\" is a Spanish language film produced in Mexico and stars Aislin Derbez and Mauricio Ochmann. The film was directed by Pedro Pablo Ibarra and written by Ari Rosen and Issa Lopez. The title of the film comes from the name of its leading character who is called Mara (short for Maria Laura), and is basically the story of her seeking fame and acclaim in the medium of television. Although entertaining with tolerable elements of comedy as she interacts with her roommates and would-be employers, the film is light and better suited for a Hallmark television movie or, in the days of yore, a grade B filler to accompany the main feature when 2 movies were exhibited for the same price. I give the film a 7 and suggest that it might be a viable alternative if all the other films in the muliplex are sold out."
+    }
+  ],
+  "recommendations": [
+    "the_french_dispatch",
+    "victor_frankenstein",
+    "boogie_nights",
+    "the_grand_budapest_hotel",
+    "blade_runner",
+    "the_man_in_the_iron_mask",
+    "the_godfather",
+    "close_encounters_of_the_third_kind",
+    "the_sting",
+    "gone_with_the_wind",
+    "the_second_best_exotic_marigold_hotel",
+    "kingdom_of_heaven",
+    "goodfellas",
+    "the_social_network",
+    "gattaca",
+    "dune",
+    "tulip_fever",
+    "who_framed_roger_rabbit",
+    "amores_perros",
+    "samson",
+    "motherless_brooklyn",
+    "the_avengers",
+    "the_last_of_the_mohicans",
+    "redemption_day",
+    "the_girl_with_the_dragon_tattoo"
+  ]
+}

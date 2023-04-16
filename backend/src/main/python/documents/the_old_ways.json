@@ -1,1 +1,64 @@
-{"id": 4369, "title": "The Old Ways", "starring": ["Brigitte Kali Canales", "Andrea Cort\u00e9s"], "runtime": 90, "genre": ["Horror", "Fantasy"], "description": "Cristina, a journalist of Mexican origin, travels to her ancestral home in Veracruz to investigate a story of sorcery and healing. There, she is kidnapped by a group of locals who claim she's the devil incarnated.", "releaseYear": "2020", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "I'm not a fan of movies that try to cheaply gross you out and shock you because they can't create a genuine horror atmosphere.And this one struggles a lot with that because it's unable to build it intelligently. Especially since you don't care about any of the characters.Yes, it's true, it tries to show \"the old ways\" but that's pretty much an overworked resource that fortunately, at least manages not to resort to \"Catholicism/Christianity'' in order to expel the demon.\" 'Cause like she said: She's a **** Bruja."}, {"rating": "3", "text": "Journalist now living in America returns to her tribal home to investigate some ruins, gets possessed, gets helped by the local shaman, sees the shaman die, has her friend possessed instead and then becomes the new shaman to help her friend."}], "recommendations": ["american_murder_the_family_next_door", "settlers", "come_play", "the_legend_of_la_llorona", "evil_eye", "greta", "the_space_between_us", "goodbye_world", "the_purge_anarchy", "deliver_us_from_evil", "eden_lake", "the_rite", "the_craft", "sweat", "the_kill_team", "munich", "bloody_hell", "the_clovehitch_killer", "the_rhythm_section", "little_monsters", "madres", "the_manor", "k_pax", "ingrid_goes_west", "colombiana"]}
+{
+  "id": 4369,
+  "title": "The Old Ways",
+  "starring": [
+    "Brigitte Kali Canales",
+    "Andrea Cort\u00e9s"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Horror",
+    "Fantasy"
+  ],
+  "description": "Cristina, a journalist of Mexican origin, travels to her ancestral home in Veracruz to investigate a story of sorcery and healing. There, she is kidnapped by a group of locals who claim she's the devil incarnated.",
+  "releaseYear": "2020",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "I'm not a fan of movies that try to cheaply gross you out and shock you because they can't create a genuine horror atmosphere.And this one struggles a lot with that because it's unable to build it intelligently. Especially since you don't care about any of the characters.Yes, it's true, it tries to show \"the old ways\" but that's pretty much an overworked resource that fortunately, at least manages not to resort to \"Catholicism/Christianity'' in order to expel the demon.\" 'Cause like she said: She's a **** Bruja."
+    },
+    {
+      "rating": "3",
+      "text": "Journalist now living in America returns to her tribal home to investigate some ruins, gets possessed, gets helped by the local shaman, sees the shaman die, has her friend possessed instead and then becomes the new shaman to help her friend."
+    }
+  ],
+  "recommendations": [
+    "american_murder_the_family_next_door",
+    "settlers",
+    "come_play",
+    "the_legend_of_la_llorona",
+    "evil_eye",
+    "greta",
+    "the_space_between_us",
+    "goodbye_world",
+    "the_purge_anarchy",
+    "deliver_us_from_evil",
+    "eden_lake",
+    "the_rite",
+    "the_craft",
+    "sweat",
+    "the_kill_team",
+    "munich",
+    "bloody_hell",
+    "the_clovehitch_killer",
+    "the_rhythm_section",
+    "little_monsters",
+    "madres",
+    "the_manor",
+    "k_pax",
+    "ingrid_goes_west",
+    "colombiana"
+  ]
+}

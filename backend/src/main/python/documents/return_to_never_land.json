@@ -1,1 +1,90 @@
-{"id": 3833, "title": "Return to Never Land", "starring": ["Harriet Owen", "Blayne Weaver"], "runtime": 72, "genre": ["Adventure", "Fantasy", "Animation", "Family"], "description": "In 1940, the world is besieged by World War II. Wendy, all grown up, has two children; including Jane, who does not believe Wendy's stories about Peter Pan.", "releaseYear": "2002", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/y8TePNvpkId43hdFmZ6XvujVPl8.jpg", "categories": {"plot": 4.916666666666667, "acting": 4.0, "ending": 6.666666666666667, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 3.0}, "reviews": [{"rating": "3", "text": "This movie is made for children and is not well done for general audiences. The magic from the 1953 original is lost. The story is what I find to be most troublesome. If this is a continuation of the first one, shouldn't Peter Pan have Captain Hook's ship as he did steal it from him in the previous movie. Also, the little girl does not believe in fairies although she is staring one right in the face, kind of odd. Also the fact that I like Captain Hook's character a lot more than Peter Pan is not a good thing. In the end the poor animation, poor voices, and poor story all resulted in a terrible movie and a 27.6 out of 100."}, {"rating": "7", "text": "It's not as good as the original, but the plot is really good, and the characters are pretty enjoyable, it was cool seeing Wendy's kid go to Neverland and continue on the story of Peter Pan, but it's pretty upsetting that they replaced the crocodile with an octopus, I mean an octopus? really? but it's still a good movie from beginning to end."}, {"rating": "5", "text": "Return to Never Land is a cheaply made, underachieving sequel, and is nowhere close to the original in any way. But, I suppose it'll make the little ones happy."}, {"rating": "10", "text": "This sequel absolutely lives up to the original Peter Pan. The ride ends somewhat fast because of the short length, but it has a good story and animation."}, {"rating": "7", "text": "This sequel lives up to the original Peter Pan. The ride ends somewhat fast because of the short length, but it has a good story and animation."}, {"rating": "4", "text": "Despite having some charming moments, this sequel to the Disney classic just can't live up to what made the original such a great animated film to watch."}, {"rating": "3", "text": "Return To Neverland isn't terrible, but it does fail on many levels, so can't be classed as a good sequel. The animation and the story were the redeeming qualities, but unfortunately the songs and the characters fall flat.The animation is mostly bright and colourful, but falls flat in the dark backgrounds. The story wasn't bad either, trying to keep Hook from getting the treasure and everything. I also liked the war scene, because that was quite interesting on an animation perspective, and brought some intrigue on a contextual level. I was unimpressed by the trailer, but the film itself wasn't bad, but loses the charm about 15 minutes in. I will say it has a great message about cherishing your childhood.The first problem was that the kidnapping scene took far too long, despite the breathtaking animation of Hook's ship, and I hated the change to Hook. In the original and the criminally underrated TV series Peter Pan and the Pirates, which are both classics, he is complex and vindictive, but here he was manipulative in a negative way, and lacked menace. The best character was Jane, but that isn't saying much, and Peter's new voice was horrible, too bolshy. The songs were terrible and forgettable immediately after you've finished watching the movie, likewise with the dialogue. The main problem was that it isn't a true sequel at all, compared to the first film and the book. And the octopus, why replace the crocodile may I ask?I'm sorry that this is mostly negative, but Return To Neverland was very disappointing. Though better than the trailer suggested, it is still a pretty charmless film, with a 3/10(Adequate) Bethany Cox"}, {"rating": "8", "text": "Change Of HeartAfter a bit of looking back, I now think that Return To Neverland is pretty good."}], "recommendations": ["rio_2", "dumbo", "hotel_transylvania_3_summer_vacation", "the_secret_life_of_pets_2", "frozen_ii", "mowgli_legend_of_the_jungle", "batman_the_killing_joke", "pirates_of_the_caribbean_on_stranger_tides", "maleficent_mistress_of_evil", "percy_jackson_sea_of_monsters", "pirates_of_the_caribbean_dead_men_tell_no_tales", "scoob", "monsters_university", "smurfs_the_lost_village", "incredibles_2", "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader", "happy_feet_two", "the_lego_movie_2_the_second_part", "toy_story_4", "the_tale_of_despereaux", "corpse_bride", "ghostbusters_ii", "meet_the_robinsons", "bumblebee", "the_witcher_nightmare_of_the_wolf"]}
+{
+  "id": 3833,
+  "title": "Return to Never Land",
+  "starring": [
+    "Harriet Owen",
+    "Blayne Weaver"
+  ],
+  "runtime": 72,
+  "genre": [
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Family"
+  ],
+  "description": "In 1940, the world is besieged by World War II. Wendy, all grown up, has two children; including Jane, who does not believe Wendy's stories about Peter Pan.",
+  "releaseYear": "2002",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/y8TePNvpkId43hdFmZ6XvujVPl8.jpg",
+  "categories": {
+    "plot": 4.916666666666667,
+    "acting": 4.0,
+    "ending": 6.666666666666667,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 3.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "This movie is made for children and is not well done for general audiences. The magic from the 1953 original is lost. The story is what I find to be most troublesome. If this is a continuation of the first one, shouldn't Peter Pan have Captain Hook's ship as he did steal it from him in the previous movie. Also, the little girl does not believe in fairies although she is staring one right in the face, kind of odd. Also the fact that I like Captain Hook's character a lot more than Peter Pan is not a good thing. In the end the poor animation, poor voices, and poor story all resulted in a terrible movie and a 27.6 out of 100."
+    },
+    {
+      "rating": "7",
+      "text": "It's not as good as the original, but the plot is really good, and the characters are pretty enjoyable, it was cool seeing Wendy's kid go to Neverland and continue on the story of Peter Pan, but it's pretty upsetting that they replaced the crocodile with an octopus, I mean an octopus? really? but it's still a good movie from beginning to end."
+    },
+    {
+      "rating": "5",
+      "text": "Return to Never Land is a cheaply made, underachieving sequel, and is nowhere close to the original in any way. But, I suppose it'll make the little ones happy."
+    },
+    {
+      "rating": "10",
+      "text": "This sequel absolutely lives up to the original Peter Pan. The ride ends somewhat fast because of the short length, but it has a good story and animation."
+    },
+    {
+      "rating": "7",
+      "text": "This sequel lives up to the original Peter Pan. The ride ends somewhat fast because of the short length, but it has a good story and animation."
+    },
+    {
+      "rating": "4",
+      "text": "Despite having some charming moments, this sequel to the Disney classic just can't live up to what made the original such a great animated film to watch."
+    },
+    {
+      "rating": "3",
+      "text": "Return To Neverland isn't terrible, but it does fail on many levels, so can't be classed as a good sequel. The animation and the story were the redeeming qualities, but unfortunately the songs and the characters fall flat.The animation is mostly bright and colourful, but falls flat in the dark backgrounds. The story wasn't bad either, trying to keep Hook from getting the treasure and everything. I also liked the war scene, because that was quite interesting on an animation perspective, and brought some intrigue on a contextual level. I was unimpressed by the trailer, but the film itself wasn't bad, but loses the charm about 15 minutes in. I will say it has a great message about cherishing your childhood.The first problem was that the kidnapping scene took far too long, despite the breathtaking animation of Hook's ship, and I hated the change to Hook. In the original and the criminally underrated TV series Peter Pan and the Pirates, which are both classics, he is complex and vindictive, but here he was manipulative in a negative way, and lacked menace. The best character was Jane, but that isn't saying much, and Peter's new voice was horrible, too bolshy. The songs were terrible and forgettable immediately after you've finished watching the movie, likewise with the dialogue. The main problem was that it isn't a true sequel at all, compared to the first film and the book. And the octopus, why replace the crocodile may I ask?I'm sorry that this is mostly negative, but Return To Neverland was very disappointing. Though better than the trailer suggested, it is still a pretty charmless film, with a 3/10(Adequate) Bethany Cox"
+    },
+    {
+      "rating": "8",
+      "text": "Change Of HeartAfter a bit of looking back, I now think that Return To Neverland is pretty good."
+    }
+  ],
+  "recommendations": [
+    "rio_2",
+    "dumbo",
+    "hotel_transylvania_3_summer_vacation",
+    "the_secret_life_of_pets_2",
+    "frozen_ii",
+    "mowgli_legend_of_the_jungle",
+    "batman_the_killing_joke",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "maleficent_mistress_of_evil",
+    "percy_jackson_sea_of_monsters",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "scoob",
+    "monsters_university",
+    "smurfs_the_lost_village",
+    "incredibles_2",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "happy_feet_two",
+    "the_lego_movie_2_the_second_part",
+    "toy_story_4",
+    "the_tale_of_despereaux",
+    "corpse_bride",
+    "ghostbusters_ii",
+    "meet_the_robinsons",
+    "bumblebee",
+    "the_witcher_nightmare_of_the_wolf"
+  ]
+}

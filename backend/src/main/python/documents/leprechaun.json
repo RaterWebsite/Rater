@@ -1,1 +1,68 @@
-{"id": 1336, "title": "Leprechaun", "starring": ["Warwick Davis", "Jennifer Aniston"], "runtime": 91, "genre": ["Comedy", "Horror"], "description": "A demonic leprechaun terrorizes a group of young people whom he believes stole his gold.", "releaseYear": "1993", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/fFSiXLJTqWU0Eh2DMvwi4sBmdAP.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 1.0, "action": 5.0}, "reviews": [{"rating": "6", "text": "I remember when first seeing this in theaters and thinking how lame it was. Revisiting it so many years later I still think its lame, i just have grown to enjoy the cheesiness of it. Starring a young and charasmatic Jennifer Aniston (Friends). The film centers on a small group of strangers who get attacked by the title creature and discovering his gold. Things play out with as silly childlike flair as the evil leprechaun played by a wonderful Warwick Davis (Willow) taunts them and does things like polish shoes, rides skateboards and so much more. The kills are creative and fun and the film aims low and mostly succeeds.3.25/5"}, {"rating": "1", "text": "Heard about these Leprechaun films for ages and eventually watched the first one called \"Leprechaun.\" It's made in 1993 and the only good thing about it was watching a young, beautiful Jennifer Aniston who looks hot. The rest of it is basically a leprechaun (a midget) trapped in a wooden crate box. He is eventually freed and runs around killing people and telling jokes. There's a part where he's going fast forward speedy mode in a wheelchair which is utterly stupid. Not scary at all and the gore scenes aren't impressive either plus it's boring. Terrible excuse for a comedy horror. Crap film and doesn't work as a horror movie or comedy."}, {"rating": "6", "text": "This movie is a fun little B Horror movie if you like watching Campy horror movies and still haven't watched this one you should give it a try because it's a fun time"}], "recommendations": ["scouts_guide_to_the_zombie_apocalypse", "venom", "seed_of_chucky", "the_babysitter_killer_queen", "the_messengers", "friday_the_13th", "fright_night", "freaky", "cabin_fever", "drag_me_to_hell", "i_know_what_you_did_last_summer", "cooties", "the_bye_bye_man", "scary_movie_5", "zombieland", "texas_chainsaw_3d", "the_babysitter", "a_haunted_house_2", "beverly_hills_chihuahua", "friday_the_13th_the_final_chapter", "the_hot_chick", "kangaroo_jack", "unfriended", "mama", "snakes_on_a_plane"]}
+{
+  "id": 1336,
+  "title": "Leprechaun",
+  "starring": [
+    "Warwick Davis",
+    "Jennifer Aniston"
+  ],
+  "runtime": 91,
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "description": "A demonic leprechaun terrorizes a group of young people whom he believes stole his gold.",
+  "releaseYear": "1993",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fFSiXLJTqWU0Eh2DMvwi4sBmdAP.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 1.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "I remember when first seeing this in theaters and thinking how lame it was. Revisiting it so many years later I still think its lame, i just have grown to enjoy the cheesiness of it. Starring a young and charasmatic Jennifer Aniston (Friends). The film centers on a small group of strangers who get attacked by the title creature and discovering his gold. Things play out with as silly childlike flair as the evil leprechaun played by a wonderful Warwick Davis (Willow) taunts them and does things like polish shoes, rides skateboards and so much more. The kills are creative and fun and the film aims low and mostly succeeds.3.25/5"
+    },
+    {
+      "rating": "1",
+      "text": "Heard about these Leprechaun films for ages and eventually watched the first one called \"Leprechaun.\" It's made in 1993 and the only good thing about it was watching a young, beautiful Jennifer Aniston who looks hot. The rest of it is basically a leprechaun (a midget) trapped in a wooden crate box. He is eventually freed and runs around killing people and telling jokes. There's a part where he's going fast forward speedy mode in a wheelchair which is utterly stupid. Not scary at all and the gore scenes aren't impressive either plus it's boring. Terrible excuse for a comedy horror. Crap film and doesn't work as a horror movie or comedy."
+    },
+    {
+      "rating": "6",
+      "text": "This movie is a fun little B Horror movie if you like watching Campy horror movies and still haven't watched this one you should give it a try because it's a fun time"
+    }
+  ],
+  "recommendations": [
+    "scouts_guide_to_the_zombie_apocalypse",
+    "venom",
+    "seed_of_chucky",
+    "the_babysitter_killer_queen",
+    "the_messengers",
+    "friday_the_13th",
+    "fright_night",
+    "freaky",
+    "cabin_fever",
+    "drag_me_to_hell",
+    "i_know_what_you_did_last_summer",
+    "cooties",
+    "the_bye_bye_man",
+    "scary_movie_5",
+    "zombieland",
+    "texas_chainsaw_3d",
+    "the_babysitter",
+    "a_haunted_house_2",
+    "beverly_hills_chihuahua",
+    "friday_the_13th_the_final_chapter",
+    "the_hot_chick",
+    "kangaroo_jack",
+    "unfriended",
+    "mama",
+    "snakes_on_a_plane"
+  ]
+}

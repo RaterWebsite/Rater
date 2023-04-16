@@ -1,1 +1,102 @@
-{"id": 3285, "title": "A Week Away", "starring": ["Bailee Madison", "Kevin G. Quinn"], "runtime": 94, "genre": ["Drama", "Family", "Music", "Romance"], "description": "Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.", "releaseYear": "2021", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/htTS07IvYv3rv57ftzNEprefwSq.jpg", "categories": {"plot": 10.0, "acting": 7.0, "ending": 10.0, "soundtrack": 10.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 10.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."}, {"rating": "2", "text": "Christian High School Musical with discount Zac Efron as the mail lead, what could possibly go wrong?"}, {"rating": "4", "text": "Christian summer camp.This boring, manipulative **** is barely bearable, and I'm not saying that in a good way."}, {"rating": "10", "text": "Lovably lighthearted, wildly energetic, musically raptured, and romantically entertaining. A Week Away is both a sweetly soothing and surprisingly soaring experience in the fun department, but above all, it is a moving love story with a meaningful message for moviegoers all around the world."}, {"rating": "1", "text": "The scenes feel very choppy and unconfortable to watch, acting is horrible, sound effects very unrealistic.I couldn't relate with any of the characters, the way they think, their decisions are very unrealistic.Singing is great, the energy is very high, if you're into this kind of christian musical movies you might be entertained."}, {"rating": "10", "text": "Kevin Quinn is one of the best actors I\u2019ve ever seen. Also, the soundtrack included is pretty good."}, {"rating": "10", "text": "A great movie the entire family can watch. Bailee Madison was great! Love the song remakes from Amy Grant, Audio Adrenaline, Michael W Smith, and Steven Curtis Chapman!"}, {"rating": "10", "text": "People are so critical but not all the movies need a plot twist or even a huge script. This movie is fun and great for you watch with family it teaches us a great way to see life, ups and downs. The songs are fun and have a good vibe i would say it\u2019s a new version of Camp Rock."}, {"rating": "10", "text": "A wonderful movie, encouraging values of family and faith. With kids ranging in age from 2-23, it was refreshing to find a movie we could all watch and enjoy together. It was so well done. The music was even catchy. The older Christian songs intertwined brought back memories for my husband and me. Even our 6 and 8 year old sons have wanted to watch it again and again, as well as our 15 and 21 year old daughters. I think we all had smiles on our faces as we watched. I even caught my 17 year old son chuckling and smiling throughout the movie. Way to go, Netflix!"}, {"rating": "10", "text": "The songs capture an entire genre of music. The Christian camp experience can feel like a musical, so it is such a clever style for this movie that can really show off some of the greatest hits of the genre"}, {"rating": "10", "text": "I love this movie!! Idk why it\u2019s rated so low :(It\u2019s so funny and has great music The actors play their parts so well"}], "recommendations": ["mamma_mia", "high_school_musical_3_senior_year", "sing_2", "jingle_jangle_a_christmas_journey", "hairspray", "the_greatest_showman", "mamma_mia_here_we_go_again", "cats", "grease", "trolls_world_tour", "trolls", "sing_street", "vivo", "17_again", "pitch_perfect", "alvin_and_the_chipmunks_the_squeakquel", "hannah_montana_the_movie", "deck_the_halls", "a_cinderella_story", "burlesque", "almost_famous", "into_the_woods", "we_are_your_friends", "fred_claus", "yesterday"]}
+{
+  "id": 3285,
+  "title": "A Week Away",
+  "starring": [
+    "Bailee Madison",
+    "Kevin G. Quinn"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Drama",
+    "Family",
+    "Music",
+    "Romance"
+  ],
+  "description": "Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.",
+  "releaseYear": "2021",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/htTS07IvYv3rv57ftzNEprefwSq.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 7.0,
+    "ending": 10.0,
+    "soundtrack": 10.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 10.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."
+    },
+    {
+      "rating": "2",
+      "text": "Christian High School Musical with discount Zac Efron as the mail lead, what could possibly go wrong?"
+    },
+    {
+      "rating": "4",
+      "text": "Christian summer camp.This boring, manipulative **** is barely bearable, and I'm not saying that in a good way."
+    },
+    {
+      "rating": "10",
+      "text": "Lovably lighthearted, wildly energetic, musically raptured, and romantically entertaining. A Week Away is both a sweetly soothing and surprisingly soaring experience in the fun department, but above all, it is a moving love story with a meaningful message for moviegoers all around the world."
+    },
+    {
+      "rating": "1",
+      "text": "The scenes feel very choppy and unconfortable to watch, acting is horrible, sound effects very unrealistic.I couldn't relate with any of the characters, the way they think, their decisions are very unrealistic.Singing is great, the energy is very high, if you're into this kind of christian musical movies you might be entertained."
+    },
+    {
+      "rating": "10",
+      "text": "Kevin Quinn is one of the best actors I\u2019ve ever seen. Also, the soundtrack included is pretty good."
+    },
+    {
+      "rating": "10",
+      "text": "A great movie the entire family can watch. Bailee Madison was great! Love the song remakes from Amy Grant, Audio Adrenaline, Michael W Smith, and Steven Curtis Chapman!"
+    },
+    {
+      "rating": "10",
+      "text": "People are so critical but not all the movies need a plot twist or even a huge script. This movie is fun and great for you watch with family it teaches us a great way to see life, ups and downs. The songs are fun and have a good vibe i would say it\u2019s a new version of Camp Rock."
+    },
+    {
+      "rating": "10",
+      "text": "A wonderful movie, encouraging values of family and faith. With kids ranging in age from 2-23, it was refreshing to find a movie we could all watch and enjoy together. It was so well done. The music was even catchy. The older Christian songs intertwined brought back memories for my husband and me. Even our 6 and 8 year old sons have wanted to watch it again and again, as well as our 15 and 21 year old daughters. I think we all had smiles on our faces as we watched. I even caught my 17 year old son chuckling and smiling throughout the movie. Way to go, Netflix!"
+    },
+    {
+      "rating": "10",
+      "text": "The songs capture an entire genre of music. The Christian camp experience can feel like a musical, so it is such a clever style for this movie that can really show off some of the greatest hits of the genre"
+    },
+    {
+      "rating": "10",
+      "text": "I love this movie!! Idk why it\u2019s rated so low :(It\u2019s so funny and has great music The actors play their parts so well"
+    }
+  ],
+  "recommendations": [
+    "mamma_mia",
+    "high_school_musical_3_senior_year",
+    "sing_2",
+    "jingle_jangle_a_christmas_journey",
+    "hairspray",
+    "the_greatest_showman",
+    "mamma_mia_here_we_go_again",
+    "cats",
+    "grease",
+    "trolls_world_tour",
+    "trolls",
+    "sing_street",
+    "vivo",
+    "17_again",
+    "pitch_perfect",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "hannah_montana_the_movie",
+    "deck_the_halls",
+    "a_cinderella_story",
+    "burlesque",
+    "almost_famous",
+    "into_the_woods",
+    "we_are_your_friends",
+    "fred_claus",
+    "yesterday"
+  ]
+}

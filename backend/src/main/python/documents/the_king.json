@@ -1,1 +1,85 @@
-{"id": 2380, "title": "The King", "starring": ["Timoth\u00e9e Chalamet", "Joel Edgerton"], "runtime": 140, "genre": ["Drama", "History", "War"], "description": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.", "releaseYear": "2019", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg", "categories": {"plot": 6.5, "acting": 6.5, "ending": 7.0, "soundtrack": 8.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "8", "text": "This film makes a great deal of sense as a portrait of a Psychopathic Personality (or any of the official titles that such people have been given in the Psychiatric classification schemes). The authors and makers of the movie have constructed a very fine example of the psychopath, using their artistic and very intuitive sense of what kinds of traits and behavior patterns seemed to \"hang together\". Furthermore they have even shown how a lost soul with a very poor conscience and little control over strong impulses can cause terrible damage under the right (or wrong) circumstances. The mistake that the film-makers make comes from this understandable error, which considers only the foul monsters of Night of the Hunter, The Stepfather, and varioius \"deranged\" serial killers. Had the writers understood the subtle deficiencies of the psychopathic personality, they might have been able to connect the outcome with the beginning and middle of the story. Of course, if anyone is ill-equipped to realize what he's got on his hands it would be a religious man who tends to see things, and people, as either \"good or \"bad\". Our young sailor was more of a swiss cheese than a bar of either gold or sulfur. I'm giving this movie an 8--lots of good elements, but a story that leads to headscratching."}, {"rating": "6", "text": "Until it lost credibility about 2/3 of the way through, this movie really had me hooked. Bernal was completely believable, and the cast worked well around him, especially young Pell james as the daughter. When the big plot turn happened, though, you had to start suspending disbelief a bit too much for it to really be affecting cinema. It showed a lot of potential, though. if it could have been scripted a bit more realistically at the end, it would have been chilling. It ended up just being weird, but was worth a view for Bernal's and James' performances."}, {"rating": "6", "text": "In the tradition of \"The Rapture\"(Michael Tolkin), \"The King\" is a provocative, albeit highly implausible film that challenges traditional Christian tenets; not by blaspheming them, but by pushing the doctrine's spirit to its outermost limits of rationality. This overly schematic indie, reminiscent of \"Last House on the Left\"(Wes Craven), and especially Terrence Malick's \"Badlands\"(throw in \"A.I.\" in there, too), highlights the Christian belief that all your past transgressions(pick a sin, any sin: murder, adultery, cheating on your SATs, etc.) are forgiven if the sinner opens his/her heart to Jesus Christ. With savage cunning and perversity, \"The King\" will make you wonder if this all-inclusive club should rethink its bylaws. Unless I read this film wrong, and a crucial plot point was meant to be straight-faced satire, \"The King\" loses its credibility when neither husband nor wife acknowledges the coincidence that transforms their family unit. If the filmmaker jammed our internal bull**** detectors with some ingenuous detail to make the Sandows' act of charity appear organic to the story(rather than the contrivance that it is), \"The King\" would've inspired the congregation of cineastes to shout, \"Hallelujah, praise James Marsh!\" from the pews to the rafters and beyond."}, {"rating": "4", "text": "Some good actors can't overcome unsatisfactory screenplay, poorly edited. Gael is a pleasure to look at, but the story doesn't hang together."}, {"rating": "7", "text": "Very compelling until ridiculous ending, made more so by the music, the tone of which was completely wrong."}, {"rating": "8", "text": "When a movie comes to town without any fanfare, no t.v. spots, not even an ad in the Friday paper, go see it! 9 out of 10 times it will be far better than that weeks hollywood blockbuster playing on every other screen in the city. Case in point- The King. A little film with a couple of great actors who didn't get 10 million dollars each but cared enough to want to tell a interesting, complex story and trusted the director to tell it his way. Gael Garcia Bernal has made an incridible string of movies since Amores Perres and I can't wait for The Science of Sleep when he teams with Michel Gundry and William Hurt, as always, makes any movie worth seeing. As for the ending, I LOVED IT!! The long tracking shot leading up to it was pure Altman and I thought the music was spot on. I'd rather go to a movie that I'm going to think about long after it's over than go see a Lady in the Water where it's more like getting out of jail when it's over anyday."}, {"rating": "7", "text": "This is quite a dark thriller by the end of the film. Its a good example of character development and I liked the performance from Paul Dano, who I rate as an actor. This isn't particularly memorable as such but it is somewhat thought provoking and its not a bad film. I wouldn't go out of your way to see it unless the cast really excites you perhaps, no."}], "recommendations": ["the_machinist", "hereafter", "predestination", "the_rite", "enola_holmes_2", "sicario_day_of_the_soldado", "the_good_shepherd", "knives_out", "children_of_men", "promising_young_woman", "secret_window", "contagion", "law_abiding_citizen", "the_hunt", "no_country_for_old_men", "split", "elle", "chaos_walking", "midnight_special", "a_history_of_violence", "colossal", "the_killing_of_a_sacred_deer", "the_experiment", "the_raven", "closed_circuit"]}
+{
+  "id": 2380,
+  "title": "The King",
+  "starring": [
+    "Timoth\u00e9e Chalamet",
+    "Joel Edgerton"
+  ],
+  "runtime": 140,
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "description": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+  "releaseYear": "2019",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+  "categories": {
+    "plot": 6.5,
+    "acting": 6.5,
+    "ending": 7.0,
+    "soundtrack": 8.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "This film makes a great deal of sense as a portrait of a Psychopathic Personality (or any of the official titles that such people have been given in the Psychiatric classification schemes). The authors and makers of the movie have constructed a very fine example of the psychopath, using their artistic and very intuitive sense of what kinds of traits and behavior patterns seemed to \"hang together\". Furthermore they have even shown how a lost soul with a very poor conscience and little control over strong impulses can cause terrible damage under the right (or wrong) circumstances. The mistake that the film-makers make comes from this understandable error, which considers only the foul monsters of Night of the Hunter, The Stepfather, and varioius \"deranged\" serial killers. Had the writers understood the subtle deficiencies of the psychopathic personality, they might have been able to connect the outcome with the beginning and middle of the story. Of course, if anyone is ill-equipped to realize what he's got on his hands it would be a religious man who tends to see things, and people, as either \"good or \"bad\". Our young sailor was more of a swiss cheese than a bar of either gold or sulfur. I'm giving this movie an 8--lots of good elements, but a story that leads to headscratching."
+    },
+    {
+      "rating": "6",
+      "text": "Until it lost credibility about 2/3 of the way through, this movie really had me hooked. Bernal was completely believable, and the cast worked well around him, especially young Pell james as the daughter. When the big plot turn happened, though, you had to start suspending disbelief a bit too much for it to really be affecting cinema. It showed a lot of potential, though. if it could have been scripted a bit more realistically at the end, it would have been chilling. It ended up just being weird, but was worth a view for Bernal's and James' performances."
+    },
+    {
+      "rating": "6",
+      "text": "In the tradition of \"The Rapture\"(Michael Tolkin), \"The King\" is a provocative, albeit highly implausible film that challenges traditional Christian tenets; not by blaspheming them, but by pushing the doctrine's spirit to its outermost limits of rationality. This overly schematic indie, reminiscent of \"Last House on the Left\"(Wes Craven), and especially Terrence Malick's \"Badlands\"(throw in \"A.I.\" in there, too), highlights the Christian belief that all your past transgressions(pick a sin, any sin: murder, adultery, cheating on your SATs, etc.) are forgiven if the sinner opens his/her heart to Jesus Christ. With savage cunning and perversity, \"The King\" will make you wonder if this all-inclusive club should rethink its bylaws. Unless I read this film wrong, and a crucial plot point was meant to be straight-faced satire, \"The King\" loses its credibility when neither husband nor wife acknowledges the coincidence that transforms their family unit. If the filmmaker jammed our internal bull**** detectors with some ingenuous detail to make the Sandows' act of charity appear organic to the story(rather than the contrivance that it is), \"The King\" would've inspired the congregation of cineastes to shout, \"Hallelujah, praise James Marsh!\" from the pews to the rafters and beyond."
+    },
+    {
+      "rating": "4",
+      "text": "Some good actors can't overcome unsatisfactory screenplay, poorly edited. Gael is a pleasure to look at, but the story doesn't hang together."
+    },
+    {
+      "rating": "7",
+      "text": "Very compelling until ridiculous ending, made more so by the music, the tone of which was completely wrong."
+    },
+    {
+      "rating": "8",
+      "text": "When a movie comes to town without any fanfare, no t.v. spots, not even an ad in the Friday paper, go see it! 9 out of 10 times it will be far better than that weeks hollywood blockbuster playing on every other screen in the city. Case in point- The King. A little film with a couple of great actors who didn't get 10 million dollars each but cared enough to want to tell a interesting, complex story and trusted the director to tell it his way. Gael Garcia Bernal has made an incridible string of movies since Amores Perres and I can't wait for The Science of Sleep when he teams with Michel Gundry and William Hurt, as always, makes any movie worth seeing. As for the ending, I LOVED IT!! The long tracking shot leading up to it was pure Altman and I thought the music was spot on. I'd rather go to a movie that I'm going to think about long after it's over than go see a Lady in the Water where it's more like getting out of jail when it's over anyday."
+    },
+    {
+      "rating": "7",
+      "text": "This is quite a dark thriller by the end of the film. Its a good example of character development and I liked the performance from Paul Dano, who I rate as an actor. This isn't particularly memorable as such but it is somewhat thought provoking and its not a bad film. I wouldn't go out of your way to see it unless the cast really excites you perhaps, no."
+    }
+  ],
+  "recommendations": [
+    "the_machinist",
+    "hereafter",
+    "predestination",
+    "the_rite",
+    "enola_holmes_2",
+    "sicario_day_of_the_soldado",
+    "the_good_shepherd",
+    "knives_out",
+    "children_of_men",
+    "promising_young_woman",
+    "secret_window",
+    "contagion",
+    "law_abiding_citizen",
+    "the_hunt",
+    "no_country_for_old_men",
+    "split",
+    "elle",
+    "chaos_walking",
+    "midnight_special",
+    "a_history_of_violence",
+    "colossal",
+    "the_killing_of_a_sacred_deer",
+    "the_experiment",
+    "the_raven",
+    "closed_circuit"
+  ]
+}

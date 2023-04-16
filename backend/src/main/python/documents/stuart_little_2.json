@@ -1,1 +1,110 @@
-{"id": 1568, "title": "Stuart Little 2", "starring": ["Michael J. Fox", "Melanie Griffith"], "runtime": 78, "genre": ["Family", "Adventure", "Animation", "Comedy"], "description": "Stuart, an adorable white mouse, still lives happily with his adoptive family, the Littles, on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart, his human brother, George, and their mischievous cat, Snowbell, set out to rescue a friend.", "releaseYear": "2002", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/iloXmNMrOtZoKfbTkHoBLXtpYNz.jpg", "categories": {"plot": 7.2, "acting": 8.0, "ending": 10.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 10.0, "funny": 7.75, "action": 9.0}, "reviews": [{"rating": "10", "text": "It is a really fun movie. The only thing I don't like about this movie it's that it is that it feels too short."}, {"rating": "5", "text": "Stuart Little 2 is more of a formulaic, derivative sequel that is missing the amount of heart and charm the first one had. Nevertheless, it's good to see Stuart back in action."}, {"rating": "5", "text": "Quite funny in parts but the plot has many, many problems. Certain effects have aged badly."}, {"rating": "7", "text": "My numerical score may not show it, but \"Stuart Little 2\" is in many ways better than the first film. It means well, has some great characters, solid visuals, and even more of the charm and humor that made the first \"Stuart Little\" film succeed. It's still no classic, but \"Stuart Little 2\" is certainly a winner."}, {"rating": "7", "text": "Warm, and very friendly, and although it doesn't reach the heights of many kiddie movies, \"Stuart Little 2\" is an enjoyably goofy picture with enough likable characters and narrative heft to succeed."}, {"rating": "7", "text": "\"Stuart Little 2\" was a good movie , but finding that mouse boyfriend of a bird , because I did not expect but it was a good movie, but for me that relationship rhyme or not rhyme ."}, {"rating": "7", "text": "The mouse is back for some more with Stuart Little 2. Although it wears off its welcome wagon too soon, it'll never wear its excitement and adventurousness off and that's a great thing."}, {"rating": "9", "text": "Stuart Little 2 is more colored, funny and thrilling than the original, and it offers enjoyable characters and an inventive story-telling for interact children and entertain adults. This is, of course, a great sequel."}, {"rating": "8", "text": "The mighty mouse has returned and with a friend to protect. It has the same strengths as the previous one and with new characters just as empathetic, especially those created digitally. To share with the children while things calm down."}, {"rating": "8", "text": "Better Than 1This sequel has great performances (Especially Fox, Woods, and Griffith), really realistic look of the animals, good humor, and is all out fun."}, {"rating": "9", "text": "ok mov but not enoff tt seens. why sociatie like stalwart small the mous but not my rat stawart tiny also. i name rat after firs movi but secon movi ruened it. my rat now in sok hittin wal;. he no desirve live aftur movi bad"}, {"rating": "10", "text": "A Truly Nice FilmI liked this better than the original, and that''s a high compliment because I thought highly of the original film: Stuart Little. As good as that was, I just thought this was even better.All the voice-overs are excellent with Nathan Lane having the best lines as \"Snowball,\" the cat. He was simply hilarious, line after line.The film once again features great colors, a virtual rainbow of them, especially with some of the inventive rooms in the Little house. The parents, once again, are super nice. It's a treat to watch Geena Davis and Hugh Laurie play an old- fashioned \"Leave It To Beaver\"-type couple. The film has no objectionable material and leaves you with a nice feeling. There are animated films or animated/real life combinations like this, that advertise \"family-friendly viewing\" but don't really deliver, instead sneaking in sexual innuendos and the like.Not here. This one is pure, morals-wise, except for one scene near the end when the mom (Geena Davis) tells Stuart and their son she's still proud of them even though they just got caught in a big lie. (Inferring that the lie was okay since everything turned out okay.) Other than that, nothing but good messages were heard and seen all around and this is a funny movie, to boot. Highly recommended for the family, and that's no clich\u00e9."}, {"rating": "7", "text": "----------------------------------7.2/10-----------------------------------"}], "recommendations": ["puss_in_boots_the_last_wish", "bolt", "spies_in_disguise", "ice_age", "the_secret_life_of_pets", "despicable_me", "rise_of_the_guardians", "robots", "hotel_transylvania_2", "the_croods", "madagascar", "paddington", "madagascar_escape_2_africa", "despicable_me_2", "rio_2", "rango", "ice_age_the_meltdown", "meet_the_robinsons", "rio", "hotel_transylvania_3_summer_vacation", "hotel_transylvania", "shazam", "over_the_hedge", "the_peanuts_movie", "the_secret_life_of_pets_2"]}
+{
+  "id": 1568,
+  "title": "Stuart Little 2",
+  "starring": [
+    "Michael J. Fox",
+    "Melanie Griffith"
+  ],
+  "runtime": 78,
+  "genre": [
+    "Family",
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "description": "Stuart, an adorable white mouse, still lives happily with his adoptive family, the Littles, on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart, his human brother, George, and their mischievous cat, Snowbell, set out to rescue a friend.",
+  "releaseYear": "2002",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/iloXmNMrOtZoKfbTkHoBLXtpYNz.jpg",
+  "categories": {
+    "plot": 7.2,
+    "acting": 8.0,
+    "ending": 10.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 10.0,
+    "funny": 7.75,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "It is a really fun movie. The only thing I don't like about this movie it's that it is that it feels too short."
+    },
+    {
+      "rating": "5",
+      "text": "Stuart Little 2 is more of a formulaic, derivative sequel that is missing the amount of heart and charm the first one had. Nevertheless, it's good to see Stuart back in action."
+    },
+    {
+      "rating": "5",
+      "text": "Quite funny in parts but the plot has many, many problems. Certain effects have aged badly."
+    },
+    {
+      "rating": "7",
+      "text": "My numerical score may not show it, but \"Stuart Little 2\" is in many ways better than the first film. It means well, has some great characters, solid visuals, and even more of the charm and humor that made the first \"Stuart Little\" film succeed. It's still no classic, but \"Stuart Little 2\" is certainly a winner."
+    },
+    {
+      "rating": "7",
+      "text": "Warm, and very friendly, and although it doesn't reach the heights of many kiddie movies, \"Stuart Little 2\" is an enjoyably goofy picture with enough likable characters and narrative heft to succeed."
+    },
+    {
+      "rating": "7",
+      "text": "\"Stuart Little 2\" was a good movie , but finding that mouse boyfriend of a bird , because I did not expect but it was a good movie, but for me that relationship rhyme or not rhyme ."
+    },
+    {
+      "rating": "7",
+      "text": "The mouse is back for some more with Stuart Little 2. Although it wears off its welcome wagon too soon, it'll never wear its excitement and adventurousness off and that's a great thing."
+    },
+    {
+      "rating": "9",
+      "text": "Stuart Little 2 is more colored, funny and thrilling than the original, and it offers enjoyable characters and an inventive story-telling for interact children and entertain adults. This is, of course, a great sequel."
+    },
+    {
+      "rating": "8",
+      "text": "The mighty mouse has returned and with a friend to protect. It has the same strengths as the previous one and with new characters just as empathetic, especially those created digitally. To share with the children while things calm down."
+    },
+    {
+      "rating": "8",
+      "text": "Better Than 1This sequel has great performances (Especially Fox, Woods, and Griffith), really realistic look of the animals, good humor, and is all out fun."
+    },
+    {
+      "rating": "9",
+      "text": "ok mov but not enoff tt seens. why sociatie like stalwart small the mous but not my rat stawart tiny also. i name rat after firs movi but secon movi ruened it. my rat now in sok hittin wal;. he no desirve live aftur movi bad"
+    },
+    {
+      "rating": "10",
+      "text": "A Truly Nice FilmI liked this better than the original, and that''s a high compliment because I thought highly of the original film: Stuart Little. As good as that was, I just thought this was even better.All the voice-overs are excellent with Nathan Lane having the best lines as \"Snowball,\" the cat. He was simply hilarious, line after line.The film once again features great colors, a virtual rainbow of them, especially with some of the inventive rooms in the Little house. The parents, once again, are super nice. It's a treat to watch Geena Davis and Hugh Laurie play an old- fashioned \"Leave It To Beaver\"-type couple. The film has no objectionable material and leaves you with a nice feeling. There are animated films or animated/real life combinations like this, that advertise \"family-friendly viewing\" but don't really deliver, instead sneaking in sexual innuendos and the like.Not here. This one is pure, morals-wise, except for one scene near the end when the mom (Geena Davis) tells Stuart and their son she's still proud of them even though they just got caught in a big lie. (Inferring that the lie was okay since everything turned out okay.) Other than that, nothing but good messages were heard and seen all around and this is a funny movie, to boot. Highly recommended for the family, and that's no clich\u00e9."
+    },
+    {
+      "rating": "7",
+      "text": "----------------------------------7.2/10-----------------------------------"
+    }
+  ],
+  "recommendations": [
+    "puss_in_boots_the_last_wish",
+    "bolt",
+    "spies_in_disguise",
+    "ice_age",
+    "the_secret_life_of_pets",
+    "despicable_me",
+    "rise_of_the_guardians",
+    "robots",
+    "hotel_transylvania_2",
+    "the_croods",
+    "madagascar",
+    "paddington",
+    "madagascar_escape_2_africa",
+    "despicable_me_2",
+    "rio_2",
+    "rango",
+    "ice_age_the_meltdown",
+    "meet_the_robinsons",
+    "rio",
+    "hotel_transylvania_3_summer_vacation",
+    "hotel_transylvania",
+    "shazam",
+    "over_the_hedge",
+    "the_peanuts_movie",
+    "the_secret_life_of_pets_2"
+  ]
+}

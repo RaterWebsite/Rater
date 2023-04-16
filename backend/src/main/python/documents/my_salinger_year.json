@@ -1,1 +1,87 @@
-{"id": 4121, "title": "My Salinger Year", "starring": ["Margaret Qualley", "Sigourney Weaver"], "runtime": 101, "genre": ["Drama"], "description": "A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/dC4IBKaCLFwnQlGmsYT8mr0Sp4n.jpg", "categories": {"plot": 6.428571428571429, "acting": 6.428571428571429, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Wonderful film! Great performances by Margaret Qualley and Sigourney Weaver."}, {"rating": "6", "text": "Based on the autobiographical book by Joanna Rackoff, this film looks at her early career in 90s NYC. She aspired to be a poet, but got a job working for J. D. Salinger\u2019s literary agent (Sigourney Weaver, who dominates the film as her imperious boss). Frankly, Joanna\u2019s continuous mistakes and borderline incompetence should have gotten her fired, but for some reason she persisted. Rackoff is played by Margaret Qualley, who certainly embodied the flaky, conflicted protagonist. The situations seemed derivitive (Devil Wears Prada, anyone?) and even though there are personal interactions, there\u2019s almost no emotional weight for those scenes. Despite the scattered focus of the storyline, there\u2019s an earnest enthusiasm to this scrappy tale that some may appreciate."}, {"rating": "5", "text": "This film isn't awful, but there's little in it that makes it interesting. Margaret Qualley and Sigourney Weaver form a good pair on-screen, but not on par with similar duos like Stone/Thompson, in 'Cruella,' or Hathaway/Streep, in 'The Devil Wears Prada.' The screenplay looks for so many ways for the main character to develop, but almost none succeeds. Anyway, you'll have to thank director Philippe Falardeau for not turning this movie into a teen comedy or something like that, but it's still far from something rewarding."}, {"rating": "7", "text": "Think \"The Devil Wears Prada\" in the book publishing industry, and you've got a pretty good idea what this fact-based personal memoir is all about. When aspiring author Joanna Rakoff takes a job as an administrative assistant at a prestigious, old school New York literary agency, hoping it would help her advance her writing career, she's disillusioned at being relegated to the role of a glorified secretary. But her creative juices are stoked when she's assigned to handle responses to the ample fan mail sent to one of the agency's high-profile clients, the notoriously reclusive J.D. Salinger, with whom she develops a stimulating long-distance creative relationship. The heartfelt story is witty, charming and insightful and will especially appeal to those seeking to launch writing careers of their own. Director Philippe Falardeau's latest tells an engaging tale, even if it tends to be somewhat episodic at times in its attempt at covering an array of story threads. Nevertheless, it all hangs together reasonably well, thanks in large part to the fine performances of Margaret Qualley, Colm Feore and, especially, Sigourney Weaver as the agency's often-prickly boss, as well as several whimsical fantasy sequences that keep the narrative delightfully refreshing. Given the subject matter, \"My Salinger Year\" won't suit everyone, but those with a literary bent will find it an intelligent, uplifting watch that rises far above much of the cinematic trash being released these days."}, {"rating": "5", "text": "This film didn't displease me, but it didn't impress me either.It's a very slow-burner story. Needed a more constant rhythm.I didn't hate it, but I didn't love it either.The most redeemable thing about is Margaret Qualley's acting growth."}, {"rating": "7", "text": "(Mauro Lanari)\"The Guardian\"'s celebrated Peter Bradshaw is one of the many critics who panned the movie calling it \"derivative, a simperingly coy knock-off of 'The Devil Wears Prada' without the sexiness and fun.\" Delusional reasoning, since without those elements it makes no sense to compare it with Frankel's feature film. Personally I endorse the review written by Gary Goldstein of the \"Los Angeles Times\": Joanna Rakoff's story \"is managed with grace, tenderness and touching credibility by a wonderfully winning Qualley in concert with Philippe Falardeau's smart, engaging direction and screenplay.\" One could have been more concise by recognizing that \"My Salinger Year\" is the female version of the unforgettable \"Finding Forrester\" (Van Sant 2000). Being a male, it's easy for me to feel less empathy for Rakoff / Qualley, but I guarantee that it is by no means an insurmountable obstacle."}, {"rating": "10", "text": "I don't think I've ever seen a movie that moved me as much with its beautiful and perfect acting."}, {"rating": "6", "text": "Especially thanks to two very good performance by Qualley and Weaver, My Salinger Year remains an intriguing character study, yet some plot lines and tonal shifts could have been handled better."}], "recommendations": ["the_theory_of_everything", "motherless_brooklyn", "anna_karenina", "finding_neverland", "mary_queen_of_scots", "wonder_wheel", "wall_street", "joy", "catch_me_if_you_can", "the_hurricane", "arbitrage", "the_danish_girl", "bombshell", "nocturnal_animals", "all_the_money_in_the_world", "tulip_fever", "the_only_living_boy_in_new_york", "thoroughbreds", "gifted", "the_lincoln_lawyer", "the_dig", "steve_jobs", "blue_jasmine", "state_of_play", "richard_jewell"]}
+{
+  "id": 4121,
+  "title": "My Salinger Year",
+  "starring": [
+    "Margaret Qualley",
+    "Sigourney Weaver"
+  ],
+  "runtime": 101,
+  "genre": [
+    "Drama"
+  ],
+  "description": "A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dC4IBKaCLFwnQlGmsYT8mr0Sp4n.jpg",
+  "categories": {
+    "plot": 6.428571428571429,
+    "acting": 6.428571428571429,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Wonderful film! Great performances by Margaret Qualley and Sigourney Weaver."
+    },
+    {
+      "rating": "6",
+      "text": "Based on the autobiographical book by Joanna Rackoff, this film looks at her early career in 90s NYC. She aspired to be a poet, but got a job working for J. D. Salinger\u2019s literary agent (Sigourney Weaver, who dominates the film as her imperious boss). Frankly, Joanna\u2019s continuous mistakes and borderline incompetence should have gotten her fired, but for some reason she persisted. Rackoff is played by Margaret Qualley, who certainly embodied the flaky, conflicted protagonist. The situations seemed derivitive (Devil Wears Prada, anyone?) and even though there are personal interactions, there\u2019s almost no emotional weight for those scenes. Despite the scattered focus of the storyline, there\u2019s an earnest enthusiasm to this scrappy tale that some may appreciate."
+    },
+    {
+      "rating": "5",
+      "text": "This film isn't awful, but there's little in it that makes it interesting. Margaret Qualley and Sigourney Weaver form a good pair on-screen, but not on par with similar duos like Stone/Thompson, in 'Cruella,' or Hathaway/Streep, in 'The Devil Wears Prada.' The screenplay looks for so many ways for the main character to develop, but almost none succeeds. Anyway, you'll have to thank director Philippe Falardeau for not turning this movie into a teen comedy or something like that, but it's still far from something rewarding."
+    },
+    {
+      "rating": "7",
+      "text": "Think \"The Devil Wears Prada\" in the book publishing industry, and you've got a pretty good idea what this fact-based personal memoir is all about. When aspiring author Joanna Rakoff takes a job as an administrative assistant at a prestigious, old school New York literary agency, hoping it would help her advance her writing career, she's disillusioned at being relegated to the role of a glorified secretary. But her creative juices are stoked when she's assigned to handle responses to the ample fan mail sent to one of the agency's high-profile clients, the notoriously reclusive J.D. Salinger, with whom she develops a stimulating long-distance creative relationship. The heartfelt story is witty, charming and insightful and will especially appeal to those seeking to launch writing careers of their own. Director Philippe Falardeau's latest tells an engaging tale, even if it tends to be somewhat episodic at times in its attempt at covering an array of story threads. Nevertheless, it all hangs together reasonably well, thanks in large part to the fine performances of Margaret Qualley, Colm Feore and, especially, Sigourney Weaver as the agency's often-prickly boss, as well as several whimsical fantasy sequences that keep the narrative delightfully refreshing. Given the subject matter, \"My Salinger Year\" won't suit everyone, but those with a literary bent will find it an intelligent, uplifting watch that rises far above much of the cinematic trash being released these days."
+    },
+    {
+      "rating": "5",
+      "text": "This film didn't displease me, but it didn't impress me either.It's a very slow-burner story. Needed a more constant rhythm.I didn't hate it, but I didn't love it either.The most redeemable thing about is Margaret Qualley's acting growth."
+    },
+    {
+      "rating": "7",
+      "text": "(Mauro Lanari)\"The Guardian\"'s celebrated Peter Bradshaw is one of the many critics who panned the movie calling it \"derivative, a simperingly coy knock-off of 'The Devil Wears Prada' without the sexiness and fun.\" Delusional reasoning, since without those elements it makes no sense to compare it with Frankel's feature film. Personally I endorse the review written by Gary Goldstein of the \"Los Angeles Times\": Joanna Rakoff's story \"is managed with grace, tenderness and touching credibility by a wonderfully winning Qualley in concert with Philippe Falardeau's smart, engaging direction and screenplay.\" One could have been more concise by recognizing that \"My Salinger Year\" is the female version of the unforgettable \"Finding Forrester\" (Van Sant 2000). Being a male, it's easy for me to feel less empathy for Rakoff / Qualley, but I guarantee that it is by no means an insurmountable obstacle."
+    },
+    {
+      "rating": "10",
+      "text": "I don't think I've ever seen a movie that moved me as much with its beautiful and perfect acting."
+    },
+    {
+      "rating": "6",
+      "text": "Especially thanks to two very good performance by Qualley and Weaver, My Salinger Year remains an intriguing character study, yet some plot lines and tonal shifts could have been handled better."
+    }
+  ],
+  "recommendations": [
+    "the_theory_of_everything",
+    "motherless_brooklyn",
+    "anna_karenina",
+    "finding_neverland",
+    "mary_queen_of_scots",
+    "wonder_wheel",
+    "wall_street",
+    "joy",
+    "catch_me_if_you_can",
+    "the_hurricane",
+    "arbitrage",
+    "the_danish_girl",
+    "bombshell",
+    "nocturnal_animals",
+    "all_the_money_in_the_world",
+    "tulip_fever",
+    "the_only_living_boy_in_new_york",
+    "thoroughbreds",
+    "gifted",
+    "the_lincoln_lawyer",
+    "the_dig",
+    "steve_jobs",
+    "blue_jasmine",
+    "state_of_play",
+    "richard_jewell"
+  ]
+}

@@ -1,1 +1,104 @@
-{"id": 822, "title": "The Addams Family", "starring": ["Ra\u00fal Juli\u00e1", "Anjelica Huston"], "runtime": 102, "genre": ["Comedy", "Fantasy"], "description": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.", "releaseYear": "1991", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/qFf8anju5f2epI0my8RdwwIXFIP.jpg", "categories": {"plot": 8.0, "acting": 8.8, "ending": 9.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 6.75, "action": 5.0}, "reviews": [{"rating": "10", "text": "An excellent adaptation of Charles Addams fantastic comic, The Addams Family is in my opinion on the same level as Die Hard as one of the greatest Christmas movies ever made."}, {"rating": "6", "text": "When a man claiming to be Gomez Addams' missing brother Fester arrives at the Addams' home, the family is thrilled. But is he actually who he claims to be?Based on the cartoon and 60\u2019s TV show The Addams Family is a decent enough movie full of the type of dark humour you\u2019d expect, but possibly due to it\u2019s troubled development, it\u2019s never quite able to completely fulfil it\u2019s potential."}, {"rating": "5", "text": "an entertaining movie for the masses, so I dont like it. The plot is simple, the humour also. Yes, the costumes and make up are interesting."}, {"rating": "9", "text": "Well, I finally managed to write a review on this, and I have to say, I like this a lot. I do think Values is marginally better, but both are solid entertainment, two good examples of films, driven by character not plot(though there was a very good one in both films). Like Values, the rating is too low, why? My only criticism, is that I don't like the rap song over the end credits at all. Apart from that, it had spirited direction, great incidental music, great performances, and a gem of a black humour filled script.The plot is simple but grabs the attention of adults, as young children might not understand it. The script is witty, dark and very funny, something that Reunion forgot to add to the proceedings. Barry Sonnenfield directs with spirit and enthusiasm, but it's the performances that I was most impressed with.Raul Julia and Angelica Huston were perfect as Gomez and Morticia, and I was sure that Tim Curry and Daryl Hannah would have been, had they a half-decent script and director to work with.(alas!) Christopher Lloyd was great fun as Fester, but the performance of Christina Ricci steals the film. Everyone else deserves a mention.In conclusion, a well-done and inventive film, with a 9/10 from me! Bethany Cox"}, {"rating": "7", "text": "The idea was to make an adaptation as faithful to the classic comic strip, with its characteristic black humor, and the effort is noticeable by the performances and the makeup of the characters. The result is dry fun but at times it gives the impression that the director pretended to be to play Tim Burton, and that takes away a bit of substance."}, {"rating": "9", "text": "Loved it. Actors are perfect, atmosphere was great and the story was fun and engaging."}, {"rating": "8", "text": "Well, it's very fun to watch, if you're into this kind of humour. The movie doesn't take itself very seriously as well, so you can't really expect some deep story or something. Probably not a movie for everyone, especially because it screams 90s, but it's fun if you're into it."}, {"rating": "10", "text": "A milestone in black humor.Finally a movie with the Addams Family! I have always been a fan of this family. I saw some episodes of the original series, even though I never saw it all, nor am I old enough to have seen it on TV. They are adorable in their way of being out of the ordinary. And the film is very true to its essence. I think the film will please adults and young people a little. By its nature, I believe it is not suitable for children, but young people over 12 years old will perfectly adhere to the film. The script is good and gives the Addams all the space to show everything they are and delight us with their unusual and Gothic style.The film is loaded with well-known actors and they all did a good job thanks to Barry Sonnenfeld's excellent direction. Raul Julia and Angelica Huston shone in the role of Gomez and Morticia, and Christopher Lloyd proved to be great in the role of the hysterical and strange Fester Addams. Dan Hedaya was a pleasant presence and knew how to make a good villain, and it was nice to see Carol Kane. But it is undoubtedly Christina Ricci that stands out, as the sadistic Wednesday Addams.Excellent scenarios and tetrical costumes make up a visually striking film, full of good points and that helps make the Addams a milestone in black humor."}, {"rating": "8", "text": "----------------------------------7.8/10-----------------------------------"}, {"rating": "7", "text": "Good.    ."}, {"rating": "9", "text": "I love this movie. Casting was spot on and it's funny. Raul Julia played Gomez better than anyone else ever has."}, {"rating": "7", "text": "Who woulda thunk that the family that gets active childlike joy out of murder and torture would be the most wholesome family in cinematic historyAlso just wanna point out Christopher Lloyd\u2019s physical comedy in this was top notch"}], "recommendations": ["the_royal_tenenbaums", "addams_family_values", "paddington_2", "beetlejuice", "fargo", "hook", "the_parent_trap", "role_models", "pirates_of_the_caribbean_the_curse_of_the_black_pearl", "police_academy_2_their_first_assignment", "just_before_i_go", "ghostbusters", "catch_me_if_you_can", "jerry_maguire", "true_grit", "eddie_the_eagle", "edward_scissorhands", "george_of_the_jungle", "seven_psychopaths", "10_things_i_hate_about_you", "american_hustle", "in_bruges", "the_fifth_element", "daredevil", "charlie_and_the_chocolate_factory"]}
+{
+  "id": 822,
+  "title": "The Addams Family",
+  "starring": [
+    "Ra\u00fal Juli\u00e1",
+    "Anjelica Huston"
+  ],
+  "runtime": 102,
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+  "releaseYear": "1991",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 8.8,
+    "ending": 9.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 6.75,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "An excellent adaptation of Charles Addams fantastic comic, The Addams Family is in my opinion on the same level as Die Hard as one of the greatest Christmas movies ever made."
+    },
+    {
+      "rating": "6",
+      "text": "When a man claiming to be Gomez Addams' missing brother Fester arrives at the Addams' home, the family is thrilled. But is he actually who he claims to be?Based on the cartoon and 60\u2019s TV show The Addams Family is a decent enough movie full of the type of dark humour you\u2019d expect, but possibly due to it\u2019s troubled development, it\u2019s never quite able to completely fulfil it\u2019s potential."
+    },
+    {
+      "rating": "5",
+      "text": "an entertaining movie for the masses, so I dont like it. The plot is simple, the humour also. Yes, the costumes and make up are interesting."
+    },
+    {
+      "rating": "9",
+      "text": "Well, I finally managed to write a review on this, and I have to say, I like this a lot. I do think Values is marginally better, but both are solid entertainment, two good examples of films, driven by character not plot(though there was a very good one in both films). Like Values, the rating is too low, why? My only criticism, is that I don't like the rap song over the end credits at all. Apart from that, it had spirited direction, great incidental music, great performances, and a gem of a black humour filled script.The plot is simple but grabs the attention of adults, as young children might not understand it. The script is witty, dark and very funny, something that Reunion forgot to add to the proceedings. Barry Sonnenfield directs with spirit and enthusiasm, but it's the performances that I was most impressed with.Raul Julia and Angelica Huston were perfect as Gomez and Morticia, and I was sure that Tim Curry and Daryl Hannah would have been, had they a half-decent script and director to work with.(alas!) Christopher Lloyd was great fun as Fester, but the performance of Christina Ricci steals the film. Everyone else deserves a mention.In conclusion, a well-done and inventive film, with a 9/10 from me! Bethany Cox"
+    },
+    {
+      "rating": "7",
+      "text": "The idea was to make an adaptation as faithful to the classic comic strip, with its characteristic black humor, and the effort is noticeable by the performances and the makeup of the characters. The result is dry fun but at times it gives the impression that the director pretended to be to play Tim Burton, and that takes away a bit of substance."
+    },
+    {
+      "rating": "9",
+      "text": "Loved it. Actors are perfect, atmosphere was great and the story was fun and engaging."
+    },
+    {
+      "rating": "8",
+      "text": "Well, it's very fun to watch, if you're into this kind of humour. The movie doesn't take itself very seriously as well, so you can't really expect some deep story or something. Probably not a movie for everyone, especially because it screams 90s, but it's fun if you're into it."
+    },
+    {
+      "rating": "10",
+      "text": "A milestone in black humor.Finally a movie with the Addams Family! I have always been a fan of this family. I saw some episodes of the original series, even though I never saw it all, nor am I old enough to have seen it on TV. They are adorable in their way of being out of the ordinary. And the film is very true to its essence. I think the film will please adults and young people a little. By its nature, I believe it is not suitable for children, but young people over 12 years old will perfectly adhere to the film. The script is good and gives the Addams all the space to show everything they are and delight us with their unusual and Gothic style.The film is loaded with well-known actors and they all did a good job thanks to Barry Sonnenfeld's excellent direction. Raul Julia and Angelica Huston shone in the role of Gomez and Morticia, and Christopher Lloyd proved to be great in the role of the hysterical and strange Fester Addams. Dan Hedaya was a pleasant presence and knew how to make a good villain, and it was nice to see Carol Kane. But it is undoubtedly Christina Ricci that stands out, as the sadistic Wednesday Addams.Excellent scenarios and tetrical costumes make up a visually striking film, full of good points and that helps make the Addams a milestone in black humor."
+    },
+    {
+      "rating": "8",
+      "text": "----------------------------------7.8/10-----------------------------------"
+    },
+    {
+      "rating": "7",
+      "text": "Good.    ."
+    },
+    {
+      "rating": "9",
+      "text": "I love this movie. Casting was spot on and it's funny. Raul Julia played Gomez better than anyone else ever has."
+    },
+    {
+      "rating": "7",
+      "text": "Who woulda thunk that the family that gets active childlike joy out of murder and torture would be the most wholesome family in cinematic historyAlso just wanna point out Christopher Lloyd\u2019s physical comedy in this was top notch"
+    }
+  ],
+  "recommendations": [
+    "the_royal_tenenbaums",
+    "addams_family_values",
+    "paddington_2",
+    "beetlejuice",
+    "fargo",
+    "hook",
+    "the_parent_trap",
+    "role_models",
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "police_academy_2_their_first_assignment",
+    "just_before_i_go",
+    "ghostbusters",
+    "catch_me_if_you_can",
+    "jerry_maguire",
+    "true_grit",
+    "eddie_the_eagle",
+    "edward_scissorhands",
+    "george_of_the_jungle",
+    "seven_psychopaths",
+    "10_things_i_hate_about_you",
+    "american_hustle",
+    "in_bruges",
+    "the_fifth_element",
+    "daredevil",
+    "charlie_and_the_chocolate_factory"
+  ]
+}

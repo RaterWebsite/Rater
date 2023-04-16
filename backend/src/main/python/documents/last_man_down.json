@@ -1,1 +1,72 @@
-{"id": 2785, "title": "Last Man Down", "starring": ["Daniel Stisen", "Olga Kent"], "runtime": 87, "genre": ["Action", "Thriller"], "description": "After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She's escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He's hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.", "releaseYear": "2022", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg", "categories": {"plot": 7.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 3.0, "action": 3.6666666666666665}, "reviews": [{"rating": "2", "text": "This movie is only 127 minutes but felt much longer because of the dry dialogue and lackluster plot."}, {"rating": "1", "text": "(Mauro Lanari)Is it an action movie below the amateur level in every single technical sector and embellished with phrases taken from Sun Tzu or would I have missed the essence of a rough gemstone?"}, {"rating": "7", "text": "I actually quite liked it, it was like a somber version of Commando. The setting worked really well for the theme of film and there is some serious muscle on display too. It's not an instant classic or something you'd watch twice but it's worth a watch if you like revenge based action themed movies."}, {"rating": "3", "text": "It Could be worse. The Muscle looks great, the action is bad, like early 70s bad C-movie bad. Like Saturday Night Live Parody bad, or prepubescent talent show bad for a Wes Anderson Movie. And the dialogue is a useless verbatim of kitschy trope cool tough guy. Idk, its a goofy silly mivie that isn't even fun or funny or"}], "recommendations": ["the_mummy_tomb_of_the_dragon_emperor", "bloodshot", "6_underground", "lockout", "transporter_2", "the_marine", "underworld_evolution", "transformers_revenge_of_the_fallen", "mortal_kombat_annihilation", "bullet_to_the_head", "transporter_3", "crank_high_voltage", "van_helsing", "crank", "the_expendables", "the_legend_of_hercules", "polar", "xxx_return_of_xander_cage", "gods_of_egypt", "rush_hour_3", "desperado", "clash_of_the_titans", "hercules", "national_treasure_book_of_secrets", "the_transporter_refueled"]}
+{
+  "id": 2785,
+  "title": "Last Man Down",
+  "starring": [
+    "Daniel Stisen",
+    "Olga Kent"
+  ],
+  "runtime": 87,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She's escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He's hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.",
+  "releaseYear": "2022",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 3.0,
+    "action": 3.6666666666666665
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "This movie is only 127 minutes but felt much longer because of the dry dialogue and lackluster plot."
+    },
+    {
+      "rating": "1",
+      "text": "(Mauro Lanari)Is it an action movie below the amateur level in every single technical sector and embellished with phrases taken from Sun Tzu or would I have missed the essence of a rough gemstone?"
+    },
+    {
+      "rating": "7",
+      "text": "I actually quite liked it, it was like a somber version of Commando. The setting worked really well for the theme of film and there is some serious muscle on display too. It's not an instant classic or something you'd watch twice but it's worth a watch if you like revenge based action themed movies."
+    },
+    {
+      "rating": "3",
+      "text": "It Could be worse. The Muscle looks great, the action is bad, like early 70s bad C-movie bad. Like Saturday Night Live Parody bad, or prepubescent talent show bad for a Wes Anderson Movie. And the dialogue is a useless verbatim of kitschy trope cool tough guy. Idk, its a goofy silly mivie that isn't even fun or funny or"
+    }
+  ],
+  "recommendations": [
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "bloodshot",
+    "6_underground",
+    "lockout",
+    "transporter_2",
+    "the_marine",
+    "underworld_evolution",
+    "transformers_revenge_of_the_fallen",
+    "mortal_kombat_annihilation",
+    "bullet_to_the_head",
+    "transporter_3",
+    "crank_high_voltage",
+    "van_helsing",
+    "crank",
+    "the_expendables",
+    "the_legend_of_hercules",
+    "polar",
+    "xxx_return_of_xander_cage",
+    "gods_of_egypt",
+    "rush_hour_3",
+    "desperado",
+    "clash_of_the_titans",
+    "hercules",
+    "national_treasure_book_of_secrets",
+    "the_transporter_refueled"
+  ]
+}

@@ -1,1 +1,75 @@
-{"id": 2033, "title": "The Bodyguard", "starring": ["Whitney Houston", "Kevin Costner"], "runtime": 129, "genre": ["Thriller", "Action", "Drama", "Music", "Romance"], "description": "A former Secret Service agent grudgingly takes an assignment to protect a pop idol who's threatened by a crazed fan. At first, the safety-obsessed bodyguard and the self-indulgent diva totally clash. But before long, all that tension sparks fireworks of another sort, and the love-averse tough guy is torn between duty and romance.", "releaseYear": "1992", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/2VgZW2ZD3pNoV2j8U2GXNRwOsk9.jpg", "categories": {"plot": 9.0, "acting": 5.0, "ending": 5.0, "soundtrack": 7.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "I watched it for the soundtrack and the chemistry between Whitney Houston and Kevin Costner. If not for these two actors, the movie wouldn't have been as successful as it was."}, {"rating": "9", "text": "Good movie with an interesting insight in the job as a bodyguard. Costner is playing well as always, even though his role is rather boring. Whitney Houston is stealing a lot of attention because her role is much more sympathic. The plot itself could be a bit better but on the other side I dont watch romances anymore and this movie caught me. Also I am sad to see such an incredible singer and entertainer to lose because of drugs."}, {"rating": "7", "text": "The Bodyguard. I'm not afraid because you are near. If we evaluate the film in general, then it is about how Frank and Rachel stare at each other. Rachel herself, throughout the film, rushes about to protect me and don\u2019t defend me, which is rather annoying when watching."}, {"rating": "0", "text": "this is awful, the actuation, the guidance. Everything is bad with this, i would never pay to see this movie"}], "recommendations": ["bad_teacher", "the_dilemma", "horrible_bosses", "the_boy_next_door", "the_proposal", "my_spy", "going_in_style", "no_strings_attached", "the_break_up", "killers", "parker", "trouble_with_the_curve", "jobs", "just_go_with_it", "last_vegas", "orphan_first_kill", "the_pacifier", "17_again", "jerry_maguire", "second_act", "freaky_friday", "aquamarine", "logan_lucky", "tammy", "the_longest_yard"]}
+{
+  "id": 2033,
+  "title": "The Bodyguard",
+  "starring": [
+    "Whitney Houston",
+    "Kevin Costner"
+  ],
+  "runtime": 129,
+  "genre": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "description": "A former Secret Service agent grudgingly takes an assignment to protect a pop idol who's threatened by a crazed fan. At first, the safety-obsessed bodyguard and the self-indulgent diva totally clash. But before long, all that tension sparks fireworks of another sort, and the love-averse tough guy is torn between duty and romance.",
+  "releaseYear": "1992",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2VgZW2ZD3pNoV2j8U2GXNRwOsk9.jpg",
+  "categories": {
+    "plot": 9.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 7.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "I watched it for the soundtrack and the chemistry between Whitney Houston and Kevin Costner. If not for these two actors, the movie wouldn't have been as successful as it was."
+    },
+    {
+      "rating": "9",
+      "text": "Good movie with an interesting insight in the job as a bodyguard. Costner is playing well as always, even though his role is rather boring. Whitney Houston is stealing a lot of attention because her role is much more sympathic. The plot itself could be a bit better but on the other side I dont watch romances anymore and this movie caught me. Also I am sad to see such an incredible singer and entertainer to lose because of drugs."
+    },
+    {
+      "rating": "7",
+      "text": "The Bodyguard. I'm not afraid because you are near. If we evaluate the film in general, then it is about how Frank and Rachel stare at each other. Rachel herself, throughout the film, rushes about to protect me and don\u2019t defend me, which is rather annoying when watching."
+    },
+    {
+      "rating": "0",
+      "text": "this is awful, the actuation, the guidance. Everything is bad with this, i would never pay to see this movie"
+    }
+  ],
+  "recommendations": [
+    "bad_teacher",
+    "the_dilemma",
+    "horrible_bosses",
+    "the_boy_next_door",
+    "the_proposal",
+    "my_spy",
+    "going_in_style",
+    "no_strings_attached",
+    "the_break_up",
+    "killers",
+    "parker",
+    "trouble_with_the_curve",
+    "jobs",
+    "just_go_with_it",
+    "last_vegas",
+    "orphan_first_kill",
+    "the_pacifier",
+    "17_again",
+    "jerry_maguire",
+    "second_act",
+    "freaky_friday",
+    "aquamarine",
+    "logan_lucky",
+    "tammy",
+    "the_longest_yard"
+  ]
+}

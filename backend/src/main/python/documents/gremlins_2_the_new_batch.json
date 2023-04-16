@@ -1,1 +1,73 @@
-{"id": 2268, "title": "Gremlins 2: The New Batch", "starring": ["Zach Galligan", "Phoebe Cates"], "runtime": 106, "genre": ["Comedy", "Horror", "Fantasy"], "description": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!", "releaseYear": "1990", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/jN7yvxnIHRozhq2mzWZDE5GPRc0.jpg", "categories": {"plot": 8.0, "acting": 8.0, "ending": 8.0, "soundtrack": 8.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 8.0, "action": 5.0}, "reviews": [{"rating": "8", "text": "Okay, the first film is better, but Gremlins 2:The New Batch is a very entertaining sequel that is by far one of the better ones out there. I think it is more of a comedy than the first film was, the original had plenty of comedy and horror and succeeded in both areas. The plot isn't quite as clever or as wonderfully simple as the one in the original, and one or two moments don't quite work. Still, it is very funny thanks to a good script and efficient direction, and the time just flies by before you even know it. And of course the gremlins steal the show, and boy don't they do it well. They are brilliantly designed, if maybe not as scary, and there is a good voice cast. Tony Randall especially is brilliant as Brain Gremlin. The human actors do a great job, with Zach Galligan more appealing here, he was a tad bland in the original, and Keye Luke is simply great in his reprising role as Mr Wing. Christopher Lee is an exceptional actor, and he also does well as Doctor Catheter. And Jerry Goldsmith's music is again very impressive. I do think this sequel is underrated, it isn't perfect but it is well worth watching. 8/10 Bethany Cox"}, {"rating": "8", "text": "Gizmo ends up in NY, specifically in the tower where Billy works, gets wet again, makes babies again, they eat after midnight again and they become Gremlins again."}, {"rating": "5", "text": "I wasn't a big fan of the first movie but this sequel is way worse than the original. It's not that bad but I found it hard to enjoy."}, {"rating": "7", "text": "Cleaner image than the first movie. The creature effects go to the next level too. Great use of all the speakers except the bass speaker which was a little soft. This takes everything to the next level. There is more comedy, more crazy gremlins and that's your lot. Much less serious than the first and I prefer it that way."}], "recommendations": ["beetlejuice", "austin_powers_the_spy_who_shagged_me", "robots", "ghostbusters", "scooby_doo_2_monsters_unleashed", "austin_powers_in_goldmember", "ghostbusters_ii", "the_fifth_element", "fantastic_four", "sherlock_gnomes", "dark_shadows", "oz_the_great_and_powerful", "megamind", "the_green_hornet", "101_dalmatians", "jumanji_the_next_level", "scary_movie_3", "the_mummy", "men_in_black_ii", "charlie_and_the_chocolate_factory", "jumanji_welcome_to_the_jungle", "horrible_bosses_2", "aquaman", "zombieland_double_tap", "van_helsing"]}
+{
+  "id": 2268,
+  "title": "Gremlins 2: The New Batch",
+  "starring": [
+    "Zach Galligan",
+    "Phoebe Cates"
+  ],
+  "runtime": 106,
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Fantasy"
+  ],
+  "description": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!",
+  "releaseYear": "1990",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jN7yvxnIHRozhq2mzWZDE5GPRc0.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 8.0,
+    "ending": 8.0,
+    "soundtrack": 8.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 8.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "Okay, the first film is better, but Gremlins 2:The New Batch is a very entertaining sequel that is by far one of the better ones out there. I think it is more of a comedy than the first film was, the original had plenty of comedy and horror and succeeded in both areas. The plot isn't quite as clever or as wonderfully simple as the one in the original, and one or two moments don't quite work. Still, it is very funny thanks to a good script and efficient direction, and the time just flies by before you even know it. And of course the gremlins steal the show, and boy don't they do it well. They are brilliantly designed, if maybe not as scary, and there is a good voice cast. Tony Randall especially is brilliant as Brain Gremlin. The human actors do a great job, with Zach Galligan more appealing here, he was a tad bland in the original, and Keye Luke is simply great in his reprising role as Mr Wing. Christopher Lee is an exceptional actor, and he also does well as Doctor Catheter. And Jerry Goldsmith's music is again very impressive. I do think this sequel is underrated, it isn't perfect but it is well worth watching. 8/10 Bethany Cox"
+    },
+    {
+      "rating": "8",
+      "text": "Gizmo ends up in NY, specifically in the tower where Billy works, gets wet again, makes babies again, they eat after midnight again and they become Gremlins again."
+    },
+    {
+      "rating": "5",
+      "text": "I wasn't a big fan of the first movie but this sequel is way worse than the original. It's not that bad but I found it hard to enjoy."
+    },
+    {
+      "rating": "7",
+      "text": "Cleaner image than the first movie. The creature effects go to the next level too. Great use of all the speakers except the bass speaker which was a little soft. This takes everything to the next level. There is more comedy, more crazy gremlins and that's your lot. Much less serious than the first and I prefer it that way."
+    }
+  ],
+  "recommendations": [
+    "beetlejuice",
+    "austin_powers_the_spy_who_shagged_me",
+    "robots",
+    "ghostbusters",
+    "scooby_doo_2_monsters_unleashed",
+    "austin_powers_in_goldmember",
+    "ghostbusters_ii",
+    "the_fifth_element",
+    "fantastic_four",
+    "sherlock_gnomes",
+    "dark_shadows",
+    "oz_the_great_and_powerful",
+    "megamind",
+    "the_green_hornet",
+    "101_dalmatians",
+    "jumanji_the_next_level",
+    "scary_movie_3",
+    "the_mummy",
+    "men_in_black_ii",
+    "charlie_and_the_chocolate_factory",
+    "jumanji_welcome_to_the_jungle",
+    "horrible_bosses_2",
+    "aquaman",
+    "zombieland_double_tap",
+    "van_helsing"
+  ]
+}

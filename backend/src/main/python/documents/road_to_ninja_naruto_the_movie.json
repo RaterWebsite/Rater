@@ -1,1 +1,81 @@
-{"id": 282, "title": "Road to Ninja: Naruto the Movie", "starring": ["Junko Takeuchi", "Chie Nakamura"], "runtime": 109, "genre": ["Animation", "Fantasy", "Action"], "description": "Sixteen years ago, a mysterious masked ninja unleashes a powerful creature known as the Nine-Tailed Demon Fox on the Hidden Leaf Village Konoha, killing many people. In response, the Fourth Hokage Minato Namikaze and his wife Kushina Uzumaki, the Demon Fox's living prison or Jinch\u016briki, manage to seal the creature inside their newborn son Naruto Uzumaki. With the Tailed Beast sealed, things continued as normal. However, in the present day, peace ended when a group of ninja called the Akatsuki attack Konoha under the guidance of Tobi, the mysterious masked man behind Fox's rampage years ago who intends on executing his plan to rule the world by shrouding it in illusions.", "releaseYear": "2012", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg", "categories": {"plot": 7.666666666666667, "acting": 9.5, "ending": 5.0, "soundtrack": 10.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 5.0, "action": 9.0}, "reviews": [{"rating": "9", "text": "This is a great movie. Not only there is an intense fight but there is also huge emotional feelings as Naruto is transported in a parallel-like world where his parents didn't died so he yeah... You will be a little confused if you didn't watch Naruto Shipuden but it's just really small details, i didn't watch Shipuden yet but i got it...cause of the original Naruto anime. I highly recommend this movie for any Naruto fan, anime fan, ninja movie fun anyone, it has action and it's a good feeling movie"}, {"rating": "10", "text": "This will certainly crack my year-end Top 10 list, and it will likely be in the top half. I don\u2019t remember the last time I laughed that hard (frankly, often in spots when I was the only one laughing\u2026 which is all the better) in a film. The\u2026 Expand"}, {"rating": "10", "text": "it may not be canon but it is the first naruto movie to be enjoyed and it is excellent in every aspect plot characters and especially soundtrack"}, {"rating": "3", "text": "What to say about this film? It highlights the parents and the past without rasion. But it's boring, there is no disruptive element, and the story has no purpose. The only objective is to prove that parents and loved ones are important, indeed Sakura and Naruto are lost in the other reality, their friends change their personalities, the dead come back to life. In short, a film to be watched without more ..."}, {"rating": "10", "text": "Primero pel\u00edcula de naruto que se dice que es buena y con justa raz\u00f3n la carga sentimental que tiene es incre\u00edble s\u00faper recomendable"}, {"rating": "10", "text": "Es de lejos lo mejor de Naruto animaci\u00f3n y banda sonora y que decir de la trama que nos muestra el mundo de otra manera"}], "recommendations": ["my_little_pony_the_movie", "the_last_naruto_the_movie", "zootopia", "paranorman", "up", "onward", "tmnt", "sonic_the_hedgehog_2", "meet_the_robinsons", "ghostbusters_afterlife", "coraline", "how_to_train_your_dragon_2", "the_lego_movie", "the_peanuts_movie", "the_art_of_racing_in_the_rain", "atlantis_the_lost_empire", "the_incredibles", "soul", "the_croods", "bridge_to_terabithia", "minions_the_rise_of_gru", "wonder_park", "frozen_ii", "speed_racer", "sing_2"]}
+{
+  "id": 282,
+  "title": "Road to Ninja: Naruto the Movie",
+  "starring": [
+    "Junko Takeuchi",
+    "Chie Nakamura"
+  ],
+  "runtime": 109,
+  "genre": [
+    "Animation",
+    "Fantasy",
+    "Action"
+  ],
+  "description": "Sixteen years ago, a mysterious masked ninja unleashes a powerful creature known as the Nine-Tailed Demon Fox on the Hidden Leaf Village Konoha, killing many people. In response, the Fourth Hokage Minato Namikaze and his wife Kushina Uzumaki, the Demon Fox's living prison or Jinch\u016briki, manage to seal the creature inside their newborn son Naruto Uzumaki. With the Tailed Beast sealed, things continued as normal. However, in the present day, peace ended when a group of ninja called the Akatsuki attack Konoha under the guidance of Tobi, the mysterious masked man behind Fox's rampage years ago who intends on executing his plan to rule the world by shrouding it in illusions.",
+  "releaseYear": "2012",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg",
+  "categories": {
+    "plot": 7.666666666666667,
+    "acting": 9.5,
+    "ending": 5.0,
+    "soundtrack": 10.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 5.0,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "This is a great movie. Not only there is an intense fight but there is also huge emotional feelings as Naruto is transported in a parallel-like world where his parents didn't died so he yeah... You will be a little confused if you didn't watch Naruto Shipuden but it's just really small details, i didn't watch Shipuden yet but i got it...cause of the original Naruto anime. I highly recommend this movie for any Naruto fan, anime fan, ninja movie fun anyone, it has action and it's a good feeling movie"
+    },
+    {
+      "rating": "10",
+      "text": "This will certainly crack my year-end Top 10 list, and it will likely be in the top half. I don\u2019t remember the last time I laughed that hard (frankly, often in spots when I was the only one laughing\u2026 which is all the better) in a film. The\u2026 Expand"
+    },
+    {
+      "rating": "10",
+      "text": "it may not be canon but it is the first naruto movie to be enjoyed and it is excellent in every aspect plot characters and especially soundtrack"
+    },
+    {
+      "rating": "3",
+      "text": "What to say about this film? It highlights the parents and the past without rasion. But it's boring, there is no disruptive element, and the story has no purpose. The only objective is to prove that parents and loved ones are important, indeed Sakura and Naruto are lost in the other reality, their friends change their personalities, the dead come back to life. In short, a film to be watched without more ..."
+    },
+    {
+      "rating": "10",
+      "text": "Primero pel\u00edcula de naruto que se dice que es buena y con justa raz\u00f3n la carga sentimental que tiene es incre\u00edble s\u00faper recomendable"
+    },
+    {
+      "rating": "10",
+      "text": "Es de lejos lo mejor de Naruto animaci\u00f3n y banda sonora y que decir de la trama que nos muestra el mundo de otra manera"
+    }
+  ],
+  "recommendations": [
+    "my_little_pony_the_movie",
+    "the_last_naruto_the_movie",
+    "zootopia",
+    "paranorman",
+    "up",
+    "onward",
+    "tmnt",
+    "sonic_the_hedgehog_2",
+    "meet_the_robinsons",
+    "ghostbusters_afterlife",
+    "coraline",
+    "how_to_train_your_dragon_2",
+    "the_lego_movie",
+    "the_peanuts_movie",
+    "the_art_of_racing_in_the_rain",
+    "atlantis_the_lost_empire",
+    "the_incredibles",
+    "soul",
+    "the_croods",
+    "bridge_to_terabithia",
+    "minions_the_rise_of_gru",
+    "wonder_park",
+    "frozen_ii",
+    "speed_racer",
+    "sing_2"
+  ]
+}

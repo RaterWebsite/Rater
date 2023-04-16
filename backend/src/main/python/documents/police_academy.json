@@ -1,1 +1,80 @@
-{"id": 3366, "title": "Police Academy", "starring": ["Steve Guttenberg", "Kim Cattrall"], "runtime": 97, "genre": ["Comedy", "Crime"], "description": "New rules enforced by the Lady Mayoress mean that sex, weight, height and intelligence need no longer be a factor for joining the Police Force. This opens the floodgates for all and sundry to enter the Police Academy, much to the chagrin of the instructors. Not everyone is there through choice, though. Social misfit Mahoney has been forced to sign up as the only alternative to a jail sentence and it doesn't take long before he falls foul of the boorish Lieutenant Harris. But before long, Mahoney realises that he is enjoying being a police cadet and decides he wants to stay... while Harris decides he wants Mahoney out!", "releaseYear": "1984", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/CZoeavxfCWcoQP5zW6fTxgNKXy.jpg", "categories": {"plot": 8.833333333333334, "acting": 9.125, "ending": 5.0, "soundtrack": 3.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 8.6, "action": 5.0}, "reviews": [{"rating": "10", "text": "Police Academy is the best comedy film of the 80's for adult! I watched all 7 films. Characters are very fun because there are no situations when we can overlook and don't laugh!\r 21 Jump Street forget about it!"}, {"rating": "10", "text": "Hilarious, Classic, and Campy.  So many people played roles in this movie that you will forever recognize.  Especially Bobcat Goldtwit.  I have fond memories of watching this from my childhood."}, {"rating": "4", "text": "For everything Police Academy has right, it's only that it doesn't starve for money unlike its successors before this film. Nonetheless, this film manages to be a missed shot from the crew that have bought you something that should've been a great comedy."}, {"rating": "10", "text": "One of the best and well received comedies of its time. It was a surprise hit that started a successful franchise that is sadly so dormant that it is forgotten at the time of writing. In my youth this was a movie you just had to watch (Nearly everyone in my age group had seen it, talked a lot about it and most say it was excellent). The strengths are its charming cast of character, the humor and that the movie takes itself not that serious. I must give a nostalgia warning here as I think I am influenced by it and childhood memories. Story: Because of a shortage of adequate candidates for police officers it was decided to lower the requirements for the Police Academy (drastically). This lets a remarkable cast of new recruits enroll. Some have enjoyable quirks, special skills, are parodies of stereotypes or are just comical (Sometimes multiple of those at once). This is the start of an attack on your risible muscles. All jokes work and are well written. They took a lot of effort to avoid any misfire and this makes the movie so memorable. You have slapstick, pranks, wordplay and schemes that are enjoyable. The characters enhance the performance and they are a bunch of charming and likable people. Lets start with Steve Guttenberg as Carey Mahoney. He is a scoundrel with a silver tongue and a clever schemer who is forced into the Academy. Then we have Bubba Smith as Moses Hightower. He is the giant with the hearth of gold and seemingly superhuman strength. Now we get to Michael Winslow playing Larvell Jones. He can imitate all noises and use this to his advantage (and for humor). This is his acting and real life trademark and well used in the franchise. With David Graf as Eugene Tackleberry we get a gun nerd. He is such a good character and stereotype. I want also name the head of the Academy Eric Lassard. He often seems like a lame duck or a bit quirky but you should never underestimate him and his abilities. He is a master in many things. With Laverne Hooks played by Marion Ramsey we get a shy character who is truly awesome behind this. With Thaddeus Harris we got a fine antagonist. He is such a likable bad guy. I think a picture of him in the \u201cLove to hate\u201d category for villains is absolutely fitting. It is so satisfying when he is tricked or when the others make his plans backfire. There are a lot more characters but those lay the foundation. It is no wonder how the cast became so iconic. They were legendary in their time. The rest is history as the movie made an impact that started a franchise with 6 sequels and 2 TV series if I remember correctly. Overall this is one of my childhood favorites for comedies. I have re-watched it so many times in TV. The humor and characters are still great and it beats easily many if not all of the more modern spoof movies (Which is actually not much of a challenge). An easy recommendation for me with the standard nostalgia warning. Additional info: The franchise is dormant for a long time. I read that a reboot is in development hell since 2002 or 2003 and I have not heard anything about it in years."}, {"rating": "3", "text": "'Police Academy' only shines by its very few funny lines and situations. The rest of the time the movie isn't even able to entertain us with its overly simple plot and its raw, vulgar, gross and mind-numbing lines. The acting is bad, dialogues are dull, music is nothing more than generic and unnoticeable. Still the worst part of the cake undoubtedly is the constant poor and scary diminishing room let to the women characters. Show their bodies, do the dishes, make them drive bad and worry for the men they know. It's how nuanced and varied it can sadly be."}, {"rating": "7", "text": "stara ale jara komedia.... bawi,\u015bmieszy, rozluznia... generalnie o to chodzi\u0142o tak\u017ce polecam."}], "recommendations": ["johnny_english_strikes_again", "spy", "jumanji_the_next_level", "mortdecai", "police_academy_2_their_first_assignment", "logan_lucky", "dodgeball_a_true_underdog_story", "due_date", "central_intelligence", "neighbors", "snatch", "deadpool_2", "the_heat", "pineapple_express", "blockers", "spenser_confidential", "the_nice_guys", "seven_psychopaths", "chips", "the_gentlemen", "burn_after_reading", "identity_thief", "the_wedding_ringer", "grudge_match", "pitch_perfect_2"]}
+{
+  "id": 3366,
+  "title": "Police Academy",
+  "starring": [
+    "Steve Guttenberg",
+    "Kim Cattrall"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "description": "New rules enforced by the Lady Mayoress mean that sex, weight, height and intelligence need no longer be a factor for joining the Police Force. This opens the floodgates for all and sundry to enter the Police Academy, much to the chagrin of the instructors. Not everyone is there through choice, though. Social misfit Mahoney has been forced to sign up as the only alternative to a jail sentence and it doesn't take long before he falls foul of the boorish Lieutenant Harris. But before long, Mahoney realises that he is enjoying being a police cadet and decides he wants to stay... while Harris decides he wants Mahoney out!",
+  "releaseYear": "1984",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/CZoeavxfCWcoQP5zW6fTxgNKXy.jpg",
+  "categories": {
+    "plot": 8.833333333333334,
+    "acting": 9.125,
+    "ending": 5.0,
+    "soundtrack": 3.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 8.6,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Police Academy is the best comedy film of the 80's for adult! I watched all 7 films. Characters are very fun because there are no situations when we can overlook and don't laugh!\r 21 Jump Street forget about it!"
+    },
+    {
+      "rating": "10",
+      "text": "Hilarious, Classic, and Campy.  So many people played roles in this movie that you will forever recognize.  Especially Bobcat Goldtwit.  I have fond memories of watching this from my childhood."
+    },
+    {
+      "rating": "4",
+      "text": "For everything Police Academy has right, it's only that it doesn't starve for money unlike its successors before this film. Nonetheless, this film manages to be a missed shot from the crew that have bought you something that should've been a great comedy."
+    },
+    {
+      "rating": "10",
+      "text": "One of the best and well received comedies of its time. It was a surprise hit that started a successful franchise that is sadly so dormant that it is forgotten at the time of writing. In my youth this was a movie you just had to watch (Nearly everyone in my age group had seen it, talked a lot about it and most say it was excellent). The strengths are its charming cast of character, the humor and that the movie takes itself not that serious. I must give a nostalgia warning here as I think I am influenced by it and childhood memories. Story: Because of a shortage of adequate candidates for police officers it was decided to lower the requirements for the Police Academy (drastically). This lets a remarkable cast of new recruits enroll. Some have enjoyable quirks, special skills, are parodies of stereotypes or are just comical (Sometimes multiple of those at once). This is the start of an attack on your risible muscles. All jokes work and are well written. They took a lot of effort to avoid any misfire and this makes the movie so memorable. You have slapstick, pranks, wordplay and schemes that are enjoyable. The characters enhance the performance and they are a bunch of charming and likable people. Lets start with Steve Guttenberg as Carey Mahoney. He is a scoundrel with a silver tongue and a clever schemer who is forced into the Academy. Then we have Bubba Smith as Moses Hightower. He is the giant with the hearth of gold and seemingly superhuman strength. Now we get to Michael Winslow playing Larvell Jones. He can imitate all noises and use this to his advantage (and for humor). This is his acting and real life trademark and well used in the franchise. With David Graf as Eugene Tackleberry we get a gun nerd. He is such a good character and stereotype. I want also name the head of the Academy Eric Lassard. He often seems like a lame duck or a bit quirky but you should never underestimate him and his abilities. He is a master in many things. With Laverne Hooks played by Marion Ramsey we get a shy character who is truly awesome behind this. With Thaddeus Harris we got a fine antagonist. He is such a likable bad guy. I think a picture of him in the \u201cLove to hate\u201d category for villains is absolutely fitting. It is so satisfying when he is tricked or when the others make his plans backfire. There are a lot more characters but those lay the foundation. It is no wonder how the cast became so iconic. They were legendary in their time. The rest is history as the movie made an impact that started a franchise with 6 sequels and 2 TV series if I remember correctly. Overall this is one of my childhood favorites for comedies. I have re-watched it so many times in TV. The humor and characters are still great and it beats easily many if not all of the more modern spoof movies (Which is actually not much of a challenge). An easy recommendation for me with the standard nostalgia warning. Additional info: The franchise is dormant for a long time. I read that a reboot is in development hell since 2002 or 2003 and I have not heard anything about it in years."
+    },
+    {
+      "rating": "3",
+      "text": "'Police Academy' only shines by its very few funny lines and situations. The rest of the time the movie isn't even able to entertain us with its overly simple plot and its raw, vulgar, gross and mind-numbing lines. The acting is bad, dialogues are dull, music is nothing more than generic and unnoticeable. Still the worst part of the cake undoubtedly is the constant poor and scary diminishing room let to the women characters. Show their bodies, do the dishes, make them drive bad and worry for the men they know. It's how nuanced and varied it can sadly be."
+    },
+    {
+      "rating": "7",
+      "text": "stara ale jara komedia.... bawi,\u015bmieszy, rozluznia... generalnie o to chodzi\u0142o tak\u017ce polecam."
+    }
+  ],
+  "recommendations": [
+    "johnny_english_strikes_again",
+    "spy",
+    "jumanji_the_next_level",
+    "mortdecai",
+    "police_academy_2_their_first_assignment",
+    "logan_lucky",
+    "dodgeball_a_true_underdog_story",
+    "due_date",
+    "central_intelligence",
+    "neighbors",
+    "snatch",
+    "deadpool_2",
+    "the_heat",
+    "pineapple_express",
+    "blockers",
+    "spenser_confidential",
+    "the_nice_guys",
+    "seven_psychopaths",
+    "chips",
+    "the_gentlemen",
+    "burn_after_reading",
+    "identity_thief",
+    "the_wedding_ringer",
+    "grudge_match",
+    "pitch_perfect_2"
+  ]
+}

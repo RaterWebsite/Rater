@@ -1,1 +1,94 @@
-{"id": 4394, "title": "The Long Kiss Goodnight", "starring": ["Geena Davis", "Samuel L. Jackson"], "runtime": 121, "genre": ["Crime", "Action", "Mystery", "Thriller"], "description": "Samantha Caine, suburban homemaker, is the ideal mom to her 8 year old daughter Caitlin. She lives in Honesdale, PA, is a school teacher and makes the best Rice Krispie treats in town. But when she receives a bump on her head, she begins to remember small parts of her previous life as a lethal, top-secret agent.", "releaseYear": "1996", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg", "categories": {"plot": 5.0, "acting": 8.0, "ending": 8.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 7.0, "action": 8.5}, "reviews": [{"rating": "8", "text": "Gritty and nice twist on a normal thriller."}, {"rating": "8", "text": "Shane Black delivers in the genre again! No one does the buddy cop(ish) partnership better and Sam Jackson kills this role!"}, {"rating": "9", "text": "This is a very underrated movie as far as the action and humorous one-liners.  Suspend a little disbelief and enjoy the peak of the Samuel L. Jacksplotation era."}, {"rating": "9", "text": "Good holiday movie.  Femme fatale emerges as things get out of hand in this action thriller with good acting by Geena Davis and Samuel L Jackson"}, {"rating": "7", "text": "Pulpy, campy, and fun, The Long Kiss Goodnight delivers lots of action, one-liners, and explosions that you would expect from this kind of genre fare. The movie isn't really anything special, just a good time with friends on a Friday night."}, {"rating": "5", "text": "It has it's moments with Jackson's funny dialogue but overall it is a 90s movie that doesn't age well."}, {"rating": "10", "text": "Sam Jackson & Geena Davis are perfect together... their chemistry made the whole movie absolutely great."}, {"rating": "7", "text": "This film shows its age a little bit (films are so over the top polished nowadays) but really can serve as an comparison to how things are now in 2022.. specifically how US intelligence agencies are portrayed.  Snake eating its own tail .. my only pet peeve is how children are used in movies,(yet again).. used in the most causticly over sweetened fashion that makes you want to vomit for how saccarin they are used and portrayed.. the child actor had waaay too many speaking parts barf barf barf.."}, {"rating": "8", "text": "A good action movie with a twist, the CIA assassin has amnesia.  One of the first action movies to have an inept sidekick to lighten the mood.  The banter between them is a real treat."}], "recommendations": ["the_rundown", "kingsman_the_secret_service", "last_action_hero", "true_lies", "american_ultra", "spy", "demolition_man", "16_blocks", "red_2", "first_blood", "seven_psychopaths", "deadpool", "copshop", "blood_father", "the_losers", "street_kings", "red", "the_babysitter", "bullet_to_the_head", "the_italian_job", "the_nice_guys", "the_mummy", "run_all_night", "snatch", "knight_and_day"]}
+{
+  "id": 4394,
+  "title": "The Long Kiss Goodnight",
+  "starring": [
+    "Geena Davis",
+    "Samuel L. Jackson"
+  ],
+  "runtime": 121,
+  "genre": [
+    "Crime",
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "description": "Samantha Caine, suburban homemaker, is the ideal mom to her 8 year old daughter Caitlin. She lives in Honesdale, PA, is a school teacher and makes the best Rice Krispie treats in town. But when she receives a bump on her head, she begins to remember small parts of her previous life as a lethal, top-secret agent.",
+  "releaseYear": "1996",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 8.0,
+    "ending": 8.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 7.0,
+    "action": 8.5
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "Gritty and nice twist on a normal thriller."
+    },
+    {
+      "rating": "8",
+      "text": "Shane Black delivers in the genre again! No one does the buddy cop(ish) partnership better and Sam Jackson kills this role!"
+    },
+    {
+      "rating": "9",
+      "text": "This is a very underrated movie as far as the action and humorous one-liners.  Suspend a little disbelief and enjoy the peak of the Samuel L. Jacksplotation era."
+    },
+    {
+      "rating": "9",
+      "text": "Good holiday movie.  Femme fatale emerges as things get out of hand in this action thriller with good acting by Geena Davis and Samuel L Jackson"
+    },
+    {
+      "rating": "7",
+      "text": "Pulpy, campy, and fun, The Long Kiss Goodnight delivers lots of action, one-liners, and explosions that you would expect from this kind of genre fare. The movie isn't really anything special, just a good time with friends on a Friday night."
+    },
+    {
+      "rating": "5",
+      "text": "It has it's moments with Jackson's funny dialogue but overall it is a 90s movie that doesn't age well."
+    },
+    {
+      "rating": "10",
+      "text": "Sam Jackson & Geena Davis are perfect together... their chemistry made the whole movie absolutely great."
+    },
+    {
+      "rating": "7",
+      "text": "This film shows its age a little bit (films are so over the top polished nowadays) but really can serve as an comparison to how things are now in 2022.. specifically how US intelligence agencies are portrayed.  Snake eating its own tail .. my only pet peeve is how children are used in movies,(yet again).. used in the most causticly over sweetened fashion that makes you want to vomit for how saccarin they are used and portrayed.. the child actor had waaay too many speaking parts barf barf barf.."
+    },
+    {
+      "rating": "8",
+      "text": "A good action movie with a twist, the CIA assassin has amnesia.  One of the first action movies to have an inept sidekick to lighten the mood.  The banter between them is a real treat."
+    }
+  ],
+  "recommendations": [
+    "the_rundown",
+    "kingsman_the_secret_service",
+    "last_action_hero",
+    "true_lies",
+    "american_ultra",
+    "spy",
+    "demolition_man",
+    "16_blocks",
+    "red_2",
+    "first_blood",
+    "seven_psychopaths",
+    "deadpool",
+    "copshop",
+    "blood_father",
+    "the_losers",
+    "street_kings",
+    "red",
+    "the_babysitter",
+    "bullet_to_the_head",
+    "the_italian_job",
+    "the_nice_guys",
+    "the_mummy",
+    "run_all_night",
+    "snatch",
+    "knight_and_day"
+  ]
+}

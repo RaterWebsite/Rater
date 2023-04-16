@@ -1,1 +1,73 @@
-{"id": 4055, "title": "Criminal", "starring": ["Ryan Reynolds", "Kevin Costner"], "runtime": 113, "genre": ["Action", "Crime", "Science Fiction"], "description": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.", "releaseYear": "2016", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg", "categories": {"plot": 7.5, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.0}, "reviews": [{"rating": "8", "text": "A huge percentage of viewers will have never seen \"Nine Queens\", so why rate it in comparison? It's a very fun movie on its own, and those who complain about holes in the plot have no imagination."}, {"rating": "1", "text": "Horrible compared to the original. Stop running from subtitles and go watch a much better actor, Ricardo Darin, star in a much better movie."}, {"rating": "0", "text": "Yet another Hollywood remake ruining an authentic foreign masterpiece. Now they are after 'My Sassy Girl', a Korean masterpiece that redefined the industry standard of romantic comedies."}, {"rating": "7", "text": "This is a pretty decent sci-fi thriller film with a good cast, set in London. There are some scenes with quite bloody violence and the suspense is pretty good. The plot is a little unlikely, suffice to say but there are some interesting parts to it. Its a reasonably good watch, a mix of sci-fi and thriller, with action elements too. There are worse films, there are better. It's not something likely to stay with you for any particular length of time, so I wouldn't recommend it as such, no."}], "recommendations": ["the_scorpion_king", "sleepless", "the_wolfman", "the_mummy", "the_three_musketeers", "the_thing", "underworld_evolution", "ginger_snaps", "wrong_turn", "the_return_of_the_living_dead", "poltergeist", "rambo_last_blood", "the_last_witch_hunter", "the_cabin_in_the_woods", "the_texas_chainsaw_massacre_2", "from_dusk_till_dawn", "the_texas_chainsaw_massacre", "red_dawn", "pride_and_prejudice_and_zombies", "mindhunters", "hellraiser_inferno", "national_treasure", "hercules", "oblivion", "desperado"]}
+{
+  "id": 4055,
+  "title": "Criminal",
+  "starring": [
+    "Ryan Reynolds",
+    "Kevin Costner"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Action",
+    "Crime",
+    "Science Fiction"
+  ],
+  "description": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+  "releaseYear": "2016",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg",
+  "categories": {
+    "plot": 7.5,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "A huge percentage of viewers will have never seen \"Nine Queens\", so why rate it in comparison? It's a very fun movie on its own, and those who complain about holes in the plot have no imagination."
+    },
+    {
+      "rating": "1",
+      "text": "Horrible compared to the original. Stop running from subtitles and go watch a much better actor, Ricardo Darin, star in a much better movie."
+    },
+    {
+      "rating": "0",
+      "text": "Yet another Hollywood remake ruining an authentic foreign masterpiece. Now they are after 'My Sassy Girl', a Korean masterpiece that redefined the industry standard of romantic comedies."
+    },
+    {
+      "rating": "7",
+      "text": "This is a pretty decent sci-fi thriller film with a good cast, set in London. There are some scenes with quite bloody violence and the suspense is pretty good. The plot is a little unlikely, suffice to say but there are some interesting parts to it. Its a reasonably good watch, a mix of sci-fi and thriller, with action elements too. There are worse films, there are better. It's not something likely to stay with you for any particular length of time, so I wouldn't recommend it as such, no."
+    }
+  ],
+  "recommendations": [
+    "the_scorpion_king",
+    "sleepless",
+    "the_wolfman",
+    "the_mummy",
+    "the_three_musketeers",
+    "the_thing",
+    "underworld_evolution",
+    "ginger_snaps",
+    "wrong_turn",
+    "the_return_of_the_living_dead",
+    "poltergeist",
+    "rambo_last_blood",
+    "the_last_witch_hunter",
+    "the_cabin_in_the_woods",
+    "the_texas_chainsaw_massacre_2",
+    "from_dusk_till_dawn",
+    "the_texas_chainsaw_massacre",
+    "red_dawn",
+    "pride_and_prejudice_and_zombies",
+    "mindhunters",
+    "hellraiser_inferno",
+    "national_treasure",
+    "hercules",
+    "oblivion",
+    "desperado"
+  ]
+}

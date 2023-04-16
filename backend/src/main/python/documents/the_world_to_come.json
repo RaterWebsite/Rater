@@ -1,1 +1,81 @@
-{"id": 1809, "title": "The World to Come", "starring": ["Katherine Waterston", "Casey Affleck"], "runtime": 105, "genre": ["Romance", "Drama", "Western"], "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/j64CnpmbaKB90Cpprk5hM9kHyJI.jpg", "categories": {"plot": 6.5, "acting": 8.4, "ending": 7.0, "soundtrack": 10.0, "cinematography": 10.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "The performances justify the effort, but to tell you the truth, The World to Come, fell far short of what it promised in the first place.Generally speaking, I couldn't say it's an explicit disappointment, but personally, this film let me down the same way Ammonite did."}, {"rating": "10", "text": "A lesbian and feminist movie really well done. The chemistry between Katherine and Vanessa is unbelievable, the performances are very real, and touching, and the soundtrack and cinematography arebjust pure art."}, {"rating": "9", "text": "I like the feelings of the two actors in the film and the background music, but the ending is heartbreaking"}, {"rating": "5", "text": "No matter how beautifully filmed, poetically (though unnaturally) written and superbly performed this period piece forbidden romance may be, one can't escape the fact that it is one big, uneventful snooze, especially in the first half. While viewers wait for almost an hour for a plot to develop, in the interim they're subjected to endless (and often irrelevant) diary entry voiceovers and dialogue exchanges punctuated by words that come straight out of crossword puzzle clues. Director Mona Fastvold's second feature genuinely aspires to something grand, but it gets bogged down in a sea of pretention, triteness and politely camouflaged outrage, not to mention a lack of chemistry between the film's two female leads. It's unfortunate that the superb cast and fine production values are wasted on a vehicle that has been the subject of many a film over the years, despite its somewhat novel time frame. And, even though this offering tends to redeem itself in the final act, it's not enough to have to endure what precedes it. Catch a nap beforehand -- or during the opening half (you won't miss much)."}, {"rating": "8", "text": "This is quite a subtle film in a sense, even though it depicts some intimate scenes. It's fairly atmospheric at points and I liked the light poetic type narration provided. It's somewhat immersive and its a bit sobering at times. I thought the two main characters gave decent performances. It reminded me a little of Cold Mountain, certainly at the start. The dialogue is pretty softly spoken and most scenes are pretty darkly set, which is either atmospheric or somewhat off putting I suppose. Personally, I'd recommend this film, yes."}, {"rating": "10", "text": "The best queer romance of all time. Love every single second of it. Director Mona Fastvold captured spellbinding chemistry between the actresses and screenwriters magically crafted the story."}], "recommendations": ["ammonite", "youth", "annette", "the_great_gatsby", "21_grams", "nocturnal_animals", "the_beguiled", "thoroughbreds", "murder_on_the_orient_express", "phantom_thread", "the_favourite", "the_grand_budapest_hotel", "barry_lyndon", "the_assassination_of_jesse_james_by_the_coward_robert_ford", "the_dig", "magnolia", "the_rover", "the_paperboy", "no_sudden_move", "kingdom_of_heaven", "bad_times_at_the_el_royale", "the_walk", "ex_machina", "the_ballad_of_buster_scruggs", "you_were_never_really_here"]}
+{
+  "id": 1809,
+  "title": "The World to Come",
+  "starring": [
+    "Katherine Waterston",
+    "Casey Affleck"
+  ],
+  "runtime": 105,
+  "genre": [
+    "Romance",
+    "Drama",
+    "Western"
+  ],
+  "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/j64CnpmbaKB90Cpprk5hM9kHyJI.jpg",
+  "categories": {
+    "plot": 6.5,
+    "acting": 8.4,
+    "ending": 7.0,
+    "soundtrack": 10.0,
+    "cinematography": 10.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "The performances justify the effort, but to tell you the truth, The World to Come, fell far short of what it promised in the first place.Generally speaking, I couldn't say it's an explicit disappointment, but personally, this film let me down the same way Ammonite did."
+    },
+    {
+      "rating": "10",
+      "text": "A lesbian and feminist movie really well done. The chemistry between Katherine and Vanessa is unbelievable, the performances are very real, and touching, and the soundtrack and cinematography arebjust pure art."
+    },
+    {
+      "rating": "9",
+      "text": "I like the feelings of the two actors in the film and the background music, but the ending is heartbreaking"
+    },
+    {
+      "rating": "5",
+      "text": "No matter how beautifully filmed, poetically (though unnaturally) written and superbly performed this period piece forbidden romance may be, one can't escape the fact that it is one big, uneventful snooze, especially in the first half. While viewers wait for almost an hour for a plot to develop, in the interim they're subjected to endless (and often irrelevant) diary entry voiceovers and dialogue exchanges punctuated by words that come straight out of crossword puzzle clues. Director Mona Fastvold's second feature genuinely aspires to something grand, but it gets bogged down in a sea of pretention, triteness and politely camouflaged outrage, not to mention a lack of chemistry between the film's two female leads. It's unfortunate that the superb cast and fine production values are wasted on a vehicle that has been the subject of many a film over the years, despite its somewhat novel time frame. And, even though this offering tends to redeem itself in the final act, it's not enough to have to endure what precedes it. Catch a nap beforehand -- or during the opening half (you won't miss much)."
+    },
+    {
+      "rating": "8",
+      "text": "This is quite a subtle film in a sense, even though it depicts some intimate scenes. It's fairly atmospheric at points and I liked the light poetic type narration provided. It's somewhat immersive and its a bit sobering at times. I thought the two main characters gave decent performances. It reminded me a little of Cold Mountain, certainly at the start. The dialogue is pretty softly spoken and most scenes are pretty darkly set, which is either atmospheric or somewhat off putting I suppose. Personally, I'd recommend this film, yes."
+    },
+    {
+      "rating": "10",
+      "text": "The best queer romance of all time. Love every single second of it. Director Mona Fastvold captured spellbinding chemistry between the actresses and screenwriters magically crafted the story."
+    }
+  ],
+  "recommendations": [
+    "ammonite",
+    "youth",
+    "annette",
+    "the_great_gatsby",
+    "21_grams",
+    "nocturnal_animals",
+    "the_beguiled",
+    "thoroughbreds",
+    "murder_on_the_orient_express",
+    "phantom_thread",
+    "the_favourite",
+    "the_grand_budapest_hotel",
+    "barry_lyndon",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_dig",
+    "magnolia",
+    "the_rover",
+    "the_paperboy",
+    "no_sudden_move",
+    "kingdom_of_heaven",
+    "bad_times_at_the_el_royale",
+    "the_walk",
+    "ex_machina",
+    "the_ballad_of_buster_scruggs",
+    "you_were_never_really_here"
+  ]
+}

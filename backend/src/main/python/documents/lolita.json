@@ -1,1 +1,67 @@
-{"id": 1074, "title": "Lolita", "starring": ["Jeremy Irons", "Dominique Swain"], "runtime": 137, "genre": ["Drama"], "description": "Urbane professor Humbert Humbert marries a New England widow to be near her nymphet daughter.", "releaseYear": "1997", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/9INcC14WZjCMKGE360VXmklCLdZ.jpg", "categories": {"plot": 3.0, "acting": 3.0, "ending": 5.5, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "ok a paedophile movie, very disturbing.But Jeremy Irons character of Humbert was not only annoying, but also pathetic, because he is so weak, although he should have a lot of experience. Dominique Swains performance on the other hand was top.And the end was also ridiculous, so much drama for nothing."}, {"rating": "8", "text": "I watched this movie on internet, (18 years after its release!) and I absolutely loved this film. The end made me cry and wanting more, perfect cast, Dominique and Jeremy are great together... I got to watch the 1967 version now, and read the book too. Amazing."}, {"rating": "9", "text": "It was not the best but nother the worst movie I have seen I would not suggest watching this if some things make u sqemish"}], "recommendations": ["passengers", "no_reservations", "the_green_mile", "the_lucky_one", "saw_v", "seven_pounds", "the_shawshank_redemption", "aquamarine", "ghostbusters_afterlife", "the_twilight_saga_new_moon", "vampire_academy", "minions_the_rise_of_gru", "eragon", "the_kissing_booth_2", "pulp_fiction", "dreamcatcher", "the_chronicles_of_narnia_prince_caspian", "the_bucket_list", "dark_phoenix", "superman_ii", "rings", "the_room", "alvin_and_the_chipmunks_the_squeakquel", "the_mortal_instruments_city_of_bones", "the_twilight_saga_breaking_dawn_part_1"]}
+{
+  "id": 1074,
+  "title": "Lolita",
+  "starring": [
+    "Jeremy Irons",
+    "Dominique Swain"
+  ],
+  "runtime": 137,
+  "genre": [
+    "Drama"
+  ],
+  "description": "Urbane professor Humbert Humbert marries a New England widow to be near her nymphet daughter.",
+  "releaseYear": "1997",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+  "categories": {
+    "plot": 3.0,
+    "acting": 3.0,
+    "ending": 5.5,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "ok a paedophile movie, very disturbing.But Jeremy Irons character of Humbert was not only annoying, but also pathetic, because he is so weak, although he should have a lot of experience. Dominique Swains performance on the other hand was top.And the end was also ridiculous, so much drama for nothing."
+    },
+    {
+      "rating": "8",
+      "text": "I watched this movie on internet, (18 years after its release!) and I absolutely loved this film. The end made me cry and wanting more, perfect cast, Dominique and Jeremy are great together... I got to watch the 1967 version now, and read the book too. Amazing."
+    },
+    {
+      "rating": "9",
+      "text": "It was not the best but nother the worst movie I have seen I would not suggest watching this if some things make u sqemish"
+    }
+  ],
+  "recommendations": [
+    "passengers",
+    "no_reservations",
+    "the_green_mile",
+    "the_lucky_one",
+    "saw_v",
+    "seven_pounds",
+    "the_shawshank_redemption",
+    "aquamarine",
+    "ghostbusters_afterlife",
+    "the_twilight_saga_new_moon",
+    "vampire_academy",
+    "minions_the_rise_of_gru",
+    "eragon",
+    "the_kissing_booth_2",
+    "pulp_fiction",
+    "dreamcatcher",
+    "the_chronicles_of_narnia_prince_caspian",
+    "the_bucket_list",
+    "dark_phoenix",
+    "superman_ii",
+    "rings",
+    "the_room",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "the_mortal_instruments_city_of_bones",
+    "the_twilight_saga_breaking_dawn_part_1"
+  ]
+}

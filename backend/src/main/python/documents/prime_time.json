@@ -1,1 +1,64 @@
-{"id": 3613, "title": "Prime Time", "starring": ["Bartosz Bielenia", "Magdalena Pop\u0142awska"], "runtime": 93, "genre": ["Drama", "Thriller"], "description": "On the last day of 1999, 20-year-old Sebastian locks himself in a TV studio. He has two hostages, a gun, and an important message for the world. The story of the attack explores a rebel\u2019s extreme measures and last resort.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/mEegKDrhRZVnn0Y87TdKqGwjowo.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "I do not see so much problem with the fact that what this Polish film proposes doesn't go far enough.By placing everything in an environment as contained as the one in which this story takes place, it was to be expected. So what was really needed was a suspenseful script that was up to the task. Also credible actors and, above all, a competent director.However, it's his own lack of skill and imagination that makes this little thriller so forgettable."}, {"rating": "6", "text": "Niby co\u015b si\u0119 dzieje a jednak nie, niby z sensem a jednak nie, niby bohaterowie s\u0105 a jednak ich nie ma. Szkoda tego wszystkiego. Ale przynajmniej Bielenia jest"}], "recommendations": ["no_sudden_move", "worth", "two_weeks_notice", "mark_felt_the_man_who_brought_down_the_white_house", "mercury_rising", "cube", "motherless_brooklyn", "beirut", "a_most_violent_year", "morgan", "gothika", "survivor", "cliffhanger", "the_score", "spy_game", "bone_tomahawk", "anna", "broken_city", "the_sum_of_all_fears", "the_guilty", "minority_report", "dune", "ex_machina", "the_dig", "the_grand_budapest_hotel"]}
+{
+  "id": 3613,
+  "title": "Prime Time",
+  "starring": [
+    "Bartosz Bielenia",
+    "Magdalena Pop\u0142awska"
+  ],
+  "runtime": 93,
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "description": "On the last day of 1999, 20-year-old Sebastian locks himself in a TV studio. He has two hostages, a gun, and an important message for the world. The story of the attack explores a rebel\u2019s extreme measures and last resort.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/mEegKDrhRZVnn0Y87TdKqGwjowo.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "I do not see so much problem with the fact that what this Polish film proposes doesn't go far enough.By placing everything in an environment as contained as the one in which this story takes place, it was to be expected. So what was really needed was a suspenseful script that was up to the task. Also credible actors and, above all, a competent director.However, it's his own lack of skill and imagination that makes this little thriller so forgettable."
+    },
+    {
+      "rating": "6",
+      "text": "Niby co\u015b si\u0119 dzieje a jednak nie, niby z sensem a jednak nie, niby bohaterowie s\u0105 a jednak ich nie ma. Szkoda tego wszystkiego. Ale przynajmniej Bielenia jest"
+    }
+  ],
+  "recommendations": [
+    "no_sudden_move",
+    "worth",
+    "two_weeks_notice",
+    "mark_felt_the_man_who_brought_down_the_white_house",
+    "mercury_rising",
+    "cube",
+    "motherless_brooklyn",
+    "beirut",
+    "a_most_violent_year",
+    "morgan",
+    "gothika",
+    "survivor",
+    "cliffhanger",
+    "the_score",
+    "spy_game",
+    "bone_tomahawk",
+    "anna",
+    "broken_city",
+    "the_sum_of_all_fears",
+    "the_guilty",
+    "minority_report",
+    "dune",
+    "ex_machina",
+    "the_dig",
+    "the_grand_budapest_hotel"
+  ]
+}

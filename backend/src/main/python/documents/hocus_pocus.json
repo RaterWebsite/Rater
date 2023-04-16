@@ -1,1 +1,97 @@
-{"id": 1298, "title": "Hocus Pocus", "starring": ["Bette Midler", "Sarah Jessica Parker"], "runtime": 96, "genre": ["Fantasy", "Comedy", "Family"], "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.", "releaseYear": "1993", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg", "categories": {"plot": 8.666666666666666, "acting": 10.0, "ending": 8.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 8.0, "funny": 9.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Literally the best movie ever. A true fall classic!Was really shocked ppl were picking on this masterpiece arround here."}, {"rating": "10", "text": "Very entertaining light hearted funny movie. Bet millerite is superb, loved her in this role, she is ON point. Great family fun movie."}, {"rating": "7", "text": "This is a lovable little movie, the kind that renders any faults moot by the sheer charm of the production. I guess it's not a very good film, but its black magic worked on me."}, {"rating": "6", "text": "This movie was good back then. It's now considered a classic. 3 witches who have to steal the soles of virgin kids to stay forever young."}, {"rating": "7", "text": "Literalmente la mejor pel\u00edcula de la historia. \u00a1Un verdadero cl\u00e1sico de oto\u00f1o!Estaba realmente sorprendido de que la gente se metiera con esta obra maestra por"}, {"rating": "10", "text": "My favorite Halloween flick of all time. Few movies bring out the childhood nostalgia for millennials quite like Hocus Pocus. The 90s really were the last golden age of cinema. We had Jurassic Park, Titanic, & Disney Anime classics. Movies in those days had heart, they had vision, and they were actual works of art rather than the soulless film-factory products of the modern era. Decades of nepotism and corporate consolidation have destroyed creativity in Hollywood. I feel sad for kids who have to grow up watching such garbage. If you\u2019re a kid reading this, don\u2019t skip on Hocus Pocus. May it bring you the same joy it brought to our generation."}, {"rating": "10", "text": "GOOD GOOD GOOD GOOD good good good good GOOD GOOD GOOD GOOD good good good good GOOD GOOD GOOD GOOD good good good good"}, {"rating": "8", "text": "I just started watching this. The ensemble is *just* perfect to make the storyline and jokes, which are admittedly stupid, work in this enjoyable, campy movie. With clunky CGI, the sassy 90s youngsters cliche, and just the general shooting technique, the movie is *extremely* out of date. This movie is a blatant example of a 1990s family holiday movie. The film's ending is corny, but it's still a little bit charming. At the very least, it should be nice enough to watch a few times around the holidays."}, {"rating": "8", "text": "As someone who\u2019s never really been into Halloween themed kids movies this one hits the mark with interesting characters, a decent plot line with the trademark Disney cheesiness and the ability to throw in realistic moments and jokes that adults loved and continue to love to this day. The three witches really steal the show and are finally interesting villains with evil goals and bathe in their evilness rather than most modern \u201cOh well they weren\u2019t all bad.\u201d Or \u201cRedeemable at the end of the movie.\u201d Tropes which lifts all weight from any even slightly mean situation. It\u2019s a breath of fresh air to watch over again every Halloween before I\u2019m reminded of the current state of the Disney/Marvel corporations."}, {"rating": "10", "text": "The OG is the best. Hocus Pocus 2 is a complete waste of time, I will NOT be adding this to my list of movies to watch during Halloween. Keeping it with the original film. The actors should have actually watched this film to study how their characters were in the classic\u2026nothing will compare to this movie. The music, the drama, the romance and keeping current day society out of it is the best. There is a reason why we all go back to the classics. Disney needs to stop pleasing the \u201csocial norms\u201d and just make another great Top Gun Sequel. Loving the OG film always and I will forever watch this movie throughout they year and is always my number one on my list of Halloween movies to watch. Along with Nightmare before Christmas!"}], "recommendations": ["the_spongebob_movie_sponge_on_the_run", "minions_the_rise_of_gru", "the_spongebob_squarepants_movie", "hotel_transylvania_transformania", "ghostbusters_afterlife", "shazam", "the_mummy", "ice_age_the_meltdown", "a_cinderella_story", "ghostbusters", "sonic_the_hedgehog", "barnyard", "despicable_me_2", "jumanji_welcome_to_the_jungle", "herbie_fully_loaded", "meet_the_robinsons", "over_the_hedge", "puss_in_boots_the_last_wish", "the_peanuts_movie", "sonic_the_hedgehog_2", "101_dalmatians", "hotel_transylvania_2", "prince_of_persia_the_sands_of_time", "ghostbusters_ii", "hannah_montana_the_movie"]}
+{
+  "id": 1298,
+  "title": "Hocus Pocus",
+  "starring": [
+    "Bette Midler",
+    "Sarah Jessica Parker"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "description": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+  "releaseYear": "1993",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+  "categories": {
+    "plot": 8.666666666666666,
+    "acting": 10.0,
+    "ending": 8.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 8.0,
+    "funny": 9.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Literally the best movie ever. A true fall classic!Was really shocked ppl were picking on this masterpiece arround here."
+    },
+    {
+      "rating": "10",
+      "text": "Very entertaining light hearted funny movie. Bet millerite is superb, loved her in this role, she is ON point. Great family fun movie."
+    },
+    {
+      "rating": "7",
+      "text": "This is a lovable little movie, the kind that renders any faults moot by the sheer charm of the production. I guess it's not a very good film, but its black magic worked on me."
+    },
+    {
+      "rating": "6",
+      "text": "This movie was good back then. It's now considered a classic. 3 witches who have to steal the soles of virgin kids to stay forever young."
+    },
+    {
+      "rating": "7",
+      "text": "Literalmente la mejor pel\u00edcula de la historia. \u00a1Un verdadero cl\u00e1sico de oto\u00f1o!Estaba realmente sorprendido de que la gente se metiera con esta obra maestra por"
+    },
+    {
+      "rating": "10",
+      "text": "My favorite Halloween flick of all time. Few movies bring out the childhood nostalgia for millennials quite like Hocus Pocus. The 90s really were the last golden age of cinema. We had Jurassic Park, Titanic, & Disney Anime classics. Movies in those days had heart, they had vision, and they were actual works of art rather than the soulless film-factory products of the modern era. Decades of nepotism and corporate consolidation have destroyed creativity in Hollywood. I feel sad for kids who have to grow up watching such garbage. If you\u2019re a kid reading this, don\u2019t skip on Hocus Pocus. May it bring you the same joy it brought to our generation."
+    },
+    {
+      "rating": "10",
+      "text": "GOOD GOOD GOOD GOOD good good good good GOOD GOOD GOOD GOOD good good good good GOOD GOOD GOOD GOOD good good good good"
+    },
+    {
+      "rating": "8",
+      "text": "I just started watching this. The ensemble is *just* perfect to make the storyline and jokes, which are admittedly stupid, work in this enjoyable, campy movie. With clunky CGI, the sassy 90s youngsters cliche, and just the general shooting technique, the movie is *extremely* out of date. This movie is a blatant example of a 1990s family holiday movie. The film's ending is corny, but it's still a little bit charming. At the very least, it should be nice enough to watch a few times around the holidays."
+    },
+    {
+      "rating": "8",
+      "text": "As someone who\u2019s never really been into Halloween themed kids movies this one hits the mark with interesting characters, a decent plot line with the trademark Disney cheesiness and the ability to throw in realistic moments and jokes that adults loved and continue to love to this day. The three witches really steal the show and are finally interesting villains with evil goals and bathe in their evilness rather than most modern \u201cOh well they weren\u2019t all bad.\u201d Or \u201cRedeemable at the end of the movie.\u201d Tropes which lifts all weight from any even slightly mean situation. It\u2019s a breath of fresh air to watch over again every Halloween before I\u2019m reminded of the current state of the Disney/Marvel corporations."
+    },
+    {
+      "rating": "10",
+      "text": "The OG is the best. Hocus Pocus 2 is a complete waste of time, I will NOT be adding this to my list of movies to watch during Halloween. Keeping it with the original film. The actors should have actually watched this film to study how their characters were in the classic\u2026nothing will compare to this movie. The music, the drama, the romance and keeping current day society out of it is the best. There is a reason why we all go back to the classics. Disney needs to stop pleasing the \u201csocial norms\u201d and just make another great Top Gun Sequel. Loving the OG film always and I will forever watch this movie throughout they year and is always my number one on my list of Halloween movies to watch. Along with Nightmare before Christmas!"
+    }
+  ],
+  "recommendations": [
+    "the_spongebob_movie_sponge_on_the_run",
+    "minions_the_rise_of_gru",
+    "the_spongebob_squarepants_movie",
+    "hotel_transylvania_transformania",
+    "ghostbusters_afterlife",
+    "shazam",
+    "the_mummy",
+    "ice_age_the_meltdown",
+    "a_cinderella_story",
+    "ghostbusters",
+    "sonic_the_hedgehog",
+    "barnyard",
+    "despicable_me_2",
+    "jumanji_welcome_to_the_jungle",
+    "herbie_fully_loaded",
+    "meet_the_robinsons",
+    "over_the_hedge",
+    "puss_in_boots_the_last_wish",
+    "the_peanuts_movie",
+    "sonic_the_hedgehog_2",
+    "101_dalmatians",
+    "hotel_transylvania_2",
+    "prince_of_persia_the_sands_of_time",
+    "ghostbusters_ii",
+    "hannah_montana_the_movie"
+  ]
+}

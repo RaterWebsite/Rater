@@ -1,1 +1,63 @@
-{"id": 2025, "title": "High School Teacher: Maturing", "starring": ["Rei Akasaka", "Saeko Kuga"], "runtime": 69, "genre": ["Drama"], "description": "A female highschool teacher must deal with sexual harrassment from her students and being trapped in a love triangle with two men, neither of whom has any interest in marrying her.", "releaseYear": "1985", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/qB7Sj1ueAFPIDNenSjpjagzYI6L.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 8.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 8.0, "action": 5.0}, "reviews": [{"rating": "8", "text": "The setup is nuts, and I love it.  It does go into a slightly different direction than you'd expect, showing a smidge more dopey behavior from the teachers than the kids, and the movie is funnier for it.    Every joke hits its mark, and lines are delivered rapid-fire style.  I  consider myself harsh when it comes to comedy, but High School had me in stitches.    Bush and Marquette play off one another, each showing comedic timing in back-and-forth dialog, and they make a good team.  I couldn't even recognize Michael Chiklis as the principal, and he has some funny moments himself.  The film has a smooth but lively music video feel that should appeal to a young audience, and scenes move along briskly.    If you liked Project X, you'll love High School.  Full review on my blog."}, {"rating": "7", "text": "Wasn't really sure what to expect going into this one, but I enjoyed it. It's not perfect and starts off slow, but picks up quickly and brings the laughs. Sean Marquette and Matt Bush made a great duo. It reminded me a lot of Project X, so if you liked that movie you should like this one."}], "recommendations": ["superbad", "17_again", "old_school", "21_jump_street", "booksmart", "the_duff", "fist_fight", "neighbors", "blended", "step_brothers", "pitch_perfect_2", "pitch_perfect", "zack_and_miri_make_a_porno", "the_other_guys", "clueless", "sandy_wexler", "friday", "sisters", "forgetting_sarah_marshall", "this_is_the_end", "easy_a", "dirty_grandpa", "jackass_presents_bad_grandpa", "my_spy", "good_boys"]}
+{
+  "id": 2025,
+  "title": "High School Teacher: Maturing",
+  "starring": [
+    "Rei Akasaka",
+    "Saeko Kuga"
+  ],
+  "runtime": 69,
+  "genre": [
+    "Drama"
+  ],
+  "description": "A female highschool teacher must deal with sexual harrassment from her students and being trapped in a love triangle with two men, neither of whom has any interest in marrying her.",
+  "releaseYear": "1985",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/qB7Sj1ueAFPIDNenSjpjagzYI6L.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 8.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 8.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "The setup is nuts, and I love it.  It does go into a slightly different direction than you'd expect, showing a smidge more dopey behavior from the teachers than the kids, and the movie is funnier for it.    Every joke hits its mark, and lines are delivered rapid-fire style.  I  consider myself harsh when it comes to comedy, but High School had me in stitches.    Bush and Marquette play off one another, each showing comedic timing in back-and-forth dialog, and they make a good team.  I couldn't even recognize Michael Chiklis as the principal, and he has some funny moments himself.  The film has a smooth but lively music video feel that should appeal to a young audience, and scenes move along briskly.    If you liked Project X, you'll love High School.  Full review on my blog."
+    },
+    {
+      "rating": "7",
+      "text": "Wasn't really sure what to expect going into this one, but I enjoyed it. It's not perfect and starts off slow, but picks up quickly and brings the laughs. Sean Marquette and Matt Bush made a great duo. It reminded me a lot of Project X, so if you liked that movie you should like this one."
+    }
+  ],
+  "recommendations": [
+    "superbad",
+    "17_again",
+    "old_school",
+    "21_jump_street",
+    "booksmart",
+    "the_duff",
+    "fist_fight",
+    "neighbors",
+    "blended",
+    "step_brothers",
+    "pitch_perfect_2",
+    "pitch_perfect",
+    "zack_and_miri_make_a_porno",
+    "the_other_guys",
+    "clueless",
+    "sandy_wexler",
+    "friday",
+    "sisters",
+    "forgetting_sarah_marshall",
+    "this_is_the_end",
+    "easy_a",
+    "dirty_grandpa",
+    "jackass_presents_bad_grandpa",
+    "my_spy",
+    "good_boys"
+  ]
+}

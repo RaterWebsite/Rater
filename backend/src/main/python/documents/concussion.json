@@ -1,1 +1,60 @@
-{"id": 4792, "title": "Concussion", "starring": ["Will Smith", "Alec Baldwin"], "runtime": 123, "genre": ["Drama", "History"], "description": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.", "releaseYear": "2015", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/gseayWAIFt3GQrEUNuUcYxT77Ud.jpg", "categories": {"plot": 6.0, "acting": 6.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "6", "text": "It would be interesting to throw this film into the whole gay marriage discussion, since it demonstrates (among other things) that gay unions can be just as frustrating and boring as traditional marriage! Robin Weigert, a very good character actress, has a tough job here. Her lesbian character searches urgently for alternatives that will add excitement/fulfillment while not also costing her the nice life she shares with her spouse and kids. Weigert looks scarily thin and unhealthy \u2013 I guess because her character is depressed? \u2013 but puts endless energy into her quest. The problem is that early on, you start to worry about whether it\u2019s leading anywhere. Featuring some familiar faces from shows including \u201cThe West Wing,\u201d \u201cMad Men\u201d and \u201cThe Walking Dead,\u201d the movie is like a certain kind of short story. It gives you a brief, slice-of-life look at characters you are interested in, but probably won\u2019t remember very long."}], "recommendations": ["young_adult", "home_again", "afternoon_delight", "the_intern", "the_age_of_adaline", "ingrid_goes_west", "the_perks_of_being_a_wallflower", "newness", "eat_pray_love", "shame", "disobedience", "into_the_wild", "leave_no_trace", "about_a_boy", "monte_carlo", "the_witches_of_eastwick", "closer", "a_hologram_for_the_king", "about_time", "breathe", "falling_down", "20th_century_women", "moxie", "wonder", "crazy_rich_asians"]}
+{
+  "id": 4792,
+  "title": "Concussion",
+  "starring": [
+    "Will Smith",
+    "Alec Baldwin"
+  ],
+  "runtime": 123,
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "description": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/gseayWAIFt3GQrEUNuUcYxT77Ud.jpg",
+  "categories": {
+    "plot": 6.0,
+    "acting": 6.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "It would be interesting to throw this film into the whole gay marriage discussion, since it demonstrates (among other things) that gay unions can be just as frustrating and boring as traditional marriage! Robin Weigert, a very good character actress, has a tough job here. Her lesbian character searches urgently for alternatives that will add excitement/fulfillment while not also costing her the nice life she shares with her spouse and kids. Weigert looks scarily thin and unhealthy \u2013 I guess because her character is depressed? \u2013 but puts endless energy into her quest. The problem is that early on, you start to worry about whether it\u2019s leading anywhere. Featuring some familiar faces from shows including \u201cThe West Wing,\u201d \u201cMad Men\u201d and \u201cThe Walking Dead,\u201d the movie is like a certain kind of short story. It gives you a brief, slice-of-life look at characters you are interested in, but probably won\u2019t remember very long."
+    }
+  ],
+  "recommendations": [
+    "young_adult",
+    "home_again",
+    "afternoon_delight",
+    "the_intern",
+    "the_age_of_adaline",
+    "ingrid_goes_west",
+    "the_perks_of_being_a_wallflower",
+    "newness",
+    "eat_pray_love",
+    "shame",
+    "disobedience",
+    "into_the_wild",
+    "leave_no_trace",
+    "about_a_boy",
+    "monte_carlo",
+    "the_witches_of_eastwick",
+    "closer",
+    "a_hologram_for_the_king",
+    "about_time",
+    "breathe",
+    "falling_down",
+    "20th_century_women",
+    "moxie",
+    "wonder",
+    "crazy_rich_asians"
+  ]
+}

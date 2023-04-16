@@ -1,1 +1,72 @@
-{"id": 2124, "title": "Playing It Cool", "starring": ["Chris Evans", "Michelle Monaghan"], "runtime": 94, "genre": ["Comedy", "Romance"], "description": "A young man meets and instantly falls in love with an engaged woman.", "releaseYear": "2014", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/96htqghZlKctNJqDLo2DuC9PEap.jpg", "categories": {"plot": 7.0, "acting": 7.5, "ending": 8.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 7.2, "action": 5.0}, "reviews": [{"rating": "8", "text": "OK I bought this at the discount dvd sale and expected a regular romcom, but I was surprised.  This is a very original film with some quirky, clever devices.  It's not the standard saccharin schmaltz you'd expect.  This was touching, very funny, and quite heartwarming in a few spots, overall a very enjoyable film.  It doesn't follow the same formula as similar films.  I really liked the \"smoking heart\" and the two lead actors playing out everyone else's story.  Lots of very original angles and a funny script with great use of the voiceover. I had to watch right to the end in a single sitting -  a very likeable film with a host of interesting and inventive characters."}, {"rating": "7", "text": "It was funny, entertaining and even if it was predictable, it still had a couple of twists. The acting was good, some of the jokes were actually really funny and the movie as a whole, was pretty good. It was a nice surprise. Even if you're not a fan of romantic comedies you will probably appreciate it."}, {"rating": "7", "text": "At first I thought this will be yet another boringly dumb romantic movie, but it actually turned out to be pretty funny and interesting, albeit the story isn't anything new really but it had its moments, plus the cast is quite good. Aubrey Plaza was especially funny and stood out."}, {"rating": "7", "text": "Although I'm not the biggest Rom-Com fan, I really like the cast and I enjoyed this movie."}], "recommendations": ["johnny_english_reborn", "life_after_beth", "murder_mystery", "vamps", "stuber", "50_first_dates", "the_wedding_ringer", "get_smart", "scary_movie_3", "pitch_perfect_2", "game_night", "zombieland_double_tap", "miss_congeniality", "jumanji_welcome_to_the_jungle", "delivery_man", "role_models", "30_minutes_or_less", "hot_fuzz", "the_longest_yard", "horrible_bosses_2", "megamind", "the_watch", "the_five_year_engagement", "eurotrip", "tag"]}
+{
+  "id": 2124,
+  "title": "Playing It Cool",
+  "starring": [
+    "Chris Evans",
+    "Michelle Monaghan"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "description": "A young man meets and instantly falls in love with an engaged woman.",
+  "releaseYear": "2014",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/96htqghZlKctNJqDLo2DuC9PEap.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.5,
+    "ending": 8.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 7.2,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "OK I bought this at the discount dvd sale and expected a regular romcom, but I was surprised.  This is a very original film with some quirky, clever devices.  It's not the standard saccharin schmaltz you'd expect.  This was touching, very funny, and quite heartwarming in a few spots, overall a very enjoyable film.  It doesn't follow the same formula as similar films.  I really liked the \"smoking heart\" and the two lead actors playing out everyone else's story.  Lots of very original angles and a funny script with great use of the voiceover. I had to watch right to the end in a single sitting -  a very likeable film with a host of interesting and inventive characters."
+    },
+    {
+      "rating": "7",
+      "text": "It was funny, entertaining and even if it was predictable, it still had a couple of twists. The acting was good, some of the jokes were actually really funny and the movie as a whole, was pretty good. It was a nice surprise. Even if you're not a fan of romantic comedies you will probably appreciate it."
+    },
+    {
+      "rating": "7",
+      "text": "At first I thought this will be yet another boringly dumb romantic movie, but it actually turned out to be pretty funny and interesting, albeit the story isn't anything new really but it had its moments, plus the cast is quite good. Aubrey Plaza was especially funny and stood out."
+    },
+    {
+      "rating": "7",
+      "text": "Although I'm not the biggest Rom-Com fan, I really like the cast and I enjoyed this movie."
+    }
+  ],
+  "recommendations": [
+    "johnny_english_reborn",
+    "life_after_beth",
+    "murder_mystery",
+    "vamps",
+    "stuber",
+    "50_first_dates",
+    "the_wedding_ringer",
+    "get_smart",
+    "scary_movie_3",
+    "pitch_perfect_2",
+    "game_night",
+    "zombieland_double_tap",
+    "miss_congeniality",
+    "jumanji_welcome_to_the_jungle",
+    "delivery_man",
+    "role_models",
+    "30_minutes_or_less",
+    "hot_fuzz",
+    "the_longest_yard",
+    "horrible_bosses_2",
+    "megamind",
+    "the_watch",
+    "the_five_year_engagement",
+    "eurotrip",
+    "tag"
+  ]
+}

@@ -1,1 +1,117 @@
-{"id": 4538, "title": "No Reservations", "starring": ["Catherine Zeta-Jones", "Aaron Eckhart"], "runtime": 104, "genre": ["Comedy", "Romance", "Drama"], "description": "Master chef Kate Armstrong runs her life and her kitchen with intimidating intensity. However, a recipe for disaster may be in the works when she becomes the guardian of her young niece while crossing forks with the brash sous-chef who just joined her staff. Though romance blooms in the face of rivalry, Kate needs to look outside the kitchen to find true happiness.", "releaseYear": "2007", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg", "categories": {"plot": 3.5, "acting": 4.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 3.0, "action": 5.0}, "reviews": [{"rating": "1", "text": "What happened here is that someone found a reel of film and decided to put something on it! The plot doesn"}, {"rating": "10", "text": "This film is fantastic, is even better than the remake. Catherine Zeta Jones is very beautiful and is always very professional. I don't understand why the people has not liked. One of best movies of the year."}, {"rating": "6", "text": "There isn't much original here, but the cast makes it worth watching. Catherine Zeta-Jones is very good and overcomes the predictable material. Pleasant score. Patricia Clarkson is very capable in a supporting role. It jumps around abruptly from light comedy to heavy drama too often. overall it is a satisfying film."}, {"rating": "10", "text": "This movie was wonderful. It was one of the best movies I've seen in a long time. I will definitely purchase it when it comes out on DVD."}, {"rating": "10", "text": "The best movie I haven't seen all year. You should definitely go see it. Totally recommendable."}, {"rating": "1", "text": "There are movies... then there are MOVIES! This was like seeing a horse jump over a fence, clip its legs, land in the mud, only to have the trainer come out, break its neck and put it down with a wrench... all the potential in the world! Good actors, good looks, good previews... then the horse missed the fence, ya know?"}, {"rating": "9", "text": "I'm sorry for all the people just waiting to hate on this movie, but the fact is, if you appreciate good cuisine, romance, and great acting, then you will love this movie...it totally caught me off guard, it never hit a false note, and simply put, was just delectable. Delectable."}, {"rating": "10", "text": "Catherine Zeta Jones is incredibly stunning in this picture..amazing,well done and well directed...wonderful cinematography...great editing..10/10."}, {"rating": "8", "text": "I actually like this movie, and I'm not one for romantic comedies."}, {"rating": "5", "text": "You'll know what's going to happen in the first five minutes. Zeta-Jones lacks any sort of charm, but Abagail Breslin sparkles. Save this one for DVD and take your date to Waitress,"}, {"rating": "0", "text": "This is the worst romantic comedy of all time, it has no comedy, and has no thorough storyline, it is dull. The worst movie of the year, I rather would watch Epic Movie."}, {"rating": "2", "text": "If I hadn't been with a friend, I would have walked out. Cliched script. No energy to the movie except making people move fast (and even when they did, you could practically hear the director saying \"pick up the pace, people\". All of the acting seemed mechanical. Absolutely NO chemistry between Eckhart and Zeta-Jones. This was a waste of my time and money! And my date concurred."}, {"rating": "10", "text": "I\u00b4m Brazilian and This is the best movie I see in 2007. It\u00b4s wonderful, romantic, funny. A school of make a great romancy comedy."}, {"rating": "1", "text": "In the 11 years that I've had children, I've liked every movie I've seen (happy to get out to see one). This movie made me hope to get home to tantrums, spit-up and pre-teen angst. It was awful. Catherine Zeta-Jones has the personality of drywall. The only thing positive was Erin Eckhardt's likable character."}, {"rating": "9", "text": "This movie is by far the best I've seen all year. Zoe is just so cute and Nick is so dear-hearted. Kudos to the director/producer/etc for making a film that didn't involve open sex for once. The romance was heartfelt and tender and perfect. Love the music!!!"}], "recommendations": ["the_break_up", "friends_with_benefits", "passengers", "zack_and_miri_make_a_porno", "leap_year", "just_go_with_it", "the_big_lebowski", "50_first_dates", "the_lucky_one", "minions_the_rise_of_gru", "no_strings_attached", "click", "aquamarine", "stardust", "pitch_perfect_2", "the_lake_house", "hannah_montana_the_movie", "17_again", "ghostbusters", "sandy_wexler", "forgetting_sarah_marshall", "we_are_your_friends", "hairspray", "the_proposal", "the_boy_next_door"]}
+{
+  "id": 4538,
+  "title": "No Reservations",
+  "starring": [
+    "Catherine Zeta-Jones",
+    "Aaron Eckhart"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "description": "Master chef Kate Armstrong runs her life and her kitchen with intimidating intensity. However, a recipe for disaster may be in the works when she becomes the guardian of her young niece while crossing forks with the brash sous-chef who just joined her staff. Though romance blooms in the face of rivalry, Kate needs to look outside the kitchen to find true happiness.",
+  "releaseYear": "2007",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg",
+  "categories": {
+    "plot": 3.5,
+    "acting": 4.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 3.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "1",
+      "text": "What happened here is that someone found a reel of film and decided to put something on it! The plot doesn"
+    },
+    {
+      "rating": "10",
+      "text": "This film is fantastic, is even better than the remake. Catherine Zeta Jones is very beautiful and is always very professional. I don't understand why the people has not liked. One of best movies of the year."
+    },
+    {
+      "rating": "6",
+      "text": "There isn't much original here, but the cast makes it worth watching. Catherine Zeta-Jones is very good and overcomes the predictable material. Pleasant score. Patricia Clarkson is very capable in a supporting role. It jumps around abruptly from light comedy to heavy drama too often. overall it is a satisfying film."
+    },
+    {
+      "rating": "10",
+      "text": "This movie was wonderful. It was one of the best movies I've seen in a long time. I will definitely purchase it when it comes out on DVD."
+    },
+    {
+      "rating": "10",
+      "text": "The best movie I haven't seen all year. You should definitely go see it. Totally recommendable."
+    },
+    {
+      "rating": "1",
+      "text": "There are movies... then there are MOVIES! This was like seeing a horse jump over a fence, clip its legs, land in the mud, only to have the trainer come out, break its neck and put it down with a wrench... all the potential in the world! Good actors, good looks, good previews... then the horse missed the fence, ya know?"
+    },
+    {
+      "rating": "9",
+      "text": "I'm sorry for all the people just waiting to hate on this movie, but the fact is, if you appreciate good cuisine, romance, and great acting, then you will love this movie...it totally caught me off guard, it never hit a false note, and simply put, was just delectable. Delectable."
+    },
+    {
+      "rating": "10",
+      "text": "Catherine Zeta Jones is incredibly stunning in this picture..amazing,well done and well directed...wonderful cinematography...great editing..10/10."
+    },
+    {
+      "rating": "8",
+      "text": "I actually like this movie, and I'm not one for romantic comedies."
+    },
+    {
+      "rating": "5",
+      "text": "You'll know what's going to happen in the first five minutes. Zeta-Jones lacks any sort of charm, but Abagail Breslin sparkles. Save this one for DVD and take your date to Waitress,"
+    },
+    {
+      "rating": "0",
+      "text": "This is the worst romantic comedy of all time, it has no comedy, and has no thorough storyline, it is dull. The worst movie of the year, I rather would watch Epic Movie."
+    },
+    {
+      "rating": "2",
+      "text": "If I hadn't been with a friend, I would have walked out. Cliched script. No energy to the movie except making people move fast (and even when they did, you could practically hear the director saying \"pick up the pace, people\". All of the acting seemed mechanical. Absolutely NO chemistry between Eckhart and Zeta-Jones. This was a waste of my time and money! And my date concurred."
+    },
+    {
+      "rating": "10",
+      "text": "I\u00b4m Brazilian and This is the best movie I see in 2007. It\u00b4s wonderful, romantic, funny. A school of make a great romancy comedy."
+    },
+    {
+      "rating": "1",
+      "text": "In the 11 years that I've had children, I've liked every movie I've seen (happy to get out to see one). This movie made me hope to get home to tantrums, spit-up and pre-teen angst. It was awful. Catherine Zeta-Jones has the personality of drywall. The only thing positive was Erin Eckhardt's likable character."
+    },
+    {
+      "rating": "9",
+      "text": "This movie is by far the best I've seen all year. Zoe is just so cute and Nick is so dear-hearted. Kudos to the director/producer/etc for making a film that didn't involve open sex for once. The romance was heartfelt and tender and perfect. Love the music!!!"
+    }
+  ],
+  "recommendations": [
+    "the_break_up",
+    "friends_with_benefits",
+    "passengers",
+    "zack_and_miri_make_a_porno",
+    "leap_year",
+    "just_go_with_it",
+    "the_big_lebowski",
+    "50_first_dates",
+    "the_lucky_one",
+    "minions_the_rise_of_gru",
+    "no_strings_attached",
+    "click",
+    "aquamarine",
+    "stardust",
+    "pitch_perfect_2",
+    "the_lake_house",
+    "hannah_montana_the_movie",
+    "17_again",
+    "ghostbusters",
+    "sandy_wexler",
+    "forgetting_sarah_marshall",
+    "we_are_your_friends",
+    "hairspray",
+    "the_proposal",
+    "the_boy_next_door"
+  ]
+}

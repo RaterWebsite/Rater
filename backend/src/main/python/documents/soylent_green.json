@@ -1,1 +1,68 @@
-{"id": 4770, "title": "Soylent Green", "starring": ["Charlton Heston", "Leigh Taylor-Young"], "runtime": 97, "genre": ["Science Fiction", "Thriller"], "description": "This is the year 2022. Overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.", "releaseYear": "1973", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg", "categories": {"plot": 7.5, "acting": 5.0, "ending": 4.5, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 4.0}, "reviews": [{"rating": "8", "text": "What a dystopian world they created here, wonderful. The story about the investigation is also interesting, but could have even more depth. The only problem of the movie is the outdated technique and old fashion."}, {"rating": "7", "text": "Soylent Green is a typical dystopian film of the 70s. The idea of \u200b \u200b the modern future then was just that. The plot of the film is as linear and simple as possible, and revealing life in the dystopian world is minimal. The film is for viewing 1 time, and the ending spoils the impression as much as possible. But for the beginning of the 70s, the film was not shot badly, perhaps even one of the best in its genre"}, {"rating": "4", "text": "This was kinda funny. Only because of the outdated style. This is not a fast paced film. There are some exciting action sequences like in the factory at the end but nothing hugely amazing. The twist at the end is so predictable that it is laughable. They make so much big deal about the twist you would never guess and I guessed it without looking at the film itself - you just need to know that there is a twist and food to realise what is going on. Having said that I found the campy entertainment funny."}], "recommendations": ["coherence", "anon", "upgrade", "a_cure_for_wellness", "minority_report", "captive_state", "come_true", "us", "the_matrix_reloaded", "annihilation", "eli", "enemy", "now_you_see_me", "the_maze_runner", "blade_runner_2049", "inception", "bad_times_at_the_el_royale", "source_code", "maze_runner_the_scorch_trials", "terminal", "the_green_knight", "cube", "the_invisible_man", "summer_of_84", "arrival"]}
+{
+  "id": 4770,
+  "title": "Soylent Green",
+  "starring": [
+    "Charlton Heston",
+    "Leigh Taylor-Young"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "description": "This is the year 2022. Overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+  "releaseYear": "1973",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+  "categories": {
+    "plot": 7.5,
+    "acting": 5.0,
+    "ending": 4.5,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 4.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "What a dystopian world they created here, wonderful. The story about the investigation is also interesting, but could have even more depth. The only problem of the movie is the outdated technique and old fashion."
+    },
+    {
+      "rating": "7",
+      "text": "Soylent Green is a typical dystopian film of the 70s. The idea of \u200b \u200b the modern future then was just that. The plot of the film is as linear and simple as possible, and revealing life in the dystopian world is minimal. The film is for viewing 1 time, and the ending spoils the impression as much as possible. But for the beginning of the 70s, the film was not shot badly, perhaps even one of the best in its genre"
+    },
+    {
+      "rating": "4",
+      "text": "This was kinda funny. Only because of the outdated style. This is not a fast paced film. There are some exciting action sequences like in the factory at the end but nothing hugely amazing. The twist at the end is so predictable that it is laughable. They make so much big deal about the twist you would never guess and I guessed it without looking at the film itself - you just need to know that there is a twist and food to realise what is going on. Having said that I found the campy entertainment funny."
+    }
+  ],
+  "recommendations": [
+    "coherence",
+    "anon",
+    "upgrade",
+    "a_cure_for_wellness",
+    "minority_report",
+    "captive_state",
+    "come_true",
+    "us",
+    "the_matrix_reloaded",
+    "annihilation",
+    "eli",
+    "enemy",
+    "now_you_see_me",
+    "the_maze_runner",
+    "blade_runner_2049",
+    "inception",
+    "bad_times_at_the_el_royale",
+    "source_code",
+    "maze_runner_the_scorch_trials",
+    "terminal",
+    "the_green_knight",
+    "cube",
+    "the_invisible_man",
+    "summer_of_84",
+    "arrival"
+  ]
+}

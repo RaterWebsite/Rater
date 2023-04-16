@@ -1,1 +1,69 @@
-{"id": 4629, "title": "Quo Vadis", "starring": ["Robert Taylor", "Deborah Kerr"], "runtime": 171, "genre": ["Drama", "History", "Romance"], "description": "After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.", "releaseYear": "1951", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/205q2KznSETw5MeUHupvusQGXDC.jpg", "categories": {"plot": 5.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Polish QUO VADIS is a masterpiece! The actors deserve Oscars and it's a shame the movie did not get the well-desrved attention across the Atlantic... no matter, Pawel Delag convinced me he's a man in love, the girls were all beatiful and talented, Boguslaw Linda the refferee of elegance and the Greek 'Judas' was perfect... I started learning Polish words just by seeing it over and over... as I did once before when watching The Healer... Unfortunately, we don't see many Polish movies... from whatever Polish I can understand, I saw Pawel Delag dancing on stage, perhaps he sings as well, a man of theatre playing in musicals and making such a great part in QV, playing the Roman who turns into a Christian... charming, gifted and versatile he has all an artist could dream of, blessings be upon thee."}, {"rating": "10", "text": "Sorry Americans,but Europe has always had and has better movies than you,onl less money...And to Anabella,if zou think he is handsome check out Micha? Yebrowski in Pan Tadeusz or in Ogniem i miencyem.One of the best movies ever.Only movie which can concurate them,is personally my foavourite,and that is BEN HUR.This kind of movies make kinematography worth living."}, {"rating": "10", "text": "Trololololololololololololololololololololololololololololololololololololololololololololololololol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"}], "recommendations": ["walk_the_line", "respect", "hairspray", "burlesque", "forrest_gump", "almost_famous", "flag_day", "mamma_mia", "pretty_woman", "house_of_gucci", "cinderella_man", "a_beautiful_day_in_the_neighborhood", "maid_in_manhattan", "moulin_rouge", "cats", "la_la_land", "brokeback_mountain", "letters_to_juliet", "my_name_is_khan", "a_beautiful_mind", "rocketman", "justin_bieber_our_world", "sweeney_todd_the_demon_barber_of_fleet_street", "the_family_man", "memoirs_of_a_geisha"]}
+{
+  "id": 4629,
+  "title": "Quo Vadis",
+  "starring": [
+    "Robert Taylor",
+    "Deborah Kerr"
+  ],
+  "runtime": 171,
+  "genre": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "description": "After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.",
+  "releaseYear": "1951",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/205q2KznSETw5MeUHupvusQGXDC.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Polish QUO VADIS is a masterpiece! The actors deserve Oscars and it's a shame the movie did not get the well-desrved attention across the Atlantic... no matter, Pawel Delag convinced me he's a man in love, the girls were all beatiful and talented, Boguslaw Linda the refferee of elegance and the Greek 'Judas' was perfect... I started learning Polish words just by seeing it over and over... as I did once before when watching The Healer... Unfortunately, we don't see many Polish movies... from whatever Polish I can understand, I saw Pawel Delag dancing on stage, perhaps he sings as well, a man of theatre playing in musicals and making such a great part in QV, playing the Roman who turns into a Christian... charming, gifted and versatile he has all an artist could dream of, blessings be upon thee."
+    },
+    {
+      "rating": "10",
+      "text": "Sorry Americans,but Europe has always had and has better movies than you,onl less money...And to Anabella,if zou think he is handsome check out Micha? Yebrowski in Pan Tadeusz or in Ogniem i miencyem.One of the best movies ever.Only movie which can concurate them,is personally my foavourite,and that is BEN HUR.This kind of movies make kinematography worth living."
+    },
+    {
+      "rating": "10",
+      "text": "Trololololololololololololololololololololololololololololololololololololololololololololololololol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }
+  ],
+  "recommendations": [
+    "walk_the_line",
+    "respect",
+    "hairspray",
+    "burlesque",
+    "forrest_gump",
+    "almost_famous",
+    "flag_day",
+    "mamma_mia",
+    "pretty_woman",
+    "house_of_gucci",
+    "cinderella_man",
+    "a_beautiful_day_in_the_neighborhood",
+    "maid_in_manhattan",
+    "moulin_rouge",
+    "cats",
+    "la_la_land",
+    "brokeback_mountain",
+    "letters_to_juliet",
+    "my_name_is_khan",
+    "a_beautiful_mind",
+    "rocketman",
+    "justin_bieber_our_world",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "the_family_man",
+    "memoirs_of_a_geisha"
+  ]
+}

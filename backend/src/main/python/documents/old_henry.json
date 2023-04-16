@@ -1,1 +1,105 @@
-{"id": 2359, "title": "Old Henry", "starring": ["Tim Blake Nelson", "Scott Haze"], "runtime": 99, "genre": ["Action", "Western", "Thriller"], "description": "A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.", "releaseYear": "2021", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg", "categories": {"plot": 7.375, "acting": 5.875, "ending": 9.0, "soundtrack": 5.0, "cinematography": 6.0, "familyFriendly": 4.0, "funny": 5.0, "action": 6.666666666666667}, "reviews": [{"rating": "9", "text": "I'm a sucker for a good western and this one delivers, Tim Blake Nelson absolutely steals the show but Stephen Dorff is excellent and could be his best performance. My only small issue is Gavin Lewis as the son, he was miscast and it hurts the authenticity value of this otherwise great film - 9 stars"}, {"rating": "0", "text": "Some movies are so bad they're good. Old Henry isn't that. It's poorly written, shot, directed, and edited. Tim Blake Nelson apparently showed up to set; that's about the most that can be said about his performance. Stephen Dorff was truly enjoyable; you can almost imagine you're watching a decent movie during the moments when Stephen Dorff and only Stephen Dorff is on the screen. Beyond that, every performance fails miserably and every single moment as written and executed suggests that if this wasn't the writer-director's first attempt at a film, it should probably be their last."}, {"rating": "6", "text": "This slow paced western holds few surprises in such an oversaturated genre. Still the cast and dialogue keep things interesting. Downsides are the low budget, average cinematography and poor action choreography. You can feel the passion that went into it though. Worth a watch."}, {"rating": "6", "text": "A western that can't boast of being really substantial but has a leading actor that gives it a much more interesting and, above all, convincing identity, because you can hardly poke holes in its credibility even when the story pressures you to overlook some of its plot ups and downs.If you're a fan of westerns, I highly recommend it, and if not, it's worth a look for Tim Blake Nelson's acting work."}, {"rating": "6", "text": "(Mauro Lanari)I was not exalted by this intimist and masculine, crepuscular and minimalist approach to the classic (micro-)western, from \"The Searchers\" to \"Unforgiven\", from Andrew Dominik (\"The Assassination of Jesse James\") to now too many others, deconstructing its mythology or taking it as a metacinematographic example to talk about the present that unredeemably obliges to settle accounts with a repressed past."}, {"rating": "7", "text": "This is an ok Western film - its a bit slow to build plot wise at first but its good once the action starts - there's some quickfire action certainly. There's a mysterious feel to it, though not too much substance overall I suppose. Its not one of the best Westerns but its not awful either. I wouldn't particularly recommend it as such, no."}, {"rating": "10", "text": "Best Western ive seen sinse bone tomahawk.  Go in blind, I beg you.  You're welcome"}, {"rating": "9", "text": "Action, suspense, thriller with a huge twist in the end. I absolutely enjoyed this western. Great story with terrific performances."}, {"rating": "9", "text": "True Gritty western feel, with some emotions within it. The plot isn't too unpredictable but never the less entertaining."}, {"rating": "6", "text": "In a year that has featured a plethora of westerns, Old Henry is another decent addition to the genre. The best part of the film is easily the third act which features multiple twists and plenty of action. Unfortunately, this couldn't completely make for the pacing issues in the first two acts, which are extremely slow. The main emotional tentpole of the story should be between Henry and his son, but this fell flat for me because of some bad acting from the boy cast as the son. This film is still worth a view because of its dynamite third act and a great performance in the titular role from Tim Blake Nelson, but it certainly isn't a masterpiece by any means."}, {"rating": "8", "text": "Good movie! And that is rare these days. A great example of a good movie because of a good story and well played characters. More of that pls, I really liked it!"}, {"rating": "8", "text": "There is a 75 character minimum for reviews. If your review contains spoilers, please check the Spoiler box. Please do not use ALL CAPS. There is no linking or other HTML allowed. Your review may be edited for content."}], "recommendations": ["jackie_brown", "the_untouchables", "backdraft", "murder_on_the_orient_express", "casino", "body_of_lies", "bone_tomahawk", "true_grit", "the_hunt_for_red_october", "hostage", "the_harder_they_fall", "the_aviator", "lawless", "street_kings", "django_unchained", "insomnia", "the_assassination_of_jesse_james_by_the_coward_robert_ford", "a_most_wanted_man", "spy_game", "all_the_money_in_the_world", "copshop", "the_italian_job", "inside_man", "the_terminator", "legend"]}
+{
+  "id": 2359,
+  "title": "Old Henry",
+  "starring": [
+    "Tim Blake Nelson",
+    "Scott Haze"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Action",
+    "Western",
+    "Thriller"
+  ],
+  "description": "A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.",
+  "releaseYear": "2021",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+  "categories": {
+    "plot": 7.375,
+    "acting": 5.875,
+    "ending": 9.0,
+    "soundtrack": 5.0,
+    "cinematography": 6.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 6.666666666666667
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "I'm a sucker for a good western and this one delivers, Tim Blake Nelson absolutely steals the show but Stephen Dorff is excellent and could be his best performance. My only small issue is Gavin Lewis as the son, he was miscast and it hurts the authenticity value of this otherwise great film - 9 stars"
+    },
+    {
+      "rating": "0",
+      "text": "Some movies are so bad they're good. Old Henry isn't that. It's poorly written, shot, directed, and edited. Tim Blake Nelson apparently showed up to set; that's about the most that can be said about his performance. Stephen Dorff was truly enjoyable; you can almost imagine you're watching a decent movie during the moments when Stephen Dorff and only Stephen Dorff is on the screen. Beyond that, every performance fails miserably and every single moment as written and executed suggests that if this wasn't the writer-director's first attempt at a film, it should probably be their last."
+    },
+    {
+      "rating": "6",
+      "text": "This slow paced western holds few surprises in such an oversaturated genre. Still the cast and dialogue keep things interesting. Downsides are the low budget, average cinematography and poor action choreography. You can feel the passion that went into it though. Worth a watch."
+    },
+    {
+      "rating": "6",
+      "text": "A western that can't boast of being really substantial but has a leading actor that gives it a much more interesting and, above all, convincing identity, because you can hardly poke holes in its credibility even when the story pressures you to overlook some of its plot ups and downs.If you're a fan of westerns, I highly recommend it, and if not, it's worth a look for Tim Blake Nelson's acting work."
+    },
+    {
+      "rating": "6",
+      "text": "(Mauro Lanari)I was not exalted by this intimist and masculine, crepuscular and minimalist approach to the classic (micro-)western, from \"The Searchers\" to \"Unforgiven\", from Andrew Dominik (\"The Assassination of Jesse James\") to now too many others, deconstructing its mythology or taking it as a metacinematographic example to talk about the present that unredeemably obliges to settle accounts with a repressed past."
+    },
+    {
+      "rating": "7",
+      "text": "This is an ok Western film - its a bit slow to build plot wise at first but its good once the action starts - there's some quickfire action certainly. There's a mysterious feel to it, though not too much substance overall I suppose. Its not one of the best Westerns but its not awful either. I wouldn't particularly recommend it as such, no."
+    },
+    {
+      "rating": "10",
+      "text": "Best Western ive seen sinse bone tomahawk.  Go in blind, I beg you.  You're welcome"
+    },
+    {
+      "rating": "9",
+      "text": "Action, suspense, thriller with a huge twist in the end. I absolutely enjoyed this western. Great story with terrific performances."
+    },
+    {
+      "rating": "9",
+      "text": "True Gritty western feel, with some emotions within it. The plot isn't too unpredictable but never the less entertaining."
+    },
+    {
+      "rating": "6",
+      "text": "In a year that has featured a plethora of westerns, Old Henry is another decent addition to the genre. The best part of the film is easily the third act which features multiple twists and plenty of action. Unfortunately, this couldn't completely make for the pacing issues in the first two acts, which are extremely slow. The main emotional tentpole of the story should be between Henry and his son, but this fell flat for me because of some bad acting from the boy cast as the son. This film is still worth a view because of its dynamite third act and a great performance in the titular role from Tim Blake Nelson, but it certainly isn't a masterpiece by any means."
+    },
+    {
+      "rating": "8",
+      "text": "Good movie! And that is rare these days. A great example of a good movie because of a good story and well played characters. More of that pls, I really liked it!"
+    },
+    {
+      "rating": "8",
+      "text": "There is a 75 character minimum for reviews. If your review contains spoilers, please check the Spoiler box. Please do not use ALL CAPS. There is no linking or other HTML allowed. Your review may be edited for content."
+    }
+  ],
+  "recommendations": [
+    "jackie_brown",
+    "the_untouchables",
+    "backdraft",
+    "murder_on_the_orient_express",
+    "casino",
+    "body_of_lies",
+    "bone_tomahawk",
+    "true_grit",
+    "the_hunt_for_red_october",
+    "hostage",
+    "the_harder_they_fall",
+    "the_aviator",
+    "lawless",
+    "street_kings",
+    "django_unchained",
+    "insomnia",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "a_most_wanted_man",
+    "spy_game",
+    "all_the_money_in_the_world",
+    "copshop",
+    "the_italian_job",
+    "inside_man",
+    "the_terminator",
+    "legend"
+  ]
+}

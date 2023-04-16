@@ -1,1 +1,60 @@
-{"id": 2586, "title": "The Art of the Steal", "starring": ["Kurt Russell", "Matt Dillon"], "runtime": 90, "genre": ["Comedy", "Crime"], "description": "Crunch Calhoun, a third-rate motorcycle daredevil and part-time art thief, teams up with his snaky brother to steal one of the most valuable books in the world. But it's not just about the book for Crunch \u2014 he's keen to rewrite some chapters of his own past as well.", "releaseYear": "2013", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "8", "text": "A suspenseful and ultimately tragic look at how a man's $25 billion art collection has been completely undermined by those who do not care about his intentions or philosophy. I'm not sure why Ed Rendell would have agreed to be interviewed for this because he comes off like a real jag."}], "recommendations": ["the_case_for_christ", "sweat", "machine_gun_preacher", "i_still_believe", "the_road", "the_last_temptation_of_christ", "the_shack", "flashback", "noah", "titane", "crash", "the_tree_of_life", "antichrist", "silence", "mainstream", "dark_waters", "exodus_gods_and_kings", "the_passion_of_the_christ", "mother", "risen", "a_clockwork_orange", "zero_dark_thirty", "united_93", "vivarium", "unbroken_path_to_redemption"]}
+{
+  "id": 2586,
+  "title": "The Art of the Steal",
+  "starring": [
+    "Kurt Russell",
+    "Matt Dillon"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "description": "Crunch Calhoun, a third-rate motorcycle daredevil and part-time art thief, teams up with his snaky brother to steal one of the most valuable books in the world. But it's not just about the book for Crunch \u2014 he's keen to rewrite some chapters of his own past as well.",
+  "releaseYear": "2013",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "A suspenseful and ultimately tragic look at how a man's $25 billion art collection has been completely undermined by those who do not care about his intentions or philosophy. I'm not sure why Ed Rendell would have agreed to be interviewed for this because he comes off like a real jag."
+    }
+  ],
+  "recommendations": [
+    "the_case_for_christ",
+    "sweat",
+    "machine_gun_preacher",
+    "i_still_believe",
+    "the_road",
+    "the_last_temptation_of_christ",
+    "the_shack",
+    "flashback",
+    "noah",
+    "titane",
+    "crash",
+    "the_tree_of_life",
+    "antichrist",
+    "silence",
+    "mainstream",
+    "dark_waters",
+    "exodus_gods_and_kings",
+    "the_passion_of_the_christ",
+    "mother",
+    "risen",
+    "a_clockwork_orange",
+    "zero_dark_thirty",
+    "united_93",
+    "vivarium",
+    "unbroken_path_to_redemption"
+  ]
+}

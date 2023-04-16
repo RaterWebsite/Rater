@@ -1,1 +1,85 @@
-{"id": 4106, "title": "American Murder: The Family Next Door", "starring": ["Nickole Atkinson", "Jim Benemann"], "runtime": 83, "genre": ["Documentary", "Mystery", "Crime"], "description": "Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.", "releaseYear": "2020", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 10.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "There's little effort to position the case in a broader context of domestic abuse, mental health, masculinity or the law. It's simply a voyeuristic, horrific timeline. As such, American Murder leaves you with a guilty, disgusted feeling. It's exploitative, invasive and ultimately shallow."}, {"rating": "10", "text": "Excellent piece of filmmaking. The irony here is the filmmakers don\u2019t realize that what they\u2019re selling people is partially why these things happen in the first place.What the movie should be doing is talking about how society is f#%^ people from birth and treating them like disposable consumer slaves. The filmmakers promote the tabloid cliche of the supposed American dream gone bad. These people never had dreams. You could argue they never existed. Their deaths affect no one.The family was part of a system, and even their death was ultimately (re: immediately) manipulated/processed into more consumer trash. They became the superficial goods their own lives were built on."}, {"rating": "8", "text": "Anatomy of a crime. What started out as a case of disappearance of people turned out to be a very deplorable crime. Without sensationalism and resorting to photographs, videos, testimonies of friends and relatives, and police records, it explains how and why an exemplary father committed such infamy."}, {"rating": "6", "text": "The documentary itself has nothing special, even with its form of presentation, because when it reaches a certain point, it seems like any other episode of a tv crime show, because despite the terrible tragedy it tells, the whole thing is nothing more than a recount for the sake of morbidity."}, {"rating": "5", "text": "Mesmerising and harrowing in equal measure. How can a monster like that function normally in society? This real life story is horrific, heartbreaking and hard to take in."}, {"rating": "9", "text": "A really good documentary type movie. It brings up the topic of murder and affairs. It doesnt have gore or anything. I would let kids maybe 12 and over watch it. It is sad at parts where it shows Shannon's old Facebook and videos of them all healthy and happy. I really loved it!"}, {"rating": "10", "text": "I knew this story. When I watched this I realized I didn't REALLY know the story.  I was always looking for who or what caused him to do this.  I sat in silence at the end and knew how wrong we are to do that.  He and only he is responsible for his horrific actions. No one MADE him people loved him.  His wife, his children, his girlfriend, his wife's family and his own family.  The issue is he only loved himself."}], "recommendations": ["munich", "joe_bell", "sweat", "settlers", "deliver_us_from_evil", "detroit", "the_shack", "the_passion_of_the_christ", "the_case_for_christ", "22_july", "the_next_365_days", "hotel_mumbai", "the_legend_of_la_llorona", "courageous", "cartel_land", "the_hate_u_give", "the_hunt", "machine_gun_preacher", "unbroken_path_to_redemption", "eden_lake", "the_miseducation_of_cameron_post", "miss_bala", "war_room", "found", "greenland"]}
+{
+  "id": 4106,
+  "title": "American Murder: The Family Next Door",
+  "starring": [
+    "Nickole Atkinson",
+    "Jim Benemann"
+  ],
+  "runtime": 83,
+  "genre": [
+    "Documentary",
+    "Mystery",
+    "Crime"
+  ],
+  "description": "Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.",
+  "releaseYear": "2020",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 10.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "There's little effort to position the case in a broader context of domestic abuse, mental health, masculinity or the law. It's simply a voyeuristic, horrific timeline. As such, American Murder leaves you with a guilty, disgusted feeling. It's exploitative, invasive and ultimately shallow."
+    },
+    {
+      "rating": "10",
+      "text": "Excellent piece of filmmaking. The irony here is the filmmakers don\u2019t realize that what they\u2019re selling people is partially why these things happen in the first place.What the movie should be doing is talking about how society is f#%^ people from birth and treating them like disposable consumer slaves. The filmmakers promote the tabloid cliche of the supposed American dream gone bad. These people never had dreams. You could argue they never existed. Their deaths affect no one.The family was part of a system, and even their death was ultimately (re: immediately) manipulated/processed into more consumer trash. They became the superficial goods their own lives were built on."
+    },
+    {
+      "rating": "8",
+      "text": "Anatomy of a crime. What started out as a case of disappearance of people turned out to be a very deplorable crime. Without sensationalism and resorting to photographs, videos, testimonies of friends and relatives, and police records, it explains how and why an exemplary father committed such infamy."
+    },
+    {
+      "rating": "6",
+      "text": "The documentary itself has nothing special, even with its form of presentation, because when it reaches a certain point, it seems like any other episode of a tv crime show, because despite the terrible tragedy it tells, the whole thing is nothing more than a recount for the sake of morbidity."
+    },
+    {
+      "rating": "5",
+      "text": "Mesmerising and harrowing in equal measure. How can a monster like that function normally in society? This real life story is horrific, heartbreaking and hard to take in."
+    },
+    {
+      "rating": "9",
+      "text": "A really good documentary type movie. It brings up the topic of murder and affairs. It doesnt have gore or anything. I would let kids maybe 12 and over watch it. It is sad at parts where it shows Shannon's old Facebook and videos of them all healthy and happy. I really loved it!"
+    },
+    {
+      "rating": "10",
+      "text": "I knew this story. When I watched this I realized I didn't REALLY know the story.  I was always looking for who or what caused him to do this.  I sat in silence at the end and knew how wrong we are to do that.  He and only he is responsible for his horrific actions. No one MADE him people loved him.  His wife, his children, his girlfriend, his wife's family and his own family.  The issue is he only loved himself."
+    }
+  ],
+  "recommendations": [
+    "munich",
+    "joe_bell",
+    "sweat",
+    "settlers",
+    "deliver_us_from_evil",
+    "detroit",
+    "the_shack",
+    "the_passion_of_the_christ",
+    "the_case_for_christ",
+    "22_july",
+    "the_next_365_days",
+    "hotel_mumbai",
+    "the_legend_of_la_llorona",
+    "courageous",
+    "cartel_land",
+    "the_hate_u_give",
+    "the_hunt",
+    "machine_gun_preacher",
+    "unbroken_path_to_redemption",
+    "eden_lake",
+    "the_miseducation_of_cameron_post",
+    "miss_bala",
+    "war_room",
+    "found",
+    "greenland"
+  ]
+}

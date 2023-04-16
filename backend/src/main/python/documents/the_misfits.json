@@ -1,1 +1,60 @@
-{"id": 80, "title": "The Misfits", "starring": ["Pierce Brosnan", "Jamie Chung"], "runtime": 94, "genre": ["Action", "Thriller"], "description": "After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/dPOyYnCkRbWAEem85N3VFpQODf5.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "A delicate and poetic masterpiece filmed under the scorching heat with an exceptional cast."}], "recommendations": ["presumed_innocent", "once_upon_a_time_in_america", "spartacus", "to_kill_a_mockingbird", "a_streetcar_named_desire", "tombstone", "the_godfather", "the_thomas_crown_affair", "the_english_patient", "the_grand_budapest_hotel", "little_women", "gattaca", "the_last_of_the_mohicans", "chinatown", "the_aviator", "the_french_dispatch", "chicago", "chocolat", "rear_window", "sleepy_hollow", "north_by_northwest", "finding_neverland", "the_assassination_of_jesse_james_by_the_coward_robert_ford", "amores_perros", "the_secret_garden"]}
+{
+  "id": 80,
+  "title": "The Misfits",
+  "starring": [
+    "Pierce Brosnan",
+    "Jamie Chung"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dPOyYnCkRbWAEem85N3VFpQODf5.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "A delicate and poetic masterpiece filmed under the scorching heat with an exceptional cast."
+    }
+  ],
+  "recommendations": [
+    "presumed_innocent",
+    "once_upon_a_time_in_america",
+    "spartacus",
+    "to_kill_a_mockingbird",
+    "a_streetcar_named_desire",
+    "tombstone",
+    "the_godfather",
+    "the_thomas_crown_affair",
+    "the_english_patient",
+    "the_grand_budapest_hotel",
+    "little_women",
+    "gattaca",
+    "the_last_of_the_mohicans",
+    "chinatown",
+    "the_aviator",
+    "the_french_dispatch",
+    "chicago",
+    "chocolat",
+    "rear_window",
+    "sleepy_hollow",
+    "north_by_northwest",
+    "finding_neverland",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "amores_perros",
+    "the_secret_garden"
+  ]
+}

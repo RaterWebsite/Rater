@@ -1,1 +1,64 @@
-{"id": 4790, "title": "Grand Isle", "starring": ["Nicolas Cage", "KaDee Strickland"], "runtime": 97, "genre": ["Thriller", "Action"], "description": "Walter and his neglected wife lure a young man into their Victorian home to escape a hurricane. When the man is charged with murder by Det. Jones, he must reveal the couple's wicked secrets to save himself.", "releaseYear": "2019", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "Nicolas Cage and his sultry wife lure a hunky young man into their home during a hurricane. All manner of suspicion and seduction ensues. The narrative unfolds via flashback interviews with a local detective (Kelsey Grammar unintentionally hilarious doing his best Tennessee Williams character). The Byzantine plot keeps trying to surprise, but the inevitable encounters are mostly predictable. Cage is acting like crazy (pun intended) and the others do fine. The direction manages to squeeze some mild tension here and there, but not nearly enough to make it worthwhile."}, {"rating": "2", "text": "(Mauro Lanari)An extraordinary amphidromic film: you can view it in one direction or another, the senseless outcome doesn't change. Nicolas Cage returned to the avant-garde cinema fatter than ever."}], "recommendations": ["fracture", "ransom", "what_lies_beneath", "stonehearst_asylum", "stoker", "road_to_perdition", "true_romance", "insomnia", "north_by_northwest", "the_pelican_brief", "anna", "the_thomas_crown_affair", "basic_instinct", "the_lincoln_lawyer", "the_bone_collector", "son_of_a_gun", "the_fugitive", "sicario", "spy_game", "panic_room", "outbreak", "greta", "the_card_counter", "conspiracy_theory", "the_guilty"]}
+{
+  "id": 4790,
+  "title": "Grand Isle",
+  "starring": [
+    "Nicolas Cage",
+    "KaDee Strickland"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Thriller",
+    "Action"
+  ],
+  "description": "Walter and his neglected wife lure a young man into their Victorian home to escape a hurricane. When the man is charged with murder by Det. Jones, he must reveal the couple's wicked secrets to save himself.",
+  "releaseYear": "2019",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Nicolas Cage and his sultry wife lure a hunky young man into their home during a hurricane. All manner of suspicion and seduction ensues. The narrative unfolds via flashback interviews with a local detective (Kelsey Grammar unintentionally hilarious doing his best Tennessee Williams character). The Byzantine plot keeps trying to surprise, but the inevitable encounters are mostly predictable. Cage is acting like crazy (pun intended) and the others do fine. The direction manages to squeeze some mild tension here and there, but not nearly enough to make it worthwhile."
+    },
+    {
+      "rating": "2",
+      "text": "(Mauro Lanari)An extraordinary amphidromic film: you can view it in one direction or another, the senseless outcome doesn't change. Nicolas Cage returned to the avant-garde cinema fatter than ever."
+    }
+  ],
+  "recommendations": [
+    "fracture",
+    "ransom",
+    "what_lies_beneath",
+    "stonehearst_asylum",
+    "stoker",
+    "road_to_perdition",
+    "true_romance",
+    "insomnia",
+    "north_by_northwest",
+    "the_pelican_brief",
+    "anna",
+    "the_thomas_crown_affair",
+    "basic_instinct",
+    "the_lincoln_lawyer",
+    "the_bone_collector",
+    "son_of_a_gun",
+    "the_fugitive",
+    "sicario",
+    "spy_game",
+    "panic_room",
+    "outbreak",
+    "greta",
+    "the_card_counter",
+    "conspiracy_theory",
+    "the_guilty"
+  ]
+}

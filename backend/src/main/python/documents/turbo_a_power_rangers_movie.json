@@ -1,1 +1,67 @@
-{"id": 770, "title": "Turbo: A Power Rangers Movie", "starring": ["Jason David Frank", "Johnny Yong Bosch"], "runtime": 99, "genre": ["Action", "Adventure", "Family", "Fantasy", "Science Fiction"], "description": "The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger's incredible new Turbo powers and powerful Turbo Zords.", "releaseYear": "1997", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/sHgjdRPYduUCaw3Te2CXaWLpBkm.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "Whoa! That snail is fast! Whoa! That snail is fast! Whoa! That snail is fast! Whoa! That snail is fast!"}, {"rating": "5", "text": "Turbo: A Power Rangers Movie is also enjoyable and a stupid movie that is good for nostalgia and laughs, if you\u2019re a Mighty Morphin Power Rangers fan you might like this movie since it has some of the cast in it like Tommy, Adam, and Katherine, in the actual Power Rangers Turbo series they stay for like 20 episodes before being replaced."}], "recommendations": ["the_fate_of_the_furious", "looney_tunes_back_in_action", "knight_and_day", "transformers", "the_expendables_3", "xxx_state_of_the_union", "furious_7", "the_ant_bully", "the_expendables_2", "need_for_speed", "star_trek", "star_trek_nemesis", "the_x_files", "star_wars_the_clone_wars", "ice_age_dawn_of_the_dinosaurs", "ice_age_collision_course", "sonic_the_hedgehog_2", "star_trek_insurrection", "the_expendables", "the_mummy_returns", "venom_let_there_be_carnage", "space_jam", "the_condemned", "mission_impossible_iii", "xxx_return_of_xander_cage"]}
+{
+  "id": 770,
+  "title": "Turbo: A Power Rangers Movie",
+  "starring": [
+    "Jason David Frank",
+    "Johnny Yong Bosch"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "description": "The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger's incredible new Turbo powers and powerful Turbo Zords.",
+  "releaseYear": "1997",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/sHgjdRPYduUCaw3Te2CXaWLpBkm.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Whoa! That snail is fast! Whoa! That snail is fast! Whoa! That snail is fast! Whoa! That snail is fast!"
+    },
+    {
+      "rating": "5",
+      "text": "Turbo: A Power Rangers Movie is also enjoyable and a stupid movie that is good for nostalgia and laughs, if you\u2019re a Mighty Morphin Power Rangers fan you might like this movie since it has some of the cast in it like Tommy, Adam, and Katherine, in the actual Power Rangers Turbo series they stay for like 20 episodes before being replaced."
+    }
+  ],
+  "recommendations": [
+    "the_fate_of_the_furious",
+    "looney_tunes_back_in_action",
+    "knight_and_day",
+    "transformers",
+    "the_expendables_3",
+    "xxx_state_of_the_union",
+    "furious_7",
+    "the_ant_bully",
+    "the_expendables_2",
+    "need_for_speed",
+    "star_trek",
+    "star_trek_nemesis",
+    "the_x_files",
+    "star_wars_the_clone_wars",
+    "ice_age_dawn_of_the_dinosaurs",
+    "ice_age_collision_course",
+    "sonic_the_hedgehog_2",
+    "star_trek_insurrection",
+    "the_expendables",
+    "the_mummy_returns",
+    "venom_let_there_be_carnage",
+    "space_jam",
+    "the_condemned",
+    "mission_impossible_iii",
+    "xxx_return_of_xander_cage"
+  ]
+}

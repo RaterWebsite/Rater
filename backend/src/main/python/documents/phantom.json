@@ -1,1 +1,67 @@
-{"id": 1385, "title": "Phantom", "starring": ["Ed Harris", "David Duchovny"], "runtime": 99, "genre": ["Thriller"], "description": "The haunted Captain of a Soviet submarine holds the fate of the world in his hands. Forced to leave his family behind, he is charged with leading a covert mission cloaked in mystery.", "releaseYear": "2013", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/o67fuhbwvAZ26PwnOj5v8uyqy5x.jpg", "categories": {"plot": 9.0, "acting": 9.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "9", "text": "this is not a movie made to be digested by americans. no explosions, no CGI, no george clooney, no abc 123 training wheels plot. this is a painting of a path to sexual/pattern behavior slavery. the character may have been turned on at some point, but finds less and less fulfillment until he becomes a robot in a black suit who loses his ties to conventional society; eating garbage. hence the senseless finale. it is shot at night because that's where the character prowls... dear heavens, the comments here explain why Bush was elected. this is a movie about sexual repression turned mental illness; if you're looking for something else, go watch Transformers or the latest X-Men."}, {"rating": "7", "text": "It's a intelligent movie about the society \"despersonalization\" that occurs nowadays. It's about a man that communicates through his own body. A man that looks for somethin real in his life; It\u00b4s a really good movie."}, {"rating": "10", "text": "Briliant movie about a young man who expresses himself through his body and sexual/erotic encounters in modern day Portugal. Fantastic."}], "recommendations": ["escape_from_the_planet_of_the_apes", "american_murder_the_family_next_door", "the_next_365_days", "the_virginity_hit", "miss_bala", "detroit", "lady_macbeth", "the_legend_of_la_llorona", "munich", "k_pax", "sweat", "the_beta_test", "swallow", "deliver_us_from_evil", "the_way_back", "shame", "settlers", "bloody_hell", "22_july", "a_hidden_life", "joe_bell", "the_rhythm_section", "the_hate_u_give", "ingrid_goes_west", "hollow_man"]}
+{
+  "id": 1385,
+  "title": "Phantom",
+  "starring": [
+    "Ed Harris",
+    "David Duchovny"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Thriller"
+  ],
+  "description": "The haunted Captain of a Soviet submarine holds the fate of the world in his hands. Forced to leave his family behind, he is charged with leading a covert mission cloaked in mystery.",
+  "releaseYear": "2013",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/o67fuhbwvAZ26PwnOj5v8uyqy5x.jpg",
+  "categories": {
+    "plot": 9.0,
+    "acting": 9.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "this is not a movie made to be digested by americans. no explosions, no CGI, no george clooney, no abc 123 training wheels plot. this is a painting of a path to sexual/pattern behavior slavery. the character may have been turned on at some point, but finds less and less fulfillment until he becomes a robot in a black suit who loses his ties to conventional society; eating garbage. hence the senseless finale. it is shot at night because that's where the character prowls... dear heavens, the comments here explain why Bush was elected. this is a movie about sexual repression turned mental illness; if you're looking for something else, go watch Transformers or the latest X-Men."
+    },
+    {
+      "rating": "7",
+      "text": "It's a intelligent movie about the society \"despersonalization\" that occurs nowadays. It's about a man that communicates through his own body. A man that looks for somethin real in his life; It\u00b4s a really good movie."
+    },
+    {
+      "rating": "10",
+      "text": "Briliant movie about a young man who expresses himself through his body and sexual/erotic encounters in modern day Portugal. Fantastic."
+    }
+  ],
+  "recommendations": [
+    "escape_from_the_planet_of_the_apes",
+    "american_murder_the_family_next_door",
+    "the_next_365_days",
+    "the_virginity_hit",
+    "miss_bala",
+    "detroit",
+    "lady_macbeth",
+    "the_legend_of_la_llorona",
+    "munich",
+    "k_pax",
+    "sweat",
+    "the_beta_test",
+    "swallow",
+    "deliver_us_from_evil",
+    "the_way_back",
+    "shame",
+    "settlers",
+    "bloody_hell",
+    "22_july",
+    "a_hidden_life",
+    "joe_bell",
+    "the_rhythm_section",
+    "the_hate_u_give",
+    "ingrid_goes_west",
+    "hollow_man"
+  ]
+}

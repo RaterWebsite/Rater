@@ -1,1 +1,63 @@
-{"id": 254, "title": "Warning", "starring": ["Alex Pettyfer", "Alice Eve"], "runtime": 85, "genre": ["Science Fiction"], "description": "Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/3UwzfI85ZoAXqdMrG878OudMQr6.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "(Mauro Lanari)Feature film debut of a Polish production that, following its own tradition, catechizes us on the presumed consequences of atheism and sins. A chaotic, religiously fundamentalist and heretical \"Se7en\" (Fincher 1995) since, against the magisterial doctrine, it shows the Apocalypse as punishment and not as salvation."}, {"rating": "7", "text": "The main idea of the film Warning is great and very current. It's just a shame that it is based on physical reality that violates many physical laws. For someone who studied well at school, the film can be considered quite naive."}], "recommendations": ["the_social_dilemma", "agora", "the_physician", "13_minutes", "i_origins", "diego_maradona", "the_imitation_game", "benedetta", "22_july", "the_pianist", "emperor", "gone_with_the_wind", "free_state_of_jones", "a_united_kingdom", "the_last_temptation_of_christ", "denial", "the_young_messiah", "letters_from_iwo_jima", "american_pastoral", "colette", "snowden", "the_white_tiger", "on_the_basis_of_sex", "official_secrets", "12_years_a_slave"]}
+{
+  "id": 254,
+  "title": "Warning",
+  "starring": [
+    "Alex Pettyfer",
+    "Alice Eve"
+  ],
+  "runtime": 85,
+  "genre": [
+    "Science Fiction"
+  ],
+  "description": "Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/3UwzfI85ZoAXqdMrG878OudMQr6.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "(Mauro Lanari)Feature film debut of a Polish production that, following its own tradition, catechizes us on the presumed consequences of atheism and sins. A chaotic, religiously fundamentalist and heretical \"Se7en\" (Fincher 1995) since, against the magisterial doctrine, it shows the Apocalypse as punishment and not as salvation."
+    },
+    {
+      "rating": "7",
+      "text": "The main idea of the film Warning is great and very current. It's just a shame that it is based on physical reality that violates many physical laws. For someone who studied well at school, the film can be considered quite naive."
+    }
+  ],
+  "recommendations": [
+    "the_social_dilemma",
+    "agora",
+    "the_physician",
+    "13_minutes",
+    "i_origins",
+    "diego_maradona",
+    "the_imitation_game",
+    "benedetta",
+    "22_july",
+    "the_pianist",
+    "emperor",
+    "gone_with_the_wind",
+    "free_state_of_jones",
+    "a_united_kingdom",
+    "the_last_temptation_of_christ",
+    "denial",
+    "the_young_messiah",
+    "letters_from_iwo_jima",
+    "american_pastoral",
+    "colette",
+    "snowden",
+    "the_white_tiger",
+    "on_the_basis_of_sex",
+    "official_secrets",
+    "12_years_a_slave"
+  ]
+}

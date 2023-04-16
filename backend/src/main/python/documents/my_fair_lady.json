@@ -1,1 +1,65 @@
-{"id": 4592, "title": "My Fair Lady", "starring": ["Audrey Hepburn", "Rex Harrison"], "runtime": 170, "genre": ["Romance", "Drama", "Music"], "description": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.", "releaseYear": "1964", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg", "categories": {"plot": 10.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "As masterfully elegant and lovely as it is rich thematically in its story. The amazing performances even further rises this film as undeniably one of the greatest if not the greatest film of all time."}, {"rating": "10", "text": "I have just watched this for the first time in the new remastered 4K version and WOW it looks astonishing, the amount of detail captured from the original 65mm film is incredible. The costumes, indoor and outdoor scenes are glorious and I was captivated by the story from start to finish. It has great songs, some of which are famous and I didn't know were attributed to this musical and the two leads, particularly Audrey Hepburn, sing and act really well. I thoroughly enjoyed this film and will definitely be watching it again."}], "recommendations": ["la_la_land", "moulin_rouge", "chicago", "the_greatest_showman", "the_sound_of_music", "sweeney_todd_the_demon_barber_of_fleet_street", "almost_famous", "mary_poppins_returns", "casablanca", "a_star_is_born", "work_it", "bohemian_rhapsody", "the_english_patient", "begin_again", "in_the_heights", "memoirs_of_a_geisha", "cats", "mamma_mia_here_we_go_again", "burlesque", "amadeus", "youth", "jingle_jangle_a_christmas_journey", "wolfwalkers", "the_great_gatsby", "rocketman"]}
+{
+  "id": 4592,
+  "title": "My Fair Lady",
+  "starring": [
+    "Audrey Hepburn",
+    "Rex Harrison"
+  ],
+  "runtime": 170,
+  "genre": [
+    "Romance",
+    "Drama",
+    "Music"
+  ],
+  "description": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+  "releaseYear": "1964",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "As masterfully elegant and lovely as it is rich thematically in its story. The amazing performances even further rises this film as undeniably one of the greatest if not the greatest film of all time."
+    },
+    {
+      "rating": "10",
+      "text": "I have just watched this for the first time in the new remastered 4K version and WOW it looks astonishing, the amount of detail captured from the original 65mm film is incredible. The costumes, indoor and outdoor scenes are glorious and I was captivated by the story from start to finish. It has great songs, some of which are famous and I didn't know were attributed to this musical and the two leads, particularly Audrey Hepburn, sing and act really well. I thoroughly enjoyed this film and will definitely be watching it again."
+    }
+  ],
+  "recommendations": [
+    "la_la_land",
+    "moulin_rouge",
+    "chicago",
+    "the_greatest_showman",
+    "the_sound_of_music",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "almost_famous",
+    "mary_poppins_returns",
+    "casablanca",
+    "a_star_is_born",
+    "work_it",
+    "bohemian_rhapsody",
+    "the_english_patient",
+    "begin_again",
+    "in_the_heights",
+    "memoirs_of_a_geisha",
+    "cats",
+    "mamma_mia_here_we_go_again",
+    "burlesque",
+    "amadeus",
+    "youth",
+    "jingle_jangle_a_christmas_journey",
+    "wolfwalkers",
+    "the_great_gatsby",
+    "rocketman"
+  ]
+}

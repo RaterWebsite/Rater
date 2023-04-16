@@ -1,1 +1,127 @@
-{"id": 3100, "title": "The Star", "starring": ["Steven Yeun", "Keegan-Michael Key"], "runtime": 86, "genre": ["Comedy", "Adventure", "Family", "Fantasy", "Animation"], "description": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.", "releaseYear": "2017", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/tEbDvivUfsCupngKIfMJJ725eAD.jpg", "categories": {"plot": 4.583333333333333, "acting": 4.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.2, "funny": 5.6, "action": 5.0}, "reviews": [{"rating": "5", "text": "Its not going to win any awards, but if you are looking for a fun family film that covers the true story of Christmas in a fun way then you will love this movie.  While it throws biblical accuracy out the window, its still fun and enjoyable.  I would recommend for Children up to age 12.The animation on this film is excellent and really surprising for what was certainly not a big budget animation film."}, {"rating": "8", "text": "It might not be the next Pixar's \"Inside Out\", but it is fun and enjoyable. Great for kids, but if you are an adult who believes in the Spirit of Christmas, you'll probably enjoy it as well."}, {"rating": "8", "text": "I think this film is a fun new way to reenact the birth of jesus christ and how they didn't stray to far away from the actual story to be offensive, even so the humor is not all the funny and if your not christian you most likely won't enjoy this movie."}, {"rating": "10", "text": "Such a fantastic kids movie. My family and me loved it so much. The animals are so cute and spellbound me the whole movie. Comedy in it is fine and plot is good as well."}, {"rating": "5", "text": "For those who might be looking for some stories at least based on Christianity itself, The Star is something for you to see. Otherwise, all together what it makes is a huge forgettable movie that never attempts to shine to victory compared to the other movies."}, {"rating": "4", "text": "Nice enough story, but not believable. Good cast makes the dialogue sing, but again, just not a believable story in today's world. I like that Oprah is in  it because she is so great and cool. I used to have an Oprah wig and I would wear it around the house and I'd hold a spatula like a microphone and I'd be just telling people how to live their lives and occasionally I'd re-enact Stedman and Oprah's wedding night complete with the oversized gourds and vibrating egg."}, {"rating": "2", "text": "It stinks! would say Jay Sherman if he was real. The Star is every tipical classic animated film with the formula of \"Take place in an importannt event of the past\" whit \"What really happen\" whit annoying talking animals. That goes whit most of the characters that are a cast of unfunny and unintresting characters, whit an boring plot and unfunny humor and animal slapstick. Sure, the animation and voice acting isn't bad, but it still not enough to say is your tipical movie cartoon whit animals. I'm not a religious person but if i was, i would stay hate this movie. There's no reason to nominee this to the Golden Globes or even for Best Song. And there's no way that Sony can make more money."}, {"rating": "8", "text": "this good brave donkey should be battling the cowardly evil elephants.  donkeys are often taken advantage of by selfish elephants depriving donkeys of their rights to things they have a right to like medicine, food, and condoms."}, {"rating": "5", "text": "This has some okay animation and is good hearted but is essentially a very average film."}, {"rating": "10", "text": "Gostei muito, conta a hist\u00f3ria de Jesus de melhor entendimento para as crian\u00e7as"}, {"rating": "6", "text": "This was actually a clever way of telling the story of Jesus, i'm impressed."}, {"rating": "8", "text": "Not surprising that this would get lambasted by critics - anything that attempts to portray events in the Bible without subverting it somehow is never going to get a fair shake.But this movie surprisingly does just that - in 2017, we have a theatrical release of a movie that does a fairly decent job of retelling the birth of Christ, through the eyes of the donkey Boaz who longs to be part of the royal caravan.  Many of the events are expanded on/fictionalized/time-compressed, but overall it stays true to the Christmas story. Themes of friendship, faith, and redemption are all present in spades. Both traditional and non-traditional Christmas songs are peppered throughout, and for the most part are well done.There are a couple of poop jokes that feel very out of place given the subject matter, but that sort of thing seems to be written in the contract of all kids movies these days. The main antagonist is pretty scary, and (IIRC) he dies at the end, so keep that in mind when bringing young children.  But my 5 and 8 year old enjoyed it very much; they saw it twice - once as a free pre-release screening (full disclosure), then again once it was in the theaters. It's not destined to be a seasonal classic, but for those who are looking for a modern movie that aims to tell the actual story of the holiday rather than some nebulous \"spirit of Christmas\" schlock, this is pretty good."}, {"rating": "1", "text": "Absolutely horrible in every sense. This potentially powerful story should not have had its focus on the animals, no one gave a **** about them, and every time the film was getting interesting with the human characters, it cut to the animals doing stupid **** This is one pile of animal manure that you can skip."}, {"rating": "2", "text": "I find The Star super offensive. They warp the story of the Messiah and add cringy humor to this film. The animation is horrible and the plot line made me want to punch myself in the face over and over again. I hate this movie so much! It\u2019s the worst film I\u2019ve seen in a while. I give it a 2 because they tried, but this film deserves a 0."}, {"rating": "10", "text": "O filme at\u00e9 que \u00e9 bom, Mariah Carey  merecia ganhar o globo de ouro com a trilha sonora, maior injusti\u00e7a"}, {"rating": "10", "text": "Just watched this with the kids,  \"The Star\"A really underrated movie about the journey Mother Mary had since the day The Angel visited her. It is funny, touching. The songs are great. It is a good movie to watch with the whole family this Christmas. This movie made me appreciate Mother Mary even more while at the same time get the magical feeling about Jesus Christ birth"}, {"rating": "4", "text": "Why does the Jesus baby looks like it was from The Boss Baby? Also it could've better if its not focusing on comedy."}], "recommendations": ["the_peanuts_movie", "ferdinand", "meet_the_robinsons", "ice_age_the_meltdown", "the_smurfs", "zootopia", "despicable_me", "the_land_before_time", "the_polar_express", "the_willoughbys", "rise_of_the_guardians", "antz", "rio_2", "coraline", "smurfs_the_lost_village", "ice_age_continental_drift", "hotel_transylvania", "the_lego_movie", "shark_tale", "hotel_transylvania_2", "cloudy_with_a_chance_of_meatballs_2", "the_tale_of_despereaux", "klaus", "the_angry_birds_movie", "onward"]}
+{
+  "id": 3100,
+  "title": "The Star",
+  "starring": [
+    "Steven Yeun",
+    "Keegan-Michael Key"
+  ],
+  "runtime": 86,
+  "genre": [
+    "Comedy",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Animation"
+  ],
+  "description": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+  "releaseYear": "2017",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+  "categories": {
+    "plot": 4.583333333333333,
+    "acting": 4.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.2,
+    "funny": 5.6,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Its not going to win any awards, but if you are looking for a fun family film that covers the true story of Christmas in a fun way then you will love this movie.  While it throws biblical accuracy out the window, its still fun and enjoyable.  I would recommend for Children up to age 12.The animation on this film is excellent and really surprising for what was certainly not a big budget animation film."
+    },
+    {
+      "rating": "8",
+      "text": "It might not be the next Pixar's \"Inside Out\", but it is fun and enjoyable. Great for kids, but if you are an adult who believes in the Spirit of Christmas, you'll probably enjoy it as well."
+    },
+    {
+      "rating": "8",
+      "text": "I think this film is a fun new way to reenact the birth of jesus christ and how they didn't stray to far away from the actual story to be offensive, even so the humor is not all the funny and if your not christian you most likely won't enjoy this movie."
+    },
+    {
+      "rating": "10",
+      "text": "Such a fantastic kids movie. My family and me loved it so much. The animals are so cute and spellbound me the whole movie. Comedy in it is fine and plot is good as well."
+    },
+    {
+      "rating": "5",
+      "text": "For those who might be looking for some stories at least based on Christianity itself, The Star is something for you to see. Otherwise, all together what it makes is a huge forgettable movie that never attempts to shine to victory compared to the other movies."
+    },
+    {
+      "rating": "4",
+      "text": "Nice enough story, but not believable. Good cast makes the dialogue sing, but again, just not a believable story in today's world. I like that Oprah is in  it because she is so great and cool. I used to have an Oprah wig and I would wear it around the house and I'd hold a spatula like a microphone and I'd be just telling people how to live their lives and occasionally I'd re-enact Stedman and Oprah's wedding night complete with the oversized gourds and vibrating egg."
+    },
+    {
+      "rating": "2",
+      "text": "It stinks! would say Jay Sherman if he was real. The Star is every tipical classic animated film with the formula of \"Take place in an importannt event of the past\" whit \"What really happen\" whit annoying talking animals. That goes whit most of the characters that are a cast of unfunny and unintresting characters, whit an boring plot and unfunny humor and animal slapstick. Sure, the animation and voice acting isn't bad, but it still not enough to say is your tipical movie cartoon whit animals. I'm not a religious person but if i was, i would stay hate this movie. There's no reason to nominee this to the Golden Globes or even for Best Song. And there's no way that Sony can make more money."
+    },
+    {
+      "rating": "8",
+      "text": "this good brave donkey should be battling the cowardly evil elephants.  donkeys are often taken advantage of by selfish elephants depriving donkeys of their rights to things they have a right to like medicine, food, and condoms."
+    },
+    {
+      "rating": "5",
+      "text": "This has some okay animation and is good hearted but is essentially a very average film."
+    },
+    {
+      "rating": "10",
+      "text": "Gostei muito, conta a hist\u00f3ria de Jesus de melhor entendimento para as crian\u00e7as"
+    },
+    {
+      "rating": "6",
+      "text": "This was actually a clever way of telling the story of Jesus, i'm impressed."
+    },
+    {
+      "rating": "8",
+      "text": "Not surprising that this would get lambasted by critics - anything that attempts to portray events in the Bible without subverting it somehow is never going to get a fair shake.But this movie surprisingly does just that - in 2017, we have a theatrical release of a movie that does a fairly decent job of retelling the birth of Christ, through the eyes of the donkey Boaz who longs to be part of the royal caravan.  Many of the events are expanded on/fictionalized/time-compressed, but overall it stays true to the Christmas story. Themes of friendship, faith, and redemption are all present in spades. Both traditional and non-traditional Christmas songs are peppered throughout, and for the most part are well done.There are a couple of poop jokes that feel very out of place given the subject matter, but that sort of thing seems to be written in the contract of all kids movies these days. The main antagonist is pretty scary, and (IIRC) he dies at the end, so keep that in mind when bringing young children.  But my 5 and 8 year old enjoyed it very much; they saw it twice - once as a free pre-release screening (full disclosure), then again once it was in the theaters. It's not destined to be a seasonal classic, but for those who are looking for a modern movie that aims to tell the actual story of the holiday rather than some nebulous \"spirit of Christmas\" schlock, this is pretty good."
+    },
+    {
+      "rating": "1",
+      "text": "Absolutely horrible in every sense. This potentially powerful story should not have had its focus on the animals, no one gave a **** about them, and every time the film was getting interesting with the human characters, it cut to the animals doing stupid **** This is one pile of animal manure that you can skip."
+    },
+    {
+      "rating": "2",
+      "text": "I find The Star super offensive. They warp the story of the Messiah and add cringy humor to this film. The animation is horrible and the plot line made me want to punch myself in the face over and over again. I hate this movie so much! It\u2019s the worst film I\u2019ve seen in a while. I give it a 2 because they tried, but this film deserves a 0."
+    },
+    {
+      "rating": "10",
+      "text": "O filme at\u00e9 que \u00e9 bom, Mariah Carey  merecia ganhar o globo de ouro com a trilha sonora, maior injusti\u00e7a"
+    },
+    {
+      "rating": "10",
+      "text": "Just watched this with the kids,  \"The Star\"A really underrated movie about the journey Mother Mary had since the day The Angel visited her. It is funny, touching. The songs are great. It is a good movie to watch with the whole family this Christmas. This movie made me appreciate Mother Mary even more while at the same time get the magical feeling about Jesus Christ birth"
+    },
+    {
+      "rating": "4",
+      "text": "Why does the Jesus baby looks like it was from The Boss Baby? Also it could've better if its not focusing on comedy."
+    }
+  ],
+  "recommendations": [
+    "the_peanuts_movie",
+    "ferdinand",
+    "meet_the_robinsons",
+    "ice_age_the_meltdown",
+    "the_smurfs",
+    "zootopia",
+    "despicable_me",
+    "the_land_before_time",
+    "the_polar_express",
+    "the_willoughbys",
+    "rise_of_the_guardians",
+    "antz",
+    "rio_2",
+    "coraline",
+    "smurfs_the_lost_village",
+    "ice_age_continental_drift",
+    "hotel_transylvania",
+    "the_lego_movie",
+    "shark_tale",
+    "hotel_transylvania_2",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_tale_of_despereaux",
+    "klaus",
+    "the_angry_birds_movie",
+    "onward"
+  ]
+}

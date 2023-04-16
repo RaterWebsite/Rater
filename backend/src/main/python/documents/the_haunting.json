@@ -1,1 +1,71 @@
-{"id": 2024, "title": "The Haunting", "starring": ["Julie Harris", "Claire Bloom"], "runtime": 112, "genre": ["Horror"], "description": "Dr. Markway, doing research to prove the existence of ghosts, investigates Hill House, a large, eerie mansion with a lurid history of violent death and insanity.", "releaseYear": "1963", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg", "categories": {"plot": 6.5, "acting": 6.333333333333333, "ending": 6.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "Worthwhile in only a purely historical context for me, Robert Wise's 1963 chiller \"The Haunting\" (Martin Scorsese's favorite horror film, by the way) features scary ideas, clever production design and a few neat camera tricks here and there. Aside from these components, though, this was a borderline chore for me to watch. The stuffy and confusing character work and almost infuriatingly unnecessary voice over really tried my patience at times. And with an ending that just sort of \"happens\" instead of \"unfolds,\" I can safely say that I'm one of the miscreants that doesn't completely appreciate the timelessness everyone else sees."}, {"rating": "7", "text": "I can believe that this was scary in its time, but now it pales in every way, the supernatural atmosphere is pretty good and that's what kept me going and kept me interested and above all is what ends up keeping this movie in good level.Nothing to do with what I expected but it was not bad either."}, {"rating": "7", "text": "This film has a curiously unsettling feel to it, although it's undoubtedly a lot tamer than most horror films but that is hardly surprising. Of course, this is a film of its time, being in black and white and most of the scares coming from noises emanating from the old house - noises heard but not much physically shown, certainly in the first half of the film. The script/dialogue is good at times and the characters are mildly interesting. As a classic film, it's not bad. I imagine some people may have found it a bit sinister, primarily in terms of some of the imagery shown and the stories told during the plot. I thought the narration of the main character was quite good, hearing her thoughts while seeing her wander the house.If your a fan of classic cinema, then yes, I'd recommend it."}, {"rating": "10", "text": "This is my favorite supernatural horror movie of all time. Don't bother with the 1999 version as it's not even close. This black and white original does an incredible job of scaring you with what's not shown, even though there are some special effects that are amazing for 1963. The entire movie has such a great build up and ending. It is 100% a classic horror movie that you must absolutely see to understand what can be done without blood and guts. Turn out the lights, turn up the sound, and experience the masterful direction of Robert Wise at his prime."}], "recommendations": ["the_conjuring", "it_follows", "scary_stories_to_tell_in_the_dark", "insidious", "the_ring", "the_woman_in_black", "antlers", "the_haunting_in_connecticut_2_ghosts_of_georgia", "the_conjuring_2", "insidious_chapter_2", "it", "sinister_2", "the_descent", "color_out_of_space", "annabelle", "insidious_chapter_3", "the_fly", "the_witch", "lights_out", "the_grudge", "the_babadook", "event_horizon", "the_possession", "dark_skies", "eli"]}
+{
+  "id": 2024,
+  "title": "The Haunting",
+  "starring": [
+    "Julie Harris",
+    "Claire Bloom"
+  ],
+  "runtime": 112,
+  "genre": [
+    "Horror"
+  ],
+  "description": "Dr. Markway, doing research to prove the existence of ghosts, investigates Hill House, a large, eerie mansion with a lurid history of violent death and insanity.",
+  "releaseYear": "1963",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+  "categories": {
+    "plot": 6.5,
+    "acting": 6.333333333333333,
+    "ending": 6.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Worthwhile in only a purely historical context for me, Robert Wise's 1963 chiller \"The Haunting\" (Martin Scorsese's favorite horror film, by the way) features scary ideas, clever production design and a few neat camera tricks here and there. Aside from these components, though, this was a borderline chore for me to watch. The stuffy and confusing character work and almost infuriatingly unnecessary voice over really tried my patience at times. And with an ending that just sort of \"happens\" instead of \"unfolds,\" I can safely say that I'm one of the miscreants that doesn't completely appreciate the timelessness everyone else sees."
+    },
+    {
+      "rating": "7",
+      "text": "I can believe that this was scary in its time, but now it pales in every way, the supernatural atmosphere is pretty good and that's what kept me going and kept me interested and above all is what ends up keeping this movie in good level.Nothing to do with what I expected but it was not bad either."
+    },
+    {
+      "rating": "7",
+      "text": "This film has a curiously unsettling feel to it, although it's undoubtedly a lot tamer than most horror films but that is hardly surprising. Of course, this is a film of its time, being in black and white and most of the scares coming from noises emanating from the old house - noises heard but not much physically shown, certainly in the first half of the film. The script/dialogue is good at times and the characters are mildly interesting. As a classic film, it's not bad. I imagine some people may have found it a bit sinister, primarily in terms of some of the imagery shown and the stories told during the plot. I thought the narration of the main character was quite good, hearing her thoughts while seeing her wander the house.If your a fan of classic cinema, then yes, I'd recommend it."
+    },
+    {
+      "rating": "10",
+      "text": "This is my favorite supernatural horror movie of all time. Don't bother with the 1999 version as it's not even close. This black and white original does an incredible job of scaring you with what's not shown, even though there are some special effects that are amazing for 1963. The entire movie has such a great build up and ending. It is 100% a classic horror movie that you must absolutely see to understand what can be done without blood and guts. Turn out the lights, turn up the sound, and experience the masterful direction of Robert Wise at his prime."
+    }
+  ],
+  "recommendations": [
+    "the_conjuring",
+    "it_follows",
+    "scary_stories_to_tell_in_the_dark",
+    "insidious",
+    "the_ring",
+    "the_woman_in_black",
+    "antlers",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_conjuring_2",
+    "insidious_chapter_2",
+    "it",
+    "sinister_2",
+    "the_descent",
+    "color_out_of_space",
+    "annabelle",
+    "insidious_chapter_3",
+    "the_fly",
+    "the_witch",
+    "lights_out",
+    "the_grudge",
+    "the_babadook",
+    "event_horizon",
+    "the_possession",
+    "dark_skies",
+    "eli"
+  ]
+}

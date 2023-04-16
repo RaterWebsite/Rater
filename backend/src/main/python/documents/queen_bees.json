@@ -1,1 +1,72 @@
-{"id": 4626, "title": "Queen Bees", "starring": ["Ellen Burstyn", "James Caan"], "runtime": 101, "genre": ["Romance", "Comedy"], "description": "Helen is an independent widow who moves into the Pine Grove Senior Community and discovers it\u2019s just like high school \u2013 full of cliques and flirtatious suitors. What she initially avoids leads her to exactly what she has been missing: new friendships and a chance at love again with newcomer Dan.", "releaseYear": "2021", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/peYRpielBbRHMGNYJnWyCsG7apA.jpg", "categories": {"plot": 2.0, "acting": 1.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.166666666666667, "funny": 8.0, "action": 5.0}, "reviews": [{"rating": "2", "text": "Hollywood occasionally aims for the Boomer+ audience with limited success (POMS comes to mind: my review). Ellen Burstyn plays a woman who reluctantly moves in a retirement community, where she meets an impressive cast of seniors, including Jane Curtain, Ann-Margret, Loretta Devine, Christopher Lloyd and James Caan. The food in these facilities is notoriously bland and this script follows suit. The plot is so completely predictable that it hurts (including with the expected ailments). The characters relationships are telegraphed long before they develop and none of the dialogue is remotely interesting. Devine gets the only mildly fun moments, while the rest of the cast plays it earnest. Perhaps an audience over 80 might relate, but anyone younger is liable to groan at this facile pandering approach to aging."}, {"rating": "7", "text": "This is a very fun movie, but it is really more of a dramedy than a comedy.  There are some good zingers throughout, but it is not entirely a comedy.  Helen has had to leave her house due to an unfortunate accident, and does so very unwillingly.  Her controlling daughter wants her to move into a senior housing center where Helen expects to have to deal with \u201cold people.\u201d   Of course, old people are still human with all kinds of personalities and flaws, and Helen has a run-in with one immediately.  The supporting cast is very fun: Jane Curtin is great fun to watch, Ann-Margret and Loretta Devine are also in the mix, as well as James Caan and French Stewart.  A great cast, lots of fun moments and poignant ones throughout.  All of my friends and I enjoyed it a lot!"}, {"rating": "0", "text": "On the one hand, it's great to see fine actors getting gigs in their old age. On the other, not like this. This is sitcom territory and it just makes me sad for them, granted, they're working and getting paid. I would really love to hear their honest opinions about it, not the plug for the movie. If they're having fun making this, great, but it's a no for me dawg."}, {"rating": "8", "text": "I quite enjoyed this film - yes its both sentimental and cheesy but I kind of liked it for that. Its an easy and light watch and it has a good cast and some funny moments. I would recommend it, yes."}], "recommendations": ["last_vegas", "the_intern", "easy_a", "book_club", "spanglish", "life_as_we_know_it", "10_things_i_hate_about_you", "silver_linings_playbook", "happiest_season", "sisters", "chef", "going_in_style", "friends_with_benefits", "about_a_boy", "what_women_want", "hitch", "morning_glory", "as_good_as_it_gets", "the_first_time", "the_boss", "love_actually", "big", "17_again", "we_bought_a_zoo", "the_dilemma"]}
+{
+  "id": 4626,
+  "title": "Queen Bees",
+  "starring": [
+    "Ellen Burstyn",
+    "James Caan"
+  ],
+  "runtime": 101,
+  "genre": [
+    "Romance",
+    "Comedy"
+  ],
+  "description": "Helen is an independent widow who moves into the Pine Grove Senior Community and discovers it\u2019s just like high school \u2013 full of cliques and flirtatious suitors. What she initially avoids leads her to exactly what she has been missing: new friendships and a chance at love again with newcomer Dan.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/peYRpielBbRHMGNYJnWyCsG7apA.jpg",
+  "categories": {
+    "plot": 2.0,
+    "acting": 1.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.166666666666667,
+    "funny": 8.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "Hollywood occasionally aims for the Boomer+ audience with limited success (POMS comes to mind: my review). Ellen Burstyn plays a woman who reluctantly moves in a retirement community, where she meets an impressive cast of seniors, including Jane Curtain, Ann-Margret, Loretta Devine, Christopher Lloyd and James Caan. The food in these facilities is notoriously bland and this script follows suit. The plot is so completely predictable that it hurts (including with the expected ailments). The characters relationships are telegraphed long before they develop and none of the dialogue is remotely interesting. Devine gets the only mildly fun moments, while the rest of the cast plays it earnest. Perhaps an audience over 80 might relate, but anyone younger is liable to groan at this facile pandering approach to aging."
+    },
+    {
+      "rating": "7",
+      "text": "This is a very fun movie, but it is really more of a dramedy than a comedy.  There are some good zingers throughout, but it is not entirely a comedy.  Helen has had to leave her house due to an unfortunate accident, and does so very unwillingly.  Her controlling daughter wants her to move into a senior housing center where Helen expects to have to deal with \u201cold people.\u201d   Of course, old people are still human with all kinds of personalities and flaws, and Helen has a run-in with one immediately.  The supporting cast is very fun: Jane Curtin is great fun to watch, Ann-Margret and Loretta Devine are also in the mix, as well as James Caan and French Stewart.  A great cast, lots of fun moments and poignant ones throughout.  All of my friends and I enjoyed it a lot!"
+    },
+    {
+      "rating": "0",
+      "text": "On the one hand, it's great to see fine actors getting gigs in their old age. On the other, not like this. This is sitcom territory and it just makes me sad for them, granted, they're working and getting paid. I would really love to hear their honest opinions about it, not the plug for the movie. If they're having fun making this, great, but it's a no for me dawg."
+    },
+    {
+      "rating": "8",
+      "text": "I quite enjoyed this film - yes its both sentimental and cheesy but I kind of liked it for that. Its an easy and light watch and it has a good cast and some funny moments. I would recommend it, yes."
+    }
+  ],
+  "recommendations": [
+    "last_vegas",
+    "the_intern",
+    "easy_a",
+    "book_club",
+    "spanglish",
+    "life_as_we_know_it",
+    "10_things_i_hate_about_you",
+    "silver_linings_playbook",
+    "happiest_season",
+    "sisters",
+    "chef",
+    "going_in_style",
+    "friends_with_benefits",
+    "about_a_boy",
+    "what_women_want",
+    "hitch",
+    "morning_glory",
+    "as_good_as_it_gets",
+    "the_first_time",
+    "the_boss",
+    "love_actually",
+    "big",
+    "17_again",
+    "we_bought_a_zoo",
+    "the_dilemma"
+  ]
+}

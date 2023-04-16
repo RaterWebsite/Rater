@@ -1,1 +1,63 @@
-{"id": 1817, "title": "Stranger Things", "starring": ["Bridget Collins", "Adeel Akhtar"], "runtime": 77, "genre": ["Drama"], "description": "Oona, a recent graduate in anthropology, has returned to her dead mother\u2019s seaside cottage in southern England to prepare it for sale. Her arrival disturbs Mani, a wary vagrant who has been squatting on the property.", "releaseYear": "2013", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/4TKdguyacjYrC1Hnbi3PjSP8r3M.jpg", "categories": {"plot": 3.0, "acting": 5.5, "ending": 5.0, "soundtrack": 5.0, "cinematography": 3.0, "familyFriendly": 5.0, "funny": 3.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "Terrible!!! OK the acting is fine, Winona Ryder outperforms everyone else good for her, the cinematography etc. is all fine, but the STORY and the WRITING are absolute garbage. The story is the most cliched hodgepodge of stuff patched in from old TV shows and movies, but nothing is explained beyond saying there is some kind of alternative universe that is conveniently populated with monsters that look like all the monsters in all the other horror TV shows and movies of the past 20 years. The dialogue from the first two episodes is particularly atrocious. It's almost funny to watch the actors try to deliver the fake sounding dialogue in a way that's convincing. Anyway, a total waste of time. You want to see something fun on Netflix, watch 11.22.63. It has a big flaw conceptually but it is a lot of fun anyway, or watch House of Cards or Daredevil. But give Stranger Things a pass."}, {"rating": "8", "text": "Halfway through and this show has me hooked.  Most of the child actors are good and believable, with one gap-toothed kid being so adorable that I giggle ever time he's on screen.  The desperation of the parents searching for the missing children is intense.  Winona Ryder is a wee bit over the top in her acting in my opinion.  The weirdness and the bizarreness that ensues is spell-binding."}], "recommendations": ["the_tale_of_despereaux", "dolittle", "walking_with_dinosaurs", "old", "the_smurfs", "diary_of_a_wimpy_kid_the_long_haul", "the_bye_bye_man", "the_boss_baby_family_business", "the_nut_job", "monsters_vs_aliens", "the_curse_of_la_llorona", "the_twilight_saga_breaking_dawn_part_1", "chicken_little", "slender_man", "zookeeper", "monster_house", "the_croods_a_new_age", "spy_kids_all_the_time_in_the_world", "alvin_and_the_chipmunks", "alvin_and_the_chipmunks_chipwrecked", "yogi_bear", "the_war_with_grandpa", "doctor_strange_in_the_multiverse_of_madness", "cloudy_with_a_chance_of_meatballs", "rim_of_the_world"]}
+{
+  "id": 1817,
+  "title": "Stranger Things",
+  "starring": [
+    "Bridget Collins",
+    "Adeel Akhtar"
+  ],
+  "runtime": 77,
+  "genre": [
+    "Drama"
+  ],
+  "description": "Oona, a recent graduate in anthropology, has returned to her dead mother\u2019s seaside cottage in southern England to prepare it for sale. Her arrival disturbs Mani, a wary vagrant who has been squatting on the property.",
+  "releaseYear": "2013",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/4TKdguyacjYrC1Hnbi3PjSP8r3M.jpg",
+  "categories": {
+    "plot": 3.0,
+    "acting": 5.5,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 3.0,
+    "familyFriendly": 5.0,
+    "funny": 3.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Terrible!!! OK the acting is fine, Winona Ryder outperforms everyone else good for her, the cinematography etc. is all fine, but the STORY and the WRITING are absolute garbage. The story is the most cliched hodgepodge of stuff patched in from old TV shows and movies, but nothing is explained beyond saying there is some kind of alternative universe that is conveniently populated with monsters that look like all the monsters in all the other horror TV shows and movies of the past 20 years. The dialogue from the first two episodes is particularly atrocious. It's almost funny to watch the actors try to deliver the fake sounding dialogue in a way that's convincing. Anyway, a total waste of time. You want to see something fun on Netflix, watch 11.22.63. It has a big flaw conceptually but it is a lot of fun anyway, or watch House of Cards or Daredevil. But give Stranger Things a pass."
+    },
+    {
+      "rating": "8",
+      "text": "Halfway through and this show has me hooked.  Most of the child actors are good and believable, with one gap-toothed kid being so adorable that I giggle ever time he's on screen.  The desperation of the parents searching for the missing children is intense.  Winona Ryder is a wee bit over the top in her acting in my opinion.  The weirdness and the bizarreness that ensues is spell-binding."
+    }
+  ],
+  "recommendations": [
+    "the_tale_of_despereaux",
+    "dolittle",
+    "walking_with_dinosaurs",
+    "old",
+    "the_smurfs",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "the_bye_bye_man",
+    "the_boss_baby_family_business",
+    "the_nut_job",
+    "monsters_vs_aliens",
+    "the_curse_of_la_llorona",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "chicken_little",
+    "slender_man",
+    "zookeeper",
+    "monster_house",
+    "the_croods_a_new_age",
+    "spy_kids_all_the_time_in_the_world",
+    "alvin_and_the_chipmunks",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "yogi_bear",
+    "the_war_with_grandpa",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "cloudy_with_a_chance_of_meatballs",
+    "rim_of_the_world"
+  ]
+}

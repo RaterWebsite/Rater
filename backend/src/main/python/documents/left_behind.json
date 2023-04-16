@@ -1,1 +1,85 @@
-{"id": 1383, "title": "Left Behind", "starring": ["Nicolas Cage", "Chad Michael Murray"], "runtime": 110, "genre": ["Thriller", "Action", "Science Fiction"], "description": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.", "releaseYear": "2014", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 0.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "This movie is the closest movie that is out there I give it an A+."}, {"rating": "3", "text": "Read the book of revelation! and you will see that this movie is total mess! 2 god whitenesses hanging by the wailing wall doing nothing??? What is that? I think this whole theory of pre-tribulation rapture is for lazy Christians who is afraid to stand for their faith! \"Let the other unbelievers will do our work for us!\". Only thing that i like was that \"unbelievers\" ware actually whitnessing while most of Christian today just waiting for a rapture."}, {"rating": "0", "text": "Pfft. If MST3K had only stuck around for a few more years, maybe we would have seen this movie get the treatment it deserves. The lame pop song playing over the end credits is the topping to this cheesecake."}, {"rating": "10", "text": "Good Movie."}, {"rating": "10", "text": "left behind is a must see movie! if you havent seen it I incourage you to do so."}, {"rating": "0", "text": "Reduces Christianity to glorified fire insurance for the afterlife or whenever the cooks manage to Immanentize the Eschaton. Where's the Christ in this Christianity?"}, {"rating": "8", "text": "i loved this movie so much! I thought it was awesome!!!!"}], "recommendations": ["son_of_god", "eragon", "the_da_vinci_code", "idiocracy", "the_emoji_movie", "noah", "the_book_of_eli", "the_mortal_instruments_city_of_bones", "bridge_to_terabithia", "war_room", "heaven_is_for_real", "i_care_a_lot", "mother", "fifty_shades_of_grey", "evan_almighty", "knowing", "meet_the_spartans", "the_kissing_booth_2", "saw_v", "overcomer", "never_back_down", "confessions_of_a_shopaholic", "woodlawn", "norm_of_the_north", "vampire_academy"]}
+{
+  "id": 1383,
+  "title": "Left Behind",
+  "starring": [
+    "Nicolas Cage",
+    "Chad Michael Murray"
+  ],
+  "runtime": 110,
+  "genre": [
+    "Thriller",
+    "Action",
+    "Science Fiction"
+  ],
+  "description": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.",
+  "releaseYear": "2014",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 0.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "This movie is the closest movie that is out there I give it an A+."
+    },
+    {
+      "rating": "3",
+      "text": "Read the book of revelation! and you will see that this movie is total mess! 2 god whitenesses hanging by the wailing wall doing nothing??? What is that? I think this whole theory of pre-tribulation rapture is for lazy Christians who is afraid to stand for their faith! \"Let the other unbelievers will do our work for us!\". Only thing that i like was that \"unbelievers\" ware actually whitnessing while most of Christian today just waiting for a rapture."
+    },
+    {
+      "rating": "0",
+      "text": "Pfft. If MST3K had only stuck around for a few more years, maybe we would have seen this movie get the treatment it deserves. The lame pop song playing over the end credits is the topping to this cheesecake."
+    },
+    {
+      "rating": "10",
+      "text": "Good Movie."
+    },
+    {
+      "rating": "10",
+      "text": "left behind is a must see movie! if you havent seen it I incourage you to do so."
+    },
+    {
+      "rating": "0",
+      "text": "Reduces Christianity to glorified fire insurance for the afterlife or whenever the cooks manage to Immanentize the Eschaton. Where's the Christ in this Christianity?"
+    },
+    {
+      "rating": "8",
+      "text": "i loved this movie so much! I thought it was awesome!!!!"
+    }
+  ],
+  "recommendations": [
+    "son_of_god",
+    "eragon",
+    "the_da_vinci_code",
+    "idiocracy",
+    "the_emoji_movie",
+    "noah",
+    "the_book_of_eli",
+    "the_mortal_instruments_city_of_bones",
+    "bridge_to_terabithia",
+    "war_room",
+    "heaven_is_for_real",
+    "i_care_a_lot",
+    "mother",
+    "fifty_shades_of_grey",
+    "evan_almighty",
+    "knowing",
+    "meet_the_spartans",
+    "the_kissing_booth_2",
+    "saw_v",
+    "overcomer",
+    "never_back_down",
+    "confessions_of_a_shopaholic",
+    "woodlawn",
+    "norm_of_the_north",
+    "vampire_academy"
+  ]
+}

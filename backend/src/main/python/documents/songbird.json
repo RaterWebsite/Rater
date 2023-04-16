@@ -1,1 +1,106 @@
-{"id": 3818, "title": "Songbird", "starring": ["K.J. Apa", "Sofia Carson"], "runtime": 85, "genre": ["Thriller", "Romance", "Drama", "Mystery"], "description": "During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.", "releaseYear": "2020", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/DxDIioCnlhjIL1vEhfrLTBg0VU.jpg", "categories": {"plot": 10.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 7.0}, "reviews": [{"rating": "7", "text": "It's not exceptional but I liked it and enjoyed it, I felt the tension, I want to see it again, promise me.one thing, don't ever give up"}, {"rating": "8", "text": "Songbird is an amazingly natural and uplifting movie, with a timely positive message."}, {"rating": "10", "text": "Often times, Hollywood conditions a population for the future. This film isn't much for entertainment value but it's a huge warning for anyone who loves freedom. Ofcourse the future won't look exactly like the movie but it will be close enough."}, {"rating": "10", "text": "Okay, this movie isn't the best in the pandemic time. Because it's really bashing and controverse to see. But it shows how manipulable people are, if only dollars signs are in her/his eyes.There are some topics to find: Corona Virus Prostitution emotional/physical abuseDifference between cultures"}, {"rating": "7", "text": "Let\u2019s hope it never come to that, good film with action and a lot of thinking"}, {"rating": "1", "text": "This film was not well done... the timing is bad... and let\u2019s be honest I wasn\u2019t looking for Romeo & Juliet plot. Don\u2019t waste your time not worth it."}, {"rating": "10", "text": "Great cast. Great movie. A storyline we can connect to. It does not deserve the bad scores it has been getting, especially when it was written, directed, and produced all in the same year."}, {"rating": "2", "text": "Was someone really asking for a film about COVID?True, the question is already irrelevant at this point, but this tasteless and stupid thriller has nothing substantial to sustain it, it's merely a thriller that seeks to take advantage of the situation, and does so in a cheap and pathetic way.Avoid it. I really mean it."}, {"rating": "10", "text": "It was good. I believe that the subject matter has skewed the ratings in a negative way that is not reflective of the actual content."}, {"rating": "2", "text": "This is has a terrible scrip, poor directing, mediocre acting, and the only reason it was made is to cash-in on the fact we are starved for content.  Well that and to claim a larger share of the Hollyood bailout package, suggesting this would have done better if theaters were open."}, {"rating": "10", "text": "Watch it and then read the reviews. The way this film has been mocked is completely unjustified."}, {"rating": "0", "text": "Very bad movie. Not enough action. I've wasted $20 to rent this movie and 90 minutes of my life for this bad movie. Don't rent or buy!!"}], "recommendations": ["v_for_vendetta", "antebellum", "the_happening", "2067", "gamer", "idiocracy", "facing_the_giants", "an_interview_with_god", "the_darkest_minds", "gods_of_egypt", "seven_pounds", "midsommar", "all_eyez_on_me", "code_8", "bright", "the_emoji_movie", "the_book_of_eli", "the_twilight_saga_breaking_dawn_part_1", "redemption_day", "the_mist", "forever_my_girl", "the_last_airbender", "knowing", "the_butterfly_effect", "dark_phoenix"]}
+{
+  "id": 3818,
+  "title": "Songbird",
+  "starring": [
+    "K.J. Apa",
+    "Sofia Carson"
+  ],
+  "runtime": 85,
+  "genre": [
+    "Thriller",
+    "Romance",
+    "Drama",
+    "Mystery"
+  ],
+  "description": "During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.",
+  "releaseYear": "2020",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/DxDIioCnlhjIL1vEhfrLTBg0VU.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "It's not exceptional but I liked it and enjoyed it, I felt the tension, I want to see it again, promise me.one thing, don't ever give up"
+    },
+    {
+      "rating": "8",
+      "text": "Songbird is an amazingly natural and uplifting movie, with a timely positive message."
+    },
+    {
+      "rating": "10",
+      "text": "Often times, Hollywood conditions a population for the future. This film isn't much for entertainment value but it's a huge warning for anyone who loves freedom. Ofcourse the future won't look exactly like the movie but it will be close enough."
+    },
+    {
+      "rating": "10",
+      "text": "Okay, this movie isn't the best in the pandemic time. Because it's really bashing and controverse to see. But it shows how manipulable people are, if only dollars signs are in her/his eyes.There are some topics to find: Corona Virus Prostitution emotional/physical abuseDifference between cultures"
+    },
+    {
+      "rating": "7",
+      "text": "Let\u2019s hope it never come to that, good film with action and a lot of thinking"
+    },
+    {
+      "rating": "1",
+      "text": "This film was not well done... the timing is bad... and let\u2019s be honest I wasn\u2019t looking for Romeo & Juliet plot. Don\u2019t waste your time not worth it."
+    },
+    {
+      "rating": "10",
+      "text": "Great cast. Great movie. A storyline we can connect to. It does not deserve the bad scores it has been getting, especially when it was written, directed, and produced all in the same year."
+    },
+    {
+      "rating": "2",
+      "text": "Was someone really asking for a film about COVID?True, the question is already irrelevant at this point, but this tasteless and stupid thriller has nothing substantial to sustain it, it's merely a thriller that seeks to take advantage of the situation, and does so in a cheap and pathetic way.Avoid it. I really mean it."
+    },
+    {
+      "rating": "10",
+      "text": "It was good. I believe that the subject matter has skewed the ratings in a negative way that is not reflective of the actual content."
+    },
+    {
+      "rating": "2",
+      "text": "This is has a terrible scrip, poor directing, mediocre acting, and the only reason it was made is to cash-in on the fact we are starved for content.  Well that and to claim a larger share of the Hollyood bailout package, suggesting this would have done better if theaters were open."
+    },
+    {
+      "rating": "10",
+      "text": "Watch it and then read the reviews. The way this film has been mocked is completely unjustified."
+    },
+    {
+      "rating": "0",
+      "text": "Very bad movie. Not enough action. I've wasted $20 to rent this movie and 90 minutes of my life for this bad movie. Don't rent or buy!!"
+    }
+  ],
+  "recommendations": [
+    "v_for_vendetta",
+    "antebellum",
+    "the_happening",
+    "2067",
+    "gamer",
+    "idiocracy",
+    "facing_the_giants",
+    "an_interview_with_god",
+    "the_darkest_minds",
+    "gods_of_egypt",
+    "seven_pounds",
+    "midsommar",
+    "all_eyez_on_me",
+    "code_8",
+    "bright",
+    "the_emoji_movie",
+    "the_book_of_eli",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "redemption_day",
+    "the_mist",
+    "forever_my_girl",
+    "the_last_airbender",
+    "knowing",
+    "the_butterfly_effect",
+    "dark_phoenix"
+  ]
+}

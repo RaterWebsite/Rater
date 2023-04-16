@@ -1,1 +1,73 @@
-{"id": 1517, "title": "To All the Boys: Always and Forever", "starring": ["Lana Condor", "Noah Centineo"], "runtime": 115, "genre": ["Romance", "Comedy", "Drama"], "description": "Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans \u2014 with and without Peter.", "releaseYear": "2021", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/iepqdM52f4w75fNcvgRF5QoIAjm.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 6.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."}, {"rating": "5", "text": "This conclusion is basically the same song, with the same tune, but remixed.The rom-com formula will remain effective because the idyll of perfect romance is something that many people still aspire to.Although I must admit that it would be a refreshing change to see a story in which young people were taught that when you finish high school, your life begins with your future in college or whatever you decide to do afterwards, and that same life doesn't end because you break up with who you think it is the love you'll never find again.I know that story very well, and have seen it too many times before. To All The Boys: Always and Forever closes a cycle that obviously no longer had anything more to say, and perhaps I can mention that it simply returns to do well what made it become a trilogy in the first place, and therefore will be more than enough for the public that doesn't expect more than what they're looking for.And of course like its predecessors, the only person in the cast worth mentioning is Lana Condor.A Netflix hit, no doubt about it, but for all the wrong reasons of course."}, {"rating": "6", "text": "To all the boys: Always and Forever concludes in a dignified way, while retaining some substance, this romantic comedy trilogy (for teens)."}, {"rating": "10", "text": "After a long ride.. Many ups and downs. Absolutely a perfect ending. This is what we're waiting for"}], "recommendations": ["my_little_pony_equestria_girls_forgotten_friendship", "bridge_to_terabithia", "flipped", "paper_towns", "if_i_stay", "slumdog_millionaire", "the_adjustment_bureau", "fifty_shades_freed", "tinker_bell_and_the_legend_of_the_neverbeast", "boyhood", "the_butterfly_effect", "something_borrowed", "the_kissing_booth_3", "the_vow", "home_again", "frozen_ii", "forever_my_girl", "coraline", "hannah_montana_the_movie", "before_i_fall", "rocky_balboa", "pay_it_forward", "the_space_between_us", "the_lake_house", "brave"]}
+{
+  "id": 1517,
+  "title": "To All the Boys: Always and Forever",
+  "starring": [
+    "Lana Condor",
+    "Noah Centineo"
+  ],
+  "runtime": 115,
+  "genre": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "description": "Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans \u2014 with and without Peter.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/iepqdM52f4w75fNcvgRF5QoIAjm.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."
+    },
+    {
+      "rating": "5",
+      "text": "This conclusion is basically the same song, with the same tune, but remixed.The rom-com formula will remain effective because the idyll of perfect romance is something that many people still aspire to.Although I must admit that it would be a refreshing change to see a story in which young people were taught that when you finish high school, your life begins with your future in college or whatever you decide to do afterwards, and that same life doesn't end because you break up with who you think it is the love you'll never find again.I know that story very well, and have seen it too many times before. To All The Boys: Always and Forever closes a cycle that obviously no longer had anything more to say, and perhaps I can mention that it simply returns to do well what made it become a trilogy in the first place, and therefore will be more than enough for the public that doesn't expect more than what they're looking for.And of course like its predecessors, the only person in the cast worth mentioning is Lana Condor.A Netflix hit, no doubt about it, but for all the wrong reasons of course."
+    },
+    {
+      "rating": "6",
+      "text": "To all the boys: Always and Forever concludes in a dignified way, while retaining some substance, this romantic comedy trilogy (for teens)."
+    },
+    {
+      "rating": "10",
+      "text": "After a long ride.. Many ups and downs. Absolutely a perfect ending. This is what we're waiting for"
+    }
+  ],
+  "recommendations": [
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "bridge_to_terabithia",
+    "flipped",
+    "paper_towns",
+    "if_i_stay",
+    "slumdog_millionaire",
+    "the_adjustment_bureau",
+    "fifty_shades_freed",
+    "tinker_bell_and_the_legend_of_the_neverbeast",
+    "boyhood",
+    "the_butterfly_effect",
+    "something_borrowed",
+    "the_kissing_booth_3",
+    "the_vow",
+    "home_again",
+    "frozen_ii",
+    "forever_my_girl",
+    "coraline",
+    "hannah_montana_the_movie",
+    "before_i_fall",
+    "rocky_balboa",
+    "pay_it_forward",
+    "the_space_between_us",
+    "the_lake_house",
+    "brave"
+  ]
+}

@@ -1,1 +1,89 @@
-{"id": 4888, "title": "Hostage", "starring": ["Bruce Willis", "Ben Foster"], "runtime": 113, "genre": ["Action", "Thriller", "Crime"], "description": "When a mafia accountant is taken hostage on his beat, a police officer \u2013 wracked by guilt from a prior stint as a negotiator \u2013 must negotiate the standoff, even as his own family is held captive by the mob.", "releaseYear": "2005", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/vjhLmtjO2pMQXRgkxcwZoq2Ma8n.jpg", "categories": {"plot": 5.0, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.25}, "reviews": [{"rating": "5", "text": "I was looking forward to viewing this movie because it was based on a novel by Robert Crais who I admire as a mystery writer. Needless to say, it was too much over the top with special effects and way too long."}, {"rating": "7", "text": "This is such a great action packed movie with a great deal of suspense, good acting, and an overall decent plot. Pay no attention to the horrible review that the good for nothing critics gave this movie."}, {"rating": "7", "text": "The acting was not that bad, the visuals were okay and overall the movie was entertaining.If you are looking for a big movie with a lot of action you will probably be disappointed but it stays a good movie."}, {"rating": "6", "text": "'Hostage' isn't a great movie, but whenever it gets nasty and brutal, it doesn't hold back, especially the opening scene.When Bruce Willis cares, he can actually deliver a great performance."}, {"rating": "10", "text": "This movie is very interesting. It starts a simple hostage situation and it gets more complex and more thrilling than most movies. It has suspense all the way and keeps wanting to see how everything will end. Its a great experience and thats all that matters!."}, {"rating": "5", "text": "This film is really difficult to judge. The film itself is a good old fashioned Bruce Willis action movie. But and it's a big BUT the novel it is based on by Robert Crais is one of the best crime thriller books ever written and the movie decided to pick parts of the story to follow and not always the best parts i.e. the discovery in MARS home which is not in the film."}, {"rating": "6", "text": "Quand un petit Fran\u00e7ais s'en va filmer \u00e0 Hollywood, on peut souvent s'attendre au pire mais si Florent Siri  d\u00e9livre un thriller qui satisfait ici les pr\u00e9ceptes tr\u00e8s stricts du genre outre-atlantique, il parvient \u00e0 garder sa touche personnelle, notamment sa mise en sc\u00e8ne tr\u00e8s soign\u00e9e et agr\u00e9able et ce, malgr\u00e9 ou en d\u00e9pit de Bruce Willis...Ce bon vieux Bruce tr\u00e8s crispant d'habitude et qui s'av\u00e8re n\u00e9anmoins tout-\u00e0-fait supportable dans le cas qui nous occupe. Il reste bien s\u00fbr \u00e9nervant par son sur-jeu omnipr\u00e9sent mais sur-joue un peu moins que de coutume et ne balance aucune \"joke\" : s\u00e9rieux, le Bruce.Le sc\u00e9nario est assez malin avec son double enl\u00e8vement et laisse augurer quelque chose d'int\u00e9ressant... pour mieux nous d\u00e9cevoir ensuite avec sa ribambelle d'invraisemblances et de rebondissements \u00e0  la noix. H\u00e9las, le thriller am\u00e9ricain est coutumier du fait, usant et abusant de grosses ficelles et de ses clich\u00e9s vus et revus dans toute prise d'otages, et \u00e0 cet \u00e9gard le r\u00e9alisateur fran\u00e7ais ne peut rien y faire. Malgr\u00e9 toutes ses \u00e9normit\u00e9s, le film reste bien men\u00e9 et distrayant... \u00e0 condition encore une fois de mettre de c\u00f4t\u00e9 tout espoir de cr\u00e9dibilit\u00e9."}, {"rating": "8", "text": "\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1"}], "recommendations": ["shooter", "street_kings", "the_equalizer", "sherlock_holmes_a_game_of_shadows", "den_of_thieves", "orphan_first_kill", "the_bank_job", "contraband", "a_walk_among_the_tombstones", "the_italian_job", "the_mechanic", "gangster_squad", "inside_man", "wrath_of_man", "copshop", "the_suicide_squad", "triple_frontier", "blood_father", "16_blocks", "the_losers", "escape_plan", "kingsman_the_secret_service", "first_blood", "sherlock_holmes", "jack_reacher"]}
+{
+  "id": 4888,
+  "title": "Hostage",
+  "starring": [
+    "Bruce Willis",
+    "Ben Foster"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "description": "When a mafia accountant is taken hostage on his beat, a police officer \u2013 wracked by guilt from a prior stint as a negotiator \u2013 must negotiate the standoff, even as his own family is held captive by the mob.",
+  "releaseYear": "2005",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/vjhLmtjO2pMQXRgkxcwZoq2Ma8n.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.25
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "I was looking forward to viewing this movie because it was based on a novel by Robert Crais who I admire as a mystery writer. Needless to say, it was too much over the top with special effects and way too long."
+    },
+    {
+      "rating": "7",
+      "text": "This is such a great action packed movie with a great deal of suspense, good acting, and an overall decent plot. Pay no attention to the horrible review that the good for nothing critics gave this movie."
+    },
+    {
+      "rating": "7",
+      "text": "The acting was not that bad, the visuals were okay and overall the movie was entertaining.If you are looking for a big movie with a lot of action you will probably be disappointed but it stays a good movie."
+    },
+    {
+      "rating": "6",
+      "text": "'Hostage' isn't a great movie, but whenever it gets nasty and brutal, it doesn't hold back, especially the opening scene.When Bruce Willis cares, he can actually deliver a great performance."
+    },
+    {
+      "rating": "10",
+      "text": "This movie is very interesting. It starts a simple hostage situation and it gets more complex and more thrilling than most movies. It has suspense all the way and keeps wanting to see how everything will end. Its a great experience and thats all that matters!."
+    },
+    {
+      "rating": "5",
+      "text": "This film is really difficult to judge. The film itself is a good old fashioned Bruce Willis action movie. But and it's a big BUT the novel it is based on by Robert Crais is one of the best crime thriller books ever written and the movie decided to pick parts of the story to follow and not always the best parts i.e. the discovery in MARS home which is not in the film."
+    },
+    {
+      "rating": "6",
+      "text": "Quand un petit Fran\u00e7ais s'en va filmer \u00e0 Hollywood, on peut souvent s'attendre au pire mais si Florent Siri  d\u00e9livre un thriller qui satisfait ici les pr\u00e9ceptes tr\u00e8s stricts du genre outre-atlantique, il parvient \u00e0 garder sa touche personnelle, notamment sa mise en sc\u00e8ne tr\u00e8s soign\u00e9e et agr\u00e9able et ce, malgr\u00e9 ou en d\u00e9pit de Bruce Willis...Ce bon vieux Bruce tr\u00e8s crispant d'habitude et qui s'av\u00e8re n\u00e9anmoins tout-\u00e0-fait supportable dans le cas qui nous occupe. Il reste bien s\u00fbr \u00e9nervant par son sur-jeu omnipr\u00e9sent mais sur-joue un peu moins que de coutume et ne balance aucune \"joke\" : s\u00e9rieux, le Bruce.Le sc\u00e9nario est assez malin avec son double enl\u00e8vement et laisse augurer quelque chose d'int\u00e9ressant... pour mieux nous d\u00e9cevoir ensuite avec sa ribambelle d'invraisemblances et de rebondissements \u00e0  la noix. H\u00e9las, le thriller am\u00e9ricain est coutumier du fait, usant et abusant de grosses ficelles et de ses clich\u00e9s vus et revus dans toute prise d'otages, et \u00e0 cet \u00e9gard le r\u00e9alisateur fran\u00e7ais ne peut rien y faire. Malgr\u00e9 toutes ses \u00e9normit\u00e9s, le film reste bien men\u00e9 et distrayant... \u00e0 condition encore une fois de mettre de c\u00f4t\u00e9 tout espoir de cr\u00e9dibilit\u00e9."
+    },
+    {
+      "rating": "8",
+      "text": "\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u2299\u00a1\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u2606\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1\u00a1\u25c7\u00a1\u25c7\u00a1\u25c7\u00a1"
+    }
+  ],
+  "recommendations": [
+    "shooter",
+    "street_kings",
+    "the_equalizer",
+    "sherlock_holmes_a_game_of_shadows",
+    "den_of_thieves",
+    "orphan_first_kill",
+    "the_bank_job",
+    "contraband",
+    "a_walk_among_the_tombstones",
+    "the_italian_job",
+    "the_mechanic",
+    "gangster_squad",
+    "inside_man",
+    "wrath_of_man",
+    "copshop",
+    "the_suicide_squad",
+    "triple_frontier",
+    "blood_father",
+    "16_blocks",
+    "the_losers",
+    "escape_plan",
+    "kingsman_the_secret_service",
+    "first_blood",
+    "sherlock_holmes",
+    "jack_reacher"
+  ]
+}

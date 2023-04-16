@@ -1,1 +1,103 @@
-{"id": 92, "title": "Carriers", "starring": ["Lou Taylor Pucci", "Chris Pine"], "runtime": 84, "genre": ["Action", "Drama", "Horror", "Science Fiction", "Thriller"], "description": "A deadly virus has spread across the globe. Contagion is everywhere, no one is safe, and no one can be trusted. Four friends race through the back roads of the American West on their way to a secluded utopian beach in the Gulf of Mexico where they could peacefully wait out the pandemic. Their plans take a grim turn when their car breaks down on an isolated road starting a chain of events that will seal their fates.", "releaseYear": "2009", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/jxjnjHtHXgvjdhkwpelE9ZwVMg6.jpg", "categories": {"plot": 5.416666666666667, "acting": 6.0, "ending": 6.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 6.0, "action": 5.0}, "reviews": [{"rating": "6", "text": "Solid thriller, believably done with a very good cast. It has some very tense scenes, it was always interesting, well made and thought provoking. The characters are well developed."}, {"rating": "8", "text": "Definitely worth watching. There are few 'scary' parts and the film's real worth is in the emotional heart tugging that occurs when 'carriers' are left behind to die. Great performances by Chris Pine and Piper Perabo."}, {"rating": "2", "text": "Boring movie, characters one cant like, lame ending, not even action... Not worth watching."}, {"rating": "7", "text": "Emotionally moving yet depressing. great acting. Effective filming and penetrating mood. poor, predictable climax. basic zombie movie w/out zombies."}, {"rating": "8", "text": "This a very ockward movie, it has really good moments. that are scary as hell and the actors are pretty nice as well. But then you start asking yourself. Where the hell did this disease come from? Still it\u00b4s a good movie."}, {"rating": "7", "text": "Terrifyingly sad. However, realistic in its portrayal of such an apocalyptic pandemic. Acting was believable and not to strained. However, more information on the specifics of the virus, the state of the world at the time of the characters' lives would improve the film. Ending left too much to the imagination, another half an hour depicting those who survive would have made this movie horribly amazing."}, {"rating": "5", "text": "This film is surprisingly good.  It is extremely well executed and a fine example of a simple yet subtle film succeeding by sticking to the basics.  Devastating at points, Carriers is an admirable piece of filmmaking."}, {"rating": "6", "text": "Carriers is a surreal look at the end of humanity through the eyes of 4 survivors of a deadly virus. Unlike many other similar stories, Carriers follows two brothers and shows just how far people would really have to go in order to survive something of this nature. Its raw and graphic and made me wonder if this is how the people who lived through the plague felt."}, {"rating": "5", "text": "Dull, boring and very short movie (~1 hour 30 min) that tries to cover a story that is to long to fit in it, like trying to fit an elephant in the trunk of your car. You can't bond with the characters because they ether die or the movie starts to roll the credits. Movie doesn't explain anything about the infection, how characters got together, what they did after they finished their journey in any way so that you should care about them, the outcome from the situation or the entire situation itself. All that coupled with some of the situations that couldn't possibly happen in realty (character acting and reacting to the environment) the movie is just meh..."}, {"rating": "8", "text": "Really impressing movie.Chris Pine is absolutely brilliant in his role of the bad ass brother.The movie is pretty slow and there is not a lot of action.But it is entertaining."}, {"rating": "6", "text": "Carriers: 6 out of 10: What amazes me about Carriers is how it has the exact same plot as Zombieland. A story about two siblings traveling across a devastated and depopulated United States to visit a theme park in California that reminds them of childhood. The movies even share the same fetish for a nerdy character that has come up with all the rules to keep them alive.\r While Zombieland was filmed in early 2009 and released later that year on 3000 plus screens; Carriers was filmed in 2006 and released on a hundred screens in 2009 to virtually no fanfare. Only actor's Chris Pine's recent starring role in the Star Trek movie caused it to be released theatrically at all.\r The other main difference is while Zombieland on the surface may appear to be a horror-comedy along the lines of Shaun of the Dead it really is more of a straightforward comedy with gore and zombies. Carriers also certainly appears to be a horror film on the surface but it really isn't. This is large D drama that starts off serious and gets quite disheartening before the end credits role.\r Carriers is a medical drama writ large mixed with a post-apocalyptic future. There are no zombies or even 28 Days Later pseudo zombies. This is not an exploitation film as there is no nudity or violence; there is also very little action. There is simply a small handful of sick people, a small handful of not yet sick people and a copious amount of dead people. It is more a sequel to a bird flu movie than a Dawn of the Dead film.\r Carriers biggest problem is it simply is hard to root for any of the characters. Chris Pine and Lou Taylor Pucci play the siblings heading to their childhood vacation spot (of which we see strange seventies era super 8 nostalgia footage though judging by the age of the characters their childhood was in 1995). Pucci is the rules nerd while Pine is a super jerk (or as TV Tropes wisely points out a Psycho Party Member).\r Then you have the ladies. Emily VanCamp plays what would seem to Pucci's girlfriend but she is frigid, preppy, and possibly a lesbian. At the very least the \"I wouldn't kiss you if you were the last man on earth\" rule seems to apply here. Piper Perabo as Pine's girlfriend is borderline likable but she is whiny and a liar and I really am grading on a curve here.\r Only Christopher Meloni as a father with an already sick daughter seems to pull on the heart strings; but he isn't a member of the core group and they separate ways halfway through.\r The acting is good across the board with Meloni and VanCamp the standouts. The film also seems much grounded in its reality and logic is safely tucked into bed every night. I simply wish the movie was about a different group of survivors."}], "recommendations": ["cold_pursuit", "contagion", "no_escape", "colossal", "brimstone", "maggie", "the_grey", "what_happened_to_monday", "the_girl_with_all_the_gifts", "the_purge_anarchy", "eden_lake", "x_men_apocalypse", "28_days_later", "would_you_rather", "28_weeks_later", "the_purge", "taken", "annabelle_comes_home", "greenland", "brightburn", "ant_man_and_the_wasp_quantumania", "the_purge_election_year", "children_of_men", "nerve", "split"]}
+{
+  "id": 92,
+  "title": "Carriers",
+  "starring": [
+    "Lou Taylor Pucci",
+    "Chris Pine"
+  ],
+  "runtime": 84,
+  "genre": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "description": "A deadly virus has spread across the globe. Contagion is everywhere, no one is safe, and no one can be trusted. Four friends race through the back roads of the American West on their way to a secluded utopian beach in the Gulf of Mexico where they could peacefully wait out the pandemic. Their plans take a grim turn when their car breaks down on an isolated road starting a chain of events that will seal their fates.",
+  "releaseYear": "2009",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/jxjnjHtHXgvjdhkwpelE9ZwVMg6.jpg",
+  "categories": {
+    "plot": 5.416666666666667,
+    "acting": 6.0,
+    "ending": 6.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Solid thriller, believably done with a very good cast. It has some very tense scenes, it was always interesting, well made and thought provoking. The characters are well developed."
+    },
+    {
+      "rating": "8",
+      "text": "Definitely worth watching. There are few 'scary' parts and the film's real worth is in the emotional heart tugging that occurs when 'carriers' are left behind to die. Great performances by Chris Pine and Piper Perabo."
+    },
+    {
+      "rating": "2",
+      "text": "Boring movie, characters one cant like, lame ending, not even action... Not worth watching."
+    },
+    {
+      "rating": "7",
+      "text": "Emotionally moving yet depressing. great acting. Effective filming and penetrating mood. poor, predictable climax. basic zombie movie w/out zombies."
+    },
+    {
+      "rating": "8",
+      "text": "This a very ockward movie, it has really good moments. that are scary as hell and the actors are pretty nice as well. But then you start asking yourself. Where the hell did this disease come from? Still it\u00b4s a good movie."
+    },
+    {
+      "rating": "7",
+      "text": "Terrifyingly sad. However, realistic in its portrayal of such an apocalyptic pandemic. Acting was believable and not to strained. However, more information on the specifics of the virus, the state of the world at the time of the characters' lives would improve the film. Ending left too much to the imagination, another half an hour depicting those who survive would have made this movie horribly amazing."
+    },
+    {
+      "rating": "5",
+      "text": "This film is surprisingly good.  It is extremely well executed and a fine example of a simple yet subtle film succeeding by sticking to the basics.  Devastating at points, Carriers is an admirable piece of filmmaking."
+    },
+    {
+      "rating": "6",
+      "text": "Carriers is a surreal look at the end of humanity through the eyes of 4 survivors of a deadly virus. Unlike many other similar stories, Carriers follows two brothers and shows just how far people would really have to go in order to survive something of this nature. Its raw and graphic and made me wonder if this is how the people who lived through the plague felt."
+    },
+    {
+      "rating": "5",
+      "text": "Dull, boring and very short movie (~1 hour 30 min) that tries to cover a story that is to long to fit in it, like trying to fit an elephant in the trunk of your car. You can't bond with the characters because they ether die or the movie starts to roll the credits. Movie doesn't explain anything about the infection, how characters got together, what they did after they finished their journey in any way so that you should care about them, the outcome from the situation or the entire situation itself. All that coupled with some of the situations that couldn't possibly happen in realty (character acting and reacting to the environment) the movie is just meh..."
+    },
+    {
+      "rating": "8",
+      "text": "Really impressing movie.Chris Pine is absolutely brilliant in his role of the bad ass brother.The movie is pretty slow and there is not a lot of action.But it is entertaining."
+    },
+    {
+      "rating": "6",
+      "text": "Carriers: 6 out of 10: What amazes me about Carriers is how it has the exact same plot as Zombieland. A story about two siblings traveling across a devastated and depopulated United States to visit a theme park in California that reminds them of childhood. The movies even share the same fetish for a nerdy character that has come up with all the rules to keep them alive.\r While Zombieland was filmed in early 2009 and released later that year on 3000 plus screens; Carriers was filmed in 2006 and released on a hundred screens in 2009 to virtually no fanfare. Only actor's Chris Pine's recent starring role in the Star Trek movie caused it to be released theatrically at all.\r The other main difference is while Zombieland on the surface may appear to be a horror-comedy along the lines of Shaun of the Dead it really is more of a straightforward comedy with gore and zombies. Carriers also certainly appears to be a horror film on the surface but it really isn't. This is large D drama that starts off serious and gets quite disheartening before the end credits role.\r Carriers is a medical drama writ large mixed with a post-apocalyptic future. There are no zombies or even 28 Days Later pseudo zombies. This is not an exploitation film as there is no nudity or violence; there is also very little action. There is simply a small handful of sick people, a small handful of not yet sick people and a copious amount of dead people. It is more a sequel to a bird flu movie than a Dawn of the Dead film.\r Carriers biggest problem is it simply is hard to root for any of the characters. Chris Pine and Lou Taylor Pucci play the siblings heading to their childhood vacation spot (of which we see strange seventies era super 8 nostalgia footage though judging by the age of the characters their childhood was in 1995). Pucci is the rules nerd while Pine is a super jerk (or as TV Tropes wisely points out a Psycho Party Member).\r Then you have the ladies. Emily VanCamp plays what would seem to Pucci's girlfriend but she is frigid, preppy, and possibly a lesbian. At the very least the \"I wouldn't kiss you if you were the last man on earth\" rule seems to apply here. Piper Perabo as Pine's girlfriend is borderline likable but she is whiny and a liar and I really am grading on a curve here.\r Only Christopher Meloni as a father with an already sick daughter seems to pull on the heart strings; but he isn't a member of the core group and they separate ways halfway through.\r The acting is good across the board with Meloni and VanCamp the standouts. The film also seems much grounded in its reality and logic is safely tucked into bed every night. I simply wish the movie was about a different group of survivors."
+    }
+  ],
+  "recommendations": [
+    "cold_pursuit",
+    "contagion",
+    "no_escape",
+    "colossal",
+    "brimstone",
+    "maggie",
+    "the_grey",
+    "what_happened_to_monday",
+    "the_girl_with_all_the_gifts",
+    "the_purge_anarchy",
+    "eden_lake",
+    "x_men_apocalypse",
+    "28_days_later",
+    "would_you_rather",
+    "28_weeks_later",
+    "the_purge",
+    "taken",
+    "annabelle_comes_home",
+    "greenland",
+    "brightburn",
+    "ant_man_and_the_wasp_quantumania",
+    "the_purge_election_year",
+    "children_of_men",
+    "nerve",
+    "split"
+  ]
+}

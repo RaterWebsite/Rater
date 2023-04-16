@@ -1,1 +1,76 @@
-{"id": 4014, "title": "Love", "starring": ["Karl Glusman", "Aomi Muyock"], "runtime": 134, "genre": ["Drama", "Romance"], "description": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the seismic effect it will have on their relationship, they invite their pretty neighbor into their bed.", "releaseYear": "2015", "mpaaRating": "NC-17", "imageUrl": "https://image.tmdb.org/t/p/w500/21UExtLnYmeH6sAxD4zdlrb5PG6.jpg", "categories": {"plot": 5.0, "acting": 3.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "9", "text": "A really interesting and different film but not for everyone."}, {"rating": "9", "text": "Just watched the dvd. I would say very good but given that this film was made for Nothing, it's outstanding."}, {"rating": "10", "text": "this is one of the best and most original movies i have seen in years. it is a testament to our times that this extraordinary film plays in limited release while recycled trash is at your local multiplex."}, {"rating": "10", "text": "A brilliant and original movie. Peter Gevisser truly someone to watch."}, {"rating": "3", "text": "Perhaps the worst film I have seen in a long time. Bad enough to prompt me to write my first \"review\". The acting is horrible, thin and dull. The score is abysmal. The photography amateurish and often from illogical angles. I initially turned the film off about 30 minutes in. I then gave it a second chance. It's often best to go with first instincts, especially so in this case. A must miss."}], "recommendations": ["exorcist_ii_the_heretic", "the_shawshank_redemption", "lolita", "the_godfather", "lost_in_space", "pulp_fiction", "superman_ii", "the_green_mile", "oblivion", "top_gun_maverick", "passengers", "sleepless", "the_day_the_earth_stood_still", "the_avengers", "the_irishman", "the_layover", "we_are_your_friends", "no_reservations", "jeepers_creepers_3", "ben_hur", "moon", "atonement", "echelon_conspiracy", "redemption_day", "afterlife_of_the_party"]}
+{
+  "id": 4014,
+  "title": "Love",
+  "starring": [
+    "Karl Glusman",
+    "Aomi Muyock"
+  ],
+  "runtime": 134,
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "description": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the seismic effect it will have on their relationship, they invite their pretty neighbor into their bed.",
+  "releaseYear": "2015",
+  "mpaaRating": "NC-17",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/21UExtLnYmeH6sAxD4zdlrb5PG6.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 3.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "A really interesting and different film but not for everyone."
+    },
+    {
+      "rating": "9",
+      "text": "Just watched the dvd. I would say very good but given that this film was made for Nothing, it's outstanding."
+    },
+    {
+      "rating": "10",
+      "text": "this is one of the best and most original movies i have seen in years. it is a testament to our times that this extraordinary film plays in limited release while recycled trash is at your local multiplex."
+    },
+    {
+      "rating": "10",
+      "text": "A brilliant and original movie. Peter Gevisser truly someone to watch."
+    },
+    {
+      "rating": "3",
+      "text": "Perhaps the worst film I have seen in a long time. Bad enough to prompt me to write my first \"review\". The acting is horrible, thin and dull. The score is abysmal. The photography amateurish and often from illogical angles. I initially turned the film off about 30 minutes in. I then gave it a second chance. It's often best to go with first instincts, especially so in this case. A must miss."
+    }
+  ],
+  "recommendations": [
+    "exorcist_ii_the_heretic",
+    "the_shawshank_redemption",
+    "lolita",
+    "the_godfather",
+    "lost_in_space",
+    "pulp_fiction",
+    "superman_ii",
+    "the_green_mile",
+    "oblivion",
+    "top_gun_maverick",
+    "passengers",
+    "sleepless",
+    "the_day_the_earth_stood_still",
+    "the_avengers",
+    "the_irishman",
+    "the_layover",
+    "we_are_your_friends",
+    "no_reservations",
+    "jeepers_creepers_3",
+    "ben_hur",
+    "moon",
+    "atonement",
+    "echelon_conspiracy",
+    "redemption_day",
+    "afterlife_of_the_party"
+  ]
+}

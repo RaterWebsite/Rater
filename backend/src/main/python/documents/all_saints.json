@@ -1,1 +1,76 @@
-{"id": 3629, "title": "All Saints", "starring": ["Cara Buono", "John Corbett"], "runtime": 108, "genre": ["Drama", "Comedy"], "description": "ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock, the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.", "releaseYear": "2017", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg", "categories": {"plot": 5.0, "acting": 4.0, "ending": 4.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "One of the more terrible \"feel good\" movies I've seen, and completely inappropriate in this current climate.  Couldn't get over the propaganda during the few parts of it that were actually enjoyable."}, {"rating": "7", "text": "All Saints pushes itself a little too hard to make people actually love it, but they, at least, have done things correctly even if the pressure to making people love the film couldn't work. It makes up what seems to be an impressing film and that's what it is actually."}, {"rating": "4", "text": "All of the acting is good, I love John Corbett, and I was educated about and saddened by the suffering of the Karen people. Unfortunately the ending is so depressing that I believe that this movie should not have been made about this situation."}, {"rating": "8", "text": "All Saints is entertaining because of Church and it's helping all the churches. Unlike a Question Of Faith, it's Super Entertaining as Michael like that. Thank You."}, {"rating": "10", "text": "Esta pel\u00edcula es una experiencia inspiradora, tiene una buena trama y momentos que dan para reflexionar."}], "recommendations": ["overcomer", "courageous", "heaven_is_for_real", "the_pursuit_of_happyness", "i_still_believe", "the_bucket_list", "pay_it_forward", "war_room", "woodlawn", "greenberg", "the_shack", "revolutionary_road", "chappie", "slumdog_millionaire", "facing_the_giants", "hereafter", "collateral_beauty", "invictus", "3_idiots", "the_butterfly_effect", "son_of_god", "the_adjustment_bureau", "the_blind_side", "her", "mother"]}
+{
+  "id": 3629,
+  "title": "All Saints",
+  "starring": [
+    "Cara Buono",
+    "John Corbett"
+  ],
+  "runtime": 108,
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "description": "ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock, the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.",
+  "releaseYear": "2017",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 4.0,
+    "ending": 4.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "One of the more terrible \"feel good\" movies I've seen, and completely inappropriate in this current climate.  Couldn't get over the propaganda during the few parts of it that were actually enjoyable."
+    },
+    {
+      "rating": "7",
+      "text": "All Saints pushes itself a little too hard to make people actually love it, but they, at least, have done things correctly even if the pressure to making people love the film couldn't work. It makes up what seems to be an impressing film and that's what it is actually."
+    },
+    {
+      "rating": "4",
+      "text": "All of the acting is good, I love John Corbett, and I was educated about and saddened by the suffering of the Karen people. Unfortunately the ending is so depressing that I believe that this movie should not have been made about this situation."
+    },
+    {
+      "rating": "8",
+      "text": "All Saints is entertaining because of Church and it's helping all the churches. Unlike a Question Of Faith, it's Super Entertaining as Michael like that. Thank You."
+    },
+    {
+      "rating": "10",
+      "text": "Esta pel\u00edcula es una experiencia inspiradora, tiene una buena trama y momentos que dan para reflexionar."
+    }
+  ],
+  "recommendations": [
+    "overcomer",
+    "courageous",
+    "heaven_is_for_real",
+    "the_pursuit_of_happyness",
+    "i_still_believe",
+    "the_bucket_list",
+    "pay_it_forward",
+    "war_room",
+    "woodlawn",
+    "greenberg",
+    "the_shack",
+    "revolutionary_road",
+    "chappie",
+    "slumdog_millionaire",
+    "facing_the_giants",
+    "hereafter",
+    "collateral_beauty",
+    "invictus",
+    "3_idiots",
+    "the_butterfly_effect",
+    "son_of_god",
+    "the_adjustment_bureau",
+    "the_blind_side",
+    "her",
+    "mother"
+  ]
+}

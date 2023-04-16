@@ -1,1 +1,96 @@
-{"id": 3566, "title": "Hellbound: Hellraiser II", "starring": ["Ashley Laurence", "Clare Higgins"], "runtime": 97, "genre": ["Horror", "Thriller"], "description": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned.", "releaseYear": "1988", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/nQHXjLcnSy9EIjRFoqKm0WCyaFv.jpg", "categories": {"plot": 5.166666666666667, "acting": 4.5, "ending": 7.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 1.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "One of the best horror sequels of all time without a doubt. It still remains visually impressive, It provides a lot more background to the cenobites and more than tops the gore from the first film."}, {"rating": "9", "text": "Hellbound: Hellraiser II is my favorite Hellraiser movie.It's terrifying, fascinating, the story is amazing, and the characters are great actors!"}, {"rating": "4", "text": "I feel like a bunch of random crap happens in this movie for no reason. It's cool that they got a lot of the original cast to come back and that this sequel serves as a direct continuation of the first movie. This initially shows promise, but it isn't long before you realize that the movie is more concerned with visuals over telling a cohesive story. Which is odd because they got Clive Barker to return as the writer. It's cool how it lets us learn more about the Cenobites even if the reveals ultimately make them much less creepy and interesting. The other stuff it tries to do to establish some kind of lore goes by unexplained and just makes no sense.That's really the problem with the movie as a whole. It's like everyone involved just threw a bunch of stuff at the screen to see what would stick, regardless of whether or not it actually was a good idea or not. There's a lot of unintentional goofiness as a result. It all looks good (for the time) at least. There are a few interesting moments that reminded my why I liked the first movie, which was mostly due to how it felt like a cool mash-up of A Nightmare on Elm Street and Saw, but overall I think Hellraiser II is pretty bad. The only reason I would consider watching another one of these would just be to see what kind of convoluted plot device was used to squeeze another 8 movies out of this series, and I can probably just Google that as opposed to actually watching them."}, {"rating": "7", "text": "Satisfying EnoughThough not as good as the first one, Hellraiser II still has fun scares, cool kills, and of course Pinhead."}, {"rating": "1", "text": "Hellbound: Hellraiser II continues on from the first Hellraiser movie. We see Kirsty (Ashley Laurence) who's a traumatised victim from the original movie in a psychiatric hospital run by the weird Dr. Channard (Kenneth Cranham) and we also see William Hope from Aliens (1986)... Doctor Channard resurrects Julia's (Clare Higgins) dead body from a bloody mattress after somebody slashes themselves on it. Julia (Higgins) is Kirsty's stepmother and we get some girl who never speaks if hardly named Tiffany who solves puzzles and we get taken into the world of the cenobites and Doctor Channard becomes a badguy killing the original cenobites and Pinhead (Doug Bradley) at the end.... A truly horrible, unnecessary sequel with horrible acting and an ugly storyline and weak performances. Even the gore doesn't save how bad this film is and how stupid it is and I hated Hellraiser II apart from when Kyle (William Hope) sneaks into Doctor Channard's apartment and see's puzzle boxes everywhere and says \"Weird, fkg weird! Jesus Christ, Jeeesus Christ!!!\" and the way he says it makes me laugh because that was great acting, comedy gold and amusing... Besides that scene this horror sequel sucks."}, {"rating": "7", "text": "Hellbound: Hellraiser II is a rollercoaster. By the 15 minute mark I was prepared to but this film in the mid threes. By 25 minutes it was low fours. By 35 minutes it was low fives. And by the end I can say a thoroughly enjoyed it. There are some bad qualities. It isn\u2019t as creatively shot as its predecessor, and where Hellraiser is very well plotted, Hellbound seems more like a showcase of special effects, not that that\u2019s a necessarily bad thing. William Hope as Kyle is absolutely atrocious, but there are some good performances. I especially got a kick out of the returning characters, Clare Higgins as Julia is really able to spread her wings in this instalment, as whole I really liked Julia\u2019s arc in this one. Ashley Laurence reprises her role as Kirsty and she does well. The special effects are brilliant as always, nothing as mind blowing as some of the effects in the first one, but still very well done. And the most important component, the Clive Barker script. In the first half hour I was really worried the film was going to fall into repitition of the first one, but Clive Barker manages to bring new lore elements and expands the world of the franchise in a way you rarely see horror sequels do. Doug Bradley also returns as Pinhead, and he is awesome."}, {"rating": "6", "text": "Hellraiser II expands from the first but I couldn't help but feel slightly bored during it, I just didn't find it very entertaining."}, {"rating": "6", "text": "Sufficient sequel, less brilliant than the first but still acceptable. It delves into a little bit of things about the world of the cube and the monsters that populate it by answering many questions that the predecessor had left."}, {"rating": "9", "text": "A masterpiece of the horror genre. Another classic for anyone who can appreciate the idea of horror."}, {"rating": "4", "text": "Completely convoluted. Old characters are brought back for no real reason or character purpose. Should of been new characters/victims. The gore is significantly upgraded and grosser than the previous."}], "recommendations": ["halloween_iii_season_of_the_witch", "halloween_ii", "halloween_5_the_revenge_of_michael_myers", "leatherface", "sinister_2", "insidious_the_last_key", "insidious_chapter_2", "the_curse_of_la_llorona", "the_grudge_2", "scream_2", "the_possession_of_hannah_grace", "final_destination_2", "i_still_know_what_you_did_last_summer", "malignant", "final_destination", "book_of_shadows_blair_witch_2", "dark_skies", "annabelle", "dead_silence", "brightburn", "the_conjuring_the_devil_made_me_do_it", "the_amityville_horror", "devil", "the_eye", "jason_x"]}
+{
+  "id": 3566,
+  "title": "Hellbound: Hellraiser II",
+  "starring": [
+    "Ashley Laurence",
+    "Clare Higgins"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "description": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned.",
+  "releaseYear": "1988",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/nQHXjLcnSy9EIjRFoqKm0WCyaFv.jpg",
+  "categories": {
+    "plot": 5.166666666666667,
+    "acting": 4.5,
+    "ending": 7.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 1.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "One of the best horror sequels of all time without a doubt. It still remains visually impressive, It provides a lot more background to the cenobites and more than tops the gore from the first film."
+    },
+    {
+      "rating": "9",
+      "text": "Hellbound: Hellraiser II is my favorite Hellraiser movie.It's terrifying, fascinating, the story is amazing, and the characters are great actors!"
+    },
+    {
+      "rating": "4",
+      "text": "I feel like a bunch of random crap happens in this movie for no reason. It's cool that they got a lot of the original cast to come back and that this sequel serves as a direct continuation of the first movie. This initially shows promise, but it isn't long before you realize that the movie is more concerned with visuals over telling a cohesive story. Which is odd because they got Clive Barker to return as the writer. It's cool how it lets us learn more about the Cenobites even if the reveals ultimately make them much less creepy and interesting. The other stuff it tries to do to establish some kind of lore goes by unexplained and just makes no sense.That's really the problem with the movie as a whole. It's like everyone involved just threw a bunch of stuff at the screen to see what would stick, regardless of whether or not it actually was a good idea or not. There's a lot of unintentional goofiness as a result. It all looks good (for the time) at least. There are a few interesting moments that reminded my why I liked the first movie, which was mostly due to how it felt like a cool mash-up of A Nightmare on Elm Street and Saw, but overall I think Hellraiser II is pretty bad. The only reason I would consider watching another one of these would just be to see what kind of convoluted plot device was used to squeeze another 8 movies out of this series, and I can probably just Google that as opposed to actually watching them."
+    },
+    {
+      "rating": "7",
+      "text": "Satisfying EnoughThough not as good as the first one, Hellraiser II still has fun scares, cool kills, and of course Pinhead."
+    },
+    {
+      "rating": "1",
+      "text": "Hellbound: Hellraiser II continues on from the first Hellraiser movie. We see Kirsty (Ashley Laurence) who's a traumatised victim from the original movie in a psychiatric hospital run by the weird Dr. Channard (Kenneth Cranham) and we also see William Hope from Aliens (1986)... Doctor Channard resurrects Julia's (Clare Higgins) dead body from a bloody mattress after somebody slashes themselves on it. Julia (Higgins) is Kirsty's stepmother and we get some girl who never speaks if hardly named Tiffany who solves puzzles and we get taken into the world of the cenobites and Doctor Channard becomes a badguy killing the original cenobites and Pinhead (Doug Bradley) at the end.... A truly horrible, unnecessary sequel with horrible acting and an ugly storyline and weak performances. Even the gore doesn't save how bad this film is and how stupid it is and I hated Hellraiser II apart from when Kyle (William Hope) sneaks into Doctor Channard's apartment and see's puzzle boxes everywhere and says \"Weird, fkg weird! Jesus Christ, Jeeesus Christ!!!\" and the way he says it makes me laugh because that was great acting, comedy gold and amusing... Besides that scene this horror sequel sucks."
+    },
+    {
+      "rating": "7",
+      "text": "Hellbound: Hellraiser II is a rollercoaster. By the 15 minute mark I was prepared to but this film in the mid threes. By 25 minutes it was low fours. By 35 minutes it was low fives. And by the end I can say a thoroughly enjoyed it. There are some bad qualities. It isn\u2019t as creatively shot as its predecessor, and where Hellraiser is very well plotted, Hellbound seems more like a showcase of special effects, not that that\u2019s a necessarily bad thing. William Hope as Kyle is absolutely atrocious, but there are some good performances. I especially got a kick out of the returning characters, Clare Higgins as Julia is really able to spread her wings in this instalment, as whole I really liked Julia\u2019s arc in this one. Ashley Laurence reprises her role as Kirsty and she does well. The special effects are brilliant as always, nothing as mind blowing as some of the effects in the first one, but still very well done. And the most important component, the Clive Barker script. In the first half hour I was really worried the film was going to fall into repitition of the first one, but Clive Barker manages to bring new lore elements and expands the world of the franchise in a way you rarely see horror sequels do. Doug Bradley also returns as Pinhead, and he is awesome."
+    },
+    {
+      "rating": "6",
+      "text": "Hellraiser II expands from the first but I couldn't help but feel slightly bored during it, I just didn't find it very entertaining."
+    },
+    {
+      "rating": "6",
+      "text": "Sufficient sequel, less brilliant than the first but still acceptable. It delves into a little bit of things about the world of the cube and the monsters that populate it by answering many questions that the predecessor had left."
+    },
+    {
+      "rating": "9",
+      "text": "A masterpiece of the horror genre. Another classic for anyone who can appreciate the idea of horror."
+    },
+    {
+      "rating": "4",
+      "text": "Completely convoluted. Old characters are brought back for no real reason or character purpose. Should of been new characters/victims. The gore is significantly upgraded and grosser than the previous."
+    }
+  ],
+  "recommendations": [
+    "halloween_iii_season_of_the_witch",
+    "halloween_ii",
+    "halloween_5_the_revenge_of_michael_myers",
+    "leatherface",
+    "sinister_2",
+    "insidious_the_last_key",
+    "insidious_chapter_2",
+    "the_curse_of_la_llorona",
+    "the_grudge_2",
+    "scream_2",
+    "the_possession_of_hannah_grace",
+    "final_destination_2",
+    "i_still_know_what_you_did_last_summer",
+    "malignant",
+    "final_destination",
+    "book_of_shadows_blair_witch_2",
+    "dark_skies",
+    "annabelle",
+    "dead_silence",
+    "brightburn",
+    "the_conjuring_the_devil_made_me_do_it",
+    "the_amityville_horror",
+    "devil",
+    "the_eye",
+    "jason_x"
+  ]
+}

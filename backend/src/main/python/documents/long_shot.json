@@ -1,1 +1,60 @@
-{"id": 3384, "title": "Long Shot", "starring": ["Charlize Theron", "Seth Rogen"], "runtime": 125, "genre": ["Comedy", "Romance"], "description": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter \u2014 much to the dismay of her trusted advisers.", "releaseYear": "2019", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg", "categories": {"plot": 8.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 8.0}, "reviews": [{"rating": "8", "text": "Intense, real-life story of an innocent man fighting for his life. Larry David of Seinfeld/Curb Your Enthusiasm fame adds to a great reveal in this unique documentary definitely worth watching."}], "recommendations": ["the_secret_life_of_walter_mitty", "a_bronx_tale", "big_fish", "goodbye_christopher_robin", "only_the_brave", "life_of_pi", "boyz_n_the_hood", "joy", "finding_neverland", "american_beauty", "the_founder", "minari", "dead_poets_society", "loving_vincent", "life_itself", "first_they_killed_my_father", "nomadland", "brokeback_mountain", "a_beautiful_day_in_the_neighborhood", "togo", "american_pastoral", "the_electrical_life_of_louis_wain", "mary_magdalene", "fighting_with_my_family", "raging_bull"]}
+{
+  "id": 3384,
+  "title": "Long Shot",
+  "starring": [
+    "Charlize Theron",
+    "Seth Rogen"
+  ],
+  "runtime": 125,
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "description": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter \u2014 much to the dismay of her trusted advisers.",
+  "releaseYear": "2019",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg",
+  "categories": {
+    "plot": 8.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 8.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "Intense, real-life story of an innocent man fighting for his life. Larry David of Seinfeld/Curb Your Enthusiasm fame adds to a great reveal in this unique documentary definitely worth watching."
+    }
+  ],
+  "recommendations": [
+    "the_secret_life_of_walter_mitty",
+    "a_bronx_tale",
+    "big_fish",
+    "goodbye_christopher_robin",
+    "only_the_brave",
+    "life_of_pi",
+    "boyz_n_the_hood",
+    "joy",
+    "finding_neverland",
+    "american_beauty",
+    "the_founder",
+    "minari",
+    "dead_poets_society",
+    "loving_vincent",
+    "life_itself",
+    "first_they_killed_my_father",
+    "nomadland",
+    "brokeback_mountain",
+    "a_beautiful_day_in_the_neighborhood",
+    "togo",
+    "american_pastoral",
+    "the_electrical_life_of_louis_wain",
+    "mary_magdalene",
+    "fighting_with_my_family",
+    "raging_bull"
+  ]
+}

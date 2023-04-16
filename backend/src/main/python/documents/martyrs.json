@@ -1,1 +1,81 @@
-{"id": 3010, "title": "Martyrs", "starring": ["Morjana Alaoui", "Myl\u00e8ne Jampano\u00ef"], "runtime": 99, "genre": ["Horror", "Drama", "Thriller"], "description": "A young woman\u2019s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.", "releaseYear": "2008", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/2PmVlnPVG8tGXqC85YiHzL0jX40.jpg", "categories": {"plot": 5.0, "acting": 1.0, "ending": 1.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "Uno de los remakes m\u00e1s desastrosos que existen, este simplemente no tiene raz\u00f3n de ser, malisimo y absurdo."}, {"rating": "1", "text": "Why is that most remakes of international horror are so inept? And it seems like more times than not they are directed by the same original director (this is an exception)? Skip this and go straight to the French original."}, {"rating": "0", "text": "This was a truly pathetic attempt to remake an incredible movie. See the original 2008 film directed by Pascal Laugier, not this lame Hollywood remake. Just as when a great painting is created by an artist, you come off as a fool to copy it, so it is the case when a film is made so perfectly, so spot on, you become a buffoon in trying to duplicate the original masterpiece."}, {"rating": "1", "text": "Let me start by saying, i'm not a person to hate on a film just 'cause it's a remake. I've enjoyed The Ring, The Grudge, The Eye... All the \"The\" films apparently. But my god this... This was terrible. It's the appitomy of a watered down American remake, the ending is just, well, if you've seen it you know. The original Martyrs had such a graphic, shocking ending it stuck with you for weeks. This, not so much.I won't slate the acting like alot of people, they were all fine I guess, but one thing that truelly annoyed me was the terrible shotgun sound effect. When there's the first gunshot out of the blue near the beginning that should be a jumpy crap your pants moment, but the shotgun sounds so ridiculously pathetic it's laughable.Please, I emplore all of you, just watch the original."}, {"rating": "7", "text": "Girl, alongside her friend, kills the family that tortured her as a child, which they did because a cult they belonged to wanted to see the afterlife through her suffering, or something."}, {"rating": "10", "text": "this movie is underapreciated. I watched it twice and cried in both times. idk why people hate it"}], "recommendations": ["book_of_shadows_blair_witch_2", "jeepers_creepers_reborn", "blair_witch", "the_grudge_2", "rings", "see_no_evil", "the_ring_two", "the_texas_chainsaw_massacre", "the_texas_chainsaw_massacre_the_beginning", "the_grudge", "the_omen", "friday_the_13th", "poltergeist", "halloween_resurrection", "halloween_the_curse_of_michael_myers", "halloween_iii_season_of_the_witch", "a_nightmare_on_elm_street", "the_devil_inside", "the_eye", "the_amityville_horror", "the_matrix_resurrections", "the_host", "the_bye_bye_man", "ouija", "a_haunted_house_2"]}
+{
+  "id": 3010,
+  "title": "Martyrs",
+  "starring": [
+    "Morjana Alaoui",
+    "Myl\u00e8ne Jampano\u00ef"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Horror",
+    "Drama",
+    "Thriller"
+  ],
+  "description": "A young woman\u2019s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+  "releaseYear": "2008",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2PmVlnPVG8tGXqC85YiHzL0jX40.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 1.0,
+    "ending": 1.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Uno de los remakes m\u00e1s desastrosos que existen, este simplemente no tiene raz\u00f3n de ser, malisimo y absurdo."
+    },
+    {
+      "rating": "1",
+      "text": "Why is that most remakes of international horror are so inept? And it seems like more times than not they are directed by the same original director (this is an exception)? Skip this and go straight to the French original."
+    },
+    {
+      "rating": "0",
+      "text": "This was a truly pathetic attempt to remake an incredible movie. See the original 2008 film directed by Pascal Laugier, not this lame Hollywood remake. Just as when a great painting is created by an artist, you come off as a fool to copy it, so it is the case when a film is made so perfectly, so spot on, you become a buffoon in trying to duplicate the original masterpiece."
+    },
+    {
+      "rating": "1",
+      "text": "Let me start by saying, i'm not a person to hate on a film just 'cause it's a remake. I've enjoyed The Ring, The Grudge, The Eye... All the \"The\" films apparently. But my god this... This was terrible. It's the appitomy of a watered down American remake, the ending is just, well, if you've seen it you know. The original Martyrs had such a graphic, shocking ending it stuck with you for weeks. This, not so much.I won't slate the acting like alot of people, they were all fine I guess, but one thing that truelly annoyed me was the terrible shotgun sound effect. When there's the first gunshot out of the blue near the beginning that should be a jumpy crap your pants moment, but the shotgun sounds so ridiculously pathetic it's laughable.Please, I emplore all of you, just watch the original."
+    },
+    {
+      "rating": "7",
+      "text": "Girl, alongside her friend, kills the family that tortured her as a child, which they did because a cult they belonged to wanted to see the afterlife through her suffering, or something."
+    },
+    {
+      "rating": "10",
+      "text": "this movie is underapreciated. I watched it twice and cried in both times. idk why people hate it"
+    }
+  ],
+  "recommendations": [
+    "book_of_shadows_blair_witch_2",
+    "jeepers_creepers_reborn",
+    "blair_witch",
+    "the_grudge_2",
+    "rings",
+    "see_no_evil",
+    "the_ring_two",
+    "the_texas_chainsaw_massacre",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "the_grudge",
+    "the_omen",
+    "friday_the_13th",
+    "poltergeist",
+    "halloween_resurrection",
+    "halloween_the_curse_of_michael_myers",
+    "halloween_iii_season_of_the_witch",
+    "a_nightmare_on_elm_street",
+    "the_devil_inside",
+    "the_eye",
+    "the_amityville_horror",
+    "the_matrix_resurrections",
+    "the_host",
+    "the_bye_bye_man",
+    "ouija",
+    "a_haunted_house_2"
+  ]
+}

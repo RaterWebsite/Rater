@@ -1,1 +1,70 @@
-{"id": 4304, "title": "Barely Lethal", "starring": ["Hailee Steinfeld", "Sophie Turner"], "runtime": 96, "genre": ["Adventure", "Comedy", "Action", "Romance"], "description": "A 16-year-old international assassin yearning for a \"normal\" adolescence fakes her own death and enrolls as a senior in a suburban high school. She quickly learns that being popular can be more painful than getting water-boarded.", "releaseYear": "2015", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg", "categories": {"plot": 8.666666666666666, "acting": 8.666666666666666, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 6.0, "funny": 5.0, "action": 6.0}, "reviews": [{"rating": "6", "text": "Comes across as a slightly more violent Nickelodeon or Disney Channel special. There's some decent acting but the script and direction are...pretty flat."}, {"rating": "10", "text": "This movie has a lot of laughs, the story and dialogue are pretty good, but mainly the actors are very good. Some of the characters try to act like mean ass teenagers, but they're really sweet underneath it all. That's one of the reasons I liked the movie, which was a pleasant surprise to me since I wasn't really expecting it to be good. Mainly though, the lead character, played by Hailee, is CUTE as can be."}, {"rating": "6", "text": "For some people, living a normal life is a challenge!Teen girl's film, but no usual romance-comedy. There are some small clich\u00e9s, but being it is an action film, those parts looked kind of small. Yeah, nice casting. Hailee was really cool. The 'Descendant' girl Dove was good as well. The rest of cameos like Samuel L. Jackson and Alba was fine. It was from the director of 'Fanboys'. It tells the story of a girl trained to be an assassin from a very young age who escapes the centre to live a normal life in the real world. And that's where she struggles to blend in, as well as to overcome from the tailing troubles of the past.A well entertaining film, if you are not expecting anything big. It got a few great action sequences. Except Sam L. Jack, it is totally a chick film and most probably suitable for everyone for viewing. I enjoyed it, but I don't think I want a sequel for it. Particularly business wise that won't do well as this one was not received well by the film critics. Despite I approve it for a go, the rating wise it is just an average film. Sometimes that's where opinion divides for a film about what we felt watching it and how we're going to rate it later on.6/10"}], "recommendations": ["the_duff", "17_again", "this_means_war", "my_spy", "contraband", "red_riding_hood", "no_strings_attached", "the_babysitter", "the_pacifier", "shazam", "that_awkward_moment", "the_cobbler", "the_boy_next_door", "the_nice_guys", "hancock", "spies_in_disguise", "how_to_be_single", "the_green_hornet", "the_dilemma", "mean_girls", "race_to_witch_mountain", "midnight_sun", "the_king_of_staten_island", "10_things_i_hate_about_you", "four_brothers"]}
+{
+  "id": 4304,
+  "title": "Barely Lethal",
+  "starring": [
+    "Hailee Steinfeld",
+    "Sophie Turner"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Action",
+    "Romance"
+  ],
+  "description": "A 16-year-old international assassin yearning for a \"normal\" adolescence fakes her own death and enrolls as a senior in a suburban high school. She quickly learns that being popular can be more painful than getting water-boarded.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg",
+  "categories": {
+    "plot": 8.666666666666666,
+    "acting": 8.666666666666666,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 6.0,
+    "funny": 5.0,
+    "action": 6.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "Comes across as a slightly more violent Nickelodeon or Disney Channel special. There's some decent acting but the script and direction are...pretty flat."
+    },
+    {
+      "rating": "10",
+      "text": "This movie has a lot of laughs, the story and dialogue are pretty good, but mainly the actors are very good. Some of the characters try to act like mean ass teenagers, but they're really sweet underneath it all. That's one of the reasons I liked the movie, which was a pleasant surprise to me since I wasn't really expecting it to be good. Mainly though, the lead character, played by Hailee, is CUTE as can be."
+    },
+    {
+      "rating": "6",
+      "text": "For some people, living a normal life is a challenge!Teen girl's film, but no usual romance-comedy. There are some small clich\u00e9s, but being it is an action film, those parts looked kind of small. Yeah, nice casting. Hailee was really cool. The 'Descendant' girl Dove was good as well. The rest of cameos like Samuel L. Jackson and Alba was fine. It was from the director of 'Fanboys'. It tells the story of a girl trained to be an assassin from a very young age who escapes the centre to live a normal life in the real world. And that's where she struggles to blend in, as well as to overcome from the tailing troubles of the past.A well entertaining film, if you are not expecting anything big. It got a few great action sequences. Except Sam L. Jack, it is totally a chick film and most probably suitable for everyone for viewing. I enjoyed it, but I don't think I want a sequel for it. Particularly business wise that won't do well as this one was not received well by the film critics. Despite I approve it for a go, the rating wise it is just an average film. Sometimes that's where opinion divides for a film about what we felt watching it and how we're going to rate it later on.6/10"
+    }
+  ],
+  "recommendations": [
+    "the_duff",
+    "17_again",
+    "this_means_war",
+    "my_spy",
+    "contraband",
+    "red_riding_hood",
+    "no_strings_attached",
+    "the_babysitter",
+    "the_pacifier",
+    "shazam",
+    "that_awkward_moment",
+    "the_cobbler",
+    "the_boy_next_door",
+    "the_nice_guys",
+    "hancock",
+    "spies_in_disguise",
+    "how_to_be_single",
+    "the_green_hornet",
+    "the_dilemma",
+    "mean_girls",
+    "race_to_witch_mountain",
+    "midnight_sun",
+    "the_king_of_staten_island",
+    "10_things_i_hate_about_you",
+    "four_brothers"
+  ]
+}

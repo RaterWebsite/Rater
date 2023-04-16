@@ -1,1 +1,102 @@
-{"id": 4639, "title": "Show Dogs", "starring": ["Will Arnett", "Ludacris"], "runtime": 92, "genre": ["Adventure", "Crime", "Family", "Comedy"], "description": "Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a primped show dog in a prestigious Dog Show, along with his human partner, to avert a disaster from happening.", "releaseYear": "2018", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/2dvxCBUfDG2cAdkA921rERxhtcp.jpg", "categories": {"plot": 5.0, "acting": 0.5, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 0.8, "action": 5.0}, "reviews": [{"rating": "1", "text": "A bafflingly unfunny, unimaginative, and uninspired effort on the part of pretty much everyone involved, Raja Gosnell's \"Show Dogs\" is not only just an immeasurably sub-par effort in every regard, it's also occasionally offensive in some of its attempts at thematics and its general belief in the stupidity of the people watching it. I challenge anybody to defend this as anything other than a poorly made, disgracefully ideated, and horrifically produced misfire of an attempt at cashing in on a fad that died back in the early 2000's. Simply one of the worst."}, {"rating": "1", "text": "It's the modern day 'Cats and Dogs', expect that fact that it's not that funny and is not memorable in any sense/ the only scene that will be engraved into my memory forever, is the Dirty Dancing dream."}, {"rating": "1", "text": "From the director of Home Alone 3, BOTH Scooby Doo movies, BOTH live-action Smurfs movies, and Beverly Hills Chihuahua, comes Show Dogs! Seriously, once you see that Raja Gosnell is the director of this, you better fear for your life.I would have given this a 0 had it not been that Will Arnett is actually trying to make his performance good."}, {"rating": "3", "text": "I am giving this movie a 3 just because I like dogs and most likely is why I watched the movie, which mostly was quite dumb :D"}, {"rating": "2", "text": "Bland and unoriginal in so many different ways, Show Dogs is a prime example of a movie that is near the level of a high-quality direct-to-video movie that feature talking dogs and trust me when I say that because there are a lot of talking dog movies that should have just ended up being direct-to-video and this is sadly one of them. Show Dogs is also another prime example of what to not do to make your movie successful. Don't fill them up with clich\u00e9s because everyone knows they'll get sick and tired of them before the movie could ever end."}, {"rating": "0", "text": "Easily the worst film of 2018 by a long shot. How did Eagle Pictures get away with releasing this movie? It is beyond cringily unfunny. With the amount of fart jokes in this movie, you would think at least ONE of them would be funny. The reality is that not even one of the fart jokes are humorous. Also, the CGI is just bad, and some of the CGI effects make the dogs look more at home in an HP Lovecraft or Stephen King novel than in a kids movie. On that note, \"frightening\" would be a good descriptor for Show Dogs!"}, {"rating": "0", "text": "Don't do it to yourself. I went in expecting bad, seeing the horrific posters, and I was unfortunately proved wrong. And I don't mean it was good. Even as a children's movie it is god awful. The fart jokes are extremely common and bad. If it makes you feel better my three year old nephew thought it was 'okay, but kinda boring'. A true professional reviewer, in my opinion."}, {"rating": "3", "text": "This movie is the worst I ever seen. The most engaging part of the movie were the commercials & trailers at the beginning, The most engaging scenes in the movie itself were the competition itself, and the only joke that made me laugh was that radio scene you saw in the trailer."}, {"rating": "0", "text": "This is the most cash grab, sub par movie i have ever seen. It has an uninspired plot, borderline offensive acting quality, and in some ways insults the viewers intelligence. Even for the talking animals genre, this is just one of the worst movies on planet earth"}, {"rating": "1", "text": "I like dogs but not this.///////////////////////////////////////////////////////"}, {"rating": "1", "text": "Oh this film's fine. I mean, it's not good, but don't know why everyone's so worked up abou... HOLY SH*T!"}], "recommendations": ["norm_of_the_north", "scary_movie_5", "epic_movie", "vampires_suck", "the_emoji_movie", "transformers_revenge_of_the_fallen", "meet_the_spartans", "the_wild", "movie_43", "grown_ups_2", "yogi_bear", "the_host", "pixels", "son_of_the_mask", "kangaroo_jack", "a_haunted_house_2", "alvin_and_the_chipmunks_chipwrecked", "home_sweet_home_alone", "the_cat_in_the_hat", "dragonball_evolution", "spy_kids_all_the_time_in_the_world", "deuce_bigalow_european_gigolo", "sausage_party", "planet_51", "uglydolls"]}
+{
+  "id": 4639,
+  "title": "Show Dogs",
+  "starring": [
+    "Will Arnett",
+    "Ludacris"
+  ],
+  "runtime": 92,
+  "genre": [
+    "Adventure",
+    "Crime",
+    "Family",
+    "Comedy"
+  ],
+  "description": "Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a primped show dog in a prestigious Dog Show, along with his human partner, to avert a disaster from happening.",
+  "releaseYear": "2018",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2dvxCBUfDG2cAdkA921rERxhtcp.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 0.5,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 0.8,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "1",
+      "text": "A bafflingly unfunny, unimaginative, and uninspired effort on the part of pretty much everyone involved, Raja Gosnell's \"Show Dogs\" is not only just an immeasurably sub-par effort in every regard, it's also occasionally offensive in some of its attempts at thematics and its general belief in the stupidity of the people watching it. I challenge anybody to defend this as anything other than a poorly made, disgracefully ideated, and horrifically produced misfire of an attempt at cashing in on a fad that died back in the early 2000's. Simply one of the worst."
+    },
+    {
+      "rating": "1",
+      "text": "It's the modern day 'Cats and Dogs', expect that fact that it's not that funny and is not memorable in any sense/ the only scene that will be engraved into my memory forever, is the Dirty Dancing dream."
+    },
+    {
+      "rating": "1",
+      "text": "From the director of Home Alone 3, BOTH Scooby Doo movies, BOTH live-action Smurfs movies, and Beverly Hills Chihuahua, comes Show Dogs! Seriously, once you see that Raja Gosnell is the director of this, you better fear for your life.I would have given this a 0 had it not been that Will Arnett is actually trying to make his performance good."
+    },
+    {
+      "rating": "3",
+      "text": "I am giving this movie a 3 just because I like dogs and most likely is why I watched the movie, which mostly was quite dumb :D"
+    },
+    {
+      "rating": "2",
+      "text": "Bland and unoriginal in so many different ways, Show Dogs is a prime example of a movie that is near the level of a high-quality direct-to-video movie that feature talking dogs and trust me when I say that because there are a lot of talking dog movies that should have just ended up being direct-to-video and this is sadly one of them. Show Dogs is also another prime example of what to not do to make your movie successful. Don't fill them up with clich\u00e9s because everyone knows they'll get sick and tired of them before the movie could ever end."
+    },
+    {
+      "rating": "0",
+      "text": "Easily the worst film of 2018 by a long shot. How did Eagle Pictures get away with releasing this movie? It is beyond cringily unfunny. With the amount of fart jokes in this movie, you would think at least ONE of them would be funny. The reality is that not even one of the fart jokes are humorous. Also, the CGI is just bad, and some of the CGI effects make the dogs look more at home in an HP Lovecraft or Stephen King novel than in a kids movie. On that note, \"frightening\" would be a good descriptor for Show Dogs!"
+    },
+    {
+      "rating": "0",
+      "text": "Don't do it to yourself. I went in expecting bad, seeing the horrific posters, and I was unfortunately proved wrong. And I don't mean it was good. Even as a children's movie it is god awful. The fart jokes are extremely common and bad. If it makes you feel better my three year old nephew thought it was 'okay, but kinda boring'. A true professional reviewer, in my opinion."
+    },
+    {
+      "rating": "3",
+      "text": "This movie is the worst I ever seen. The most engaging part of the movie were the commercials & trailers at the beginning, The most engaging scenes in the movie itself were the competition itself, and the only joke that made me laugh was that radio scene you saw in the trailer."
+    },
+    {
+      "rating": "0",
+      "text": "This is the most cash grab, sub par movie i have ever seen. It has an uninspired plot, borderline offensive acting quality, and in some ways insults the viewers intelligence. Even for the talking animals genre, this is just one of the worst movies on planet earth"
+    },
+    {
+      "rating": "1",
+      "text": "I like dogs but not this.///////////////////////////////////////////////////////"
+    },
+    {
+      "rating": "1",
+      "text": "Oh this film's fine. I mean, it's not good, but don't know why everyone's so worked up abou... HOLY SH*T!"
+    }
+  ],
+  "recommendations": [
+    "norm_of_the_north",
+    "scary_movie_5",
+    "epic_movie",
+    "vampires_suck",
+    "the_emoji_movie",
+    "transformers_revenge_of_the_fallen",
+    "meet_the_spartans",
+    "the_wild",
+    "movie_43",
+    "grown_ups_2",
+    "yogi_bear",
+    "the_host",
+    "pixels",
+    "son_of_the_mask",
+    "kangaroo_jack",
+    "a_haunted_house_2",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "home_sweet_home_alone",
+    "the_cat_in_the_hat",
+    "dragonball_evolution",
+    "spy_kids_all_the_time_in_the_world",
+    "deuce_bigalow_european_gigolo",
+    "sausage_party",
+    "planet_51",
+    "uglydolls"
+  ]
+}

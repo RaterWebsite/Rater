@@ -1,1 +1,60 @@
-{"id": 124, "title": "Bartkowiak", "starring": ["J\u00f3zef Paw\u0142owski", "Zofia Domalik"], "runtime": 91, "genre": ["Action", "Thriller"], "description": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub \u2014 and soon learns his sibling's death wasn\u2019t an accident.", "releaseYear": "2021", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "3", "text": "Since this movie, my eyes hurt. Dialogue level as in primary school. The sound, as in any Polish film, is weak. My 2-year-old son would write a better script."}], "recommendations": ["a_wrinkle_in_time", "dolittle", "apex", "gran_torino", "stranger_things", "the_day_the_earth_stood_still", "perfect_sisters", "the_tale_of_despereaux", "mighty_morphin_power_rangers_the_movie", "juno", "the_ten_commandments", "project_power", "the_deep_house", "artemis_fowl", "abduction", "seventh_son", "the_room", "journey_to_the_center_of_the_earth", "life_of_the_party", "eragon", "alice_through_the_looking_glass", "the_kissing_booth_2", "the_departed", "inkheart", "enola_holmes_2"]}
+{
+  "id": 124,
+  "title": "Bartkowiak",
+  "starring": [
+    "J\u00f3zef Paw\u0142owski",
+    "Zofia Domalik"
+  ],
+  "runtime": 91,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub \u2014 and soon learns his sibling's death wasn\u2019t an accident.",
+  "releaseYear": "2021",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Since this movie, my eyes hurt. Dialogue level as in primary school. The sound, as in any Polish film, is weak. My 2-year-old son would write a better script."
+    }
+  ],
+  "recommendations": [
+    "a_wrinkle_in_time",
+    "dolittle",
+    "apex",
+    "gran_torino",
+    "stranger_things",
+    "the_day_the_earth_stood_still",
+    "perfect_sisters",
+    "the_tale_of_despereaux",
+    "mighty_morphin_power_rangers_the_movie",
+    "juno",
+    "the_ten_commandments",
+    "project_power",
+    "the_deep_house",
+    "artemis_fowl",
+    "abduction",
+    "seventh_son",
+    "the_room",
+    "journey_to_the_center_of_the_earth",
+    "life_of_the_party",
+    "eragon",
+    "alice_through_the_looking_glass",
+    "the_kissing_booth_2",
+    "the_departed",
+    "inkheart",
+    "enola_holmes_2"
+  ]
+}

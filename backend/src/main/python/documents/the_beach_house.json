@@ -1,1 +1,81 @@
-{"id": 3068, "title": "The Beach House", "starring": ["Liana Liberato", "Noah Le Gros"], "runtime": 88, "genre": ["Drama", "Horror", "Mystery"], "description": "A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.", "releaseYear": "2020", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg", "categories": {"plot": 4.8, "acting": 5.0, "ending": 3.3333333333333335, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "Sorry, the ending Kills the whole movie. The movie is as worse as \"Cabin in the Woods\"I cant descripe how Bad this movie is and i really consider asking for my Money Back"}, {"rating": "4", "text": "A timely and atmospheric eco-thriller hamstrung by a plodding plot where the slow-burn comes in the last act, not the first. Add a slacker boyfriend that is so completely annoying and useless it makes 88 minutes feel like three hours."}, {"rating": "5", "text": "Not all films should make sense. I mean, I'd expect a little consistency, but the sense sometimes tends to slip away.Something like this occurs with The Rental.A film that initially looks like a couples drama but ends up becoming a horror story.In principle it might sound interesting but even considering the short length, The Rental is a story where only things happen because they must happen and then they end abruptly.Zero story development and one-dimensional shallow characters. A recurring note in horror films of this kind.There's sufficient talent in Franco's craftsmanship, and it's going to be interesting to see if he can grow as a filmmaker if he decides to continue doing it, but he needs to make a better narrative management and most of all he'll need better scripts, because when the viewer doesn't care about the characters, nor the poor motives, nor the killer, well, there's very little left to hold on to. Is it a failure? Yes. There's nothing worth remembering in this film, except that it's Dave Franco's filmmaking debut. The rest is as ordinary as it sounds."}, {"rating": "8", "text": "The way this film was shot was amazing, and I think it\u2019s time for more ecological horror to be made"}, {"rating": "5", "text": "Guy takes girlfriend to Dad's beach house but friends of his dad are already there, they eat oysters and then get infected with...zombie-ness."}, {"rating": "6", "text": "The is an interesting movie as the concept itself is kind of terrifying. The way events unfold is quite unnerving, as we're first lead to think it'll be a home invasion type film. But then it takes a strange turn as it progresses to night time and the 'fog' rolls in. From there the movie continues on with more starting and horrifying events taking place. However, some of these events come across a bit goofy in my eyes which is where it loses me a little. Overall it's a pretty average horror movie with an interesting premise that isn't fully explored."}], "recommendations": ["the_rental", "the_forest", "paranormal_activity_2", "how_it_ends", "escape_room", "i_see_you", "chernobyl_diaries", "oculus", "unfriended_dark_web", "paranormal_activity_the_ghost_dimension", "shut_in", "bird_box", "the_purge", "paranormal_activity_the_marked_ones", "marrowbone", "brimstone", "old", "the_strangers", "eo", "dark_skies", "frozen", "unfriended", "the_autopsy_of_jane_doe", "the_boy", "a_cure_for_wellness"]}
+{
+  "id": 3068,
+  "title": "The Beach House",
+  "starring": [
+    "Liana Liberato",
+    "Noah Le Gros"
+  ],
+  "runtime": 88,
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "description": "A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.",
+  "releaseYear": "2020",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg",
+  "categories": {
+    "plot": 4.8,
+    "acting": 5.0,
+    "ending": 3.3333333333333335,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "Sorry, the ending Kills the whole movie. The movie is as worse as \"Cabin in the Woods\"I cant descripe how Bad this movie is and i really consider asking for my Money Back"
+    },
+    {
+      "rating": "4",
+      "text": "A timely and atmospheric eco-thriller hamstrung by a plodding plot where the slow-burn comes in the last act, not the first. Add a slacker boyfriend that is so completely annoying and useless it makes 88 minutes feel like three hours."
+    },
+    {
+      "rating": "5",
+      "text": "Not all films should make sense. I mean, I'd expect a little consistency, but the sense sometimes tends to slip away.Something like this occurs with The Rental.A film that initially looks like a couples drama but ends up becoming a horror story.In principle it might sound interesting but even considering the short length, The Rental is a story where only things happen because they must happen and then they end abruptly.Zero story development and one-dimensional shallow characters. A recurring note in horror films of this kind.There's sufficient talent in Franco's craftsmanship, and it's going to be interesting to see if he can grow as a filmmaker if he decides to continue doing it, but he needs to make a better narrative management and most of all he'll need better scripts, because when the viewer doesn't care about the characters, nor the poor motives, nor the killer, well, there's very little left to hold on to. Is it a failure? Yes. There's nothing worth remembering in this film, except that it's Dave Franco's filmmaking debut. The rest is as ordinary as it sounds."
+    },
+    {
+      "rating": "8",
+      "text": "The way this film was shot was amazing, and I think it\u2019s time for more ecological horror to be made"
+    },
+    {
+      "rating": "5",
+      "text": "Guy takes girlfriend to Dad's beach house but friends of his dad are already there, they eat oysters and then get infected with...zombie-ness."
+    },
+    {
+      "rating": "6",
+      "text": "The is an interesting movie as the concept itself is kind of terrifying. The way events unfold is quite unnerving, as we're first lead to think it'll be a home invasion type film. But then it takes a strange turn as it progresses to night time and the 'fog' rolls in. From there the movie continues on with more starting and horrifying events taking place. However, some of these events come across a bit goofy in my eyes which is where it loses me a little. Overall it's a pretty average horror movie with an interesting premise that isn't fully explored."
+    }
+  ],
+  "recommendations": [
+    "the_rental",
+    "the_forest",
+    "paranormal_activity_2",
+    "how_it_ends",
+    "escape_room",
+    "i_see_you",
+    "chernobyl_diaries",
+    "oculus",
+    "unfriended_dark_web",
+    "paranormal_activity_the_ghost_dimension",
+    "shut_in",
+    "bird_box",
+    "the_purge",
+    "paranormal_activity_the_marked_ones",
+    "marrowbone",
+    "brimstone",
+    "old",
+    "the_strangers",
+    "eo",
+    "dark_skies",
+    "frozen",
+    "unfriended",
+    "the_autopsy_of_jane_doe",
+    "the_boy",
+    "a_cure_for_wellness"
+  ]
+}

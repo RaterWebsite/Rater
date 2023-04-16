@@ -1,1 +1,94 @@
-{"id": 1315, "title": "Sleeping Beauty", "starring": ["Mary Costa", "Bill Shirley"], "runtime": 75, "genre": ["Fantasy", "Animation", "Romance", "Family"], "description": "A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.", "releaseYear": "1959", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/e3K5cLvVRXVxhw4mXQET92p1dnz.jpg", "categories": {"plot": 5.4, "acting": 6.25, "ending": 3.3333333333333335, "soundtrack": 6.0, "cinematography": 3.0, "familyFriendly": 6.5, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "2", "text": "One of the worst films I've seen all year. Julia Leigh's directorial debut looks and feels like a second rate Hanake film. Rarely have I seen a movie devoid of any real point. The word \"pretentious\" is often thrown around too easily to describe movies these days, but it's a word that is largely deserved for this ugly and exploitative film.\"Art House crap is still crap\""}, {"rating": "8", "text": "I actually really liked this film. I like it because it stays with you after it has ended (like Eyes Wide Shut, Mulholland Drive...etc). Although it has nudity throughout, it's not erotic nudity. It's got an almost \"cold, sterile\" vibe riding alongside in the passenger seat. There's plenty of questions to ask yourself when watching (1.The meaning behind the character \"Birdman\"... 2.The \"Lack of Kissing\"... 3.The \"Will You Marry Me?\"... 4.The ending...etc)\r There's definitely multiple hidden narratives or meanings that this film operates on and it's definitely trying to examine the objectification of females, and what constitutes as a sexualized image or the nature of sexual aggression. It's also notably showing the parallel of being asleep through her entire life (seemingly not being fazed by anything) and to finally \"wake up\" at the finale... hence a play on the title."}, {"rating": "7", "text": "Definitely not your everyday film. I understand how some people could be offended or dislike the movie as a whole, however, if you watch the trailer before hand or read the synopsis, you should know what you are getting yourself into. The trailer really shows the sexuality of it. So that being said, it wasnt a bad movie. Some silent moments to show the boredom in her regular life but again, its an artsy film so sit back and enjoy. Passing grade."}, {"rating": "6", "text": "Despite being a film that abuses of silence, recurrence and plans extremely long (the joint that gives a consistency that borders on the unbearable, and maybe that's the intention of the director), Sleeping Beauty did not cause me sleep, or made me uncomfortable, but arrested my attention in hopes of a turnaround, a start who was Lucy. I have seen the majority of Emily movies, and I shall say this is one of her best performances, judging first by the girl's age which is surprising. Nevertheless, still she has some things to learn: it was possible to notice her movements as she slept, movements, apparently, someone who is awake . Pay attention to the uncomfortable scene of the bald old man licking her face.The direction of Julia Leigh is good and certainly safe, the almost complete absence of soundtrack only adds raw to the aspect of the film, the photography is excellent, the direction a little piece of art though. But the sticking point of the work of Julia Leigh lives in the script, right? Well, certainly Julia doesn\u00e2"}, {"rating": "1", "text": "This is a bleak and disturbing movie with no redeeming feature at all. There is a hope throughout that there will be some sort of better story revealed, something we have not been told but will be. Once the movie is over, there is an overall sense that the director has sucked you in to wasting that much time of your life. It is a pretentious movie, imagining itself to be intelligent, but simply ugly on the inside and weird on the outside!"}, {"rating": "6", "text": "It's not a great movie but it has a lot a things that makes we think about...  It's a very complex movie. At the first time I get myself pissed with the end... Although later I enjoy and kind like those questions not answered... it makes us break up our mind... That's nice."}, {"rating": "3", "text": "This is a movie that happens to be too abstract for it's own good. It's a voyeuristic character study where you don't ever really care about the protagonist and the ending doesn't wrap up enough things to make it feel worth it. Any symbolism the film has is lost in it's trust that the audience is willing to care enough to dig to find it. This director shows signs of promise and some scenes echo cinematography from Bergman and other similar film makers but never rises to it.  Overall, the film is one that in the end doesn't really justify sitting through the slow and vague exploration of sex when there are so many better films on the subject out there."}, {"rating": "4", "text": "I know, I know this is supposed to be an art house film. But I actually found it pretty boring & ended up fast forwarding through most of it. My curse is that once I've started a movie I'm usually curious enough to want ot know the ending. But I got to the ending of this movie & thought: that's it?"}, {"rating": "7", "text": "No wonder it was Cannes to praise this film. Although Sleeping Beauty is an Australian production, this type of cold eroticism is usually exclusive to French cinema and it is one of its most prized features. Also, no wonder American festivals neglected it (too much nudity, swear words, full frontal male, drugs, alcohol, but it wasn't Tarantino's, so no).\r Trouble is, many people think this kind of movie is pretentious. It depends on your definition. Pretentious films, to me, are those that think they can teach you something, like big morals or history. Sleeping Beauty doesn't even try that, it just lets you open a window on somebody's life. The assumptions and what you derive from what you see is entirely up to you.\r So I didn't think it was pretentious, but I did think it lacked a bit of character and sprite. The acting could have been better, except for Emily Browning's which was deliberately plain.\r Finally, despite all the nudity, there's not a glimpse of sensuality throughout the whole picture. And after a while one starts to understand how."}], "recommendations": ["mother", "titane", "the_lobster", "enemy", "antichrist", "midsommar", "under_the_skin", "the_power_of_the_dog", "the_wolf_of_wall_street", "roma", "the_counselor", "a_ghost_story", "fifty_shades_darker", "lost_in_translation", "antebellum", "the_american", "fifty_shades_of_grey", "slumdog_millionaire", "the_green_knight", "the_shape_of_water", "fifty_shades_freed", "babel", "vivarium", "the_hateful_eight", "exorcist_the_beginning"]}
+{
+  "id": 1315,
+  "title": "Sleeping Beauty",
+  "starring": [
+    "Mary Costa",
+    "Bill Shirley"
+  ],
+  "runtime": 75,
+  "genre": [
+    "Fantasy",
+    "Animation",
+    "Romance",
+    "Family"
+  ],
+  "description": "A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.",
+  "releaseYear": "1959",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/e3K5cLvVRXVxhw4mXQET92p1dnz.jpg",
+  "categories": {
+    "plot": 5.4,
+    "acting": 6.25,
+    "ending": 3.3333333333333335,
+    "soundtrack": 6.0,
+    "cinematography": 3.0,
+    "familyFriendly": 6.5,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "One of the worst films I've seen all year. Julia Leigh's directorial debut looks and feels like a second rate Hanake film. Rarely have I seen a movie devoid of any real point. The word \"pretentious\" is often thrown around too easily to describe movies these days, but it's a word that is largely deserved for this ugly and exploitative film.\"Art House crap is still crap\""
+    },
+    {
+      "rating": "8",
+      "text": "I actually really liked this film. I like it because it stays with you after it has ended (like Eyes Wide Shut, Mulholland Drive...etc). Although it has nudity throughout, it's not erotic nudity. It's got an almost \"cold, sterile\" vibe riding alongside in the passenger seat. There's plenty of questions to ask yourself when watching (1.The meaning behind the character \"Birdman\"... 2.The \"Lack of Kissing\"... 3.The \"Will You Marry Me?\"... 4.The ending...etc)\r There's definitely multiple hidden narratives or meanings that this film operates on and it's definitely trying to examine the objectification of females, and what constitutes as a sexualized image or the nature of sexual aggression. It's also notably showing the parallel of being asleep through her entire life (seemingly not being fazed by anything) and to finally \"wake up\" at the finale... hence a play on the title."
+    },
+    {
+      "rating": "7",
+      "text": "Definitely not your everyday film. I understand how some people could be offended or dislike the movie as a whole, however, if you watch the trailer before hand or read the synopsis, you should know what you are getting yourself into. The trailer really shows the sexuality of it. So that being said, it wasnt a bad movie. Some silent moments to show the boredom in her regular life but again, its an artsy film so sit back and enjoy. Passing grade."
+    },
+    {
+      "rating": "6",
+      "text": "Despite being a film that abuses of silence, recurrence and plans extremely long (the joint that gives a consistency that borders on the unbearable, and maybe that's the intention of the director), Sleeping Beauty did not cause me sleep, or made me uncomfortable, but arrested my attention in hopes of a turnaround, a start who was Lucy. I have seen the majority of Emily movies, and I shall say this is one of her best performances, judging first by the girl's age which is surprising. Nevertheless, still she has some things to learn: it was possible to notice her movements as she slept, movements, apparently, someone who is awake . Pay attention to the uncomfortable scene of the bald old man licking her face.The direction of Julia Leigh is good and certainly safe, the almost complete absence of soundtrack only adds raw to the aspect of the film, the photography is excellent, the direction a little piece of art though. But the sticking point of the work of Julia Leigh lives in the script, right? Well, certainly Julia doesn\u00e2"
+    },
+    {
+      "rating": "1",
+      "text": "This is a bleak and disturbing movie with no redeeming feature at all. There is a hope throughout that there will be some sort of better story revealed, something we have not been told but will be. Once the movie is over, there is an overall sense that the director has sucked you in to wasting that much time of your life. It is a pretentious movie, imagining itself to be intelligent, but simply ugly on the inside and weird on the outside!"
+    },
+    {
+      "rating": "6",
+      "text": "It's not a great movie but it has a lot a things that makes we think about...  It's a very complex movie. At the first time I get myself pissed with the end... Although later I enjoy and kind like those questions not answered... it makes us break up our mind... That's nice."
+    },
+    {
+      "rating": "3",
+      "text": "This is a movie that happens to be too abstract for it's own good. It's a voyeuristic character study where you don't ever really care about the protagonist and the ending doesn't wrap up enough things to make it feel worth it. Any symbolism the film has is lost in it's trust that the audience is willing to care enough to dig to find it. This director shows signs of promise and some scenes echo cinematography from Bergman and other similar film makers but never rises to it.  Overall, the film is one that in the end doesn't really justify sitting through the slow and vague exploration of sex when there are so many better films on the subject out there."
+    },
+    {
+      "rating": "4",
+      "text": "I know, I know this is supposed to be an art house film. But I actually found it pretty boring & ended up fast forwarding through most of it. My curse is that once I've started a movie I'm usually curious enough to want ot know the ending. But I got to the ending of this movie & thought: that's it?"
+    },
+    {
+      "rating": "7",
+      "text": "No wonder it was Cannes to praise this film. Although Sleeping Beauty is an Australian production, this type of cold eroticism is usually exclusive to French cinema and it is one of its most prized features. Also, no wonder American festivals neglected it (too much nudity, swear words, full frontal male, drugs, alcohol, but it wasn't Tarantino's, so no).\r Trouble is, many people think this kind of movie is pretentious. It depends on your definition. Pretentious films, to me, are those that think they can teach you something, like big morals or history. Sleeping Beauty doesn't even try that, it just lets you open a window on somebody's life. The assumptions and what you derive from what you see is entirely up to you.\r So I didn't think it was pretentious, but I did think it lacked a bit of character and sprite. The acting could have been better, except for Emily Browning's which was deliberately plain.\r Finally, despite all the nudity, there's not a glimpse of sensuality throughout the whole picture. And after a while one starts to understand how."
+    }
+  ],
+  "recommendations": [
+    "mother",
+    "titane",
+    "the_lobster",
+    "enemy",
+    "antichrist",
+    "midsommar",
+    "under_the_skin",
+    "the_power_of_the_dog",
+    "the_wolf_of_wall_street",
+    "roma",
+    "the_counselor",
+    "a_ghost_story",
+    "fifty_shades_darker",
+    "lost_in_translation",
+    "antebellum",
+    "the_american",
+    "fifty_shades_of_grey",
+    "slumdog_millionaire",
+    "the_green_knight",
+    "the_shape_of_water",
+    "fifty_shades_freed",
+    "babel",
+    "vivarium",
+    "the_hateful_eight",
+    "exorcist_the_beginning"
+  ]
+}

@@ -1,1 +1,68 @@
-{"id": 1772, "title": "The Eyes of Tammy Faye", "starring": ["Jessica Chastain", "Andrew Garfield"], "runtime": 126, "genre": ["Drama", "History"], "description": "From the 1960's to the 1980's, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to to build an empire based on big-time evangelical Christianity--only for the couple to fall from grace because of some all-too-human sins.", "releaseYear": "2021", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/vw5WXyHqAfnhmGpSjpyZh34xau3.jpg", "categories": {"plot": 7.0, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "Jessica Chastain does a good job, but the central character lacks depth and realism. Obviously these are trademarks of Tammy Faye, but the production fails to confront the character with the consequences of her worldview and lifestyle. She is portrayed as a victim of her family, husband, and ultimately her own naivety and stupidity. Greed and ego don't come into it."}, {"rating": "8", "text": "I rented this on Netflix expecting very little but was pleasantly surprised. I don't think it's for everyone...I think it definitely has a \"gay\" appeal, though I don't know if I can exactly articulate why (other than RuPaul's narration and a cameo by Jim J. Bullock!). I did appreciate that the filmmakers did not come to \"bury\" televangelism and the only person really vilified in the movie is Jerry Falwell and not Christians in general. And the old footage of Tammy singing and her sock puppetry is a hoot!"}, {"rating": "1", "text": "Too flashy, too much.... everything, too forced, over the top. Really dissapointed."}], "recommendations": ["closer", "don_jon", "blue_jasmine", "the_descendants", "up_in_the_air", "enola_holmes_2", "the_big_sick", "juno", "the_perks_of_being_a_wallflower", "the_intern", "i_feel_pretty", "silver_linings_playbook", "moxie", "wonder", "the_upside", "greenberg", "secretary", "20th_century_women", "love_actually", "captain_fantastic", "joy", "me_before_you", "thoroughbreds", "the_blind_side", "all_the_bright_places"]}
+{
+  "id": 1772,
+  "title": "The Eyes of Tammy Faye",
+  "starring": [
+    "Jessica Chastain",
+    "Andrew Garfield"
+  ],
+  "runtime": 126,
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "description": "From the 1960's to the 1980's, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to to build an empire based on big-time evangelical Christianity--only for the couple to fall from grace because of some all-too-human sins.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/vw5WXyHqAfnhmGpSjpyZh34xau3.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Jessica Chastain does a good job, but the central character lacks depth and realism. Obviously these are trademarks of Tammy Faye, but the production fails to confront the character with the consequences of her worldview and lifestyle. She is portrayed as a victim of her family, husband, and ultimately her own naivety and stupidity. Greed and ego don't come into it."
+    },
+    {
+      "rating": "8",
+      "text": "I rented this on Netflix expecting very little but was pleasantly surprised. I don't think it's for everyone...I think it definitely has a \"gay\" appeal, though I don't know if I can exactly articulate why (other than RuPaul's narration and a cameo by Jim J. Bullock!). I did appreciate that the filmmakers did not come to \"bury\" televangelism and the only person really vilified in the movie is Jerry Falwell and not Christians in general. And the old footage of Tammy singing and her sock puppetry is a hoot!"
+    },
+    {
+      "rating": "1",
+      "text": "Too flashy, too much.... everything, too forced, over the top. Really dissapointed."
+    }
+  ],
+  "recommendations": [
+    "closer",
+    "don_jon",
+    "blue_jasmine",
+    "the_descendants",
+    "up_in_the_air",
+    "enola_holmes_2",
+    "the_big_sick",
+    "juno",
+    "the_perks_of_being_a_wallflower",
+    "the_intern",
+    "i_feel_pretty",
+    "silver_linings_playbook",
+    "moxie",
+    "wonder",
+    "the_upside",
+    "greenberg",
+    "secretary",
+    "20th_century_women",
+    "love_actually",
+    "captain_fantastic",
+    "joy",
+    "me_before_you",
+    "thoroughbreds",
+    "the_blind_side",
+    "all_the_bright_places"
+  ]
+}

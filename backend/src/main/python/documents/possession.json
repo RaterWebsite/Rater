@@ -1,1 +1,63 @@
-{"id": 3789, "title": "Possession", "starring": ["Isabelle Adjani", "Sam Neill"], "runtime": 124, "genre": ["Horror"], "description": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.", "releaseYear": "1981", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/2MZCZyTNpHKQcOmz0USt6vLFJTE.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "The BEST HORROR MOVIE OF 2008!!!Sarah Michelle Gellar Does A Great Job!The Plot Is Very Creative, And Is Never Even The Least Bit Dull!Most Of The Cast Is Very Good! :) I Can Watch This Movie Over & Over!"}, {"rating": "8", "text": "Two brothers are in comas after a car crash and one wakes up and pretends to be the other one, just returned in the wrong body, so that he can get it on with his brother's wife."}], "recommendations": ["flatliners", "bride_of_chucky", "i_know_what_you_did_last_summer", "friday_the_13th_part_vii_the_new_blood", "kidnap", "parker", "seed_of_chucky", "jessabelle", "cult_of_chucky", "speed_2_cruise_control", "joy_ride", "the_mummy_returns", "cellular", "frequency", "killers", "the_boy_next_door", "curse_of_chucky", "jingle_all_the_way", "second_act", "friday_the_13th_part_viii_jason_takes_manhattan", "we_bought_a_zoo", "homefront", "jack_reacher_never_go_back", "my_spy", "tower_heist"]}
+{
+  "id": 3789,
+  "title": "Possession",
+  "starring": [
+    "Isabelle Adjani",
+    "Sam Neill"
+  ],
+  "runtime": 124,
+  "genre": [
+    "Horror"
+  ],
+  "description": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+  "releaseYear": "1981",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2MZCZyTNpHKQcOmz0USt6vLFJTE.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "The BEST HORROR MOVIE OF 2008!!!Sarah Michelle Gellar Does A Great Job!The Plot Is Very Creative, And Is Never Even The Least Bit Dull!Most Of The Cast Is Very Good! :) I Can Watch This Movie Over & Over!"
+    },
+    {
+      "rating": "8",
+      "text": "Two brothers are in comas after a car crash and one wakes up and pretends to be the other one, just returned in the wrong body, so that he can get it on with his brother's wife."
+    }
+  ],
+  "recommendations": [
+    "flatliners",
+    "bride_of_chucky",
+    "i_know_what_you_did_last_summer",
+    "friday_the_13th_part_vii_the_new_blood",
+    "kidnap",
+    "parker",
+    "seed_of_chucky",
+    "jessabelle",
+    "cult_of_chucky",
+    "speed_2_cruise_control",
+    "joy_ride",
+    "the_mummy_returns",
+    "cellular",
+    "frequency",
+    "killers",
+    "the_boy_next_door",
+    "curse_of_chucky",
+    "jingle_all_the_way",
+    "second_act",
+    "friday_the_13th_part_viii_jason_takes_manhattan",
+    "we_bought_a_zoo",
+    "homefront",
+    "jack_reacher_never_go_back",
+    "my_spy",
+    "tower_heist"
+  ]
+}

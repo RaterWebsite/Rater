@@ -1,1 +1,67 @@
-{"id": 4618, "title": "Amateur Night", "starring": ["Jason Biggs", "Janet Montgomery"], "runtime": 89, "genre": ["Comedy"], "description": "Guy Carter, an insecure expectant father unable to find work in his field, accepts a job driving hookers around Los Angeles. One long and crazy evening proves to our hero that he is, in fact, up to the task of fatherhood.", "releaseYear": "2016", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg", "categories": {"plot": 5.0, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 4.333333333333333, "action": 5.0}, "reviews": [{"rating": "2", "text": "Zero laughs. This movie is boring, unfunny and predictable. Jason Biggs plays the same American Pie character. I think Janet Montgomery should fire her agent. Cedric Yarbrough is underutilized."}, {"rating": "7", "text": "Caught thus on Hulu for free, Had a few laughs and some interesting scenes to go with a so-so plot. Jason Biggs essentially plays the same guy from American Pie but his chemistry with Janet Montgomery was pretty spot on. I also enjoyed Janet Montgomery as well as Ashley Tisdale's performance for this movie"}, {"rating": "3", "text": "The movie claiming to be a comedy made in 2016. The movie is an extremely boring and lame movie. An architect cannot find a job. His wife is pregnant and he has no health insurance. The birth is approaching, so she needs to find a job urgently. His wife is applying for a courier job for the man. But it turns out that the job is to carry an escort. What follows is nonsense and not funny at all. It would be more logical to watch a strip dance video instead of watching the movie. Because this is what happened in the movie and they released it as a comedy. The title of the movie and itself are very compatible with each other.There is plenty of sexuality and nudity in the movie."}], "recommendations": ["the_proposal", "wedding_crashers", "dirty_grandpa", "tammy", "the_bounty_hunter", "bad_teacher", "the_dilemma", "the_spy_who_dumped_me", "spy", "trainwreck", "killers", "hall_pass", "the_boss", "the_heat", "the_change_up", "paul_blart_mall_cop", "ride_along", "what_happens_in_vegas", "identity_thief", "no_strings_attached", "just_go_with_it", "central_intelligence", "get_hard", "good_luck_chuck", "the_wedding_ringer"]}
+{
+  "id": 4618,
+  "title": "Amateur Night",
+  "starring": [
+    "Jason Biggs",
+    "Janet Montgomery"
+  ],
+  "runtime": 89,
+  "genre": [
+    "Comedy"
+  ],
+  "description": "Guy Carter, an insecure expectant father unable to find work in his field, accepts a job driving hookers around Los Angeles. One long and crazy evening proves to our hero that he is, in fact, up to the task of fatherhood.",
+  "releaseYear": "2016",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 4.333333333333333,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "Zero laughs. This movie is boring, unfunny and predictable. Jason Biggs plays the same American Pie character. I think Janet Montgomery should fire her agent. Cedric Yarbrough is underutilized."
+    },
+    {
+      "rating": "7",
+      "text": "Caught thus on Hulu for free, Had a few laughs and some interesting scenes to go with a so-so plot. Jason Biggs essentially plays the same guy from American Pie but his chemistry with Janet Montgomery was pretty spot on. I also enjoyed Janet Montgomery as well as Ashley Tisdale's performance for this movie"
+    },
+    {
+      "rating": "3",
+      "text": "The movie claiming to be a comedy made in 2016. The movie is an extremely boring and lame movie. An architect cannot find a job. His wife is pregnant and he has no health insurance. The birth is approaching, so she needs to find a job urgently. His wife is applying for a courier job for the man. But it turns out that the job is to carry an escort. What follows is nonsense and not funny at all. It would be more logical to watch a strip dance video instead of watching the movie. Because this is what happened in the movie and they released it as a comedy. The title of the movie and itself are very compatible with each other.There is plenty of sexuality and nudity in the movie."
+    }
+  ],
+  "recommendations": [
+    "the_proposal",
+    "wedding_crashers",
+    "dirty_grandpa",
+    "tammy",
+    "the_bounty_hunter",
+    "bad_teacher",
+    "the_dilemma",
+    "the_spy_who_dumped_me",
+    "spy",
+    "trainwreck",
+    "killers",
+    "hall_pass",
+    "the_boss",
+    "the_heat",
+    "the_change_up",
+    "paul_blart_mall_cop",
+    "ride_along",
+    "what_happens_in_vegas",
+    "identity_thief",
+    "no_strings_attached",
+    "just_go_with_it",
+    "central_intelligence",
+    "get_hard",
+    "good_luck_chuck",
+    "the_wedding_ringer"
+  ]
+}

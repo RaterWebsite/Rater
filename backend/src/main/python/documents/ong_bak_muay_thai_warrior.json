@@ -1,1 +1,116 @@
-{"id": 1393, "title": "Ong Bak: Muay Thai Warrior", "starring": ["Tony Jaa", "Petchtai Wongkamlao"], "runtime": 105, "genre": ["Action", "Thriller"], "description": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.", "releaseYear": "2003", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/oagqAwp48dMPoCT94yDJUDOCVPi.jpg", "categories": {"plot": 7.25, "acting": 9.333333333333334, "ending": 5.0, "soundtrack": 5.0, "cinematography": 6.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.3125}, "reviews": [{"rating": "10", "text": "The best martial arts action since Bruce Lee. Tony Jaa's style is brutal and beautiful at the same time. Equal parts visceral intensity and mind blowing finesse. Ladies and Gentlemen, meet the future of action."}, {"rating": "10", "text": "Jaas performance was A+ His performance ranks right up there with the legendary Bruce Lee."}, {"rating": "10", "text": "This Muay Thai fighting movie is one of the best ORIGINALS..no strings attached,no computer effects,and best of all the stunt man himself is the main character.So no two different people playing the same character."}, {"rating": "8", "text": "A wildly entertaining martial arts battle film featuring one extremely talented martial artist, and one equally talented comic foil. The people who hate this movie for its plot don't understand why this sort of movie is made. Tony Jaa's wire-free antics are a greater spectacle than most CGI studios could hope to render."}, {"rating": "7", "text": "The fight scenes make Jackie Chan and Jet Li look like over-payed amateurs, but the story could have been better. No emmy nominee, but it'll get your blood pumpin."}, {"rating": "6", "text": "It was an okay movie with good action scenes to boot."}, {"rating": "10", "text": "A masterpiece ! Thai martial arts will never be the same !"}, {"rating": "0", "text": "His other movies were better."}, {"rating": "7", "text": "I give it an \"F\" For FUN!!! As long as you don't expect the storytelling of Crouching Tiger Hidden Dragon or Hero you will have a good time with this martial arts action pic."}, {"rating": "10", "text": "Well what can i say, This movie has got to be one of the highlights of 2005 and Tony Jaa is one of a kind for sure, the next movie starring Tony Jaa is called \"Tom Yum Goong\" watch it tsrust me it is SPECTACULAR !!!"}, {"rating": "8", "text": "One of those surprise films that re-invigorated the martial arts genre in the middle of the decade. It had a good story which helped it stand out from the pack. The stunts were top notch which helped it hang with some of the best martial arts films of all time. The acting is what you would expect but everything else, and it's re-watchability, make Ong Bak an instant classic."}, {"rating": "8", "text": "This is a terrific action movie that was ruined by its sequels. The fighting and the action here are wonderful and the storyline doesn't get in the way of what people go to watch this movie for: The wonderful fight scenes. This movie is truly a delight when you're looking for something fun and exciting to watch. Definitely don't watch the sequels to this movie as it will lose alot of its luster if you do. Stick with the original and you can't go wrong."}, {"rating": "9", "text": "If I were to rate this movie just on the action, I'd give it a 10, but looking at the whole story line, it's a bit lame. Tong Jaa has some real talent, would be nice to get him to Hollywood someday."}, {"rating": "6", "text": "Martial arts films don't come with more action than Ong Bak. Tony Jaa is by no doubt an astonishing fighter, and Prachya Pinkaew (director) & his cinematographer Nattawut Kittikhun do well in milking his talents for all their worth. The pair stun us with astonishingly detailed fight sequences, choreographed to perfection by Tony Jaa - the leading man himself. Cinematography is pin sharp, and the Thanat Sunsin-Thanapat Taweesuk editing team fly the banner of their craft high with jaw dropping cuts and manipulations - foremost being ingenious use of instant replays.\r All that being considered, Ong Bak falls far too short in an area arguably more important than technical mastery of filmmaking: the script is a piece of garbage.\rGaps in the fighting sequences and landscape fills play out like a painful Jackie Chan overdub without the Chan. Suphachai Sittiaumponpan manages to produce a script which almost ruins this film; though it is difficult to place blame for this abhorrent piece of writing, as the story originated with Prachya Pinkaew - a director who should not be involved in story making!\r Kittikhun manages to stun us with majestic landscape cinematography - which does somewhat make up for the shocking script; though cannot ever restore the potential destroyed by the shoddy framework.\r Technically speaking, Ong Bak is convincing - it certainly lives up to its expectation as martial arts eye candy; though if story and depth are what you seek, then you can give it a miss.\rBut if mindless thrills portrayed with majestic technical mastery are what you seek, then Ong Bak is for you."}, {"rating": "7", "text": "Great action sequences and no CG. Tony Jaa is a great martial arts practitioner."}], "recommendations": ["man_of_tai_chi", "fearless", "enter_the_fat_dragon", "ong_bak_2", "shang_chi_and_the_legend_of_the_ten_rings", "the_foreigner", "jiu_jitsu", "kiss_of_the_dragon", "triple_threat", "the_forbidden_kingdom", "the_one", "hulk", "john_wick_chapter_2", "john_wick_chapter_3_parabellum", "haywire", "the_bourne_ultimatum", "gladiator", "true_lies", "the_matrix", "the_terminator", "blade_ii", "troy", "cliffhanger", "kate", "terminator_2_judgment_day"]}
+{
+  "id": 1393,
+  "title": "Ong Bak: Muay Thai Warrior",
+  "starring": [
+    "Tony Jaa",
+    "Petchtai Wongkamlao"
+  ],
+  "runtime": 105,
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "description": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.",
+  "releaseYear": "2003",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/oagqAwp48dMPoCT94yDJUDOCVPi.jpg",
+  "categories": {
+    "plot": 7.25,
+    "acting": 9.333333333333334,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 6.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.3125
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "The best martial arts action since Bruce Lee. Tony Jaa's style is brutal and beautiful at the same time. Equal parts visceral intensity and mind blowing finesse. Ladies and Gentlemen, meet the future of action."
+    },
+    {
+      "rating": "10",
+      "text": "Jaas performance was A+ His performance ranks right up there with the legendary Bruce Lee."
+    },
+    {
+      "rating": "10",
+      "text": "This Muay Thai fighting movie is one of the best ORIGINALS..no strings attached,no computer effects,and best of all the stunt man himself is the main character.So no two different people playing the same character."
+    },
+    {
+      "rating": "8",
+      "text": "A wildly entertaining martial arts battle film featuring one extremely talented martial artist, and one equally talented comic foil. The people who hate this movie for its plot don't understand why this sort of movie is made. Tony Jaa's wire-free antics are a greater spectacle than most CGI studios could hope to render."
+    },
+    {
+      "rating": "7",
+      "text": "The fight scenes make Jackie Chan and Jet Li look like over-payed amateurs, but the story could have been better. No emmy nominee, but it'll get your blood pumpin."
+    },
+    {
+      "rating": "6",
+      "text": "It was an okay movie with good action scenes to boot."
+    },
+    {
+      "rating": "10",
+      "text": "A masterpiece ! Thai martial arts will never be the same !"
+    },
+    {
+      "rating": "0",
+      "text": "His other movies were better."
+    },
+    {
+      "rating": "7",
+      "text": "I give it an \"F\" For FUN!!! As long as you don't expect the storytelling of Crouching Tiger Hidden Dragon or Hero you will have a good time with this martial arts action pic."
+    },
+    {
+      "rating": "10",
+      "text": "Well what can i say, This movie has got to be one of the highlights of 2005 and Tony Jaa is one of a kind for sure, the next movie starring Tony Jaa is called \"Tom Yum Goong\" watch it tsrust me it is SPECTACULAR !!!"
+    },
+    {
+      "rating": "8",
+      "text": "One of those surprise films that re-invigorated the martial arts genre in the middle of the decade. It had a good story which helped it stand out from the pack. The stunts were top notch which helped it hang with some of the best martial arts films of all time. The acting is what you would expect but everything else, and it's re-watchability, make Ong Bak an instant classic."
+    },
+    {
+      "rating": "8",
+      "text": "This is a terrific action movie that was ruined by its sequels. The fighting and the action here are wonderful and the storyline doesn't get in the way of what people go to watch this movie for: The wonderful fight scenes. This movie is truly a delight when you're looking for something fun and exciting to watch. Definitely don't watch the sequels to this movie as it will lose alot of its luster if you do. Stick with the original and you can't go wrong."
+    },
+    {
+      "rating": "9",
+      "text": "If I were to rate this movie just on the action, I'd give it a 10, but looking at the whole story line, it's a bit lame. Tong Jaa has some real talent, would be nice to get him to Hollywood someday."
+    },
+    {
+      "rating": "6",
+      "text": "Martial arts films don't come with more action than Ong Bak. Tony Jaa is by no doubt an astonishing fighter, and Prachya Pinkaew (director) & his cinematographer Nattawut Kittikhun do well in milking his talents for all their worth. The pair stun us with astonishingly detailed fight sequences, choreographed to perfection by Tony Jaa - the leading man himself. Cinematography is pin sharp, and the Thanat Sunsin-Thanapat Taweesuk editing team fly the banner of their craft high with jaw dropping cuts and manipulations - foremost being ingenious use of instant replays.\r All that being considered, Ong Bak falls far too short in an area arguably more important than technical mastery of filmmaking: the script is a piece of garbage.\rGaps in the fighting sequences and landscape fills play out like a painful Jackie Chan overdub without the Chan. Suphachai Sittiaumponpan manages to produce a script which almost ruins this film; though it is difficult to place blame for this abhorrent piece of writing, as the story originated with Prachya Pinkaew - a director who should not be involved in story making!\r Kittikhun manages to stun us with majestic landscape cinematography - which does somewhat make up for the shocking script; though cannot ever restore the potential destroyed by the shoddy framework.\r Technically speaking, Ong Bak is convincing - it certainly lives up to its expectation as martial arts eye candy; though if story and depth are what you seek, then you can give it a miss.\rBut if mindless thrills portrayed with majestic technical mastery are what you seek, then Ong Bak is for you."
+    },
+    {
+      "rating": "7",
+      "text": "Great action sequences and no CG. Tony Jaa is a great martial arts practitioner."
+    }
+  ],
+  "recommendations": [
+    "man_of_tai_chi",
+    "fearless",
+    "enter_the_fat_dragon",
+    "ong_bak_2",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_foreigner",
+    "jiu_jitsu",
+    "kiss_of_the_dragon",
+    "triple_threat",
+    "the_forbidden_kingdom",
+    "the_one",
+    "hulk",
+    "john_wick_chapter_2",
+    "john_wick_chapter_3_parabellum",
+    "haywire",
+    "the_bourne_ultimatum",
+    "gladiator",
+    "true_lies",
+    "the_matrix",
+    "the_terminator",
+    "blade_ii",
+    "troy",
+    "cliffhanger",
+    "kate",
+    "terminator_2_judgment_day"
+  ]
+}

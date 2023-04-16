@@ -1,1 +1,60 @@
-{"id": 558, "title": "Quick Change", "starring": ["Bill Murray", "Geena Davis"], "runtime": 89, "genre": ["Comedy", "Crime"], "description": "With the aid of his girlfriend, Phyllis Potter, and best friend, Loomis, Grimm enters a Manhattan bank dressed as a clown, creates a hostage situation and executes a flawless robbery. The only thing left for the trio to do is make their getaway out of the city and to the airport. It sounds simple enough, but it seems that fate deserts them immediately after the bank heist. One mishap after another conspires to keep these robbers from reaching freedom.", "releaseYear": "1990", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/8q0VQYwOhhuRFMsyzdZ5JoB676g.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 7.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "Plot contrivances and conveniences may plague \"Quick Change's\" logic, but overall, Bill Murray's (co) directorial debut delivers the witty one-liners and goofy gags in impressive stride."}], "recommendations": ["drunk_parents", "brothers_by_blood", "sleepwalkers", "cliffhanger", "precious_cargo", "welcome_home", "the_informer", "spy_game", "old_henry", "happily", "trading_places", "jackie_brown", "baby_on_board", "survivor", "the_bourne_supremacy", "the_messenger_the_story_of_joan_of_arc", "in_bruges", "mission_impossible_ii", "keeping_up_with_the_joneses", "the_heat", "the_thomas_crown_affair", "grand_isle", "feel_the_beat", "no_sudden_move", "mission_impossible"]}
+{
+  "id": 558,
+  "title": "Quick Change",
+  "starring": [
+    "Bill Murray",
+    "Geena Davis"
+  ],
+  "runtime": 89,
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "description": "With the aid of his girlfriend, Phyllis Potter, and best friend, Loomis, Grimm enters a Manhattan bank dressed as a clown, creates a hostage situation and executes a flawless robbery. The only thing left for the trio to do is make their getaway out of the city and to the airport. It sounds simple enough, but it seems that fate deserts them immediately after the bank heist. One mishap after another conspires to keep these robbers from reaching freedom.",
+  "releaseYear": "1990",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/8q0VQYwOhhuRFMsyzdZ5JoB676g.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 7.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Plot contrivances and conveniences may plague \"Quick Change's\" logic, but overall, Bill Murray's (co) directorial debut delivers the witty one-liners and goofy gags in impressive stride."
+    }
+  ],
+  "recommendations": [
+    "drunk_parents",
+    "brothers_by_blood",
+    "sleepwalkers",
+    "cliffhanger",
+    "precious_cargo",
+    "welcome_home",
+    "the_informer",
+    "spy_game",
+    "old_henry",
+    "happily",
+    "trading_places",
+    "jackie_brown",
+    "baby_on_board",
+    "survivor",
+    "the_bourne_supremacy",
+    "the_messenger_the_story_of_joan_of_arc",
+    "in_bruges",
+    "mission_impossible_ii",
+    "keeping_up_with_the_joneses",
+    "the_heat",
+    "the_thomas_crown_affair",
+    "grand_isle",
+    "feel_the_beat",
+    "no_sudden_move",
+    "mission_impossible"
+  ]
+}

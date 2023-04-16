@@ -1,1 +1,66 @@
-{"id": 3357, "title": "24 Hours to Live", "starring": ["Ethan Hawke", "Xu Qing"], "runtime": 94, "genre": ["Action", "Science Fiction", "Thriller", "Mystery"], "description": "An assassin seeks redemption after being given a second chance at life.", "releaseYear": "2017", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/w0MXP33x1bq48TDC7IaNqQ8nxcc.jpg", "categories": {"plot": 7.0, "acting": 7.0, "ending": 7.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.0}, "reviews": [{"rating": "7", "text": "When you think of action movie stars, Ethan Hawke, isn't the first name to come to mind. That's because his best known works aren't action films, but he has done a lot of independent action stuff and each one is better than the last. In his latest, 24 Hours To Live, Hawke plays Travis Conrad, the worlds best, yet retired, hit-man. When a government conspiracy is threatened to be revealed, a large sum of money brings Conrad out of retirement, but something goes wrong and he is killed, only to be awaken 8 hours later with the marvels of modern science. He is told he has only 24 hours to live, hence the title, but in those 24 hours he must decide weather or not to complete his mission or avenge a mistake. This film has a lot of similarities to Jason Statham's Crank, except that it doesn't move as quickly and actually has a plot. Unlike Crank, this film isn't just about killing and explosions, it brings a mans morality into question at the end of his life. Ethan Hawke is fantastic and if given the opportunity would be sensational in any big budget action film. Supported by newcomers and some very poor cameos by Rutger Hauer, it's Hawke's character that makes this film spectacular, that is until the end. If you like independent films as much as I do, you come to learn that without the big budget, sometimes they have to push the envelope a little bit and do things filmmakers don't typically do. Sometimes it works out well, other times it's a complete failure, and the ending to this movie almost destroys it. The film has a terrific final scene and looks like it's on it's way to be one of the best action films I've seen all year, until a 3 minute scene at the end of the film almost takes down the whole thing. It was certainly a curve ball, but one that was absolutely unnecessary. That being said, this film was still everything one could hope for from an action movie, fast paced, loud, and violent with an actual story that makes sense to go along with it."}, {"rating": "7", "text": "\"24 Hours to Live\" delivers exactly what is expected from this type of film, and more. The action is relentless, the pacing quick, and the characters serviceable."}], "recommendations": ["infinite", "maze_runner_the_death_cure", "the_matrix_reloaded", "the_mechanic", "the_commuter", "quantum_of_solace", "the_bourne_legacy", "the_equalizer", "the_equalizer_2", "taken_3", "the_ice_road", "the_bourne_ultimatum", "war", "mile_22", "london_has_fallen", "the_matrix_revolutions", "source_code", "blackhat", "skyscraper", "nobody", "escape_plan", "john_wick_chapter_2", "the_magnificent_seven", "max_steel", "the_accountant"]}
+{
+  "id": 3357,
+  "title": "24 Hours to Live",
+  "starring": [
+    "Ethan Hawke",
+    "Xu Qing"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+  ],
+  "description": "An assassin seeks redemption after being given a second chance at life.",
+  "releaseYear": "2017",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/w0MXP33x1bq48TDC7IaNqQ8nxcc.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 7.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "When you think of action movie stars, Ethan Hawke, isn't the first name to come to mind. That's because his best known works aren't action films, but he has done a lot of independent action stuff and each one is better than the last. In his latest, 24 Hours To Live, Hawke plays Travis Conrad, the worlds best, yet retired, hit-man. When a government conspiracy is threatened to be revealed, a large sum of money brings Conrad out of retirement, but something goes wrong and he is killed, only to be awaken 8 hours later with the marvels of modern science. He is told he has only 24 hours to live, hence the title, but in those 24 hours he must decide weather or not to complete his mission or avenge a mistake. This film has a lot of similarities to Jason Statham's Crank, except that it doesn't move as quickly and actually has a plot. Unlike Crank, this film isn't just about killing and explosions, it brings a mans morality into question at the end of his life. Ethan Hawke is fantastic and if given the opportunity would be sensational in any big budget action film. Supported by newcomers and some very poor cameos by Rutger Hauer, it's Hawke's character that makes this film spectacular, that is until the end. If you like independent films as much as I do, you come to learn that without the big budget, sometimes they have to push the envelope a little bit and do things filmmakers don't typically do. Sometimes it works out well, other times it's a complete failure, and the ending to this movie almost destroys it. The film has a terrific final scene and looks like it's on it's way to be one of the best action films I've seen all year, until a 3 minute scene at the end of the film almost takes down the whole thing. It was certainly a curve ball, but one that was absolutely unnecessary. That being said, this film was still everything one could hope for from an action movie, fast paced, loud, and violent with an actual story that makes sense to go along with it."
+    },
+    {
+      "rating": "7",
+      "text": "\"24 Hours to Live\" delivers exactly what is expected from this type of film, and more. The action is relentless, the pacing quick, and the characters serviceable."
+    }
+  ],
+  "recommendations": [
+    "infinite",
+    "maze_runner_the_death_cure",
+    "the_matrix_reloaded",
+    "the_mechanic",
+    "the_commuter",
+    "quantum_of_solace",
+    "the_bourne_legacy",
+    "the_equalizer",
+    "the_equalizer_2",
+    "taken_3",
+    "the_ice_road",
+    "the_bourne_ultimatum",
+    "war",
+    "mile_22",
+    "london_has_fallen",
+    "the_matrix_revolutions",
+    "source_code",
+    "blackhat",
+    "skyscraper",
+    "nobody",
+    "escape_plan",
+    "john_wick_chapter_2",
+    "the_magnificent_seven",
+    "max_steel",
+    "the_accountant"
+  ]
+}

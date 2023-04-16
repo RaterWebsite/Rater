@@ -1,1 +1,125 @@
-{"id": 39, "title": "Sweet Girl", "starring": ["Jason Momoa", "Isabela Merced"], "runtime": 110, "genre": ["Action", "Thriller", "Drama"], "description": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left, his daughter.", "releaseYear": "2021", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg", "categories": {"plot": 5.923076923076923, "acting": 3.6666666666666665, "ending": 4.3, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.2}, "reviews": [{"rating": "2", "text": "Sweet Girl was a weird disappointment.I wanted to like it because of jason momoa.  But it started out as an ok revenge action flick then abruptly wtf detoured into an unconvincing psycological horror film and then disintergrated into unbelievable cliches as if the producers realized what a mess it was and simply wanted to end production asap!"}, {"rating": "1", "text": "Another woke female empowerment movie that makes zero sense. This 5'1 100 pound girl sized up every dude with Jason Momoa's size and strength during every fight scene and somehow took out trained mercenaries with 2 years of basic MMA training. Basically someone in the writer's room had to be a spoiled kid whose father was the director to get this idea approved."}, {"rating": "10", "text": "This film has a great story with some intense action scenes. Some of the action scenes are predictable but some scenes will surprise you completely. I found this film relevant to our time and fun to watch."}, {"rating": "9", "text": "Great movie with a great plot twist. Loved it. It's totally worth it. And the action scenes were most of the time pretty plausible. The same currently is happening in my country over covid-19 vaccines so the story right now is extremely relatable."}, {"rating": "3", "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."}, {"rating": "10", "text": "Sweet Girl is exciting, with Jason Momoa and Isabela Merced amazing performance, this is a great and exciting action film with a sad and heartbreaking story plus a twist that surprisingly works so well."}, {"rating": "6", "text": "After his wife dies, her husband (Jason Momoa) decides to seek revenge on the greedy pharma company that made her cure too expensive. After his first attempt goes wrong, he and his daughter (Isabela Merced) go on the lam to save themselves and exact that payback. Despite the absurdity of several of the situations (ex: almost every time they get into a scrape in public, nobody else is around), the action is solid and the pace keeps them running. Momoa\u2019s early scene grief is truly heartbreaking and he ably manages to play the soft part of his tough character. Merced holds her own thru the frustration and the entanglements. There\u2019s nothing especially original here, but if you can ignore reality and just enjoy the improbably chase, it\u2019s a sturdy little summer diversion."}, {"rating": "3", "text": "Jason Momoa alone got me through this, but man that twist ending ruined what was already an uneven movie. It only made sense afterwards when I found out that one of the writers wrote 'The Book of Henry', a movie that got crazy as it went along."}, {"rating": "7", "text": "It's a nice movie with a cool plot twist and cool action. Ideal for a popcorn evening."}, {"rating": "4", "text": "It's exhausting because of how generic it is. And although perhaps the script with a pharmaceutical company in the middle as the villain of the story could've lent itself to something more productive, the story never does anything relevant with it.Sweet Girl is simply the classic action movie that goes absolutely nowhere, because it just hopes that your entertainment is tied to you buying the complete implausibility of its story.Especially its totally unconventional plot twist.It's Netflix though, so it's not surprising at all."}, {"rating": "3", "text": "Sweet girl is an unofficial sequel to Terminator. The attacker from the metro takes lethal blows as if they are balloons, even tough a single punch or push against a pole is enough to land in the hospital. But not this Terminator who throws a 220 lbs weighing Jason Momoa through a fortified window... Buuuullshiiiiiit!Well... At least his daughter is a treat to look at. Unfortunately the father and daughter aren't quiet smart, as they immediately become lowlife criminals and murderers after the death of a 'so called' journalist.Mediocre movie that fails to immerse or entertain the viewer. Actors don't seem to be immersed in their roles, and stumble towards the end with little weight behind it. 3/10."}, {"rating": "2", "text": "(Mauro Lanari)Poised between \"Aquadaughter\" and \"Wonder Woman Gen Z\", it is a series of increasingly absurd sequences: reached its climax, finished this little film by a director who would have done better not to debut."}, {"rating": "6", "text": "I really wanted to like this film more. But it just ends up going in a really stupid, unnecessary direction. It's like the director/writer forgot the whole \"unreliable narrator\" schtick from the 90s/early 00s. (I'm referring to Fight Club, The Usual Suspects, Adaptation...movies that make you question everything you've seen due to a surprise twist.)I'm also tired of movies that feature tiny girls beating up big guys. Unless they're genetically modified super weapons."}, {"rating": "3", "text": "It's a total waste of time when a film shows burdened characters without their backstories. \"Sweet Girl\" is such a film."}, {"rating": "0", "text": "Begin was interesting , after it became so boring as hell. With that base we could see much more interesting story and the end was so u logical as hell!! Jason mama was bitten up by little guy, and at the end a little girl kicked everyone them ass."}, {"rating": "4", "text": "All characters are dull here, there is no characterization whatsoever. You can tell the writers tried during the third act, but the conclusion didn't work for me at all. I'm not even sure if Sweet Girl has any potential to begin with."}, {"rating": "9", "text": "Everything was in the right proportion and the plot twist was *chefs kiss   ."}], "recommendations": ["knock_at_the_cabin", "the_uninvited", "jolt", "the_commuter", "man_on_a_ledge", "cellular", "the_call", "the_voyeurs", "honest_thief", "i_see_you", "3_days_to_kill", "marauders", "wild_card", "those_who_wish_me_dead", "colombiana", "a_perfect_getaway", "the_november_man", "unhinged", "taken", "the_good_liar", "flightplan", "the_mechanic", "cold_pursuit", "the_ice_road", "blood_red_sky"]}
+{
+  "id": 39,
+  "title": "Sweet Girl",
+  "starring": [
+    "Jason Momoa",
+    "Isabela Merced"
+  ],
+  "runtime": 110,
+  "genre": [
+    "Action",
+    "Thriller",
+    "Drama"
+  ],
+  "description": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left, his daughter.",
+  "releaseYear": "2021",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg",
+  "categories": {
+    "plot": 5.923076923076923,
+    "acting": 3.6666666666666665,
+    "ending": 4.3,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.2
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "Sweet Girl was a weird disappointment.I wanted to like it because of jason momoa.  But it started out as an ok revenge action flick then abruptly wtf detoured into an unconvincing psycological horror film and then disintergrated into unbelievable cliches as if the producers realized what a mess it was and simply wanted to end production asap!"
+    },
+    {
+      "rating": "1",
+      "text": "Another woke female empowerment movie that makes zero sense. This 5'1 100 pound girl sized up every dude with Jason Momoa's size and strength during every fight scene and somehow took out trained mercenaries with 2 years of basic MMA training. Basically someone in the writer's room had to be a spoiled kid whose father was the director to get this idea approved."
+    },
+    {
+      "rating": "10",
+      "text": "This film has a great story with some intense action scenes. Some of the action scenes are predictable but some scenes will surprise you completely. I found this film relevant to our time and fun to watch."
+    },
+    {
+      "rating": "9",
+      "text": "Great movie with a great plot twist. Loved it. It's totally worth it. And the action scenes were most of the time pretty plausible. The same currently is happening in my country over covid-19 vaccines so the story right now is extremely relatable."
+    },
+    {
+      "rating": "3",
+      "text": "bad[ bad ]adjective, worse, worst;(Slang) bad\u00b7der, bad\u00b7dest for 36.not good in any manner or degree."
+    },
+    {
+      "rating": "10",
+      "text": "Sweet Girl is exciting, with Jason Momoa and Isabela Merced amazing performance, this is a great and exciting action film with a sad and heartbreaking story plus a twist that surprisingly works so well."
+    },
+    {
+      "rating": "6",
+      "text": "After his wife dies, her husband (Jason Momoa) decides to seek revenge on the greedy pharma company that made her cure too expensive. After his first attempt goes wrong, he and his daughter (Isabela Merced) go on the lam to save themselves and exact that payback. Despite the absurdity of several of the situations (ex: almost every time they get into a scrape in public, nobody else is around), the action is solid and the pace keeps them running. Momoa\u2019s early scene grief is truly heartbreaking and he ably manages to play the soft part of his tough character. Merced holds her own thru the frustration and the entanglements. There\u2019s nothing especially original here, but if you can ignore reality and just enjoy the improbably chase, it\u2019s a sturdy little summer diversion."
+    },
+    {
+      "rating": "3",
+      "text": "Jason Momoa alone got me through this, but man that twist ending ruined what was already an uneven movie. It only made sense afterwards when I found out that one of the writers wrote 'The Book of Henry', a movie that got crazy as it went along."
+    },
+    {
+      "rating": "7",
+      "text": "It's a nice movie with a cool plot twist and cool action. Ideal for a popcorn evening."
+    },
+    {
+      "rating": "4",
+      "text": "It's exhausting because of how generic it is. And although perhaps the script with a pharmaceutical company in the middle as the villain of the story could've lent itself to something more productive, the story never does anything relevant with it.Sweet Girl is simply the classic action movie that goes absolutely nowhere, because it just hopes that your entertainment is tied to you buying the complete implausibility of its story.Especially its totally unconventional plot twist.It's Netflix though, so it's not surprising at all."
+    },
+    {
+      "rating": "3",
+      "text": "Sweet girl is an unofficial sequel to Terminator. The attacker from the metro takes lethal blows as if they are balloons, even tough a single punch or push against a pole is enough to land in the hospital. But not this Terminator who throws a 220 lbs weighing Jason Momoa through a fortified window... Buuuullshiiiiiit!Well... At least his daughter is a treat to look at. Unfortunately the father and daughter aren't quiet smart, as they immediately become lowlife criminals and murderers after the death of a 'so called' journalist.Mediocre movie that fails to immerse or entertain the viewer. Actors don't seem to be immersed in their roles, and stumble towards the end with little weight behind it. 3/10."
+    },
+    {
+      "rating": "2",
+      "text": "(Mauro Lanari)Poised between \"Aquadaughter\" and \"Wonder Woman Gen Z\", it is a series of increasingly absurd sequences: reached its climax, finished this little film by a director who would have done better not to debut."
+    },
+    {
+      "rating": "6",
+      "text": "I really wanted to like this film more. But it just ends up going in a really stupid, unnecessary direction. It's like the director/writer forgot the whole \"unreliable narrator\" schtick from the 90s/early 00s. (I'm referring to Fight Club, The Usual Suspects, Adaptation...movies that make you question everything you've seen due to a surprise twist.)I'm also tired of movies that feature tiny girls beating up big guys. Unless they're genetically modified super weapons."
+    },
+    {
+      "rating": "3",
+      "text": "It's a total waste of time when a film shows burdened characters without their backstories. \"Sweet Girl\" is such a film."
+    },
+    {
+      "rating": "0",
+      "text": "Begin was interesting , after it became so boring as hell. With that base we could see much more interesting story and the end was so u logical as hell!! Jason mama was bitten up by little guy, and at the end a little girl kicked everyone them ass."
+    },
+    {
+      "rating": "4",
+      "text": "All characters are dull here, there is no characterization whatsoever. You can tell the writers tried during the third act, but the conclusion didn't work for me at all. I'm not even sure if Sweet Girl has any potential to begin with."
+    },
+    {
+      "rating": "9",
+      "text": "Everything was in the right proportion and the plot twist was *chefs kiss   ."
+    }
+  ],
+  "recommendations": [
+    "knock_at_the_cabin",
+    "the_uninvited",
+    "jolt",
+    "the_commuter",
+    "man_on_a_ledge",
+    "cellular",
+    "the_call",
+    "the_voyeurs",
+    "honest_thief",
+    "i_see_you",
+    "3_days_to_kill",
+    "marauders",
+    "wild_card",
+    "those_who_wish_me_dead",
+    "colombiana",
+    "a_perfect_getaway",
+    "the_november_man",
+    "unhinged",
+    "taken",
+    "the_good_liar",
+    "flightplan",
+    "the_mechanic",
+    "cold_pursuit",
+    "the_ice_road",
+    "blood_red_sky"
+  ]
+}

@@ -1,1 +1,83 @@
-{"id": 4271, "title": "Miss Bala", "starring": ["Gina Rodriguez", "Ismael Cruz C\u00f3rdova"], "runtime": 104, "genre": ["Action"], "description": "Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.", "releaseYear": "2019", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg", "categories": {"plot": 2.0, "acting": 1.3333333333333333, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 4.5}, "reviews": [{"rating": "2", "text": "This is a movie about a woman who gets wrapped up in a violent, oppressive drug gang and, in the words of another reviewer, \"doesn't fight back . . . not even a little.\"  The plot is indeed full of holes, as has been much noted (note a border crossing scene that defies logic), but the bigger problem is that there is not a single moment where our would-be heroine displays any sort of will, creativity, or strength of character--in short, anything that would make her tale worth watching or imbue it with the slightest bit of suspense.  Instead, it is an ultimately monotonous tale of a prolonged, merciless assault on an ill-defined character who never has a chance and apparently wouldn't take it she had it.  It's painful for her and painful for the audience, who is left with no suspense beyond seeing what awful fate will befall this hapless victim next--like watching a gritty, modern-day Perils of Pauline, but with no one to pull the would-be heroine off the railroad tracks.  Realistic, perhaps; interesting, no.  For contrast, see Maria Full of Grace, a movie with a similar concept--it's every bit as raw as Miss Bala but actually delivers some human drama.  The real casualty here might be Stephanie Sigman, who plays the embattled victim.  In the first scenes, her portrayal of a terrified, desperate woman is palpable and stirring.  Sadly, she is forced by the script and the director to maintain that mode for the next 90 minutes.  It felt like 180."}, {"rating": "10", "text": "'Miss Bala' is non a commercial movie, neither is a film about drugs cartels and corruption in the Mexican government. This is film about feelings of thousands of normal people in Mexico. Recently in this country, a lot of filmmakers and producers have decided to do projects about \u00e2"}, {"rating": "7", "text": "A damning indictment on the drugs trade in Mexico, this film highlights the plight of many that fall into the clutches of these gangs. I did enjoy the rough and ready style of filming; you really felt you were right in the heart of the action"}, {"rating": "7", "text": "Raw, rough, real, showing the ugly side of the coin of the situation that exists in some parts of the world, is in the eyes of laura fear. trying to escape the trauma in a world that is already submerged to the head. recommended"}, {"rating": "8", "text": "Entertaining, enlightening ... brilliant.It's a '1st person' film, with an innocent protagonist, dragged through an ugly reality in much the same way as Alphonso Curion's 'Children of Men'. This is the 'Children of Men' of Mexico."}, {"rating": "0", "text": "Very slow movie... low quality and also very bad directed... didn't like many of the scenes and the way the director kept filming the actors from behind"}, {"rating": "10", "text": "I was no t really excited about this movie, but I found it really realistic, It can be sad but the reality is not so different at all. The drug dealing in Mexico is anywhere and he film so true that it because I love it. The script is absolutely dynamic.Good performances, Absolutely recommended"}], "recommendations": ["eden_lake", "sin_nombre", "crash", "detroit", "trainspotting", "the_road", "lone_survivor", "hotel_mumbai", "elle", "antichrist", "shame", "a_history_of_violence", "you_were_never_really_here", "machine_gun_preacher", "dark_waters", "spree", "greenland", "13_hours_the_secret_soldiers_of_benghazi", "dragged_across_concrete", "incendies", "the_first_purge", "brimstone", "zero_dark_thirty", "high_life", "children_of_men"]}
+{
+  "id": 4271,
+  "title": "Miss Bala",
+  "starring": [
+    "Gina Rodriguez",
+    "Ismael Cruz C\u00f3rdova"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Action"
+  ],
+  "description": "Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.",
+  "releaseYear": "2019",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg",
+  "categories": {
+    "plot": 2.0,
+    "acting": 1.3333333333333333,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 4.5
+  },
+  "reviews": [
+    {
+      "rating": "2",
+      "text": "This is a movie about a woman who gets wrapped up in a violent, oppressive drug gang and, in the words of another reviewer, \"doesn't fight back . . . not even a little.\"  The plot is indeed full of holes, as has been much noted (note a border crossing scene that defies logic), but the bigger problem is that there is not a single moment where our would-be heroine displays any sort of will, creativity, or strength of character--in short, anything that would make her tale worth watching or imbue it with the slightest bit of suspense.  Instead, it is an ultimately monotonous tale of a prolonged, merciless assault on an ill-defined character who never has a chance and apparently wouldn't take it she had it.  It's painful for her and painful for the audience, who is left with no suspense beyond seeing what awful fate will befall this hapless victim next--like watching a gritty, modern-day Perils of Pauline, but with no one to pull the would-be heroine off the railroad tracks.  Realistic, perhaps; interesting, no.  For contrast, see Maria Full of Grace, a movie with a similar concept--it's every bit as raw as Miss Bala but actually delivers some human drama.  The real casualty here might be Stephanie Sigman, who plays the embattled victim.  In the first scenes, her portrayal of a terrified, desperate woman is palpable and stirring.  Sadly, she is forced by the script and the director to maintain that mode for the next 90 minutes.  It felt like 180."
+    },
+    {
+      "rating": "10",
+      "text": "'Miss Bala' is non a commercial movie, neither is a film about drugs cartels and corruption in the Mexican government. This is film about feelings of thousands of normal people in Mexico. Recently in this country, a lot of filmmakers and producers have decided to do projects about \u00e2"
+    },
+    {
+      "rating": "7",
+      "text": "A damning indictment on the drugs trade in Mexico, this film highlights the plight of many that fall into the clutches of these gangs. I did enjoy the rough and ready style of filming; you really felt you were right in the heart of the action"
+    },
+    {
+      "rating": "7",
+      "text": "Raw, rough, real, showing the ugly side of the coin of the situation that exists in some parts of the world, is in the eyes of laura fear. trying to escape the trauma in a world that is already submerged to the head. recommended"
+    },
+    {
+      "rating": "8",
+      "text": "Entertaining, enlightening ... brilliant.It's a '1st person' film, with an innocent protagonist, dragged through an ugly reality in much the same way as Alphonso Curion's 'Children of Men'. This is the 'Children of Men' of Mexico."
+    },
+    {
+      "rating": "0",
+      "text": "Very slow movie... low quality and also very bad directed... didn't like many of the scenes and the way the director kept filming the actors from behind"
+    },
+    {
+      "rating": "10",
+      "text": "I was no t really excited about this movie, but I found it really realistic, It can be sad but the reality is not so different at all. The drug dealing in Mexico is anywhere and he film so true that it because I love it. The script is absolutely dynamic.Good performances, Absolutely recommended"
+    }
+  ],
+  "recommendations": [
+    "eden_lake",
+    "sin_nombre",
+    "crash",
+    "detroit",
+    "trainspotting",
+    "the_road",
+    "lone_survivor",
+    "hotel_mumbai",
+    "elle",
+    "antichrist",
+    "shame",
+    "a_history_of_violence",
+    "you_were_never_really_here",
+    "machine_gun_preacher",
+    "dark_waters",
+    "spree",
+    "greenland",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "dragged_across_concrete",
+    "incendies",
+    "the_first_purge",
+    "brimstone",
+    "zero_dark_thirty",
+    "high_life",
+    "children_of_men"
+  ]
+}

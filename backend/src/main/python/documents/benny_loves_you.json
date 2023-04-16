@@ -1,1 +1,68 @@
-{"id": 540, "title": "Benny Loves You", "starring": ["Karl Holt", "Claire Catwright"], "runtime": 94, "genre": ["Horror", "Comedy"], "description": "Jack, a man desperate to improve his life, throws away his beloved childhood plush, Benny. It\u2019s a move that has disastrous consequences when Benny springs to life with deadly intentions!", "releaseYear": "2019", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/3RE9DNBCvuso5OPZPg71ryntNjx.jpg", "categories": {"plot": 5.0, "acting": 8.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 4.0, "action": 5.0}, "reviews": [{"rating": "4", "text": "Es mas rid\u00edcula y bizarra de lo que parece, tiene un sentido del humor que no me convenci\u00f3 mucho ya que se siente demasiado tonto e infantil, a\u00fan as\u00ed, el susodicho juguete tiene su propio encanto."}, {"rating": "8", "text": "Bought the doll it was so good. The premise for this movie is really unique and Benny is an incredible character. I hope to see the director and actor team up again with a bigger budget."}, {"rating": "8", "text": "Wow now fun!!!! The idea of a small bear mercilessly murdering people is ridiculous. Even more so than child's play. That's what makes it so fun and dumb. One of my favorite horror films in years."}], "recommendations": ["bride_of_chucky", "gremlins_2_the_new_batch", "the_babysitter", "jumanji_welcome_to_the_jungle", "fright_night", "igor", "the_animal", "ghostbusters", "kangaroo_jack", "goosebumps_2_haunted_halloween", "the_faculty", "beetlejuice", "paul", "werewolves_within", "ghostbusters_ii", "spy_kids", "spies_in_disguise", "goosebumps", "hotel_transylvania", "hotel_transylvania_2", "austin_powers_the_spy_who_shagged_me", "cooties", "diary_of_a_wimpy_kid_the_long_haul", "shazam", "hubie_halloween"]}
+{
+  "id": 540,
+  "title": "Benny Loves You",
+  "starring": [
+    "Karl Holt",
+    "Claire Catwright"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Horror",
+    "Comedy"
+  ],
+  "description": "Jack, a man desperate to improve his life, throws away his beloved childhood plush, Benny. It\u2019s a move that has disastrous consequences when Benny springs to life with deadly intentions!",
+  "releaseYear": "2019",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/3RE9DNBCvuso5OPZPg71ryntNjx.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 8.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 4.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "Es mas rid\u00edcula y bizarra de lo que parece, tiene un sentido del humor que no me convenci\u00f3 mucho ya que se siente demasiado tonto e infantil, a\u00fan as\u00ed, el susodicho juguete tiene su propio encanto."
+    },
+    {
+      "rating": "8",
+      "text": "Bought the doll it was so good. The premise for this movie is really unique and Benny is an incredible character. I hope to see the director and actor team up again with a bigger budget."
+    },
+    {
+      "rating": "8",
+      "text": "Wow now fun!!!! The idea of a small bear mercilessly murdering people is ridiculous. Even more so than child's play. That's what makes it so fun and dumb. One of my favorite horror films in years."
+    }
+  ],
+  "recommendations": [
+    "bride_of_chucky",
+    "gremlins_2_the_new_batch",
+    "the_babysitter",
+    "jumanji_welcome_to_the_jungle",
+    "fright_night",
+    "igor",
+    "the_animal",
+    "ghostbusters",
+    "kangaroo_jack",
+    "goosebumps_2_haunted_halloween",
+    "the_faculty",
+    "beetlejuice",
+    "paul",
+    "werewolves_within",
+    "ghostbusters_ii",
+    "spy_kids",
+    "spies_in_disguise",
+    "goosebumps",
+    "hotel_transylvania",
+    "hotel_transylvania_2",
+    "austin_powers_the_spy_who_shagged_me",
+    "cooties",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "shazam",
+    "hubie_halloween"
+  ]
+}

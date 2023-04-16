@@ -1,1 +1,98 @@
-{"id": 111, "title": "Wish Dragon", "starring": ["Jimmy Wong", "John Cho"], "runtime": 99, "genre": ["Animation", "Family", "Comedy", "Fantasy"], "description": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.", "releaseYear": "2021", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg", "categories": {"plot": 8.4, "acting": 8.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 6.5, "action": 5.0}, "reviews": [{"rating": "10", "text": "Completely in love with the movie. Very detailed and exaggerated animations lead to some very genius performances."}, {"rating": "8", "text": "With a completely different moral of the story in comparison to Aladdin, Wish Dragon is pretty funny and has a good emotional core."}, {"rating": "9", "text": "Very good movie. It idd reminds me of Aladdin, but that is a good thing. If critics give it a mower score for it, i definitely do NOT agree with them"}, {"rating": "7", "text": "Cool and entertaining movie with quite good story, definitely worth watching."}, {"rating": "8", "text": "Great movie, almost Pixar level. I've heard that it's been compared to Aladdin which is why it has low review scores but I dont think that should affect the ratings at all"}, {"rating": "8", "text": "As a Chinese Australian I absolutely loved the entire movie. The characters were dynamic, the story pacing had great rythm, and this was the first animated movie that I felt truly represented Chinese characters well. I also watched this is Mandarin for added nostalgic effect."}, {"rating": "6", "text": "admirable[ ad-mer-uh-buhl ]adjectiveworthy of admiration; inspiring approval, reverence, or affection."}, {"rating": "9", "text": "I loved this movie way more than I expected to, definitely worth checking out."}, {"rating": "10", "text": "this movie is good, i like the story and the visual anime, sony animation is better"}, {"rating": "5", "text": "There are some genuine funny moments in this. It\u2019s a mediocre movie all around but it certainly isn\u2019t a bad movie."}], "recommendations": ["tron_legacy", "the_ultimate_gift", "alita_battle_angel", "shang_chi_and_the_legend_of_the_ten_rings", "togo", "how_to_train_your_dragon", "sinbad_legend_of_the_seven_seas", "klaus", "zootopia", "dredd", "cruella", "the_three_musketeers", "john_carter", "eternals", "blade_of_the_47_ronin", "peter_rabbit", "atlantis_the_lost_empire", "oz_the_great_and_powerful", "peter_pan", "my_little_pony_the_movie", "kung_fu_panda_3", "101_dalmatians", "aquaman", "oblivion", "morbius"]}
+{
+  "id": 111,
+  "title": "Wish Dragon",
+  "starring": [
+    "Jimmy Wong",
+    "John Cho"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+  "categories": {
+    "plot": 8.4,
+    "acting": 8.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 6.5,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Completely in love with the movie. Very detailed and exaggerated animations lead to some very genius performances."
+    },
+    {
+      "rating": "8",
+      "text": "With a completely different moral of the story in comparison to Aladdin, Wish Dragon is pretty funny and has a good emotional core."
+    },
+    {
+      "rating": "9",
+      "text": "Very good movie. It idd reminds me of Aladdin, but that is a good thing. If critics give it a mower score for it, i definitely do NOT agree with them"
+    },
+    {
+      "rating": "7",
+      "text": "Cool and entertaining movie with quite good story, definitely worth watching."
+    },
+    {
+      "rating": "8",
+      "text": "Great movie, almost Pixar level. I've heard that it's been compared to Aladdin which is why it has low review scores but I dont think that should affect the ratings at all"
+    },
+    {
+      "rating": "8",
+      "text": "As a Chinese Australian I absolutely loved the entire movie. The characters were dynamic, the story pacing had great rythm, and this was the first animated movie that I felt truly represented Chinese characters well. I also watched this is Mandarin for added nostalgic effect."
+    },
+    {
+      "rating": "6",
+      "text": "admirable[ ad-mer-uh-buhl ]adjectiveworthy of admiration; inspiring approval, reverence, or affection."
+    },
+    {
+      "rating": "9",
+      "text": "I loved this movie way more than I expected to, definitely worth checking out."
+    },
+    {
+      "rating": "10",
+      "text": "this movie is good, i like the story and the visual anime, sony animation is better"
+    },
+    {
+      "rating": "5",
+      "text": "There are some genuine funny moments in this. It\u2019s a mediocre movie all around but it certainly isn\u2019t a bad movie."
+    }
+  ],
+  "recommendations": [
+    "tron_legacy",
+    "the_ultimate_gift",
+    "alita_battle_angel",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "togo",
+    "how_to_train_your_dragon",
+    "sinbad_legend_of_the_seven_seas",
+    "klaus",
+    "zootopia",
+    "dredd",
+    "cruella",
+    "the_three_musketeers",
+    "john_carter",
+    "eternals",
+    "blade_of_the_47_ronin",
+    "peter_rabbit",
+    "atlantis_the_lost_empire",
+    "oz_the_great_and_powerful",
+    "peter_pan",
+    "my_little_pony_the_movie",
+    "kung_fu_panda_3",
+    "101_dalmatians",
+    "aquaman",
+    "oblivion",
+    "morbius"
+  ]
+}

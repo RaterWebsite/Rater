@@ -1,1 +1,60 @@
-{"id": 3611, "title": "Tully", "starring": ["Charlize Theron", "Mackenzie Davis"], "runtime": 96, "genre": ["Comedy", "Drama"], "description": "Marlo, a mother of three, including a newborn, is gifted a night nanny by her brother. Hesitant at first, she quickly forms a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.", "releaseYear": "2018", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/wDI4YXBXolMYi15Qx2kClvdSERM.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "9", "text": "What drives \"Tully\" is the luminous work of Julianne Nicholson, who you hope doesn't get her heart broken by the titular character, played by Anson Mount. That's what gives this quietly amazing film its tension. We want the best for Ella. \"Tully\" could've just been about this unlikely love affair between a good girl and a bad boy, but it's also about family secrets and the financial strain which plagues a heartland farmer. \"Tully\" is so understated, you're never completely cognizant to the oncoming tragedy, even though the filmmaker sets it up in full-view. It's unnecessary, but well-done and absolutely plausible. \"Tully\" would still be a gem without the melodrama. This film gets away with a potentially bum note because it respects people who live in small towns. Not once does the viewer feel that the people who inhabit this Nebraska outback are wasting away their days and nights like a hick who's tipped a few cows in his lifetime. Somebody has to live in these places, and the people we meet here do it with grace, especially Ella, who is poetry in motion."}], "recommendations": ["leave_no_trace", "afternoon_delight", "into_the_wild", "eat_pray_love", "the_florida_project", "the_bridges_of_madison_county", "greta", "disobedience", "ingrid_goes_west", "minari", "the_descendants", "the_pursuit_of_happyness", "the_way_back", "nomadland", "up_in_the_air", "crazy_rich_asians", "land", "the_hunt", "the_age_of_adaline", "the_space_between_us", "young_adult", "monte_carlo", "lion", "five_feet_apart", "the_glass_castle"]}
+{
+  "id": 3611,
+  "title": "Tully",
+  "starring": [
+    "Charlize Theron",
+    "Mackenzie Davis"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "description": "Marlo, a mother of three, including a newborn, is gifted a night nanny by her brother. Hesitant at first, she quickly forms a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "What drives \"Tully\" is the luminous work of Julianne Nicholson, who you hope doesn't get her heart broken by the titular character, played by Anson Mount. That's what gives this quietly amazing film its tension. We want the best for Ella. \"Tully\" could've just been about this unlikely love affair between a good girl and a bad boy, but it's also about family secrets and the financial strain which plagues a heartland farmer. \"Tully\" is so understated, you're never completely cognizant to the oncoming tragedy, even though the filmmaker sets it up in full-view. It's unnecessary, but well-done and absolutely plausible. \"Tully\" would still be a gem without the melodrama. This film gets away with a potentially bum note because it respects people who live in small towns. Not once does the viewer feel that the people who inhabit this Nebraska outback are wasting away their days and nights like a hick who's tipped a few cows in his lifetime. Somebody has to live in these places, and the people we meet here do it with grace, especially Ella, who is poetry in motion."
+    }
+  ],
+  "recommendations": [
+    "leave_no_trace",
+    "afternoon_delight",
+    "into_the_wild",
+    "eat_pray_love",
+    "the_florida_project",
+    "the_bridges_of_madison_county",
+    "greta",
+    "disobedience",
+    "ingrid_goes_west",
+    "minari",
+    "the_descendants",
+    "the_pursuit_of_happyness",
+    "the_way_back",
+    "nomadland",
+    "up_in_the_air",
+    "crazy_rich_asians",
+    "land",
+    "the_hunt",
+    "the_age_of_adaline",
+    "the_space_between_us",
+    "young_adult",
+    "monte_carlo",
+    "lion",
+    "five_feet_apart",
+    "the_glass_castle"
+  ]
+}

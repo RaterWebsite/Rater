@@ -1,1 +1,163 @@
-{"id": 2353, "title": "xXx: State of the Union", "starring": ["Ice Cube", "Samuel L. Jackson"], "runtime": 101, "genre": ["Action", "Adventure", "Crime", "Mystery", "Thriller"], "description": "Darius Stone's criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert.", "releaseYear": "2005", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg", "categories": {"plot": 5.0, "acting": 2.0, "ending": 6.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.625, "funny": 3.5, "action": 4.333333333333333}, "reviews": [{"rating": "7", "text": "The whole movie defines perfect summer entertainment. Too bad it came out in April."}, {"rating": "10", "text": "epic"}, {"rating": "0", "text": "I didn't realize that being in the NRA made me a racist. I wish movies would stop putting those irritating political messages in their movies and just entertain me."}, {"rating": "1", "text": "Man, this movie was total dung, man. the Tyson B. dude is right, \"wars come and go but my soldiers stay eternal\" was totally not suitable in the context that it was used, its kind of an insult to 2pac. some comedy and satire is good, but an action movie must have some seriousness as an element, or it loses its awe. The movie has been further degraded by the overuse of coolness on xxx's part. ok dude, we know u r cool and fearless , ur xxx, after all, u dont need to remind us of that by toughing up ur face and passing a hard comment every 15 minutes. the 1 point out of 10 it deserves is for its creative ideas like flying a boat up on a bridge and stopping a tank using car jacks,, and for its effects."}, {"rating": "5", "text": "It wasn't that bad. More entertaining than Stealth."}, {"rating": "6", "text": "The film has some entertaining moments that thrill in the grim sense. Some racist puns are decent, as with some of the action. So is jacking a tank. The final CG sequence is so embarrassingly fake, it's an embarrassment. Just go for the first XXX."}, {"rating": "6", "text": "This is really good action schlock. If you like The Fast And The Furious and movies like that, this is for you. They've even got some good jokes mixed in, which is a bit of a rarity for movies like this."}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "10", "text": "epic"}, {"rating": "1", "text": "xXx: State of the Union has a shot at worst movie of the year. I really thought that an accomplished Oscar nominated actor such as Samuel L. Jackson would consider himself above this swill."}, {"rating": "6", "text": "I like Ice Cube, but the biggest flaw with this movie is you expect Vin Diesel. It`s ok but feels wrong for the most part. I think they would be better off changing the name and a few things in the movie to separate from the series."}, {"rating": "3", "text": "It is one of the worst movies seen with me. Ice Cube is a very good actor for me    ."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "4", "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."}, {"rating": "0", "text": "I can't believe, that someone would spend money to finance creation of garbage. how can it get such a high user score on metacritic? 0/10 is too generous."}], "recommendations": ["broken_arrow", "xxx_return_of_xander_cage", "the_expendables_2", "con_air", "need_for_speed", "the_last_stand", "xxx", "death_race", "the_fate_of_the_furious", "transporter_2", "wild_wild_west", "the_condemned", "the_expendables", "machete", "machete_kills", "kick_ass_2", "red", "rocky_iv", "bullet_to_the_head", "salt", "the_expendables_3", "mission_impossible_iii", "armageddon", "rambo", "knight_and_day"]}
+{
+  "id": 2353,
+  "title": "xXx: State of the Union",
+  "starring": [
+    "Ice Cube",
+    "Samuel L. Jackson"
+  ],
+  "runtime": 101,
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "description": "Darius Stone's criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert.",
+  "releaseYear": "2005",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 2.0,
+    "ending": 6.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.625,
+    "funny": 3.5,
+    "action": 4.333333333333333
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "The whole movie defines perfect summer entertainment. Too bad it came out in April."
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "0",
+      "text": "I didn't realize that being in the NRA made me a racist. I wish movies would stop putting those irritating political messages in their movies and just entertain me."
+    },
+    {
+      "rating": "1",
+      "text": "Man, this movie was total dung, man. the Tyson B. dude is right, \"wars come and go but my soldiers stay eternal\" was totally not suitable in the context that it was used, its kind of an insult to 2pac. some comedy and satire is good, but an action movie must have some seriousness as an element, or it loses its awe. The movie has been further degraded by the overuse of coolness on xxx's part. ok dude, we know u r cool and fearless , ur xxx, after all, u dont need to remind us of that by toughing up ur face and passing a hard comment every 15 minutes. the 1 point out of 10 it deserves is for its creative ideas like flying a boat up on a bridge and stopping a tank using car jacks,, and for its effects."
+    },
+    {
+      "rating": "5",
+      "text": "It wasn't that bad. More entertaining than Stealth."
+    },
+    {
+      "rating": "6",
+      "text": "The film has some entertaining moments that thrill in the grim sense. Some racist puns are decent, as with some of the action. So is jacking a tank. The final CG sequence is so embarrassingly fake, it's an embarrassment. Just go for the first XXX."
+    },
+    {
+      "rating": "6",
+      "text": "This is really good action schlock. If you like The Fast And The Furious and movies like that, this is for you. They've even got some good jokes mixed in, which is a bit of a rarity for movies like this."
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "10",
+      "text": "epic"
+    },
+    {
+      "rating": "1",
+      "text": "xXx: State of the Union has a shot at worst movie of the year. I really thought that an accomplished Oscar nominated actor such as Samuel L. Jackson would consider himself above this swill."
+    },
+    {
+      "rating": "6",
+      "text": "I like Ice Cube, but the biggest flaw with this movie is you expect Vin Diesel. It`s ok but feels wrong for the most part. I think they would be better off changing the name and a few things in the movie to separate from the series."
+    },
+    {
+      "rating": "3",
+      "text": "It is one of the worst movies seen with me. Ice Cube is a very good actor for me    ."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "4",
+      "text": "Of course the movie's real raison d'etre is watching Ice Cube tear up government facilities and blockades with a tank, spout Schwarzenegger-style kiss-off lines, and commandeer the kind of babes and high-tech cars that James Bond usually plays with."
+    },
+    {
+      "rating": "0",
+      "text": "I can't believe, that someone would spend money to finance creation of garbage. how can it get such a high user score on metacritic? 0/10 is too generous."
+    }
+  ],
+  "recommendations": [
+    "broken_arrow",
+    "xxx_return_of_xander_cage",
+    "the_expendables_2",
+    "con_air",
+    "need_for_speed",
+    "the_last_stand",
+    "xxx",
+    "death_race",
+    "the_fate_of_the_furious",
+    "transporter_2",
+    "wild_wild_west",
+    "the_condemned",
+    "the_expendables",
+    "machete",
+    "machete_kills",
+    "kick_ass_2",
+    "red",
+    "rocky_iv",
+    "bullet_to_the_head",
+    "salt",
+    "the_expendables_3",
+    "mission_impossible_iii",
+    "armageddon",
+    "rambo",
+    "knight_and_day"
+  ]
+}

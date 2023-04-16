@@ -1,1 +1,65 @@
-{"id": 3031, "title": "Acts of Vengeance", "starring": ["Antonio Banderas", "Karl Urban"], "runtime": 87, "genre": ["Thriller", "Action", "Drama"], "description": "A fast-talking lawyer transforms his body and takes a vow of silence, not to be broken until he finds out who killed his wife and daughter and has his revenge.", "releaseYear": "2017", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/r5o6vWPYOQs6bv91gQ8kQs2zQYl.jpg", "categories": {"plot": 7.0, "acting": 7.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.0}, "reviews": [{"rating": "3", "text": "Encore une histoire de \"justicier dans la ville\", en l'occurrence un t\u00e9nor du barreau improvis\u00e9 tout-\u00e0-coup vengeur obstin\u00e9 et volontaire qui a pour philosophie le sto\u00efcisme...! voil\u00e0 qui n'est pas courant en terme de \"justice sauvage\" mais Seagal est \u00e0 la retraite, alors c'est (bient\u00f4t) le pr\u00e9-retrait\u00e9 Banderas qui s'y colle.En v\u00e9rit\u00e9, il y a l\u00e0 quelques originalit\u00e9s mais aussi nombre de clich\u00e9s pas mal us\u00e9s dans ce sc\u00e9nario qui aurait m\u00e9rit\u00e9 plus d'attention pour se sortir du lot, le lot tr\u00e8s commun des films de vengeance bien ringards et t\u00e9l\u00e9phon\u00e9s...En d\u00e9finitive, on finit donc assez d\u00e9\u00e7u par la tournure des \u00e9v\u00e8nements de ce petit film qui ressemble ici et l\u00e0 \u00e0 un t\u00e9l\u00e9film mais dont la r\u00e9alisation est suffisamment soign\u00e9e pour ne pas sombrer dans le navet total... \u00e0 notre grand \u00e9tonnement d'ailleurs !H\u00e9las, encore un peu trop mollasson malgr\u00e9 sa dur\u00e9e tr\u00e8s standard, ce polar revanchard reste d\u00e9cid\u00e9ment fort m\u00e9diocre dans l'ensemble."}, {"rating": "7", "text": "The acting is descent, action scenes are awesome, it's a tipical revenge storyline but i think it works well on this film. This has to be one of Isaac Florentines best films in my opinion."}], "recommendations": ["the_untouchables", "casino", "vertical_limit", "true_romance", "man_of_tai_chi", "django_unchained", "spy_game", "close", "red_heat", "the_hunt_for_red_october", "lethal_weapon_3", "the_quick_and_the_dead", "lawless", "conan_the_destroyer", "heat", "body_of_lies", "gangster_squad", "jackie_brown", "true_lies", "cliffhanger", "old_henry", "lethal_weapon_2", "triple_9", "the_score", "troy"]}
+{
+  "id": 3031,
+  "title": "Acts of Vengeance",
+  "starring": [
+    "Antonio Banderas",
+    "Karl Urban"
+  ],
+  "runtime": 87,
+  "genre": [
+    "Thriller",
+    "Action",
+    "Drama"
+  ],
+  "description": "A fast-talking lawyer transforms his body and takes a vow of silence, not to be broken until he finds out who killed his wife and daughter and has his revenge.",
+  "releaseYear": "2017",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/r5o6vWPYOQs6bv91gQ8kQs2zQYl.jpg",
+  "categories": {
+    "plot": 7.0,
+    "acting": 7.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "Encore une histoire de \"justicier dans la ville\", en l'occurrence un t\u00e9nor du barreau improvis\u00e9 tout-\u00e0-coup vengeur obstin\u00e9 et volontaire qui a pour philosophie le sto\u00efcisme...! voil\u00e0 qui n'est pas courant en terme de \"justice sauvage\" mais Seagal est \u00e0 la retraite, alors c'est (bient\u00f4t) le pr\u00e9-retrait\u00e9 Banderas qui s'y colle.En v\u00e9rit\u00e9, il y a l\u00e0 quelques originalit\u00e9s mais aussi nombre de clich\u00e9s pas mal us\u00e9s dans ce sc\u00e9nario qui aurait m\u00e9rit\u00e9 plus d'attention pour se sortir du lot, le lot tr\u00e8s commun des films de vengeance bien ringards et t\u00e9l\u00e9phon\u00e9s...En d\u00e9finitive, on finit donc assez d\u00e9\u00e7u par la tournure des \u00e9v\u00e8nements de ce petit film qui ressemble ici et l\u00e0 \u00e0 un t\u00e9l\u00e9film mais dont la r\u00e9alisation est suffisamment soign\u00e9e pour ne pas sombrer dans le navet total... \u00e0 notre grand \u00e9tonnement d'ailleurs !H\u00e9las, encore un peu trop mollasson malgr\u00e9 sa dur\u00e9e tr\u00e8s standard, ce polar revanchard reste d\u00e9cid\u00e9ment fort m\u00e9diocre dans l'ensemble."
+    },
+    {
+      "rating": "7",
+      "text": "The acting is descent, action scenes are awesome, it's a tipical revenge storyline but i think it works well on this film. This has to be one of Isaac Florentines best films in my opinion."
+    }
+  ],
+  "recommendations": [
+    "the_untouchables",
+    "casino",
+    "vertical_limit",
+    "true_romance",
+    "man_of_tai_chi",
+    "django_unchained",
+    "spy_game",
+    "close",
+    "red_heat",
+    "the_hunt_for_red_october",
+    "lethal_weapon_3",
+    "the_quick_and_the_dead",
+    "lawless",
+    "conan_the_destroyer",
+    "heat",
+    "body_of_lies",
+    "gangster_squad",
+    "jackie_brown",
+    "true_lies",
+    "cliffhanger",
+    "old_henry",
+    "lethal_weapon_2",
+    "triple_9",
+    "the_score",
+    "troy"
+  ]
+}

@@ -1,1 +1,65 @@
-{"id": 55, "title": "Black Water: Abyss", "starring": ["Jessica McNamee", "Luke Mitchell"], "runtime": 98, "genre": ["Horror", "Action", "Adventure"], "description": "An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.", "releaseYear": "2020", "mpaaRating": "NR", "imageUrl": "https://image.tmdb.org/t/p/w500/pmAv14TPE2vKMIRrVeCd1Ll7K94.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 4.5, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "When you go to see a film like this, you are an idiot if you are expecting fireworks, but it is nice to see something that exceeds your expectations from time to time. I saw this film because I am currently working a personal project involving jungles and elusive animals, and I had an affinity for movies like 'Rogue' and 'Black Water' when I was young. There is a bit of repetitive camera work in the opening scenes (lots of talking heads in particular), which kind of gives off a bit of a free-to-air TV show vibe. But that isn't something to get upset about given that we're talking about a partly government-funded joint released mid-pandemic. As the story got going, I was glad to see some inventive choices taken. This is despite the film having a claustrophobic simple setting and few characters with which to play. Going underwater in anticipation of the scares was a clever move and I loved when the crocodile's teeth became gradually visible through the murky water.  I also wanted to mention, if I may, that I felt for the director on this one. No one grows up wanting to make a low-budget cash grab, a sequel to a film no one saw ten plus years ago. Something like this would tear you in half I presume. On one hand there are some cool ideas to play with, some creative uses of light to try out etc., but at the end of the day you are (probably) being paid to shoot a big croc munch on a bunch of people. Props go to the creatives behind this one. I had my eyes open for interesting filmmaking and I left the theatre satisfied."}, {"rating": "4", "text": "Right.I've waiting a while for this movie and I'm beyond disappointed. Split the movie into 3 parts1. Good! 2. Still not bad3. Absolute joke.Whoever wrote the ending should never be allowed to write again, seriously. Plus if you are gonna put them into such a ridiculous scenario at the end, just make ALL the charactes die."}], "recommendations": ["cloverfield", "unfriended_dark_web", "frozen", "paranormal_activity_3", "blair_witch", "paranormal_activity_the_marked_ones", "escape_room", "28_weeks_later", "project_almanac", "paranormal_activity_2", "district_9", "host", "jurassic_world_fallen_kingdom", "sanctum", "saw_iv", "limitless", "unfriended", "bird_box", "time_trap", "the_blair_witch_project", "paranormal_activity_4", "crawl", "paranormal_activity_the_ghost_dimension", "the_shallows", "the_devil_inside"]}
+{
+  "id": 55,
+  "title": "Black Water: Abyss",
+  "starring": [
+    "Jessica McNamee",
+    "Luke Mitchell"
+  ],
+  "runtime": 98,
+  "genre": [
+    "Horror",
+    "Action",
+    "Adventure"
+  ],
+  "description": "An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.",
+  "releaseYear": "2020",
+  "mpaaRating": "NR",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/pmAv14TPE2vKMIRrVeCd1Ll7K94.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 4.5,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "When you go to see a film like this, you are an idiot if you are expecting fireworks, but it is nice to see something that exceeds your expectations from time to time. I saw this film because I am currently working a personal project involving jungles and elusive animals, and I had an affinity for movies like 'Rogue' and 'Black Water' when I was young. There is a bit of repetitive camera work in the opening scenes (lots of talking heads in particular), which kind of gives off a bit of a free-to-air TV show vibe. But that isn't something to get upset about given that we're talking about a partly government-funded joint released mid-pandemic. As the story got going, I was glad to see some inventive choices taken. This is despite the film having a claustrophobic simple setting and few characters with which to play. Going underwater in anticipation of the scares was a clever move and I loved when the crocodile's teeth became gradually visible through the murky water.  I also wanted to mention, if I may, that I felt for the director on this one. No one grows up wanting to make a low-budget cash grab, a sequel to a film no one saw ten plus years ago. Something like this would tear you in half I presume. On one hand there are some cool ideas to play with, some creative uses of light to try out etc., but at the end of the day you are (probably) being paid to shoot a big croc munch on a bunch of people. Props go to the creatives behind this one. I had my eyes open for interesting filmmaking and I left the theatre satisfied."
+    },
+    {
+      "rating": "4",
+      "text": "Right.I've waiting a while for this movie and I'm beyond disappointed. Split the movie into 3 parts1. Good! 2. Still not bad3. Absolute joke.Whoever wrote the ending should never be allowed to write again, seriously. Plus if you are gonna put them into such a ridiculous scenario at the end, just make ALL the charactes die."
+    }
+  ],
+  "recommendations": [
+    "cloverfield",
+    "unfriended_dark_web",
+    "frozen",
+    "paranormal_activity_3",
+    "blair_witch",
+    "paranormal_activity_the_marked_ones",
+    "escape_room",
+    "28_weeks_later",
+    "project_almanac",
+    "paranormal_activity_2",
+    "district_9",
+    "host",
+    "jurassic_world_fallen_kingdom",
+    "sanctum",
+    "saw_iv",
+    "limitless",
+    "unfriended",
+    "bird_box",
+    "time_trap",
+    "the_blair_witch_project",
+    "paranormal_activity_4",
+    "crawl",
+    "paranormal_activity_the_ghost_dimension",
+    "the_shallows",
+    "the_devil_inside"
+  ]
+}

@@ -1,1 +1,65 @@
-{"id": 1374, "title": "The Indian in the Cupboard", "starring": ["Hal Scardino", "Litefoot"], "runtime": 96, "genre": ["Adventure", "Family", "Fantasy"], "description": "A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.", "releaseYear": "1995", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg", "categories": {"plot": 10.0, "acting": 10.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "\"La Llave m\u00e1gica\" titulada en espa\u00f1ol o \"The Indian in the Cupboard\" como su titulo original, es una de mis pel\u00edculas favoritas de todos los tiempos.Tengo muy buen recuerdo de \u00e9sta pel\u00edcula, siempre que la ve\u00eda me fascinaba, simplemente m\u00e1gica. Cuenta con una historia simple pero muy emotiva. Se lleva el 10 sobre 10, sin dudarlo. Mi tercera cr\u00edtica u/o review de la secci\u00f3n de Movies."}, {"rating": "10", "text": "The Indian In The Cupboard is an intriguing movie for young minds. It shows many character traits such as trust, loyalty, integrity, etc. Omri is naive without knowing the fact that he learns a great deal from Little Bear. Many people who have seen this movie are able to reflect on times in their life when they have been through an experience that portrays some of the feelings this movie brings into their lives. There are many emotions that justify the ethical reasons why Omri and Little Bear behaved the way they did in this movie. For example, Omri was taken back that Little Bear was even real and through time, Omri developed a friendship he never thought was possible with a toy that came to life. We sometimes take others for granted and we lose our innocence in our adult life that I believe is important to always try to remember where we came from. Omri had the opportunity to learn big lessons at such a young age that he will forever be grateful for when he grows up. It is interesting he is able to learn these lessons in a way that makes sense to him at his age due to it being a hard age to know the true meaning of something that is much bigger than himself. Overall in my adult life, I still watch this classic movie on occasion to remember the good times I had as an adolescent and how life seemed so simple as Omri's life was. Morals and values that are placed into us as young children are what mold you into the person you want to be today is the most important lesson I have received from this movie. This truly is an inspiring movie that I hope to pass down to my future children for them to learn the importance of life, friendship, and love."}], "recommendations": ["wonder", "miracles_from_heaven", "the_young_messiah", "i_kill_giants", "the_tree_of_life", "i_still_believe", "where_the_wild_things_are", "dead_poets_society", "courageous", "bambi", "flipped", "leave_no_trace", "american_pastoral", "machine_gun_preacher", "about_time", "first_they_killed_my_father", "nine_days", "stand_by_me_doraemon_2", "captain_fantastic", "the_space_between_us", "the_case_for_christ", "run_the_tide", "the_florida_project", "heaven_is_for_real", "overcomer"]}
+{
+  "id": 1374,
+  "title": "The Indian in the Cupboard",
+  "starring": [
+    "Hal Scardino",
+    "Litefoot"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "description": "A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.",
+  "releaseYear": "1995",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 10.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "\"La Llave m\u00e1gica\" titulada en espa\u00f1ol o \"The Indian in the Cupboard\" como su titulo original, es una de mis pel\u00edculas favoritas de todos los tiempos.Tengo muy buen recuerdo de \u00e9sta pel\u00edcula, siempre que la ve\u00eda me fascinaba, simplemente m\u00e1gica. Cuenta con una historia simple pero muy emotiva. Se lleva el 10 sobre 10, sin dudarlo. Mi tercera cr\u00edtica u/o review de la secci\u00f3n de Movies."
+    },
+    {
+      "rating": "10",
+      "text": "The Indian In The Cupboard is an intriguing movie for young minds. It shows many character traits such as trust, loyalty, integrity, etc. Omri is naive without knowing the fact that he learns a great deal from Little Bear. Many people who have seen this movie are able to reflect on times in their life when they have been through an experience that portrays some of the feelings this movie brings into their lives. There are many emotions that justify the ethical reasons why Omri and Little Bear behaved the way they did in this movie. For example, Omri was taken back that Little Bear was even real and through time, Omri developed a friendship he never thought was possible with a toy that came to life. We sometimes take others for granted and we lose our innocence in our adult life that I believe is important to always try to remember where we came from. Omri had the opportunity to learn big lessons at such a young age that he will forever be grateful for when he grows up. It is interesting he is able to learn these lessons in a way that makes sense to him at his age due to it being a hard age to know the true meaning of something that is much bigger than himself. Overall in my adult life, I still watch this classic movie on occasion to remember the good times I had as an adolescent and how life seemed so simple as Omri's life was. Morals and values that are placed into us as young children are what mold you into the person you want to be today is the most important lesson I have received from this movie. This truly is an inspiring movie that I hope to pass down to my future children for them to learn the importance of life, friendship, and love."
+    }
+  ],
+  "recommendations": [
+    "wonder",
+    "miracles_from_heaven",
+    "the_young_messiah",
+    "i_kill_giants",
+    "the_tree_of_life",
+    "i_still_believe",
+    "where_the_wild_things_are",
+    "dead_poets_society",
+    "courageous",
+    "bambi",
+    "flipped",
+    "leave_no_trace",
+    "american_pastoral",
+    "machine_gun_preacher",
+    "about_time",
+    "first_they_killed_my_father",
+    "nine_days",
+    "stand_by_me_doraemon_2",
+    "captain_fantastic",
+    "the_space_between_us",
+    "the_case_for_christ",
+    "run_the_tide",
+    "the_florida_project",
+    "heaven_is_for_real",
+    "overcomer"
+  ]
+}

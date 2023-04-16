@@ -1,1 +1,84 @@
-{"id": 303, "title": "Skylines", "starring": ["Lindsey Morgan", "Alexander Siddig"], "runtime": 113, "genre": ["Science Fiction", "Action"], "description": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.", "releaseYear": "2020", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg", "categories": {"plot": 10.0, "acting": 7.75, "ending": 8.5, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 7.75}, "reviews": [{"rating": "4", "text": "I'm shocked this became a trilogy but I can understand why. Liam O\u2019Donnell also directed the first sequel, and I have to say that that one was way more rewarding than this one, even within its range and its own limitations, something that it doesn't achieve.Nothing better to watch/weekend film."}, {"rating": "10", "text": "This movie was absolutely amazing, I'm actually disappointed that is it is the final one of the trilogy."}, {"rating": "7", "text": "I've seen all three; this is by far the best. If you like sci-fi FX and can tolerate sci-fi tropes, this is kind of Tomb Raider in Space.  The female hero's journey works for me.  Writing and acting is a few notches above TV movie, except physical sets and VFX which are close to AAA.  The making-of feature reinforces the impression morale on set was high, always a good foundation for a fun watch."}, {"rating": "7", "text": "D: The film's finishedP: Cool, is at least as good as the first two? Oh, and what's the runtime?D: Yeah, it takes a bit of a different direction though, but you'll love it.P: That's great, how long is it?D: It has great SFX, we've switched from Independence Day to Stargate as a theme. Also crammed in all those Aliens references you wanted.P: Super. You seem to be avoiding questions about it's length though?D: How to you mean?P: You know, runtime, length, duration, how long does my bladder have to hold out since we don't have intervals now?D: Ah, well, it's a little over 3,600 seconds.P: You mean an hour?D: No, well, yeah, okay. It is. But it does everything it needs to. Honest.P: Dude, the third instalment has to be be the longest - we've really got to be pushing bladder control here! The studio demands it.D: Well, I've got nothing else....P: How about we hire someone to direct a really high quality first half that won't feel like it's been crammed in at all?D: Yeah, cool. Can we keep the same dialog writer though?P: What, you mean the fella who wrote \"There's no use fighting it\", \"Now I am become death\", \"We're not in Kansas anymore\", \"I have to finish this myself\" and other such classics?D: Yeah, that's him!P: Okay, whatever. But what about that line \"Between your serum and my ship we have enough power now to cure everyone.\"?D: What do you mean?P: So, how does Rose know about the Serum?D: Well, um, you know, she just does, she has alien super powers or magic or something....P: And how does the doc know about Rose's ship?D: Well, err, again, ah, ok, okay, hmm...P: Look, never mind. Folk will love it anyway - it's proper action filled, disengage brain B-Movie fodder like the first two.D: We also have a load of outtakes in the end titles - does that help?P: Hell yes, why didn't you mention that before? We'll just get a temp to churn out the first half - an outtake reel fixes everything!D: what about the critics - what will they think?P: \"There's no use fighting it\" maybe? Oh, look, they'll probably think it's arty or something - we've got the acting legend James Cosmo in a staring role after all!D: Who?"}, {"rating": "7", "text": "This film takes everything great from the previous 2 installments and really pushed those few elements in what is the best of the 3 films. Skylin3s is a fun and enjoyable action/sci fi film Lindsey Morgan is a great lead and a fan favorite in the genre with her badass portrayal of Raven in the 100."}, {"rating": "10", "text": "Finally a decent sci-fi action movie (which isn't just a totally unrelated drama or political manifest with some sci-fi background occasionally), it might not have a perfectly crafted plot in places but you see how hard they tried to make it good and they succeeded.Good:- Action- Plot- Characters- Acting- Touching momentsMinus:- some rough edges on the plot side if you pay close attention but who cares"}, {"rating": "8", "text": "Great installment in a surprisingly entertaining trilogy. Worthwhile the watch."}], "recommendations": ["transformers_dark_of_the_moon", "underworld_awakening", "jupiter_ascending", "edge_of_tomorrow", "avengers_age_of_ultron", "the_last_witch_hunter", "riddick", "battle_los_angeles", "bloodshot", "bright", "rampage", "surrogates", "the_a_team", "i_am_number_four", "underworld_blood_wars", "infinite", "hercules", "the_matrix_reloaded", "guardians_of_the_galaxy", "mad_max_fury_road", "underworld_evolution", "serenity", "indiana_jones_and_the_kingdom_of_the_crystal_skull", "poseidon", "transformers"]}
+{
+  "id": 303,
+  "title": "Skylines",
+  "starring": [
+    "Lindsey Morgan",
+    "Alexander Siddig"
+  ],
+  "runtime": 113,
+  "genre": [
+    "Science Fiction",
+    "Action"
+  ],
+  "description": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+  "releaseYear": "2020",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg",
+  "categories": {
+    "plot": 10.0,
+    "acting": 7.75,
+    "ending": 8.5,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 7.75
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "I'm shocked this became a trilogy but I can understand why. Liam O\u2019Donnell also directed the first sequel, and I have to say that that one was way more rewarding than this one, even within its range and its own limitations, something that it doesn't achieve.Nothing better to watch/weekend film."
+    },
+    {
+      "rating": "10",
+      "text": "This movie was absolutely amazing, I'm actually disappointed that is it is the final one of the trilogy."
+    },
+    {
+      "rating": "7",
+      "text": "I've seen all three; this is by far the best. If you like sci-fi FX and can tolerate sci-fi tropes, this is kind of Tomb Raider in Space.  The female hero's journey works for me.  Writing and acting is a few notches above TV movie, except physical sets and VFX which are close to AAA.  The making-of feature reinforces the impression morale on set was high, always a good foundation for a fun watch."
+    },
+    {
+      "rating": "7",
+      "text": "D: The film's finishedP: Cool, is at least as good as the first two? Oh, and what's the runtime?D: Yeah, it takes a bit of a different direction though, but you'll love it.P: That's great, how long is it?D: It has great SFX, we've switched from Independence Day to Stargate as a theme. Also crammed in all those Aliens references you wanted.P: Super. You seem to be avoiding questions about it's length though?D: How to you mean?P: You know, runtime, length, duration, how long does my bladder have to hold out since we don't have intervals now?D: Ah, well, it's a little over 3,600 seconds.P: You mean an hour?D: No, well, yeah, okay. It is. But it does everything it needs to. Honest.P: Dude, the third instalment has to be be the longest - we've really got to be pushing bladder control here! The studio demands it.D: Well, I've got nothing else....P: How about we hire someone to direct a really high quality first half that won't feel like it's been crammed in at all?D: Yeah, cool. Can we keep the same dialog writer though?P: What, you mean the fella who wrote \"There's no use fighting it\", \"Now I am become death\", \"We're not in Kansas anymore\", \"I have to finish this myself\" and other such classics?D: Yeah, that's him!P: Okay, whatever. But what about that line \"Between your serum and my ship we have enough power now to cure everyone.\"?D: What do you mean?P: So, how does Rose know about the Serum?D: Well, um, you know, she just does, she has alien super powers or magic or something....P: And how does the doc know about Rose's ship?D: Well, err, again, ah, ok, okay, hmm...P: Look, never mind. Folk will love it anyway - it's proper action filled, disengage brain B-Movie fodder like the first two.D: We also have a load of outtakes in the end titles - does that help?P: Hell yes, why didn't you mention that before? We'll just get a temp to churn out the first half - an outtake reel fixes everything!D: what about the critics - what will they think?P: \"There's no use fighting it\" maybe? Oh, look, they'll probably think it's arty or something - we've got the acting legend James Cosmo in a staring role after all!D: Who?"
+    },
+    {
+      "rating": "7",
+      "text": "This film takes everything great from the previous 2 installments and really pushed those few elements in what is the best of the 3 films. Skylin3s is a fun and enjoyable action/sci fi film Lindsey Morgan is a great lead and a fan favorite in the genre with her badass portrayal of Raven in the 100."
+    },
+    {
+      "rating": "10",
+      "text": "Finally a decent sci-fi action movie (which isn't just a totally unrelated drama or political manifest with some sci-fi background occasionally), it might not have a perfectly crafted plot in places but you see how hard they tried to make it good and they succeeded.Good:- Action- Plot- Characters- Acting- Touching momentsMinus:- some rough edges on the plot side if you pay close attention but who cares"
+    },
+    {
+      "rating": "8",
+      "text": "Great installment in a surprisingly entertaining trilogy. Worthwhile the watch."
+    }
+  ],
+  "recommendations": [
+    "transformers_dark_of_the_moon",
+    "underworld_awakening",
+    "jupiter_ascending",
+    "edge_of_tomorrow",
+    "avengers_age_of_ultron",
+    "the_last_witch_hunter",
+    "riddick",
+    "battle_los_angeles",
+    "bloodshot",
+    "bright",
+    "rampage",
+    "surrogates",
+    "the_a_team",
+    "i_am_number_four",
+    "underworld_blood_wars",
+    "infinite",
+    "hercules",
+    "the_matrix_reloaded",
+    "guardians_of_the_galaxy",
+    "mad_max_fury_road",
+    "underworld_evolution",
+    "serenity",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "poseidon",
+    "transformers"
+  ]
+}

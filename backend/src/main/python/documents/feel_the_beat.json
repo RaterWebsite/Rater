@@ -1,1 +1,73 @@
-{"id": 4563, "title": "Feel the Beat", "starring": ["Sofia Carson", "Wolfgang Novogratz"], "runtime": 107, "genre": ["Comedy", "Music", "Drama"], "description": "After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.", "releaseYear": "2020", "mpaaRating": "G", "imageUrl": "https://image.tmdb.org/t/p/w500/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg", "categories": {"plot": 4.0, "acting": 4.0, "ending": 4.0, "soundtrack": 5.0, "cinematography": 4.0, "familyFriendly": 4.5, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "Sofia Carson is a capable lead and very easy on the eyes, the dance scenes are also extremely well choreographed and you can tell great care was made into putting them together. The story is very cliche'd and full of cheese, the main love interest was pretty forgettable and his performance was pretty atrocious. Theres also supposed to be a weird dynamic between Carson's character and his little sister that doesn't get explored and it comes off kind of odd. Overall, its an okay film."}, {"rating": "4", "text": "It is very difficult to find something to compliment in this movie. The directing and cinematography is flat and uninteresting. Two shots wowed me in the entire movie; fairly basic shots, mind you, they were just better than the others. The acting is atrocious, and sadly, the worst performances are given by adults. The dance scenes were very cringy and uninspired, except for one. The script is extremely cheesy and ham fisted. One scene had a fair bit of tension I didn't expect, but it was edited so poorly that it was difficult to understand what was happening before it ended 30 seconds later. And no spoilers, but the ending and climax are the most predictable beats this kind of story can hit."}, {"rating": "10", "text": "ARTNO MORE WOOORDSI love Sofia, the best actress,  i hope to see her in many more movies."}, {"rating": "2", "text": "\"Feel the Beat\" really did have potential. With Sofia Carson in the lead role and great choreography, I was really disappointed to see that this film was not even close to good. The storyline is literal trash, the acting was subpar, and a lot of the film just felt unfinished and made no sense. All in all, this film could've \"felt the beat\", but it got nowhere near close to that."}], "recommendations": ["haywire", "baby_driver", "miami_vice", "till_death", "hanna", "kate", "the_river_wild", "atomic_blonde", "red_sparrow", "wrath_of_man", "rocknrolla", "the_paperboy", "triple_frontier", "contraband", "project_power", "the_mountain_between_us", "look_away", "atonement", "broken_city", "step_up_revolution", "gemini_man", "jolt", "welcome_home", "gunpowder_milkshake", "braven"]}
+{
+  "id": 4563,
+  "title": "Feel the Beat",
+  "starring": [
+    "Sofia Carson",
+    "Wolfgang Novogratz"
+  ],
+  "runtime": 107,
+  "genre": [
+    "Comedy",
+    "Music",
+    "Drama"
+  ],
+  "description": "After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.",
+  "releaseYear": "2020",
+  "mpaaRating": "G",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg",
+  "categories": {
+    "plot": 4.0,
+    "acting": 4.0,
+    "ending": 4.0,
+    "soundtrack": 5.0,
+    "cinematography": 4.0,
+    "familyFriendly": 4.5,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "Sofia Carson is a capable lead and very easy on the eyes, the dance scenes are also extremely well choreographed and you can tell great care was made into putting them together. The story is very cliche'd and full of cheese, the main love interest was pretty forgettable and his performance was pretty atrocious. Theres also supposed to be a weird dynamic between Carson's character and his little sister that doesn't get explored and it comes off kind of odd. Overall, its an okay film."
+    },
+    {
+      "rating": "4",
+      "text": "It is very difficult to find something to compliment in this movie. The directing and cinematography is flat and uninteresting. Two shots wowed me in the entire movie; fairly basic shots, mind you, they were just better than the others. The acting is atrocious, and sadly, the worst performances are given by adults. The dance scenes were very cringy and uninspired, except for one. The script is extremely cheesy and ham fisted. One scene had a fair bit of tension I didn't expect, but it was edited so poorly that it was difficult to understand what was happening before it ended 30 seconds later. And no spoilers, but the ending and climax are the most predictable beats this kind of story can hit."
+    },
+    {
+      "rating": "10",
+      "text": "ARTNO MORE WOOORDSI love Sofia, the best actress,  i hope to see her in many more movies."
+    },
+    {
+      "rating": "2",
+      "text": "\"Feel the Beat\" really did have potential. With Sofia Carson in the lead role and great choreography, I was really disappointed to see that this film was not even close to good. The storyline is literal trash, the acting was subpar, and a lot of the film just felt unfinished and made no sense. All in all, this film could've \"felt the beat\", but it got nowhere near close to that."
+    }
+  ],
+  "recommendations": [
+    "haywire",
+    "baby_driver",
+    "miami_vice",
+    "till_death",
+    "hanna",
+    "kate",
+    "the_river_wild",
+    "atomic_blonde",
+    "red_sparrow",
+    "wrath_of_man",
+    "rocknrolla",
+    "the_paperboy",
+    "triple_frontier",
+    "contraband",
+    "project_power",
+    "the_mountain_between_us",
+    "look_away",
+    "atonement",
+    "broken_city",
+    "step_up_revolution",
+    "gemini_man",
+    "jolt",
+    "welcome_home",
+    "gunpowder_milkshake",
+    "braven"
+  ]
+}

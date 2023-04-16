@@ -1,1 +1,63 @@
-{"id": 1567, "title": "90 Minutes in Heaven", "starring": ["Kate Bosworth", "Hayden Christensen"], "runtime": 121, "genre": ["Drama"], "description": "A man involved in a horrific car crash is pronounced dead, only to come back to life an hour and a half later, claiming to have seen Heaven.", "releaseYear": "2015", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/e3LKk8UdDyXDkov9k8iP2JJNChi.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "4", "text": "Enjoyed other religious movies more ..... even though I fall into the category of being a believer I became a little bored with the same continuing scenes throughout this story. Message is clear but getting there is uncomfortably tedious"}, {"rating": "2", "text": "Religious propaganda.C'mon Kate Bosworth, you can do better than this!And Hayden Christensen, now I see why he has been totally forgotten."}], "recommendations": ["the_lobster", "lost_in_translation", "the_book_of_henry", "all_i_see_is_you", "children_of_men", "the_shape_of_water", "fifty_shades_darker", "fifty_shades_of_grey", "midsommar", "the_counselor", "to_the_bone", "gone_girl", "the_voyeurs", "the_mountain_between_us", "unforgettable", "an_interview_with_god", "the_next_365_days", "babel", "luther", "i_care_a_lot", "mother", "the_power_of_the_dog", "eo", "i_feel_pretty", "a_walk_to_remember"]}
+{
+  "id": 1567,
+  "title": "90 Minutes in Heaven",
+  "starring": [
+    "Kate Bosworth",
+    "Hayden Christensen"
+  ],
+  "runtime": 121,
+  "genre": [
+    "Drama"
+  ],
+  "description": "A man involved in a horrific car crash is pronounced dead, only to come back to life an hour and a half later, claiming to have seen Heaven.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/e3LKk8UdDyXDkov9k8iP2JJNChi.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "4",
+      "text": "Enjoyed other religious movies more ..... even though I fall into the category of being a believer I became a little bored with the same continuing scenes throughout this story. Message is clear but getting there is uncomfortably tedious"
+    },
+    {
+      "rating": "2",
+      "text": "Religious propaganda.C'mon Kate Bosworth, you can do better than this!And Hayden Christensen, now I see why he has been totally forgotten."
+    }
+  ],
+  "recommendations": [
+    "the_lobster",
+    "lost_in_translation",
+    "the_book_of_henry",
+    "all_i_see_is_you",
+    "children_of_men",
+    "the_shape_of_water",
+    "fifty_shades_darker",
+    "fifty_shades_of_grey",
+    "midsommar",
+    "the_counselor",
+    "to_the_bone",
+    "gone_girl",
+    "the_voyeurs",
+    "the_mountain_between_us",
+    "unforgettable",
+    "an_interview_with_god",
+    "the_next_365_days",
+    "babel",
+    "luther",
+    "i_care_a_lot",
+    "mother",
+    "the_power_of_the_dog",
+    "eo",
+    "i_feel_pretty",
+    "a_walk_to_remember"
+  ]
+}

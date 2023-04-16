@@ -1,1 +1,60 @@
-{"id": 4395, "title": "Universal Soldier: The Return", "starring": ["Jean-Claude Van Damme", "Kiana Tom"], "runtime": 82, "genre": ["Action", "Science Fiction"], "description": "Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When SETH, the supercomputer-controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles SETH and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.", "releaseYear": "1999", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out."}], "recommendations": ["the_green_hornet", "deadpool_2", "zombieland_double_tap", "sherlock_gnomes", "deadpool", "horrible_bosses_2", "the_spongebob_movie_sponge_on_the_run", "pitch_perfect_2", "shazam_fury_of_the_gods", "green_lantern", "the_suicide_squad", "venom_let_there_be_carnage", "this_means_war", "megamind", "zoolander_2", "spy", "fantastic_four", "scary_movie_3", "thor_love_and_thunder", "pitch_perfect_3", "superman_ii", "my_spy", "catwoman", "aquaman", "red_2"]}
+{
+  "id": 4395,
+  "title": "Universal Soldier: The Return",
+  "starring": [
+    "Jean-Claude Van Damme",
+    "Kiana Tom"
+  ],
+  "runtime": 82,
+  "genre": [
+    "Action",
+    "Science Fiction"
+  ],
+  "description": "Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When SETH, the supercomputer-controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles SETH and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.",
+  "releaseYear": "1999",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out."
+    }
+  ],
+  "recommendations": [
+    "the_green_hornet",
+    "deadpool_2",
+    "zombieland_double_tap",
+    "sherlock_gnomes",
+    "deadpool",
+    "horrible_bosses_2",
+    "the_spongebob_movie_sponge_on_the_run",
+    "pitch_perfect_2",
+    "shazam_fury_of_the_gods",
+    "green_lantern",
+    "the_suicide_squad",
+    "venom_let_there_be_carnage",
+    "this_means_war",
+    "megamind",
+    "zoolander_2",
+    "spy",
+    "fantastic_four",
+    "scary_movie_3",
+    "thor_love_and_thunder",
+    "pitch_perfect_3",
+    "superman_ii",
+    "my_spy",
+    "catwoman",
+    "aquaman",
+    "red_2"
+  ]
+}

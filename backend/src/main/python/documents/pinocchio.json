@@ -1,1 +1,93 @@
-{"id": 2009, "title": "Pinocchio", "starring": ["Benjamin Evan Ainsworth", "Tom Hanks"], "runtime": 105, "genre": ["Fantasy", "Adventure", "Family"], "description": "A wooden puppet embarks on a thrilling adventure to become a real boy.", "releaseYear": "2022", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg", "categories": {"plot": 5.0, "acting": 1.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 1.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "1", "text": "As a fluent Italian I find it bewildering that some have suggested that hearing the Italian version makes a significant difference ... Benigni's constant yelling was incredibly irritating, the pacing was tortuous, and the neverending parade of pointless set-pieces made me wonder if anyone ever asked anyone else \"why?\" during any stage in the planning and editing of this film. This film is a complete and utter failure in so many ways that I was embarrassed for its set designer and cinematographer ... that their incredible work went to such a narcissistic waste of time and money."}, {"rating": "0", "text": "Horr\u00edvel at\u00e9 demais, acho que as crian\u00e7as bobinhas adoraram essa pe\u00e7a r\u00eddicula mal feita e sem a m\u00ednima no\u00e7\u00e3o de car\u00e1cter simplesmente um estrago para as telas."}, {"rating": "10", "text": "This movie contains my favorite movie scene of all times. When the Blue fairy (Nicoletta Braschi) says : \"E vero, Medoro, il tempo non esiste\".  If I have to pick ONE movie from all movie history, I will pick this one. A great take on the Collodi original. From that point of view the Disney cartoon sucked. It was even anti-Italian. The only negative thing about Benigni's Pinocchio was the English dubbed version. Atrocious. The Italian original was simply glorious."}, {"rating": "10", "text": "What is this? You gotta be kidding me!"}, {"rating": "1", "text": "This is a MASSIVE SPOILER, but they did not have the money to hire a child actor to look like Pinocchio or they rushed production, but Pinocchio does not, I repeat... does not turn into a real boy!This is a crime, this is a fable, and fables cannot be altered un such way that they are destroyed, Disney had one job, and it was to grant Pinocchio's wish to become a real boy. Instead of a half-assed explanation of \"he was always real.\""}, {"rating": "0", "text": "Wretchedly dubbed, wretchedly acted, featuring a little Italian nutjob."}, {"rating": "0", "text": "Roberto Benigni must be stopped."}, {"rating": "1", "text": "Too stupid, large and silly."}, {"rating": "0", "text": "One word review: SUCKS."}], "recommendations": ["the_matrix_resurrections", "the_emoji_movie", "dragonball_evolution", "dolittle", "the_day_the_earth_stood_still", "transformers_the_last_knight", "space_jam_a_new_legacy", "doctor_strange_in_the_multiverse_of_madness", "the_last_airbender", "battleship", "king_kong", "transformers_revenge_of_the_fallen", "norm_of_the_north", "teenage_mutant_ninja_turtles", "a_wrinkle_in_time", "the_legend_of_hercules", "clash_of_the_titans", "pan", "eragon", "uglydolls", "red_dawn", "gamer", "all_eyez_on_me", "the_hobbit_the_desolation_of_smaug", "indiana_jones_and_the_kingdom_of_the_crystal_skull"]}
+{
+  "id": 2009,
+  "title": "Pinocchio",
+  "starring": [
+    "Benjamin Evan Ainsworth",
+    "Tom Hanks"
+  ],
+  "runtime": 105,
+  "genre": [
+    "Fantasy",
+    "Adventure",
+    "Family"
+  ],
+  "description": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+  "releaseYear": "2022",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 1.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 1.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "1",
+      "text": "As a fluent Italian I find it bewildering that some have suggested that hearing the Italian version makes a significant difference ... Benigni's constant yelling was incredibly irritating, the pacing was tortuous, and the neverending parade of pointless set-pieces made me wonder if anyone ever asked anyone else \"why?\" during any stage in the planning and editing of this film. This film is a complete and utter failure in so many ways that I was embarrassed for its set designer and cinematographer ... that their incredible work went to such a narcissistic waste of time and money."
+    },
+    {
+      "rating": "0",
+      "text": "Horr\u00edvel at\u00e9 demais, acho que as crian\u00e7as bobinhas adoraram essa pe\u00e7a r\u00eddicula mal feita e sem a m\u00ednima no\u00e7\u00e3o de car\u00e1cter simplesmente um estrago para as telas."
+    },
+    {
+      "rating": "10",
+      "text": "This movie contains my favorite movie scene of all times. When the Blue fairy (Nicoletta Braschi) says : \"E vero, Medoro, il tempo non esiste\".  If I have to pick ONE movie from all movie history, I will pick this one. A great take on the Collodi original. From that point of view the Disney cartoon sucked. It was even anti-Italian. The only negative thing about Benigni's Pinocchio was the English dubbed version. Atrocious. The Italian original was simply glorious."
+    },
+    {
+      "rating": "10",
+      "text": "What is this? You gotta be kidding me!"
+    },
+    {
+      "rating": "1",
+      "text": "This is a MASSIVE SPOILER, but they did not have the money to hire a child actor to look like Pinocchio or they rushed production, but Pinocchio does not, I repeat... does not turn into a real boy!This is a crime, this is a fable, and fables cannot be altered un such way that they are destroyed, Disney had one job, and it was to grant Pinocchio's wish to become a real boy. Instead of a half-assed explanation of \"he was always real.\""
+    },
+    {
+      "rating": "0",
+      "text": "Wretchedly dubbed, wretchedly acted, featuring a little Italian nutjob."
+    },
+    {
+      "rating": "0",
+      "text": "Roberto Benigni must be stopped."
+    },
+    {
+      "rating": "1",
+      "text": "Too stupid, large and silly."
+    },
+    {
+      "rating": "0",
+      "text": "One word review: SUCKS."
+    }
+  ],
+  "recommendations": [
+    "the_matrix_resurrections",
+    "the_emoji_movie",
+    "dragonball_evolution",
+    "dolittle",
+    "the_day_the_earth_stood_still",
+    "transformers_the_last_knight",
+    "space_jam_a_new_legacy",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_last_airbender",
+    "battleship",
+    "king_kong",
+    "transformers_revenge_of_the_fallen",
+    "norm_of_the_north",
+    "teenage_mutant_ninja_turtles",
+    "a_wrinkle_in_time",
+    "the_legend_of_hercules",
+    "clash_of_the_titans",
+    "pan",
+    "eragon",
+    "uglydolls",
+    "red_dawn",
+    "gamer",
+    "all_eyez_on_me",
+    "the_hobbit_the_desolation_of_smaug",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull"
+  ]
+}

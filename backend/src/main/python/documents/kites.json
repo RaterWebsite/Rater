@@ -1,1 +1,77 @@
-{"id": 3823, "title": "Kites", "starring": ["Hrithik Roshan", "B\u00e1rbara Mori"], "runtime": 123, "genre": ["Drama", "Action", "Romance"], "description": "A wounded man searches for his sweetheart in the Mexican desert while on the run from the police, bounty hunters, and others.", "releaseYear": "2010", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/lYJhUIsKtlke4gNNHkYZNppYlTZ.jpg", "categories": {"plot": 5.0, "acting": 9.0, "ending": 0.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "9", "text": "Great performances by lead actors."}, {"rating": "0", "text": "The ending was completely pathetic and disappointing and it ruins everything the movie was building up to."}, {"rating": "8", "text": "Its a good movie, with good combination of things. Proper ratio of things makes this good movie, a full entertainment."}, {"rating": "9", "text": "Movie is tooo good. Hrithik rockszzz."}, {"rating": "9", "text": "Cool Movie.. Hrithik's Dance is amazing. Barbara acts the emotions brilliantly. Overall a satisfying experience."}], "recommendations": ["fantastic_four", "oz_the_great_and_powerful", "the_italian_job", "bedazzled", "the_paperboy", "the_guest", "the_ultimate_gift", "backdraft", "just_before_i_go", "braven", "triple_frontier", "aquaman", "the_usual_suspects", "abduction", "shang_chi_and_the_legend_of_the_ten_rings", "the_three_musketeers", "passengers", "the_aviator", "the_illusionist", "work_it", "snow_white_and_the_huntsman", "contraband", "the_debt_collector", "the_mummy", "gemini_man"]}
+{
+  "id": 3823,
+  "title": "Kites",
+  "starring": [
+    "Hrithik Roshan",
+    "B\u00e1rbara Mori"
+  ],
+  "runtime": 123,
+  "genre": [
+    "Drama",
+    "Action",
+    "Romance"
+  ],
+  "description": "A wounded man searches for his sweetheart in the Mexican desert while on the run from the police, bounty hunters, and others.",
+  "releaseYear": "2010",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lYJhUIsKtlke4gNNHkYZNppYlTZ.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 9.0,
+    "ending": 0.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "9",
+      "text": "Great performances by lead actors."
+    },
+    {
+      "rating": "0",
+      "text": "The ending was completely pathetic and disappointing and it ruins everything the movie was building up to."
+    },
+    {
+      "rating": "8",
+      "text": "Its a good movie, with good combination of things. Proper ratio of things makes this good movie, a full entertainment."
+    },
+    {
+      "rating": "9",
+      "text": "Movie is tooo good. Hrithik rockszzz."
+    },
+    {
+      "rating": "9",
+      "text": "Cool Movie.. Hrithik's Dance is amazing. Barbara acts the emotions brilliantly. Overall a satisfying experience."
+    }
+  ],
+  "recommendations": [
+    "fantastic_four",
+    "oz_the_great_and_powerful",
+    "the_italian_job",
+    "bedazzled",
+    "the_paperboy",
+    "the_guest",
+    "the_ultimate_gift",
+    "backdraft",
+    "just_before_i_go",
+    "braven",
+    "triple_frontier",
+    "aquaman",
+    "the_usual_suspects",
+    "abduction",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_three_musketeers",
+    "passengers",
+    "the_aviator",
+    "the_illusionist",
+    "work_it",
+    "snow_white_and_the_huntsman",
+    "contraband",
+    "the_debt_collector",
+    "the_mummy",
+    "gemini_man"
+  ]
+}

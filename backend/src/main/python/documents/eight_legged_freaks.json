@@ -1,1 +1,94 @@
-{"id": 4581, "title": "Eight Legged Freaks", "starring": ["David Arquette", "Kari Wuhrer"], "runtime": 99, "genre": ["Action", "Comedy", "Horror", "Thriller"], "description": "The residents of a rural mining town discover that an unfortunate chemical spill has caused hundreds of little spiders to mutate overnight to the size of SUVs. It's then up to mining engineer Chris McCormack and Sheriff Sam Parker to mobilize an eclectic group of townspeople, including the Sheriff's young son, Mike, her daughter, Ashley, and paranoid radio announcer Harlan, into battle against the bloodthirsty eight-legged beasts.", "releaseYear": "2002", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/1hf7x6WmyXtL1MlY4eSlTbZ8Nzu.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 4.0, "funny": 7.666666666666667, "action": 9.0}, "reviews": [{"rating": "6", "text": "A 50's movie concept given a modern make over. Tell your brain to go missing and enjoy the B rate acting, B rate CGI and B rate cast (including a young Scarlett Johansson)"}, {"rating": "8", "text": "In case you couldn't tell, this movie is supposed to be goofy. I mean, how much goofier can you get when you have a movie about spiders that grow to gigantic size when they eat contaminated crickets? One thing you should know is that this movie DOES NOT take itself seriously. But that's a good thing, because this movie is pure camp and nothing else. Characters are somewhat sloppy, the spider special effects are decent (especially for 2002) and the humor is well put together. All in all, if you are sad and want a movie to cheer you up, watch this."}, {"rating": "9", "text": "Best horror comedy I have ever seen, it has humour, gory, action and violence, has all the ingredients to make a fantastic film. This film is a must watch"}, {"rating": "8", "text": "Probably one of the best horror comedy i have ever seen.It's funny and there is a lot of action.The spiders are cheesy but they are supposed to be like this.Probably the best spider movie i have ever seen."}, {"rating": "5", "text": "Cheesy yet surprisingly enjoyable, whether or not your going to enjoy this depends on how much you like b rated movie, it's not scary at all, honestly I just about laughed throughout the whole, although I'm not sure whether I was laughing with it or at it."}, {"rating": "0", "text": "Wow!! I can honestly say, this is one of the worst movies ever made. Actually, it's like watching something other than a movie, like a bunch of bad acting, cheesy dialogue and laughably crap special effects, and like this kind of slapstick childish unfunny type of humour, all exploded onto your screen!!!! It's a bit like something you'd see on Disney Channel, like in the same league as Lizzie McGuire."}, {"rating": "8", "text": "Not a big fan of horror movies (or spiders), but I liked this movie alot. It was very fun and lighthearted, even when people were being eaten by giant spiders. This movie isn't meant to be taken seriously, you'll come off as a giant loser if you do."}, {"rating": "8", "text": "Eight Legged Freaks is awesome and walks that line between Looney Toons comedy and horror. Even almost two decades later it's still enjoyable in all its silliness."}, {"rating": "5", "text": "It's a good attempt at a 50s/60s sci fi monster flick in a modern setting enjoyable in parts."}], "recommendations": ["drag_me_to_hell", "scary_movie", "scouts_guide_to_the_zombie_apocalypse", "scary_movie_4", "ginger_snaps", "vampires_suck", "scary_movie_5", "a_haunted_house", "monsters_vs_aliens", "scary_movie_2", "not_another_teen_movie", "superhero_movie", "scooby_doo_2_monsters_unleashed", "zombieland", "friday_the_13th", "jason_x", "army_of_darkness", "the_host", "epic_movie", "scary_movie_3", "piranha_3dd", "meet_the_spartans", "transformers_revenge_of_the_fallen", "hot_fuzz", "cursed"]}
+{
+  "id": 4581,
+  "title": "Eight Legged Freaks",
+  "starring": [
+    "David Arquette",
+    "Kari Wuhrer"
+  ],
+  "runtime": 99,
+  "genre": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "description": "The residents of a rural mining town discover that an unfortunate chemical spill has caused hundreds of little spiders to mutate overnight to the size of SUVs. It's then up to mining engineer Chris McCormack and Sheriff Sam Parker to mobilize an eclectic group of townspeople, including the Sheriff's young son, Mike, her daughter, Ashley, and paranoid radio announcer Harlan, into battle against the bloodthirsty eight-legged beasts.",
+  "releaseYear": "2002",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/1hf7x6WmyXtL1MlY4eSlTbZ8Nzu.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 4.0,
+    "funny": 7.666666666666667,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "A 50's movie concept given a modern make over. Tell your brain to go missing and enjoy the B rate acting, B rate CGI and B rate cast (including a young Scarlett Johansson)"
+    },
+    {
+      "rating": "8",
+      "text": "In case you couldn't tell, this movie is supposed to be goofy. I mean, how much goofier can you get when you have a movie about spiders that grow to gigantic size when they eat contaminated crickets? One thing you should know is that this movie DOES NOT take itself seriously. But that's a good thing, because this movie is pure camp and nothing else. Characters are somewhat sloppy, the spider special effects are decent (especially for 2002) and the humor is well put together. All in all, if you are sad and want a movie to cheer you up, watch this."
+    },
+    {
+      "rating": "9",
+      "text": "Best horror comedy I have ever seen, it has humour, gory, action and violence, has all the ingredients to make a fantastic film. This film is a must watch"
+    },
+    {
+      "rating": "8",
+      "text": "Probably one of the best horror comedy i have ever seen.It's funny and there is a lot of action.The spiders are cheesy but they are supposed to be like this.Probably the best spider movie i have ever seen."
+    },
+    {
+      "rating": "5",
+      "text": "Cheesy yet surprisingly enjoyable, whether or not your going to enjoy this depends on how much you like b rated movie, it's not scary at all, honestly I just about laughed throughout the whole, although I'm not sure whether I was laughing with it or at it."
+    },
+    {
+      "rating": "0",
+      "text": "Wow!! I can honestly say, this is one of the worst movies ever made. Actually, it's like watching something other than a movie, like a bunch of bad acting, cheesy dialogue and laughably crap special effects, and like this kind of slapstick childish unfunny type of humour, all exploded onto your screen!!!! It's a bit like something you'd see on Disney Channel, like in the same league as Lizzie McGuire."
+    },
+    {
+      "rating": "8",
+      "text": "Not a big fan of horror movies (or spiders), but I liked this movie alot. It was very fun and lighthearted, even when people were being eaten by giant spiders. This movie isn't meant to be taken seriously, you'll come off as a giant loser if you do."
+    },
+    {
+      "rating": "8",
+      "text": "Eight Legged Freaks is awesome and walks that line between Looney Toons comedy and horror. Even almost two decades later it's still enjoyable in all its silliness."
+    },
+    {
+      "rating": "5",
+      "text": "It's a good attempt at a 50s/60s sci fi monster flick in a modern setting enjoyable in parts."
+    }
+  ],
+  "recommendations": [
+    "drag_me_to_hell",
+    "scary_movie",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "scary_movie_4",
+    "ginger_snaps",
+    "vampires_suck",
+    "scary_movie_5",
+    "a_haunted_house",
+    "monsters_vs_aliens",
+    "scary_movie_2",
+    "not_another_teen_movie",
+    "superhero_movie",
+    "scooby_doo_2_monsters_unleashed",
+    "zombieland",
+    "friday_the_13th",
+    "jason_x",
+    "army_of_darkness",
+    "the_host",
+    "epic_movie",
+    "scary_movie_3",
+    "piranha_3dd",
+    "meet_the_spartans",
+    "transformers_revenge_of_the_fallen",
+    "hot_fuzz",
+    "cursed"
+  ]
+}

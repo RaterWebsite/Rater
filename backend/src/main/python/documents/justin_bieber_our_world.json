@@ -1,1 +1,80 @@
-{"id": 645, "title": "Justin Bieber: Our World", "starring": ["Justin Bieber", "Hailey Bieber"], "runtime": 94, "genre": ["Music", "Documentary"], "description": "After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests\u2014and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.", "releaseYear": "2021", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/iCzzCUgsFSlaEbgKKmJttSAUXGr.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 10.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "0", "text": "I'll admit it, I could barely make it through the trailer. And I get that I'm not its target demographic. Still, I have to say that this is the most vapid doc I can think of. This person isn't even real anymore, and that is a shame. Somewhere in there is a real person that has been beaten into a psychological corner whether they wanted that or not. Their entire life is artifice, and this mockumentary might as well be true for Justin. No amount of money would get most of us to give up who we are. I don't think he ever had a choice."}, {"rating": "10", "text": "This movie is very beautiful and full of positive energy. It is really fun. I loved it and loved the show. It was really amazing"}, {"rating": "10", "text": "Great movie!! I love this so much \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"}, {"rating": "10", "text": "i lovveeee this project it is amazing how many times I watched again and again"}, {"rating": "10", "text": "The movie is so good ...Love you Justin Bieber Love your music Am actually such a huge fan"}, {"rating": "10", "text": "I loooooove this documentary omg that's amazing i'm crying this is the best"}], "recommendations": ["the_bucket_list", "brokeback_mountain", "the_family_man", "hannah_montana_the_movie", "my_life_in_ruins", "flipped", "the_notebook", "a_walk_to_remember", "almost_famous", "forrest_gump", "bridge_to_terabithia", "remember_the_titans", "the_art_of_racing_in_the_rain", "togo", "the_vow", "one_direction_this_is_us", "the_lake_house", "sex_and_the_city", "shrek_the_third", "eternal_sunshine_of_the_spotless_mind", "woodlawn", "soul_surfer", "if_i_stay", "passengers", "ghostbusters_afterlife"]}
+{
+  "id": 645,
+  "title": "Justin Bieber: Our World",
+  "starring": [
+    "Justin Bieber",
+    "Hailey Bieber"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Music",
+    "Documentary"
+  ],
+  "description": "After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests\u2014and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.",
+  "releaseYear": "2021",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/iCzzCUgsFSlaEbgKKmJttSAUXGr.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 10.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "0",
+      "text": "I'll admit it, I could barely make it through the trailer. And I get that I'm not its target demographic. Still, I have to say that this is the most vapid doc I can think of. This person isn't even real anymore, and that is a shame. Somewhere in there is a real person that has been beaten into a psychological corner whether they wanted that or not. Their entire life is artifice, and this mockumentary might as well be true for Justin. No amount of money would get most of us to give up who we are. I don't think he ever had a choice."
+    },
+    {
+      "rating": "10",
+      "text": "This movie is very beautiful and full of positive energy. It is really fun. I loved it and loved the show. It was really amazing"
+    },
+    {
+      "rating": "10",
+      "text": "Great movie!! I love this so much \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+    },
+    {
+      "rating": "10",
+      "text": "i lovveeee this project it is amazing how many times I watched again and again"
+    },
+    {
+      "rating": "10",
+      "text": "The movie is so good ...Love you Justin Bieber Love your music Am actually such a huge fan"
+    },
+    {
+      "rating": "10",
+      "text": "I loooooove this documentary omg that's amazing i'm crying this is the best"
+    }
+  ],
+  "recommendations": [
+    "the_bucket_list",
+    "brokeback_mountain",
+    "the_family_man",
+    "hannah_montana_the_movie",
+    "my_life_in_ruins",
+    "flipped",
+    "the_notebook",
+    "a_walk_to_remember",
+    "almost_famous",
+    "forrest_gump",
+    "bridge_to_terabithia",
+    "remember_the_titans",
+    "the_art_of_racing_in_the_rain",
+    "togo",
+    "the_vow",
+    "one_direction_this_is_us",
+    "the_lake_house",
+    "sex_and_the_city",
+    "shrek_the_third",
+    "eternal_sunshine_of_the_spotless_mind",
+    "woodlawn",
+    "soul_surfer",
+    "if_i_stay",
+    "passengers",
+    "ghostbusters_afterlife"
+  ]
+}

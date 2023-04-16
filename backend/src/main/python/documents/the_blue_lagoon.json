@@ -1,1 +1,64 @@
-{"id": 3524, "title": "The Blue Lagoon", "starring": ["Brooke Shields", "Christopher Atkins"], "runtime": 104, "genre": ["Romance", "Adventure"], "description": "Two small children and a ship's cook survive a shipwreck and find safety on an idyllic tropical island. Soon, however, the cook dies and the young boy and girl are left on their own. Days become years and Emmeline and Richard make a home for themselves surrounded by exotic creatures and nature's beauty. But will they ever see civilization again?", "releaseYear": "1980", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/k6KsThCeoxxHDbVnlHLdTlf5wsy.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "The critical reviews are completely wrong. Enjoy this masterpiece. You won't regret it."}, {"rating": "9", "text": "Nice photography, crisp and sharp for 1980, Nestor Almendros was a brilliant photographer-his first movie was Days of Heaven for Terence Malick, and that movie is a high water mark photographically.  Randal Kleiser had directed Grease and Saturday Night Fever so he's talented.  it was very successful, earning over $50m on a $5m budget.  This was fun, innocent and a beautiful movie."}], "recommendations": ["boogie_nights", "la_la_land", "sweeney_todd_the_demon_barber_of_fleet_street", "cinderella_man", "moulin_rouge", "the_godfather", "marie_antoinette", "the_aviator", "the_shawshank_redemption", "once_upon_a_time_in_america", "the_greatest_showman", "no_reservations", "the_shining", "walk_the_line", "bohemian_rhapsody", "hairspray", "raging_bull", "the_english_patient", "the_grand_budapest_hotel", "eternal_sunshine_of_the_spotless_mind", "casablanca", "redemption_day", "tron_legacy", "almost_famous", "youth"]}
+{
+  "id": 3524,
+  "title": "The Blue Lagoon",
+  "starring": [
+    "Brooke Shields",
+    "Christopher Atkins"
+  ],
+  "runtime": 104,
+  "genre": [
+    "Romance",
+    "Adventure"
+  ],
+  "description": "Two small children and a ship's cook survive a shipwreck and find safety on an idyllic tropical island. Soon, however, the cook dies and the young boy and girl are left on their own. Days become years and Emmeline and Richard make a home for themselves surrounded by exotic creatures and nature's beauty. But will they ever see civilization again?",
+  "releaseYear": "1980",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/k6KsThCeoxxHDbVnlHLdTlf5wsy.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "The critical reviews are completely wrong. Enjoy this masterpiece. You won't regret it."
+    },
+    {
+      "rating": "9",
+      "text": "Nice photography, crisp and sharp for 1980, Nestor Almendros was a brilliant photographer-his first movie was Days of Heaven for Terence Malick, and that movie is a high water mark photographically.  Randal Kleiser had directed Grease and Saturday Night Fever so he's talented.  it was very successful, earning over $50m on a $5m budget.  This was fun, innocent and a beautiful movie."
+    }
+  ],
+  "recommendations": [
+    "boogie_nights",
+    "la_la_land",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "cinderella_man",
+    "moulin_rouge",
+    "the_godfather",
+    "marie_antoinette",
+    "the_aviator",
+    "the_shawshank_redemption",
+    "once_upon_a_time_in_america",
+    "the_greatest_showman",
+    "no_reservations",
+    "the_shining",
+    "walk_the_line",
+    "bohemian_rhapsody",
+    "hairspray",
+    "raging_bull",
+    "the_english_patient",
+    "the_grand_budapest_hotel",
+    "eternal_sunshine_of_the_spotless_mind",
+    "casablanca",
+    "redemption_day",
+    "tron_legacy",
+    "almost_famous",
+    "youth"
+  ]
+}

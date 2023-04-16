@@ -10,4 +10,4 @@ for title in mv.key_to_index:
     movie["recommendations"] = [x for x,y in mv.most_similar(positive=title, topn=25)]
     
     with open("backend/src/main/python/documents/" + title + ".json", "w") as file:
-        json.dump(movie, file)
+        json.dump(movie, file, default=lambda o: o.__dict__, indent=2)

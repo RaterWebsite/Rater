@@ -1,1 +1,64 @@
-{"id": 1624, "title": "Overboard", "starring": ["Anna Faris", "Eugenio Derbez"], "runtime": 112, "genre": ["Romance", "Comedy"], "description": "A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee.", "releaseYear": "2018", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 6.0, "action": 5.0}, "reviews": [{"rating": "7", "text": "Kurt Russell's mullet is once again awesome. A really funny movie and you can easily tell the great chemistry that Russell and Goldie Hawn have."}, {"rating": "5", "text": "Wonderful movie to watch on a rainy day curled up on the couch with a hot cup of coffee. The characters are hilarious! Goldie is fantastic as a b_ _ _ _ h. Curt is hilarious and very easy on the eyes. He is gorgeous. This movie is one of my family\u2019s most beloved movies to quote from: \u201cI\u2019m happy. Everyone wants to be me\u201d.\u201cI just...ate a bug\u201d.\u201cIf you have a baby, you won\u2019t be the baby anymore\u201d.\u201cAndrew, are you going to bring me my lemon or do I have to squeeze it from my hat?\u2019"}], "recommendations": ["just_go_with_it", "little_nicky", "wedding_crashers", "the_hot_chick", "along_came_polly", "mamma_mia", "sister_act", "the_santa_clause_2", "the_christmas_chronicles", "bad_santa", "the_mask", "just_friends", "what_a_girl_wants", "horrible_bosses", "the_muppets", "next_friday", "american_wedding", "freaky_friday", "the_proposal", "good_luck_chuck", "elf", "deck_the_halls", "the_santa_clause", "forgetting_sarah_marshall", "yes_man"]}
+{
+  "id": 1624,
+  "title": "Overboard",
+  "starring": [
+    "Anna Faris",
+    "Eugenio Derbez"
+  ],
+  "runtime": 112,
+  "genre": [
+    "Romance",
+    "Comedy"
+  ],
+  "description": "A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee.",
+  "releaseYear": "2018",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "7",
+      "text": "Kurt Russell's mullet is once again awesome. A really funny movie and you can easily tell the great chemistry that Russell and Goldie Hawn have."
+    },
+    {
+      "rating": "5",
+      "text": "Wonderful movie to watch on a rainy day curled up on the couch with a hot cup of coffee. The characters are hilarious! Goldie is fantastic as a b_ _ _ _ h. Curt is hilarious and very easy on the eyes. He is gorgeous. This movie is one of my family\u2019s most beloved movies to quote from: \u201cI\u2019m happy. Everyone wants to be me\u201d.\u201cI just...ate a bug\u201d.\u201cIf you have a baby, you won\u2019t be the baby anymore\u201d.\u201cAndrew, are you going to bring me my lemon or do I have to squeeze it from my hat?\u2019"
+    }
+  ],
+  "recommendations": [
+    "just_go_with_it",
+    "little_nicky",
+    "wedding_crashers",
+    "the_hot_chick",
+    "along_came_polly",
+    "mamma_mia",
+    "sister_act",
+    "the_santa_clause_2",
+    "the_christmas_chronicles",
+    "bad_santa",
+    "the_mask",
+    "just_friends",
+    "what_a_girl_wants",
+    "horrible_bosses",
+    "the_muppets",
+    "next_friday",
+    "american_wedding",
+    "freaky_friday",
+    "the_proposal",
+    "good_luck_chuck",
+    "elf",
+    "deck_the_halls",
+    "the_santa_clause",
+    "forgetting_sarah_marshall",
+    "yes_man"
+  ]
+}

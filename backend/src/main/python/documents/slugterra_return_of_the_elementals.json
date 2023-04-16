@@ -1,1 +1,61 @@
-{"id": 4113, "title": "SlugTerra: Return of the Elementals", "starring": ["Shannon Chan-Kent", "Andrew Francis"], "runtime": 63, "genre": ["Family", "Animation", "Adventure"], "description": "A new member has joined Eli and the Shane Gang! Junjie, once the protector of the Eastern Caverns, is a master of the slugslinging art of Slug Fu! But even with the power of five slingers, the Shane Gang find themselves in over their heads as they race across The 99 Caverns in search of the Legendary Elemental Slugs. The five Elementals are ancient slugs of great power, and the forbearers of all slugs found in SlugTerra today. In the wrong hands, they could bring Slugterra to the brink of destruction. So when an evil alliance starts hunting down the Elementals, Eli and his friends \u2014 old and new \u2014 take off in pursuit of the greatest threat their world has ever faced!", "releaseYear": "2014", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/ApN2lteDsoIU5dDHJXeqVD13vpd.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "10", "text": "Ay, ay, yeahGang, gang, gang, ayUm dia eu vou largar essas drogasMas por enquanto \u00e9 o que t\u00e1 me aliviando (plug)Sabe aquela garota, cara? (aquela garota, mano)Sim, mano, ela ainda me liga, manoEles me ligam querendo comprar (gang)Ahn, problemas (porra, mano!)Muitos problemas, manoUm real mano tem muitos problemas(Essa merda voc\u00ea nunca viu, mano)Um dia eu vou largar essas drogasMas por enquanto \u00e9 o que me aliviaVoc\u00ea n\u00e3o sabe o sentimentoDe perder todos seus manosDesculpa o cheiro da erva\u00c9 o que t\u00e1 me aliviandoBaby, eu tinha tantos sonhos (tudo em v\u00e3o)Tantos planos planejamos (tantos planos)Baby, eu posso comprar essa loja inteira pra te darEla vai ligar, mas eu n\u00e3o sei se eu vou retornarTantos sonhos planejamos (tudo em v\u00e3o)E eu n\u00e3o sei se eu te amo(L\u00f3gico que eu ainda te amo)Rodeado de vadiasElas me falam mentiraTenho todas que eu queroMenos a que eu queria (plug)Tantos planos planejamos (tantos planos)E hoje nem nos falamos (nem nos falamos)Mas ela vai ligar, que eu n\u00e3o sei se eu vou te retornarBaby, eu vou falar, tenho tanta coisa pra contar (cara)Uso essas drogas pra aliviar (pra aliviar)Meu cora\u00e7\u00e3o disse pra eu te ligar (vou te ligar)Quanto mais dinheiro voc\u00ea ganhaMais inimigos aumentamUm real mano tem muitos problemasVoc\u00ea sabe como um real mano se senteBaby, eu tinha tantos sonhos (tudo em v\u00e3o)Tantos planos planejamos (tantos planos)Baby, eu posso comprar essa loja inteira pra te darEla vai ligar, mas eu n\u00e3o sei se eu vou retornar (cara)Tantos sonhos planejamos (tudo em v\u00e3o)E eu n\u00e3o sei se eu te amo(L\u00f3gico que eu ainda te amo)Rodeado de vadiasElas me falam mentiraTenho todas que eu queroMenos a que eu queria (plug)Tantos planos planejamos (tantos planos)E hoje nem nos falamos (nem nos falamos)Gang!"}], "recommendations": ["diary_of_a_wimpy_kid_rodrick_rules", "8_mile", "initiation", "crocodile_dundee", "the_jewel_of_the_nile", "double_impact", "hard_target", "beverly_hills_cop_iii", "12_hour_shift", "the_virginity_hit", "overdrive", "blue_streak", "beverly_hills_cop_ii", "huevos_little_roosters_egg_cellent_adventure", "the_kill_team", "the_rookie", "a_dark_place", "beverly_hills_cop", "pets_united", "taxi", "211", "the_wackness", "the_adventurer_the_curse_of_the_midas_box", "the_jackal", "the_man_with_the_golden_gun"]}
+{
+  "id": 4113,
+  "title": "SlugTerra: Return of the Elementals",
+  "starring": [
+    "Shannon Chan-Kent",
+    "Andrew Francis"
+  ],
+  "runtime": 63,
+  "genre": [
+    "Family",
+    "Animation",
+    "Adventure"
+  ],
+  "description": "A new member has joined Eli and the Shane Gang! Junjie, once the protector of the Eastern Caverns, is a master of the slugslinging art of Slug Fu! But even with the power of five slingers, the Shane Gang find themselves in over their heads as they race across The 99 Caverns in search of the Legendary Elemental Slugs. The five Elementals are ancient slugs of great power, and the forbearers of all slugs found in SlugTerra today. In the wrong hands, they could bring Slugterra to the brink of destruction. So when an evil alliance starts hunting down the Elementals, Eli and his friends \u2014 old and new \u2014 take off in pursuit of the greatest threat their world has ever faced!",
+  "releaseYear": "2014",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ApN2lteDsoIU5dDHJXeqVD13vpd.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Ay, ay, yeahGang, gang, gang, ayUm dia eu vou largar essas drogasMas por enquanto \u00e9 o que t\u00e1 me aliviando (plug)Sabe aquela garota, cara? (aquela garota, mano)Sim, mano, ela ainda me liga, manoEles me ligam querendo comprar (gang)Ahn, problemas (porra, mano!)Muitos problemas, manoUm real mano tem muitos problemas(Essa merda voc\u00ea nunca viu, mano)Um dia eu vou largar essas drogasMas por enquanto \u00e9 o que me aliviaVoc\u00ea n\u00e3o sabe o sentimentoDe perder todos seus manosDesculpa o cheiro da erva\u00c9 o que t\u00e1 me aliviandoBaby, eu tinha tantos sonhos (tudo em v\u00e3o)Tantos planos planejamos (tantos planos)Baby, eu posso comprar essa loja inteira pra te darEla vai ligar, mas eu n\u00e3o sei se eu vou retornarTantos sonhos planejamos (tudo em v\u00e3o)E eu n\u00e3o sei se eu te amo(L\u00f3gico que eu ainda te amo)Rodeado de vadiasElas me falam mentiraTenho todas que eu queroMenos a que eu queria (plug)Tantos planos planejamos (tantos planos)E hoje nem nos falamos (nem nos falamos)Mas ela vai ligar, que eu n\u00e3o sei se eu vou te retornarBaby, eu vou falar, tenho tanta coisa pra contar (cara)Uso essas drogas pra aliviar (pra aliviar)Meu cora\u00e7\u00e3o disse pra eu te ligar (vou te ligar)Quanto mais dinheiro voc\u00ea ganhaMais inimigos aumentamUm real mano tem muitos problemasVoc\u00ea sabe como um real mano se senteBaby, eu tinha tantos sonhos (tudo em v\u00e3o)Tantos planos planejamos (tantos planos)Baby, eu posso comprar essa loja inteira pra te darEla vai ligar, mas eu n\u00e3o sei se eu vou retornar (cara)Tantos sonhos planejamos (tudo em v\u00e3o)E eu n\u00e3o sei se eu te amo(L\u00f3gico que eu ainda te amo)Rodeado de vadiasElas me falam mentiraTenho todas que eu queroMenos a que eu queria (plug)Tantos planos planejamos (tantos planos)E hoje nem nos falamos (nem nos falamos)Gang!"
+    }
+  ],
+  "recommendations": [
+    "diary_of_a_wimpy_kid_rodrick_rules",
+    "8_mile",
+    "initiation",
+    "crocodile_dundee",
+    "the_jewel_of_the_nile",
+    "double_impact",
+    "hard_target",
+    "beverly_hills_cop_iii",
+    "12_hour_shift",
+    "the_virginity_hit",
+    "overdrive",
+    "blue_streak",
+    "beverly_hills_cop_ii",
+    "huevos_little_roosters_egg_cellent_adventure",
+    "the_kill_team",
+    "the_rookie",
+    "a_dark_place",
+    "beverly_hills_cop",
+    "pets_united",
+    "taxi",
+    "211",
+    "the_wackness",
+    "the_adventurer_the_curse_of_the_midas_box",
+    "the_jackal",
+    "the_man_with_the_golden_gun"
+  ]
+}

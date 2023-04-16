@@ -1,1 +1,76 @@
-{"id": 2630, "title": "Triple Threat", "starring": ["Tony Jaa", "Tiger Hu Chen"], "runtime": 96, "genre": ["Thriller", "Action"], "description": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.", "releaseYear": "2019", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg", "categories": {"plot": 5.333333333333333, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 5.0, "action": 5.769230769230769}, "reviews": [{"rating": "6", "text": "While the movie offers some pretty decent fight sequences with good choreographies and there's more than enough action to keep you entertained, the rest falls flat. The acting is mediocre at best, the story is clich\u00e9 and predictable and the cinematography is boring. If you're a martial arts fan or an action movie fan, you may enjoy it. If not, you're better off with something else."}, {"rating": "6", "text": "You don't watch a movie like this for anything more than the fight scenes.The script is as cliche as it gets and the acting is as campy as you'd expect.The fight scenes and choreography however are great fun, and that's why you watch something like this"}, {"rating": "5", "text": "Regarding fight scenes and action this was great. Regarding plot and the rest it felt kinda unrealistic and cheesy at times. Like many characters did things which don't seem realistic if this would be real. Basically you can watch it for the action and it isn't unbearable but nothing impressive of memorable overall"}, {"rating": "4", "text": "This is a bad movie. Triple Threat fails in almost every conceivable aspect and that is hard to say because I was really looking forward to it. The acting is awful and only a few good performances are given. The directing is incoherent and baffling at points. The writing is maybe the worst of the year and the dialogue said is just horrible. The cinematography at points is so overexposed I'm shocked a professional cinematographer thought that it was okay. The only redeeming aspect of this movie is the quality action and really good hand to hand fight scenes. I understand this was all they cared about but you cannot let the rest of the movie suck, that just is not how filmmaking works."}, {"rating": "8", "text": "This film delivers the action and nothing more.Watch this only if you want a 90% action movie with guns, explosions and martial arts. A unique cast with martial artists that are used well."}], "recommendations": ["jiu_jitsu", "haywire", "torque", "clash_of_the_titans", "the_one", "gemini_man", "kate", "braven", "the_expendables", "bloodshot", "the_marine", "transporter_2", "ninja_assassin", "the_three_musketeers", "6_underground", "ong_bak_2", "gunpowder_milkshake", "mortal_kombat_annihilation", "safe", "desperado", "transporter_3", "fearless", "extraction", "12_rounds", "wrath_of_man"]}
+{
+  "id": 2630,
+  "title": "Triple Threat",
+  "starring": [
+    "Tony Jaa",
+    "Tiger Hu Chen"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Thriller",
+    "Action"
+  ],
+  "description": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.",
+  "releaseYear": "2019",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+  "categories": {
+    "plot": 5.333333333333333,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 5.0,
+    "action": 5.769230769230769
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "While the movie offers some pretty decent fight sequences with good choreographies and there's more than enough action to keep you entertained, the rest falls flat. The acting is mediocre at best, the story is clich\u00e9 and predictable and the cinematography is boring. If you're a martial arts fan or an action movie fan, you may enjoy it. If not, you're better off with something else."
+    },
+    {
+      "rating": "6",
+      "text": "You don't watch a movie like this for anything more than the fight scenes.The script is as cliche as it gets and the acting is as campy as you'd expect.The fight scenes and choreography however are great fun, and that's why you watch something like this"
+    },
+    {
+      "rating": "5",
+      "text": "Regarding fight scenes and action this was great. Regarding plot and the rest it felt kinda unrealistic and cheesy at times. Like many characters did things which don't seem realistic if this would be real. Basically you can watch it for the action and it isn't unbearable but nothing impressive of memorable overall"
+    },
+    {
+      "rating": "4",
+      "text": "This is a bad movie. Triple Threat fails in almost every conceivable aspect and that is hard to say because I was really looking forward to it. The acting is awful and only a few good performances are given. The directing is incoherent and baffling at points. The writing is maybe the worst of the year and the dialogue said is just horrible. The cinematography at points is so overexposed I'm shocked a professional cinematographer thought that it was okay. The only redeeming aspect of this movie is the quality action and really good hand to hand fight scenes. I understand this was all they cared about but you cannot let the rest of the movie suck, that just is not how filmmaking works."
+    },
+    {
+      "rating": "8",
+      "text": "This film delivers the action and nothing more.Watch this only if you want a 90% action movie with guns, explosions and martial arts. A unique cast with martial artists that are used well."
+    }
+  ],
+  "recommendations": [
+    "jiu_jitsu",
+    "haywire",
+    "torque",
+    "clash_of_the_titans",
+    "the_one",
+    "gemini_man",
+    "kate",
+    "braven",
+    "the_expendables",
+    "bloodshot",
+    "the_marine",
+    "transporter_2",
+    "ninja_assassin",
+    "the_three_musketeers",
+    "6_underground",
+    "ong_bak_2",
+    "gunpowder_milkshake",
+    "mortal_kombat_annihilation",
+    "safe",
+    "desperado",
+    "transporter_3",
+    "fearless",
+    "extraction",
+    "12_rounds",
+    "wrath_of_man"
+  ]
+}

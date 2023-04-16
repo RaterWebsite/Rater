@@ -1,1 +1,146 @@
-{"id": 3032, "title": "The Santa Clause", "starring": ["Tim Allen", "Judge Reinhold"], "runtime": 97, "genre": ["Fantasy", "Drama", "Comedy", "Family"], "description": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.", "releaseYear": "1994", "mpaaRating": "PG", "imageUrl": "https://image.tmdb.org/t/p/w500/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg", "categories": {"plot": 7.666666666666667, "acting": 8.166666666666666, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 7.25, "funny": 6.777777777777778, "action": 5.0}, "reviews": [{"rating": "10", "text": "Tim Allen has a certain comedic delivery style; this movie fits him perfectly.  I'm surprised at the critics score; it's one of my favorite Christmas movies and I have the DVD.  Tim is your stereotype toy designer solely interested in making a buck when \"there arose such a clatter.\"  Yup, Tim becomes Santa and his whole world turns upside down.  Duh, who wouldn't?  Throughout the movie, Tim's low voice comic retorts are hilarious.  Maybe the low score Users and the critics didn't like that type of humor."}, {"rating": "10", "text": "Love this holiday film, one of the best holiday movies ever made! There is so much laugh-out-load moments for all the family with such a lovely cast, an amazing story line and a warming family movie!"}, {"rating": "10", "text": "The Santa Clause is an instant Christmas classic. A unique idea brought to life with a great story, and good acting, especially with a great performance from Tim Allen."}, {"rating": "7", "text": "A charming Christmas movie that never gets old. It is funny and full of holiday spirit. The other ones aren't very good, but this ones is worth seeing. A delightful movie."}, {"rating": "8", "text": "A Christmastime classic. A Christmas Eve tradition in my house. The Santa Clause is an unusually smart and telling Christmas tale - with a handful of fun performances."}, {"rating": "7", "text": "The Santa Clause is a great family film for the holidays. Can be a bit dumb from time to time but Tim Allen seems to love what he is doing which pays off in the film."}, {"rating": "5", "text": "The Santa Clause is a welcome cheer to the holiday season, but ultimately it fails to deliver anything new than what we already know. It's very predictable, superficial slush."}, {"rating": "7", "text": "\"The Santa Clause\" is undemanding yet still considerably fun. It's not the greatest Christmas film ever, but it's reasonably fun and merry and features a good performance by Tim Allen. If you're looking for something a little different for Christmas time, \"The Santa Clause\" is good fun for the whole family."}, {"rating": "8", "text": "Tim Allen's somehow unforgettable interpretation and the surprisingly entertaining storytelling of this Christmas-classic are enough to make Santa Clause worth a look from family."}, {"rating": "7", "text": "The Santa Clause can get tedious at times, but this movie is not only saved, but elevated by Tim Allen's ingenious performance. This is absolutely one of the best roles Tim Allen has ever played, and this unique and fun interpretation of the Santa legend is not easily forgotten. Its easy to see why many people find this to be a holiday hit!"}, {"rating": "7", "text": "An oddball tale but to quote Roger Ebert: a lot of fresh invention in it."}, {"rating": "6", "text": "Santa Clause is the frosting on the Christmas cake, that good gift that you weren't hoping for, probably will play with for a short time, and then ignore for a long time. While some jokes are great and the premise is innocent, Tim Allen's Santa is neither endearing nor memorable. The movie features plenty of great ideas, but lacks substance to make those ideas shine. It's almost as if The Santa Clause doesn't know what it wants to be: a holiday comedy or a dramatic look at the strain of being Santa on family life. Either way, the movie is neither a Christmas classic nor a horrid fruit cake, relying on witty jokes and fresh ideas to mask the repetitiveness of the boring story and the lack of cheer found in this new Santa.\r 6/10\rFollow me on twitter. @cbeers2513"}, {"rating": "6", "text": "\"The Santa Clause\" was mildly entertaining but very funny film through a man who will become Santa Claus , not knowing what happened to the Verdader Santa Claus , the plot almost boundless , but cuestionabe."}, {"rating": "8", "text": "Tim Allen shined us with this Santa Clause movie. The more Tim Allen surprises us on every Christmas, the better this movie gets. A must-see along with several other Christmas movies."}, {"rating": "9", "text": "The Santa Clause is a really great Christmas movie about the holiday spirit and the relationship between a father and son at its heart. It's got some really good characters and great replay value every holiday season."}, {"rating": "9", "text": "A Christmas classic for sure. The acting was amazing from every character. The story was what made it great, and can't think of a bad moment. It is worth a watch any time of the year."}, {"rating": "8", "text": "Lots Of FunWith a great cast, and likable lead, The Santa Clause is a great film to watch during the holidays."}, {"rating": "7", "text": "The Santa Claus. Funny and funny story. The beginning of the Christmas franchise about his most recognizable symbol marked the beginning of Tim Allen to perform his most magical role. Santa Claus in his performance looks great and you can repeat as much as you like that the whole film is one big fairy tale and everything is done too kindly and for children, but no. This is a very funny and at the same time insanely atmospheric film for which you will have to make yourself cocoa, wrap yourself in a blanket and turn off the lights and watch without stopping. Once again, I would like to note Tim Allen, as he perfectly played the rebirth from a cynical person into a real good-natured man in a red hat."}, {"rating": "10", "text": "The Santa Clause is great for all ages. Something you can turn on anytime of the year and feel the Christmas magic! A great movie to grow up watching every year."}, {"rating": "7", "text": "Es una pel\u00edcula muy buena para ver en la navidad; es divertida y apropiada para toda la familia; la recomiendo."}, {"rating": "8", "text": "Loved this movie when it came out, still do. This was the first Santa Clause movie I've ever seen done this way. Killed Santa then he becomes Santa, great! My favorite out the series."}, {"rating": "10", "text": "Favorite Holiday movie! I watch this every year with my family. It never gets old."}], "recommendations": ["the_christmas_chronicles", "arthur_christmas", "the_santa_clause_2", "elf", "how_the_grinch_stole_christmas", "the_muppets", "fred_claus", "deck_the_halls", "the_night_before", "christmas_with_the_kranks", "the_nightmare_before_christmas", "the_parent_trap", "a_cinderella_story", "beetlejuice", "happiest_season", "enchanted", "the_grinch", "freaky_friday", "hocus_pocus", "paddington", "stuart_little_2", "american_pie_2", "ella_enchanted", "the_spongebob_squarepants_movie", "home_alone_2_lost_in_new_york"]}
+{
+  "id": 3032,
+  "title": "The Santa Clause",
+  "starring": [
+    "Tim Allen",
+    "Judge Reinhold"
+  ],
+  "runtime": 97,
+  "genre": [
+    "Fantasy",
+    "Drama",
+    "Comedy",
+    "Family"
+  ],
+  "description": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
+  "releaseYear": "1994",
+  "mpaaRating": "PG",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg",
+  "categories": {
+    "plot": 7.666666666666667,
+    "acting": 8.166666666666666,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 7.25,
+    "funny": 6.777777777777778,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "10",
+      "text": "Tim Allen has a certain comedic delivery style; this movie fits him perfectly.  I'm surprised at the critics score; it's one of my favorite Christmas movies and I have the DVD.  Tim is your stereotype toy designer solely interested in making a buck when \"there arose such a clatter.\"  Yup, Tim becomes Santa and his whole world turns upside down.  Duh, who wouldn't?  Throughout the movie, Tim's low voice comic retorts are hilarious.  Maybe the low score Users and the critics didn't like that type of humor."
+    },
+    {
+      "rating": "10",
+      "text": "Love this holiday film, one of the best holiday movies ever made! There is so much laugh-out-load moments for all the family with such a lovely cast, an amazing story line and a warming family movie!"
+    },
+    {
+      "rating": "10",
+      "text": "The Santa Clause is an instant Christmas classic. A unique idea brought to life with a great story, and good acting, especially with a great performance from Tim Allen."
+    },
+    {
+      "rating": "7",
+      "text": "A charming Christmas movie that never gets old. It is funny and full of holiday spirit. The other ones aren't very good, but this ones is worth seeing. A delightful movie."
+    },
+    {
+      "rating": "8",
+      "text": "A Christmastime classic. A Christmas Eve tradition in my house. The Santa Clause is an unusually smart and telling Christmas tale - with a handful of fun performances."
+    },
+    {
+      "rating": "7",
+      "text": "The Santa Clause is a great family film for the holidays. Can be a bit dumb from time to time but Tim Allen seems to love what he is doing which pays off in the film."
+    },
+    {
+      "rating": "5",
+      "text": "The Santa Clause is a welcome cheer to the holiday season, but ultimately it fails to deliver anything new than what we already know. It's very predictable, superficial slush."
+    },
+    {
+      "rating": "7",
+      "text": "\"The Santa Clause\" is undemanding yet still considerably fun. It's not the greatest Christmas film ever, but it's reasonably fun and merry and features a good performance by Tim Allen. If you're looking for something a little different for Christmas time, \"The Santa Clause\" is good fun for the whole family."
+    },
+    {
+      "rating": "8",
+      "text": "Tim Allen's somehow unforgettable interpretation and the surprisingly entertaining storytelling of this Christmas-classic are enough to make Santa Clause worth a look from family."
+    },
+    {
+      "rating": "7",
+      "text": "The Santa Clause can get tedious at times, but this movie is not only saved, but elevated by Tim Allen's ingenious performance. This is absolutely one of the best roles Tim Allen has ever played, and this unique and fun interpretation of the Santa legend is not easily forgotten. Its easy to see why many people find this to be a holiday hit!"
+    },
+    {
+      "rating": "7",
+      "text": "An oddball tale but to quote Roger Ebert: a lot of fresh invention in it."
+    },
+    {
+      "rating": "6",
+      "text": "Santa Clause is the frosting on the Christmas cake, that good gift that you weren't hoping for, probably will play with for a short time, and then ignore for a long time. While some jokes are great and the premise is innocent, Tim Allen's Santa is neither endearing nor memorable. The movie features plenty of great ideas, but lacks substance to make those ideas shine. It's almost as if The Santa Clause doesn't know what it wants to be: a holiday comedy or a dramatic look at the strain of being Santa on family life. Either way, the movie is neither a Christmas classic nor a horrid fruit cake, relying on witty jokes and fresh ideas to mask the repetitiveness of the boring story and the lack of cheer found in this new Santa.\r 6/10\rFollow me on twitter. @cbeers2513"
+    },
+    {
+      "rating": "6",
+      "text": "\"The Santa Clause\" was mildly entertaining but very funny film through a man who will become Santa Claus , not knowing what happened to the Verdader Santa Claus , the plot almost boundless , but cuestionabe."
+    },
+    {
+      "rating": "8",
+      "text": "Tim Allen shined us with this Santa Clause movie. The more Tim Allen surprises us on every Christmas, the better this movie gets. A must-see along with several other Christmas movies."
+    },
+    {
+      "rating": "9",
+      "text": "The Santa Clause is a really great Christmas movie about the holiday spirit and the relationship between a father and son at its heart. It's got some really good characters and great replay value every holiday season."
+    },
+    {
+      "rating": "9",
+      "text": "A Christmas classic for sure. The acting was amazing from every character. The story was what made it great, and can't think of a bad moment. It is worth a watch any time of the year."
+    },
+    {
+      "rating": "8",
+      "text": "Lots Of FunWith a great cast, and likable lead, The Santa Clause is a great film to watch during the holidays."
+    },
+    {
+      "rating": "7",
+      "text": "The Santa Claus. Funny and funny story. The beginning of the Christmas franchise about his most recognizable symbol marked the beginning of Tim Allen to perform his most magical role. Santa Claus in his performance looks great and you can repeat as much as you like that the whole film is one big fairy tale and everything is done too kindly and for children, but no. This is a very funny and at the same time insanely atmospheric film for which you will have to make yourself cocoa, wrap yourself in a blanket and turn off the lights and watch without stopping. Once again, I would like to note Tim Allen, as he perfectly played the rebirth from a cynical person into a real good-natured man in a red hat."
+    },
+    {
+      "rating": "10",
+      "text": "The Santa Clause is great for all ages. Something you can turn on anytime of the year and feel the Christmas magic! A great movie to grow up watching every year."
+    },
+    {
+      "rating": "7",
+      "text": "Es una pel\u00edcula muy buena para ver en la navidad; es divertida y apropiada para toda la familia; la recomiendo."
+    },
+    {
+      "rating": "8",
+      "text": "Loved this movie when it came out, still do. This was the first Santa Clause movie I've ever seen done this way. Killed Santa then he becomes Santa, great! My favorite out the series."
+    },
+    {
+      "rating": "10",
+      "text": "Favorite Holiday movie! I watch this every year with my family. It never gets old."
+    }
+  ],
+  "recommendations": [
+    "the_christmas_chronicles",
+    "arthur_christmas",
+    "the_santa_clause_2",
+    "elf",
+    "how_the_grinch_stole_christmas",
+    "the_muppets",
+    "fred_claus",
+    "deck_the_halls",
+    "the_night_before",
+    "christmas_with_the_kranks",
+    "the_nightmare_before_christmas",
+    "the_parent_trap",
+    "a_cinderella_story",
+    "beetlejuice",
+    "happiest_season",
+    "enchanted",
+    "the_grinch",
+    "freaky_friday",
+    "hocus_pocus",
+    "paddington",
+    "stuart_little_2",
+    "american_pie_2",
+    "ella_enchanted",
+    "the_spongebob_squarepants_movie",
+    "home_alone_2_lost_in_new_york"
+  ]
+}

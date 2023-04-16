@@ -1,1 +1,63 @@
-{"id": 4262, "title": "The Cokeville Miracle", "starring": ["Nathan Stevens", "Jasen Wade"], "runtime": 94, "genre": ["Mystery", "Drama", "History", "Family", "Thriller"], "description": "On May 9, 1986, a small ranching community in Wyoming experiences a divine intervention when a couple detonates a bomb inside a crowded classroom.", "releaseYear": "2015", "mpaaRating": "PG-13", "imageUrl": "https://image.tmdb.org/t/p/w500/lRQziSNSDTOIhBnxzkPYDT2DgCX.jpg", "categories": {"plot": 5.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 5.0}, "reviews": [{"rating": "5", "text": "True story elevates it's worthiness but the acting fell short in my opinion. Non-believers will loathe this movie but then again I doubt whether they go anyways. Faith is hard to project on a screen but some directors can pull it off better than others. Can't dispute the moral of the story."}], "recommendations": ["breakthrough", "tolkien", "the_social_network", "cloud_atlas", "risen", "ben_hur", "a_beautiful_mind", "the_shawshank_redemption", "woodlawn", "spotlight", "my_name_is_khan", "life_of_pi", "the_theory_of_everything", "the_professor_and_the_madman", "perfume_the_story_of_a_murderer", "i_can_only_imagine", "samson", "the_fault_in_our_stars", "the_master", "hotel_rwanda", "overcomer", "magnolia", "amores_perros", "the_big_short", "the_giver"]}
+{
+  "id": 4262,
+  "title": "The Cokeville Miracle",
+  "starring": [
+    "Nathan Stevens",
+    "Jasen Wade"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Mystery",
+    "Drama",
+    "History",
+    "Family",
+    "Thriller"
+  ],
+  "description": "On May 9, 1986, a small ranching community in Wyoming experiences a divine intervention when a couple detonates a bomb inside a crowded classroom.",
+  "releaseYear": "2015",
+  "mpaaRating": "PG-13",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/lRQziSNSDTOIhBnxzkPYDT2DgCX.jpg",
+  "categories": {
+    "plot": 5.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "5",
+      "text": "True story elevates it's worthiness but the acting fell short in my opinion. Non-believers will loathe this movie but then again I doubt whether they go anyways. Faith is hard to project on a screen but some directors can pull it off better than others. Can't dispute the moral of the story."
+    }
+  ],
+  "recommendations": [
+    "breakthrough",
+    "tolkien",
+    "the_social_network",
+    "cloud_atlas",
+    "risen",
+    "ben_hur",
+    "a_beautiful_mind",
+    "the_shawshank_redemption",
+    "woodlawn",
+    "spotlight",
+    "my_name_is_khan",
+    "life_of_pi",
+    "the_theory_of_everything",
+    "the_professor_and_the_madman",
+    "perfume_the_story_of_a_murderer",
+    "i_can_only_imagine",
+    "samson",
+    "the_fault_in_our_stars",
+    "the_master",
+    "hotel_rwanda",
+    "overcomer",
+    "magnolia",
+    "amores_perros",
+    "the_big_short",
+    "the_giver"
+  ]
+}

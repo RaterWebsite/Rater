@@ -1,1 +1,97 @@
-{"id": 4254, "title": "Destination Wedding", "starring": ["Winona Ryder", "Keanu Reeves"], "runtime": 90, "genre": ["Romance", "Comedy", "Drama"], "description": "Frank and Lindsay\u2014two emotionally-broken strangers\u2014meet on the way to a destination wedding. Over the course of the weekend and against all odds, they find themselves drawn together even though they are initially repulsed by one another.", "releaseYear": "2018", "mpaaRating": "R", "imageUrl": "https://image.tmdb.org/t/p/w500/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg", "categories": {"plot": 6.2, "acting": 5.9, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 3.0, "funny": 7.0, "action": 8.0}, "reviews": [{"rating": "3", "text": "I hate to say it because I like both of these actors quite a bit, but wow, was this a snoozer.  I mean, this should have been a play with a unit set.  The two actors talk to nobody but each other for the entire film. Keanu is so tough to like.  And Ryder's character is so scattered.  Just a rough, rough film that seems to have lost its way shortly after the premise was established.  I didn't walk out, but man, it was close."}, {"rating": "10", "text": "The best and unique romcom so far! Keanu and Winona are great and excellent actors for this film. What an excellent and superb performances!!"}, {"rating": "7", "text": "This is Spanish shame in good vibe, of course. Medium movie for those who like cinema based on dialogue as like The Man from Earth. There are humor, romantic scenes and many sarcasm"}, {"rating": "5", "text": "Frank&Lindsay exemplify the old adage Misery loves company and boy do they ever. Their over analysis of minutiae/long diatribes drains the movie of whatever emotion it might have. Levin missteps by only having these 2 unappealing people talk incessantly, never interacting with no one else. Reeves handles the heavy handed dialogue well whereas Ryder's Lindsay gives into her feelings far earlier than he does. The more it tries to upend conceptions of love the more similar it becomes. No surprises as I knew from the onset, the outcome."}, {"rating": "10", "text": "I literally just signed up to Metacritic just to leave a review for this movie. I loved it! The second I saw Keanu Reeves and Winona Ryder in a movie together I knew it was made just for me. I will always thank Hollywood for letting the guy who was in Bill and Ted\u2019s Exellent Adventure become an A-List actor. And since I\u2019m an 80\u2019s kid who wiill forever love the Reality Bites Wynona Rider of the 90\u2019s, seeing both their names in a movie together was epic. I\u2019m also an Adult Romance reader, which is a third of the reading population, so I live for romantic movies. And Yasss! to dialogue. Great job writers, you created one of the wittiest and smartest Rom-Com\u2019s I\u2019ve ever watched."}, {"rating": "7", "text": "I expected this movie to be a lot worse. It actually made me laugh out loud few times. It is a nice movie, definitely not for everyone."}, {"rating": "9", "text": "While not for those who expect life to be a bowl of cherries, I loved the dialogue in this film. Both Winona Ryder and Keanu Reeves do a fine job.  Funny and at times beyond sad, but there's hope!"}, {"rating": "8", "text": "Really great cute movie to watch with the wife.  I really like the dynamic between the two protagonists and overall gave me a satisfying feeling at the end."}, {"rating": "7", "text": "As an unsentimental romantic drama film, I enjoyed this, probably more than I may initially have thought I might. I liked the reasonably sharp, witty dialogue (dry wit) and the way the two main characters riff off each other - their 'barbed retorts'. Keanu Reeves was particularly good, I thought. However, it may well be a little bland and boring for some people - there are some nice settings, some nice cinematography/panoramic shots, ocassionally but mostly its a film about the two main characters arguing and agreeing about different things. I should warn people that there's more than one scene featuring both of the main characters hawking (bringing up phlegm - I'm not sure how else to word it?), which is, its fair to less, less than pleasing to the ear(!) but otherwise I thought this was a surprisingly mildly amusing and easy watch. I noticed in a lot of (if not all?) scenes, there wasn't anyone else about, making it seem as if they were stranded with each other - a little unrealistic perhaps. It has the feel of a play about it but it wasn't utterly boring, so I'd recommend it - for the performances if nothing else."}, {"rating": "7", "text": "Amusing romantic comedy in dialogue form. Keanu Reeves keeps coming up with great sayings. Otherwise there is sometimes a lack of verbal interaction with others, which makes one or the other dialogue seem too long.Again, however, breaks have been set in the right places.You can give yourself a try."}], "recommendations": ["the_king_of_staten_island", "meet_joe_black", "friends_with_benefits", "delivery_man", "snow_white_and_the_huntsman", "the_upside", "sleeping_with_other_people", "logan_lucky", "the_five_year_engagement", "in_bruges", "the_lucky_one", "the_vow", "that_awkward_moment", "tag", "the_break_up", "seven_psychopaths", "snatch", "palm_springs", "deadpool_2", "inherent_vice", "the_tourist", "the_princess_switch", "eddie_the_eagle", "rocknrolla", "no_strings_attached"]}
+{
+  "id": 4254,
+  "title": "Destination Wedding",
+  "starring": [
+    "Winona Ryder",
+    "Keanu Reeves"
+  ],
+  "runtime": 90,
+  "genre": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "description": "Frank and Lindsay\u2014two emotionally-broken strangers\u2014meet on the way to a destination wedding. Over the course of the weekend and against all odds, they find themselves drawn together even though they are initially repulsed by one another.",
+  "releaseYear": "2018",
+  "mpaaRating": "R",
+  "imageUrl": "https://image.tmdb.org/t/p/w500/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg",
+  "categories": {
+    "plot": 6.2,
+    "acting": 5.9,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 3.0,
+    "funny": 7.0,
+    "action": 8.0
+  },
+  "reviews": [
+    {
+      "rating": "3",
+      "text": "I hate to say it because I like both of these actors quite a bit, but wow, was this a snoozer.  I mean, this should have been a play with a unit set.  The two actors talk to nobody but each other for the entire film. Keanu is so tough to like.  And Ryder's character is so scattered.  Just a rough, rough film that seems to have lost its way shortly after the premise was established.  I didn't walk out, but man, it was close."
+    },
+    {
+      "rating": "10",
+      "text": "The best and unique romcom so far! Keanu and Winona are great and excellent actors for this film. What an excellent and superb performances!!"
+    },
+    {
+      "rating": "7",
+      "text": "This is Spanish shame in good vibe, of course. Medium movie for those who like cinema based on dialogue as like The Man from Earth. There are humor, romantic scenes and many sarcasm"
+    },
+    {
+      "rating": "5",
+      "text": "Frank&Lindsay exemplify the old adage Misery loves company and boy do they ever. Their over analysis of minutiae/long diatribes drains the movie of whatever emotion it might have. Levin missteps by only having these 2 unappealing people talk incessantly, never interacting with no one else. Reeves handles the heavy handed dialogue well whereas Ryder's Lindsay gives into her feelings far earlier than he does. The more it tries to upend conceptions of love the more similar it becomes. No surprises as I knew from the onset, the outcome."
+    },
+    {
+      "rating": "10",
+      "text": "I literally just signed up to Metacritic just to leave a review for this movie. I loved it! The second I saw Keanu Reeves and Winona Ryder in a movie together I knew it was made just for me. I will always thank Hollywood for letting the guy who was in Bill and Ted\u2019s Exellent Adventure become an A-List actor. And since I\u2019m an 80\u2019s kid who wiill forever love the Reality Bites Wynona Rider of the 90\u2019s, seeing both their names in a movie together was epic. I\u2019m also an Adult Romance reader, which is a third of the reading population, so I live for romantic movies. And Yasss! to dialogue. Great job writers, you created one of the wittiest and smartest Rom-Com\u2019s I\u2019ve ever watched."
+    },
+    {
+      "rating": "7",
+      "text": "I expected this movie to be a lot worse. It actually made me laugh out loud few times. It is a nice movie, definitely not for everyone."
+    },
+    {
+      "rating": "9",
+      "text": "While not for those who expect life to be a bowl of cherries, I loved the dialogue in this film. Both Winona Ryder and Keanu Reeves do a fine job.  Funny and at times beyond sad, but there's hope!"
+    },
+    {
+      "rating": "8",
+      "text": "Really great cute movie to watch with the wife.  I really like the dynamic between the two protagonists and overall gave me a satisfying feeling at the end."
+    },
+    {
+      "rating": "7",
+      "text": "As an unsentimental romantic drama film, I enjoyed this, probably more than I may initially have thought I might. I liked the reasonably sharp, witty dialogue (dry wit) and the way the two main characters riff off each other - their 'barbed retorts'. Keanu Reeves was particularly good, I thought. However, it may well be a little bland and boring for some people - there are some nice settings, some nice cinematography/panoramic shots, ocassionally but mostly its a film about the two main characters arguing and agreeing about different things. I should warn people that there's more than one scene featuring both of the main characters hawking (bringing up phlegm - I'm not sure how else to word it?), which is, its fair to less, less than pleasing to the ear(!) but otherwise I thought this was a surprisingly mildly amusing and easy watch. I noticed in a lot of (if not all?) scenes, there wasn't anyone else about, making it seem as if they were stranded with each other - a little unrealistic perhaps. It has the feel of a play about it but it wasn't utterly boring, so I'd recommend it - for the performances if nothing else."
+    },
+    {
+      "rating": "7",
+      "text": "Amusing romantic comedy in dialogue form. Keanu Reeves keeps coming up with great sayings. Otherwise there is sometimes a lack of verbal interaction with others, which makes one or the other dialogue seem too long.Again, however, breaks have been set in the right places.You can give yourself a try."
+    }
+  ],
+  "recommendations": [
+    "the_king_of_staten_island",
+    "meet_joe_black",
+    "friends_with_benefits",
+    "delivery_man",
+    "snow_white_and_the_huntsman",
+    "the_upside",
+    "sleeping_with_other_people",
+    "logan_lucky",
+    "the_five_year_engagement",
+    "in_bruges",
+    "the_lucky_one",
+    "the_vow",
+    "that_awkward_moment",
+    "tag",
+    "the_break_up",
+    "seven_psychopaths",
+    "snatch",
+    "palm_springs",
+    "deadpool_2",
+    "inherent_vice",
+    "the_tourist",
+    "the_princess_switch",
+    "eddie_the_eagle",
+    "rocknrolla",
+    "no_strings_attached"
+  ]
+}

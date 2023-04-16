@@ -1,1 +1,69 @@
-{"id": 4102, "title": "Enter the Fat Dragon", "starring": ["Donnie Yen", "Teresa Mo"], "runtime": 96, "genre": ["Action", "Comedy", "Crime"], "description": "After being dumped by his fianc\u00e9, heartbroken Hong Kong police officer Fallon Zhu gains 200+ pounds. His superiors demote him to the job of escorting convicts to Japan. When a convict in his custody mysteriously dies, he must team up with citizen Thor to solve the mystery.", "releaseYear": "2020", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/fQqqsj0WhANqGqHQ8BhBE7iI4bk.jpg", "categories": {"plot": 8.5, "acting": 9.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 5.0, "action": 9.0}, "reviews": [{"rating": "8", "text": "Movie from the 70s, so expect some bad scenes and old fashion. Sometimes the pictures are looking even ridiculous. But the story is not bad and some of the actions scenes are showing great martial art skills."}, {"rating": "10", "text": "A true classic and a huge success to all martial arts entertainment. Bruce Lee showing both physical and philosophical moments in the silver screen was what made him a true legend."}, {"rating": "9", "text": "A pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations that take advantage of different fighting scenarios. The entire film crew deliver a piece of work that is rich with culture, colours, music, period pieces from the 70s, and of course, action where the post production sound effects make you feel every bone crushing hit the actors deliver to each other. The film is light on plot, but honestly, the plot is not the focus, but rather, an excusable vehicle to showcase Lee's unprecedented work where the villains get what they deserve and the heroes do their best to reach their dreams. The amount of passion put into the film just leaps off the screen and everybody involved deserves an applause. There is a reason why it sparked the popularity of Martial Arts and helped inspire many others from filmmakers to bodybuilders. I bow my head down to the late great master...but I'll make sure to keep my eyes on the prize!"}], "recommendations": ["ong_bak_muay_thai_warrior", "man_of_tai_chi", "fearless", "the_matrix", "shang_chi_and_the_legend_of_the_ten_rings", "the_great_wall", "conan_the_barbarian", "hellboy", "loving_vincent", "rocky", "the_last_samurai", "kiss_of_the_dragon", "gladiator", "the_promise", "the_forbidden_kingdom", "sin_city", "braveheart", "reservoir_dogs", "the_fifth_element", "the_french_dispatch", "the_great_gatsby", "the_harder_they_fall", "dredd", "the_foreigner", "jiu_jitsu"]}
+{
+  "id": 4102,
+  "title": "Enter the Fat Dragon",
+  "starring": [
+    "Donnie Yen",
+    "Teresa Mo"
+  ],
+  "runtime": 96,
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "description": "After being dumped by his fianc\u00e9, heartbroken Hong Kong police officer Fallon Zhu gains 200+ pounds. His superiors demote him to the job of escorting convicts to Japan. When a convict in his custody mysteriously dies, he must team up with citizen Thor to solve the mystery.",
+  "releaseYear": "2020",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/fQqqsj0WhANqGqHQ8BhBE7iI4bk.jpg",
+  "categories": {
+    "plot": 8.5,
+    "acting": 9.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 5.0,
+    "action": 9.0
+  },
+  "reviews": [
+    {
+      "rating": "8",
+      "text": "Movie from the 70s, so expect some bad scenes and old fashion. Sometimes the pictures are looking even ridiculous. But the story is not bad and some of the actions scenes are showing great martial art skills."
+    },
+    {
+      "rating": "10",
+      "text": "A true classic and a huge success to all martial arts entertainment. Bruce Lee showing both physical and philosophical moments in the silver screen was what made him a true legend."
+    },
+    {
+      "rating": "9",
+      "text": "A pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations that take advantage of different fighting scenarios. The entire film crew deliver a piece of work that is rich with culture, colours, music, period pieces from the 70s, and of course, action where the post production sound effects make you feel every bone crushing hit the actors deliver to each other. The film is light on plot, but honestly, the plot is not the focus, but rather, an excusable vehicle to showcase Lee's unprecedented work where the villains get what they deserve and the heroes do their best to reach their dreams. The amount of passion put into the film just leaps off the screen and everybody involved deserves an applause. There is a reason why it sparked the popularity of Martial Arts and helped inspire many others from filmmakers to bodybuilders. I bow my head down to the late great master...but I'll make sure to keep my eyes on the prize!"
+    }
+  ],
+  "recommendations": [
+    "ong_bak_muay_thai_warrior",
+    "man_of_tai_chi",
+    "fearless",
+    "the_matrix",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_great_wall",
+    "conan_the_barbarian",
+    "hellboy",
+    "loving_vincent",
+    "rocky",
+    "the_last_samurai",
+    "kiss_of_the_dragon",
+    "gladiator",
+    "the_promise",
+    "the_forbidden_kingdom",
+    "sin_city",
+    "braveheart",
+    "reservoir_dogs",
+    "the_fifth_element",
+    "the_french_dispatch",
+    "the_great_gatsby",
+    "the_harder_they_fall",
+    "dredd",
+    "the_foreigner",
+    "jiu_jitsu"
+  ]
+}

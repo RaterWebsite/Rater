@@ -1,1 +1,61 @@
-{"id": 4105, "title": "Love, Chunibyo & Other Delusions! Take On Me", "starring": ["Jun Fukuyama", "Maaya Uchida"], "runtime": 94, "genre": ["Animation", "Comedy", "Fantasy"], "description": "Yuuta and Rikka are in their third year of high school. One day in Spring, Touka declares that she will take Rikka to Italy with her, as her job has stabilized there and thinks they should migrate together as a family. Touka is also worried about Rikka not being competent enough to advance to universities in Japan. The gangs from the club suggested Yuuta, who doesn't want to be separated, to elope with Rikka!! A runaway drama throughout Japan begins.", "releaseYear": "2018", "mpaaRating": null, "imageUrl": "https://image.tmdb.org/t/p/w500/grlNqxlne3pRBB5kvEc2aHtrSKv.jpg", "categories": {"plot": 6.0, "acting": 5.0, "ending": 5.0, "soundtrack": 5.0, "cinematography": 5.0, "familyFriendly": 5.0, "funny": 6.0, "action": 5.0}, "reviews": [{"rating": "6", "text": "This is my logic for the number:First and foremost: Its entertaining?If not, its below 6... mediocre at best depending on other thingsThis one is... then: It accomplishes what it clearly promised or wanted it to do?Yes. Its a black comedy, with humor not from jokes per se, but situation, often a little darkIt gives you more? in this case: Not really. It has a good ending, great acting, and it tells this little story in this genre. That's it.Its good."}], "recommendations": ["keeping_up_with_the_joneses", "blockers", "the_five_year_engagement", "the_family", "life_after_beth", "the_wolf_of_snow_hollow", "in_bruges", "tag", "chips", "the_nice_guys", "delivery_man", "the_cobbler", "bachelorette", "sleeping_with_other_people", "pitch_perfect_2", "the_gentlemen", "coming_to_america", "barbershop_the_next_cut", "stuber", "seven_psychopaths", "american_ultra", "central_intelligence", "that_awkward_moment", "the_babysitter", "what_men_want"]}
+{
+  "id": 4105,
+  "title": "Love, Chunibyo & Other Delusions! Take On Me",
+  "starring": [
+    "Jun Fukuyama",
+    "Maaya Uchida"
+  ],
+  "runtime": 94,
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "Yuuta and Rikka are in their third year of high school. One day in Spring, Touka declares that she will take Rikka to Italy with her, as her job has stabilized there and thinks they should migrate together as a family. Touka is also worried about Rikka not being competent enough to advance to universities in Japan. The gangs from the club suggested Yuuta, who doesn't want to be separated, to elope with Rikka!! A runaway drama throughout Japan begins.",
+  "releaseYear": "2018",
+  "mpaaRating": null,
+  "imageUrl": "https://image.tmdb.org/t/p/w500/grlNqxlne3pRBB5kvEc2aHtrSKv.jpg",
+  "categories": {
+    "plot": 6.0,
+    "acting": 5.0,
+    "ending": 5.0,
+    "soundtrack": 5.0,
+    "cinematography": 5.0,
+    "familyFriendly": 5.0,
+    "funny": 6.0,
+    "action": 5.0
+  },
+  "reviews": [
+    {
+      "rating": "6",
+      "text": "This is my logic for the number:First and foremost: Its entertaining?If not, its below 6... mediocre at best depending on other thingsThis one is... then: It accomplishes what it clearly promised or wanted it to do?Yes. Its a black comedy, with humor not from jokes per se, but situation, often a little darkIt gives you more? in this case: Not really. It has a good ending, great acting, and it tells this little story in this genre. That's it.Its good."
+    }
+  ],
+  "recommendations": [
+    "keeping_up_with_the_joneses",
+    "blockers",
+    "the_five_year_engagement",
+    "the_family",
+    "life_after_beth",
+    "the_wolf_of_snow_hollow",
+    "in_bruges",
+    "tag",
+    "chips",
+    "the_nice_guys",
+    "delivery_man",
+    "the_cobbler",
+    "bachelorette",
+    "sleeping_with_other_people",
+    "pitch_perfect_2",
+    "the_gentlemen",
+    "coming_to_america",
+    "barbershop_the_next_cut",
+    "stuber",
+    "seven_psychopaths",
+    "american_ultra",
+    "central_intelligence",
+    "that_awkward_moment",
+    "the_babysitter",
+    "what_men_want"
+  ]
+}
