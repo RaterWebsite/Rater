@@ -11,6 +11,8 @@ import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.index.IndexResponse;
 import org.elasticsearch.action.search.SearchRequest;
 import org.elasticsearch.action.search.SearchResponse;
+import org.elasticsearch.action.update.UpdateRequest;
+import org.elasticsearch.action.update.UpdateResponse;
 import org.elasticsearch.client.RequestOptions;
 import org.elasticsearch.client.RestHighLevelClient;
 import org.elasticsearch.rest.RestStatus;
@@ -89,6 +91,20 @@ public class MovieService {
             LOG.error(e.getMessage(), e);
             return false;
         }
+    }
+
+    public Boolean update(final Movie movie) {
+        try {
+            final UpdateRequest request = new UpdateRequest(Indices.MOVIE_INDEX, movie.getId());
+            request.doc("categories", movie.getCategories());
+            System.out.println("Here is the update request: " + request.toString());
+            final UpdateResponse response = client.update(request, RequestOptions.DEFAULT);
+            return response != null && response.status().equals(RestStatus.OK);
+        } catch (final Exception e) {
+            LOG.error(e.getMessage(), e);
+            return false;
+        }
+        
     }
 
     public Movie getById(final String movieId) {

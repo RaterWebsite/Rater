@@ -76,6 +76,7 @@ public class UserService {
             currentRating = currentRating / (numReviews+1); //get new average score of category
             category.setValue(currentRating);
         }
+        movieService.update(current);
         this.userDB.addRecord(review);
 
     }
