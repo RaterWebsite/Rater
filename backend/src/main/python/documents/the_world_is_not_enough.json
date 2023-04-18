@@ -154,5 +154,32 @@
       "rating": "5",
       "text": "What is extremely lacking compared to the other Pierce Brosnan 007 films here is a strong heroine. The movie is decent on its own, but this lack of a strong heroine compared to GoldenEye, especially Tomorrow Never Dies, and even Die Another Day drags down the final score massively."
     }
+  ],
+  "recommendations": [
+    "tomorrow_never_dies",
+    "spectre",
+    "die_another_day",
+    "the_spy_who_loved_me",
+    "casino_royale",
+    "no_time_to_die",
+    "for_your_eyes_only",
+    "goldeneye",
+    "from_russia_with_love",
+    "quantum_of_solace",
+    "thunderball",
+    "diamonds_are_forever",
+    "the_incredible_hulk",
+    "homefront",
+    "the_man_with_the_golden_gun",
+    "octopussy",
+    "daredevil",
+    "true_lies",
+    "mission_impossible_rogue_nation",
+    "spider_man_far_from_home",
+    "the_fugitive",
+    "skyfall",
+    "creed_ii",
+    "you_only_live_twice",
+    "sherlock_holmes_a_game_of_shadows"
   ]
 }

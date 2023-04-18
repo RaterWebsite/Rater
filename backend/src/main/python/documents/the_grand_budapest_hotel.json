@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Yes, outrageous. Yes, extravagant. And yes, heartfelt and brilliant. The Grand Budapest Hotel is one of Wes Anderson's finest achievements to date. Holstered by a unique performance from Ralph Fiennes and a marvelous ensemble, the film soars high above Europe. Don't forget Tilda Swinton's brilliant cameo."
     }
+  ],
+  "recommendations": [
+    "the_french_dispatch",
+    "catch_me_if_you_can",
+    "youth",
+    "the_great_gatsby",
+    "the_sting",
+    "nocturnal_animals",
+    "chinatown",
+    "the_royal_tenenbaums",
+    "phantom_thread",
+    "annette",
+    "the_last_of_the_mohicans",
+    "hell_or_high_water",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "motherless_brooklyn",
+    "amadeus",
+    "murder_on_the_orient_express",
+    "the_walk",
+    "victor_frankenstein",
+    "last_night_in_soho",
+    "casino",
+    "magnolia",
+    "rush",
+    "rear_window",
+    "fargo",
+    "paddington_2"
   ]
 }

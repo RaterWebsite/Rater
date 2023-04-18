@@ -42,5 +42,32 @@
       "rating": "8",
       "text": "Watched this movie with very little expectation and was pleasantly surprised! This was a very good movie, lots of action. A few minor things that were wrong but nothing to complain about. It seems it was setting up a sequel, but from the reviews it doubt that will happen.Anyway, its definitely worth watching! As an action movie its good entertainment."
     }
+  ],
+  "recommendations": [
+    "survivor",
+    "jack_ryan_shadow_recruit",
+    "the_commuter",
+    "the_november_man",
+    "the_gunman",
+    "killer_elite",
+    "honest_thief",
+    "the_mechanic",
+    "21_bridges",
+    "parker",
+    "shooter",
+    "the_ice_road",
+    "2_guns",
+    "extraction",
+    "street_kings",
+    "seeking_justice",
+    "angel_has_fallen",
+    "the_equalizer",
+    "wrath_of_man",
+    "american_assassin",
+    "hunter_killer",
+    "collide",
+    "kate",
+    "run_all_night",
+    "mechanic_resurrection"
   ]
 }

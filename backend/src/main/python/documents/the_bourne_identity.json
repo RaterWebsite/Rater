@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "Compelling and exciting, The Bourne Identity follows a sturdy plot with great characters and a swiftly paced thrill ride. It also has the perfect amount of suspense and a big scope to cement it as a success."
     }
+  ],
+  "recommendations": [
+    "the_bourne_supremacy",
+    "mission_impossible",
+    "the_bourne_ultimatum",
+    "the_bourne_legacy",
+    "sherlock_holmes_a_game_of_shadows",
+    "mission_impossible_ghost_protocol",
+    "den_of_thieves",
+    "mission_impossible_rogue_nation",
+    "wrath_of_man",
+    "the_commuter",
+    "john_wick_chapter_3_parabellum",
+    "the_mechanic",
+    "21_bridges",
+    "quantum_of_solace",
+    "the_foreigner",
+    "minority_report",
+    "run_all_night",
+    "the_equalizer",
+    "shooter",
+    "street_kings",
+    "the_equalizer_2",
+    "upgrade",
+    "jack_ryan_shadow_recruit",
+    "copshop",
+    "the_bank_job"
   ]
 }

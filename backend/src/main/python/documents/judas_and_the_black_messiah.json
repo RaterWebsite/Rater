@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "An important time in American History that should not be over looked. You can't judge a book by it's cover. Great soundtrack. Powerful, sad story."
     }
+  ],
+  "recommendations": [
+    "hidden_figures",
+    "the_last_king_of_scotland",
+    "just_mercy",
+    "12_years_a_slave",
+    "spotlight",
+    "blackkklansman",
+    "green_book",
+    "the_imitation_game",
+    "richard_jewell",
+    "patriots_day",
+    "race",
+    "the_mauritanian",
+    "darkest_hour",
+    "42",
+    "hostiles",
+    "jackie",
+    "12_angry_men",
+    "only_the_brave",
+    "snowden",
+    "the_last_duel",
+    "the_help",
+    "hotel_rwanda",
+    "the_post",
+    "the_hate_u_give",
+    "the_white_tiger"
   ]
 }

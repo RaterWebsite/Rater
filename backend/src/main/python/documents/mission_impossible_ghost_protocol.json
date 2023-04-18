@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Mission: Impossible - Ghost Protocol is a good movie, nothing that will make you amazed. The story is ok, i am sure that we all have already seen better mission impossible movies, but this one will not disappoint you. Action is a continuous thing, Tom Cruise keeps on doing a great job and make things that certainly will make you lose your breath. Humor is also present in the movie, jokes will appear a lot and in most of them, you will probably, at least, smile. Good film, I recommend you all to watch."
     }
+  ],
+  "recommendations": [
+    "mission_impossible_rogue_nation",
+    "mission_impossible",
+    "angel_has_fallen",
+    "mission_impossible_ii",
+    "the_bourne_ultimatum",
+    "john_wick_chapter_3_parabellum",
+    "the_bourne_supremacy",
+    "the_mechanic",
+    "the_commuter",
+    "quantum_of_solace",
+    "the_equalizer",
+    "the_bourne_legacy",
+    "john_wick_chapter_2",
+    "spectre",
+    "transformers",
+    "boss_level",
+    "lethal_weapon_2",
+    "the_terminator",
+    "mission_impossible_iii",
+    "the_island",
+    "mad_max",
+    "unstoppable",
+    "shooter",
+    "the_fate_of_the_furious",
+    "the_bourne_identity"
   ]
 }

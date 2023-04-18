@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "So bad it's good cult classic with amazing CGI my first ever DVD I still enjoy it."
     }
+  ],
+  "recommendations": [
+    "300",
+    "v_for_vendetta",
+    "they_live",
+    "equilibrium",
+    "morbius",
+    "apocalypto",
+    "beowulf",
+    "chappie",
+    "jupiter_ascending",
+    "the_core",
+    "the_darkest_minds",
+    "the_13th_warrior",
+    "surrogates",
+    "antebellum",
+    "speed_racer",
+    "guardians_of_the_galaxy",
+    "bright",
+    "dredd",
+    "blade_of_the_47_ronin",
+    "battle_los_angeles",
+    "reign_of_fire",
+    "gods_of_egypt",
+    "jarhead",
+    "iron_sky",
+    "samson"
   ]
 }

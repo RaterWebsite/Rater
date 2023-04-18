@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "16 Blocks was a good movie, the story is good, the perfomances too, but the currency of the story is slow, and it makes boring you, but I enyojed this movie."
     }
+  ],
+  "recommendations": [
+    "contraband",
+    "parker",
+    "jack_reacher",
+    "2_guns",
+    "the_italian_job",
+    "collide",
+    "run_all_night",
+    "mechanic_resurrection",
+    "the_mechanic",
+    "bullet_to_the_head",
+    "iron_man_2",
+    "safe_house",
+    "spenser_confidential",
+    "alex_cross",
+    "angel_has_fallen",
+    "street_kings",
+    "mission_impossible_iii",
+    "a_walk_among_the_tombstones",
+    "red_2",
+    "wrath_of_man",
+    "triple_frontier",
+    "homefront",
+    "knight_and_day",
+    "rocknrolla",
+    "shooter"
   ]
 }

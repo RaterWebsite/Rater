@@ -227,5 +227,32 @@
       "rating": "0",
       "text": "This movie just simply isn't good.The puns aren't good and the movie makes a lot of puns. The protagonist is an **** and never learns his lesson. This movie makes a lot of pop culture references yet none of them make any sense in the context of the movie and the ending is basically the fakest **** I've ever seen."
     }
+  ],
+  "recommendations": [
+    "rio_2",
+    "antz",
+    "smurfs_the_lost_village",
+    "the_lego_movie_2_the_second_part",
+    "trolls",
+    "despicable_me_3",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "ferdinand",
+    "ice_age_the_meltdown",
+    "the_lego_movie",
+    "the_smurfs",
+    "madagascar",
+    "rock_dog_2_rock_around_the_park",
+    "turbo",
+    "free_birds",
+    "hotel_transylvania",
+    "the_angry_birds_movie",
+    "the_croods",
+    "penguins_of_madagascar",
+    "bumblebee",
+    "the_angry_birds_movie_2",
+    "frozen_ii",
+    "despicable_me",
+    "flushed_away",
+    "ratatouille"
   ]
 }

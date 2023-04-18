@@ -62,5 +62,32 @@
       "rating": "0",
       "text": "This might be the worst movie I have ever seen.I'm writing this as the movie is playing- and that tells you everything you need to know about this movie."
     }
+  ],
+  "recommendations": [
+    "snow_white_and_the_huntsman",
+    "the_paperboy",
+    "the_others",
+    "oz_the_great_and_powerful",
+    "terminal",
+    "hanna",
+    "maleficent",
+    "alice_through_the_looking_glass",
+    "pan",
+    "taking_lives",
+    "let_me_in",
+    "the_conjuring_the_devil_made_me_do_it",
+    "antlers",
+    "the_fly",
+    "sin_city_a_dame_to_kill_for",
+    "the_devil_all_the_time",
+    "elektra",
+    "i_am_legend",
+    "till_death",
+    "maleficent_mistress_of_evil",
+    "a_walk_among_the_tombstones",
+    "backdraft",
+    "10_cloverfield_lane",
+    "the_karate_kid_part_iii",
+    "blood_ties"
   ]
 }

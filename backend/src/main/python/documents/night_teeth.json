@@ -62,5 +62,32 @@
       "rating": "6",
       "text": "For a random movie i just stumbled upon on Netflix, i was pleasantly surprised i liked it as much as i did. Its a very basic sexy vampire movie with nothing out of the ordinary for the vampire genre, but its a solid popcorn movie that i feel is worth a watch."
     }
+  ],
+  "recommendations": [
+    "daybreakers",
+    "priest",
+    "underworld",
+    "the_last_witch_hunter",
+    "leatherface",
+    "underworld_evolution",
+    "wild_card",
+    "would_you_rather",
+    "jumper",
+    "i_am_number_four",
+    "house_at_the_end_of_the_street",
+    "twilight",
+    "underworld_awakening",
+    "polar",
+    "resident_evil_damnation",
+    "resident_evil_apocalypse",
+    "cabin_fever",
+    "fright_night",
+    "riddick",
+    "the_old_guard",
+    "the_tax_collector",
+    "a_perfect_getaway",
+    "van_helsing",
+    "army_of_the_dead",
+    "devil"
   ]
 }

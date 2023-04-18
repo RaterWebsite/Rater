@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Not a perfect movie, but definitely worth watching. It had a good action, and good one liners, but not a good script or good story. Nonetheless, the movie was great to watch if you're a fan of the first Independence day, you'll have a lot of fun watching this."
     }
+  ],
+  "recommendations": [
+    "pacific_rim_uprising",
+    "geostorm",
+    "transformers_the_last_knight",
+    "the_tomorrow_war",
+    "poseidon",
+    "battleship",
+    "the_matrix_resurrections",
+    "the_darkest_hour",
+    "volcano",
+    "the_cloverfield_paradox",
+    "jupiter_ascending",
+    "riddick",
+    "into_the_storm",
+    "rampage",
+    "jurassic_world_dominion",
+    "clash_of_the_titans",
+    "san_andreas",
+    "bloodshot",
+    "2012",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "the_last_airbender",
+    "the_new_mutants",
+    "infinite",
+    "teenage_mutant_ninja_turtles",
+    "guardians_of_the_galaxy"
   ]
 }

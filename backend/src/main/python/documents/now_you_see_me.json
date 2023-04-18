@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Everyone that I've talked to has enjoyed this movie. Could it have been better? Sure. But it was fun, entertaining, and well paced. What's more, even though I thought some of the plot was predictable, they did get me at the end."
     }
+  ],
+  "recommendations": [
+    "now_you_see_me_2",
+    "man_on_a_ledge",
+    "the_loft",
+    "shutter_island",
+    "next",
+    "the_prestige",
+    "gone_girl",
+    "the_number_23",
+    "tenet",
+    "bad_times_at_the_el_royale",
+    "a_perfect_getaway",
+    "ready_or_not",
+    "lucky_number_slevin",
+    "hancock",
+    "project_power",
+    "the_usual_suspects",
+    "tomorrowland",
+    "what_happened_to_monday",
+    "the_maze_runner",
+    "limitless",
+    "inherent_vice",
+    "glass",
+    "the_mountain_between_us",
+    "21",
+    "rocknrolla"
   ]
 }

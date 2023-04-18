@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "The 4th scream movie is a definite improvement from the 3rd and this time with several plot twists that force you to watch to the end. I'ts a non-stop cycle of twists that continue all the way up to the end."
     }
+  ],
+  "recommendations": [
+    "scream_3",
+    "scream_2",
+    "malignant",
+    "insidious_chapter_2",
+    "insidious",
+    "scream",
+    "drag_me_to_hell",
+    "the_cabin_in_the_woods",
+    "the_collection",
+    "texas_chainsaw_3d",
+    "countdown",
+    "the_grudge_2",
+    "cabin_fever",
+    "annabelle",
+    "happy_death_day_2u",
+    "sinister_2",
+    "saw",
+    "final_destination_2",
+    "the_amityville_horror",
+    "final_destination",
+    "house_of_1000_corpses",
+    "poltergeist",
+    "dark_skies",
+    "jigsaw",
+    "the_texas_chainsaw_massacre_the_beginning"
   ]
 }

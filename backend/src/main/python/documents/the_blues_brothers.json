@@ -75,5 +75,32 @@
       "rating": "9",
       "text": "This movie is a perfect mixture of comedy, musical and action. You can be laughing your head off by one scene, then enjoying the songs by Blues Brothers, and being amazed by the explosions and car stunts, all in half an hour."
     }
+  ],
+  "recommendations": [
+    "hairspray",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "grease",
+    "cats",
+    "the_greatest_showman",
+    "the_big_lebowski",
+    "almost_famous",
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "kung_fu_panda",
+    "mary_poppins",
+    "ghostbusters",
+    "the_mummy",
+    "work_it",
+    "mary_poppins_returns",
+    "moulin_rouge",
+    "burlesque",
+    "tron_legacy",
+    "space_jam",
+    "the_guest",
+    "the_muppets",
+    "vivo",
+    "the_nightmare_before_christmas",
+    "kung_fu_panda_2",
+    "mamma_mia_here_we_go_again",
+    "bohemian_rhapsody"
   ]
 }

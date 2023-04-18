@@ -195,5 +195,32 @@
       "rating": "10",
       "text": "I know the sequel and the reboot received better reviews from critics. To me, this one is the best Tomb Raider movie."
     }
+  ],
+  "recommendations": [
+    "tomb_raider",
+    "uncharted",
+    "prince_of_persia_the_sands_of_time",
+    "hitman",
+    "the_last_witch_hunter",
+    "rampage",
+    "resident_evil_damnation",
+    "hitman_agent_47",
+    "bloodshot",
+    "mortal_kombat",
+    "hercules",
+    "doom",
+    "boss_level",
+    "silent_hill_revelation_3d",
+    "wild_card",
+    "jumper",
+    "xxx_return_of_xander_cage",
+    "i_am_number_four",
+    "monster_hunter",
+    "avengers_age_of_ultron",
+    "underworld_awakening",
+    "quantum_of_solace",
+    "brick_mansions",
+    "spy_kids_3_d_game_over",
+    "resident_evil_apocalypse"
   ]
 }

@@ -176,5 +176,32 @@
       "rating": "8",
       "text": "Even if people dislike this Adam Sandler movie, you can't love but see Jack Nicolson and Sandler together in this film."
     }
+  ],
+  "recommendations": [
+    "the_wedding_ringer",
+    "wedding_crashers",
+    "date_night",
+    "identity_thief",
+    "central_intelligence",
+    "dodgeball_a_true_underdog_story",
+    "forgetting_sarah_marshall",
+    "the_longest_yard",
+    "masterminds",
+    "meet_the_parents",
+    "horrible_bosses_2",
+    "50_first_dates",
+    "tower_heist",
+    "horrible_bosses",
+    "zoolander",
+    "get_smart",
+    "the_break_up",
+    "tammy",
+    "ride_along",
+    "little_fockers",
+    "role_models",
+    "step_brothers",
+    "neighbors",
+    "30_minutes_or_less",
+    "the_other_guys"
   ]
 }

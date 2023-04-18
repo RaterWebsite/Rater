@@ -100,5 +100,32 @@
       "rating": "10",
       "text": "PLEASE WATCH THIS MOVIEthis has gotta be the best film I've ever watched, so funny to the point where I could not breath"
     }
+  ],
+  "recommendations": [
+    "jackass_presents_bad_grandpa",
+    "21_jump_street",
+    "ted_2",
+    "this_is_the_end",
+    "the_hangover_part_ii",
+    "jexi",
+    "superbad",
+    "a_million_ways_to_die_in_the_west",
+    "hot_tub_time_machine",
+    "22_jump_street",
+    "neighbors",
+    "30_minutes_or_less",
+    "friday",
+    "dinner_for_schmucks",
+    "rough_night",
+    "good_boys",
+    "night_at_the_museum",
+    "the_dictator",
+    "the_croods_a_new_age",
+    "the_hangover",
+    "thunder_force",
+    "knocked_up",
+    "baywatch",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_other_guys"
   ]
 }

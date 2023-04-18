@@ -225,5 +225,32 @@
       "rating": "0",
       "text": "Infuriatingly awful. Obviously a movie hijacked by George Lukas. Worst of all, it started turning into Stargate."
     }
+  ],
+  "recommendations": [
+    "teenage_mutant_ninja_turtles",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "jonah_hex",
+    "red_dawn",
+    "volcano",
+    "transformers_the_last_knight",
+    "riddick",
+    "terminator_genisys",
+    "the_meg",
+    "independence_day_resurgence",
+    "poseidon",
+    "war_of_the_worlds",
+    "the_twilight_saga_eclipse",
+    "national_treasure_book_of_secrets",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "jumper",
+    "hercules",
+    "battleship",
+    "i_am_number_four",
+    "venom_let_there_be_carnage",
+    "ghost_rider_spirit_of_vengeance",
+    "underworld_blood_wars",
+    "the_matrix_resurrections",
+    "suicide_squad",
+    "the_last_witch_hunter"
   ]
 }

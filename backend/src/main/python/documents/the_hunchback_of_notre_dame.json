@@ -66,5 +66,32 @@
       "rating": "9",
       "text": "Though it is a tonal mess, and many of the characters are annoying and/or uninteresting, the music is grand, the story is emotional and the animation is breathtaking."
     }
+  ],
+  "recommendations": [
+    "pocahontas",
+    "the_little_mermaid",
+    "labyrinth",
+    "aladdin",
+    "brother_bear",
+    "the_jungle_book",
+    "the_road_to_el_dorado",
+    "sing",
+    "brave",
+    "bambi",
+    "mulan",
+    "finding_nemo",
+    "the_prince_of_egypt",
+    "moana",
+    "the_lion_king",
+    "tarzan",
+    "the_princess_and_the_frog",
+    "a_street_cat_named_bob",
+    "mary_poppins",
+    "sing_street",
+    "the_polar_express",
+    "song_of_the_sea",
+    "vivo",
+    "the_craft",
+    "footloose"
   ]
 }

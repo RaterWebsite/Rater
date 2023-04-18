@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "The animation here remains top-notch, however the film is bogged down with unnecessary characters, dull scenes and a boring villain."
     }
+  ],
+  "recommendations": [
+    "the_lego_movie_2_the_second_part",
+    "trolls",
+    "ferdinand",
+    "the_croods",
+    "rio",
+    "ice_age_the_meltdown",
+    "shark_tale",
+    "my_little_pony_the_movie",
+    "frozen_ii",
+    "happy_feet_two",
+    "moana",
+    "smurfs_the_lost_village",
+    "the_lego_movie",
+    "meet_the_robinsons",
+    "bolt",
+    "hotel_transylvania_3_summer_vacation",
+    "turbo",
+    "rock_dog_2_rock_around_the_park",
+    "hotel_transylvania_2",
+    "rango",
+    "the_secret_life_of_pets",
+    "the_secret_life_of_pets_2",
+    "sing_2",
+    "atlantis_the_lost_empire",
+    "despicable_me_2"
   ]
 }

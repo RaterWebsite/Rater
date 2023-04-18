@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "I thought it was pretty good not as good as other animated movies, but certainly one a kind i would see it to find out for your self!!!"
     }
+  ],
+  "recommendations": [
+    "jupiter_ascending",
+    "sucker_punch",
+    "tomorrowland",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "super_8",
+    "bumblebee",
+    "beowulf",
+    "the_13th_warrior",
+    "avengers_age_of_ultron",
+    "blade_of_the_47_ronin",
+    "frozen_ii",
+    "death_note_relight_1_visions_of_a_god",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "serenity",
+    "raya_and_the_last_dragon",
+    "incredibles_2",
+    "inception",
+    "how_to_train_your_dragon_2",
+    "the_witcher_nightmare_of_the_wolf",
+    "what_happened_to_monday",
+    "oblivion",
+    "my_little_pony_the_movie",
+    "guardians_of_the_galaxy",
+    "final_fantasy_the_spirits_within",
+    "the_maze_runner"
   ]
 }

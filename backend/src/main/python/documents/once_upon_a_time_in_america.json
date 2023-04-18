@@ -85,5 +85,32 @@
       "rating": "10",
       "text": "I have not been able to see such an atmosphere of the early 20s of the twentieth century in any film. You can moralize for hours about how you can admire a film where they kill, betray, and engage in frankly bad deeds. It is possible - precisely with the picture, the skill, the subtle acting of the actors ... in a word, the talent of the director Sergio Leone, who nurtured the idea of the film for about 14 years."
     }
+  ],
+  "recommendations": [
+    "the_last_of_the_mohicans",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_godfather",
+    "chinatown",
+    "amadeus",
+    "goodfellas",
+    "gladiator",
+    "the_english_patient",
+    "amores_perros",
+    "braveheart",
+    "casablanca",
+    "whiplash",
+    "the_great_gatsby",
+    "bohemian_rhapsody",
+    "kingdom_of_heaven",
+    "the_godfather_part_ii",
+    "annette",
+    "the_aviator",
+    "django_unchained",
+    "chicago",
+    "rear_window",
+    "the_grand_budapest_hotel",
+    "the_sting",
+    "the_sound_of_music",
+    "the_shawshank_redemption"
   ]
 }

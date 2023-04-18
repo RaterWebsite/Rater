@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "This is the most fun I've had at the movies in a long time. It pokes fun at itself and horror movies that proceeded it in an original and entertaining way. Twists and turns keep you guessing about what will happen at the end until you finally see for yourself. I wasn't expecting humor in it, but the humor is what made it what it is. Genius."
     }
+  ],
+  "recommendations": [
+    "drag_me_to_hell",
+    "saw",
+    "scream_4",
+    "malignant",
+    "cabin_fever",
+    "scream",
+    "ginger_snaps",
+    "the_collection",
+    "insidious",
+    "insidious_chapter_2",
+    "the_texas_chain_saw_massacre",
+    "the_babadook",
+    "dark_skies",
+    "from_dusk_till_dawn",
+    "the_possession",
+    "annabelle",
+    "the_return_of_the_living_dead",
+    "the_revenant",
+    "wrong_turn",
+    "it_follows",
+    "wish_upon",
+    "devil",
+    "dead_silence",
+    "the_grudge_2",
+    "sinister_2"
   ]
 }

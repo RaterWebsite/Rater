@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Filme muito bom, simples basico nada de muito diferente que voce nao tenha visto mas ele tem o toque asiatico e suas belezas (que eu aprecio muito) como eles podem ser t\u00e3o ricos?"
     }
+  ],
+  "recommendations": [
+    "the_big_sick",
+    "captain_fantastic",
+    "the_best_exotic_marigold_hotel",
+    "the_princess_diaries",
+    "young_adult",
+    "ingrid_goes_west",
+    "the_help",
+    "green_book",
+    "home_again",
+    "moonrise_kingdom",
+    "the_age_of_adaline",
+    "moxie",
+    "endless_love",
+    "lady_bird",
+    "the_intern",
+    "me_before_you",
+    "charm_city_kings",
+    "afternoon_delight",
+    "about_time",
+    "20th_century_women",
+    "the_witches_of_eastwick",
+    "freedom_writers",
+    "the_perks_of_being_a_wallflower",
+    "fighting_with_my_family",
+    "the_dreamers"
   ]
 }

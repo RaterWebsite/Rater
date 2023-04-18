@@ -49,5 +49,32 @@
       "rating": "10",
       "text": "Exciting from the beginning to the end, really amazing, and the ending mua!"
     }
+  ],
+  "recommendations": [
+    "solace",
+    "broken_city",
+    "the_informer",
+    "no_sudden_move",
+    "feel_the_beat",
+    "all_the_money_in_the_world",
+    "parker",
+    "the_italian_job",
+    "triple_frontier",
+    "wrath_of_man",
+    "a_most_wanted_man",
+    "16_blocks",
+    "survivor",
+    "collide",
+    "spy_game",
+    "triple_9",
+    "street_kings",
+    "beyond_the_reach",
+    "braven",
+    "backdraft",
+    "till_death",
+    "the_gunman",
+    "a_walk_among_the_tombstones",
+    "inside_man",
+    "contraband"
   ]
 }

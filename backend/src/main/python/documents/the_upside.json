@@ -157,5 +157,32 @@
       "rating": "8",
       "text": "With great performances from Kevin Hart, Bryan Cranston, Nicole Kidman, and Golshifteh Farahani, The Upside told a feel-good story that I enjoyed from start to finish."
     }
+  ],
+  "recommendations": [
+    "greenberg",
+    "eddie_the_eagle",
+    "the_king_of_staten_island",
+    "the_blind_side",
+    "the_intern",
+    "the_fault_in_our_stars",
+    "the_social_network",
+    "me_before_you",
+    "paddington_2",
+    "revolutionary_road",
+    "3_idiots",
+    "the_disaster_artist",
+    "inherent_vice",
+    "eternal_sunshine_of_the_spotless_mind",
+    "me_and_earl_and_the_dying_girl",
+    "the_secret_life_of_walter_mitty",
+    "her",
+    "hustlers",
+    "palm_springs",
+    "manchester_by_the_sea",
+    "the_gambler",
+    "hereafter",
+    "instant_family",
+    "good_will_hunting",
+    "the_devil_all_the_time"
   ]
 }

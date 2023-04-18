@@ -114,5 +114,32 @@
       "rating": "3",
       "text": "I wanted to like this because come on a movie about a giant killer snake, but I just didnt have any fun."
     }
+  ],
+  "recommendations": [
+    "van_helsing",
+    "ghost_rider",
+    "ghost_rider_spirit_of_vengeance",
+    "transporter_2",
+    "jason_x",
+    "deep_blue_sea",
+    "jaws_2",
+    "mechanic_resurrection",
+    "the_legend_of_hercules",
+    "underworld",
+    "the_meg",
+    "the_expendables_3",
+    "lockout",
+    "6_underground",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "transformers_revenge_of_the_fallen",
+    "teenage_mutant_ninja_turtles",
+    "underworld_evolution",
+    "bloodshot",
+    "mission_impossible_iii",
+    "legion",
+    "blade_trinity",
+    "the_expendables",
+    "clash_of_the_titans",
+    "immortals"
   ]
 }

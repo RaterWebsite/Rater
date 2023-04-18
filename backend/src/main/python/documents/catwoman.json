@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "I don't know why people hate this sexy movie. This movie is light but interesting. The movie was good entertainment and well done. That's more than ample."
     }
+  ],
+  "recommendations": [
+    "ghost_rider",
+    "teenage_mutant_ninja_turtles",
+    "suicide_squad",
+    "jumper",
+    "aquaman",
+    "dark_phoenix",
+    "pan",
+    "dolittle",
+    "elektra",
+    "ghost_rider_spirit_of_vengeance",
+    "immortals",
+    "the_twilight_saga_eclipse",
+    "shazam_fury_of_the_gods",
+    "seventh_son",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "the_old_guard",
+    "captain_marvel",
+    "jonah_hex",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "the_legend_of_hercules",
+    "thor_love_and_thunder",
+    "killers",
+    "poseidon",
+    "hercules",
+    "sherlock_gnomes"
   ]
 }

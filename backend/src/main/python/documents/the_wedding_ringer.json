@@ -152,5 +152,32 @@
       "rating": "10",
       "text": "I dont get it why people hate this movie,its funny,entertaining and Josh Gad and Kevin Hart have great relationship"
     }
+  ],
+  "recommendations": [
+    "identity_thief",
+    "date_night",
+    "forgetting_sarah_marshall",
+    "neighbors",
+    "30_minutes_or_less",
+    "zoolander",
+    "zack_and_miri_make_a_porno",
+    "step_brothers",
+    "central_intelligence",
+    "this_is_the_end",
+    "the_watch",
+    "rough_night",
+    "dodgeball_a_true_underdog_story",
+    "tammy",
+    "the_other_guys",
+    "ted_2",
+    "the_longest_yard",
+    "friends_with_benefits",
+    "dinner_for_schmucks",
+    "get_hard",
+    "horrible_bosses_2",
+    "pitch_perfect_2",
+    "anchorman_2_the_legend_continues",
+    "the_break_up",
+    "50_first_dates"
   ]
 }

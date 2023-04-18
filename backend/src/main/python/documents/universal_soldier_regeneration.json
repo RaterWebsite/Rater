@@ -31,5 +31,32 @@
       "rating": "10",
       "text": "surprisingly a really good movie even surprised the **** out of me of how good this is"
     }
+  ],
+  "recommendations": [
+    "the_package",
+    "the_spongebob_movie_sponge_on_the_run",
+    "kites",
+    "paw_patrol_the_movie",
+    "playing_it_cool",
+    "kidnap",
+    "just_before_i_go",
+    "addams_family_values",
+    "swamp_thing",
+    "the_italian_job",
+    "braven",
+    "bad_boys_for_life",
+    "the_debt_collector",
+    "horrible_bosses",
+    "crisis",
+    "hotel_transylvania_transformania",
+    "contraband",
+    "the_mummy",
+    "hostage",
+    "the_parent_trap",
+    "fear_of_rain",
+    "orphan_first_kill",
+    "coming_to_america",
+    "life_after_beth",
+    "the_boy_next_door"
   ]
 }

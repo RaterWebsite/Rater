@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "Amazing film Amazing film  Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film Amazing film"
     }
+  ],
+  "recommendations": [
+    "cars_3",
+    "planes",
+    "need_for_speed",
+    "cars",
+    "turbo",
+    "the_fate_of_the_furious",
+    "real_steel",
+    "bumblebee",
+    "the_good_dinosaur",
+    "the_angry_birds_movie",
+    "penguins_of_madagascar",
+    "incredibles_2",
+    "the_angry_birds_movie_2",
+    "mad_max_fury_road",
+    "the_lego_movie",
+    "transformers",
+    "pacific_rim",
+    "jurassic_world_fallen_kingdom",
+    "kingsman_the_golden_circle",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "teenage_mutant_ninja_turtles",
+    "next_gen",
+    "the_croods",
+    "death_race",
+    "skyscraper"
   ]
 }

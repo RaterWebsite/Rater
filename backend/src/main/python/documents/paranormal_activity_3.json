@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Hello.  I was almost bored by the first 2 movies.  They make some clever plays on this sort of film but there are large swaths of empty space with no scares.  This was not a problem in PA3.  I do not scare easy but over and over my hair was up on end.  There were plenty of thrills and I left entertained.  Isn't that the whole point of a movie,  to be entertained?  Overall I enjoyed the movie."
     }
+  ],
+  "recommendations": [
+    "paranormal_activity_the_marked_ones",
+    "paranormal_activity_4",
+    "paranormal_activity_2",
+    "unfriended",
+    "the_devil_inside",
+    "rings",
+    "paranormal_activity",
+    "saw_iv",
+    "stay_alive",
+    "the_ring_two",
+    "chernobyl_diaries",
+    "insidious",
+    "the_haunting_in_connecticut",
+    "unfriended_dark_web",
+    "countdown",
+    "cloverfield",
+    "host",
+    "paranormal_activity_the_ghost_dimension",
+    "jigsaw",
+    "the_strangers_prey_at_night",
+    "dark_skies",
+    "saw_iii",
+    "frozen",
+    "the_blair_witch_project",
+    "dead_silence"
   ]
 }

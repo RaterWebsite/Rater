@@ -29,5 +29,32 @@
       "rating": "5",
       "text": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out."
     }
+  ],
+  "recommendations": [
+    "the_green_hornet",
+    "deadpool_2",
+    "zombieland_double_tap",
+    "sherlock_gnomes",
+    "deadpool",
+    "horrible_bosses_2",
+    "the_spongebob_movie_sponge_on_the_run",
+    "pitch_perfect_2",
+    "shazam_fury_of_the_gods",
+    "green_lantern",
+    "the_suicide_squad",
+    "venom_let_there_be_carnage",
+    "this_means_war",
+    "megamind",
+    "zoolander_2",
+    "spy",
+    "fantastic_four",
+    "scary_movie_3",
+    "thor_love_and_thunder",
+    "pitch_perfect_3",
+    "superman_ii",
+    "my_spy",
+    "catwoman",
+    "aquaman",
+    "red_2"
   ]
 }

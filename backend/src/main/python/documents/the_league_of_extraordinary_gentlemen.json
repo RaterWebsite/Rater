@@ -143,5 +143,32 @@
       "rating": "2",
       "text": "\u201cIf you can't do it with one bullet, don't do it at all.\u201d"
     }
+  ],
+  "recommendations": [
+    "hellboy",
+    "total_recall",
+    "stargate",
+    "hellboy_ii_the_golden_army",
+    "captain_america_the_winter_soldier",
+    "the_scorpion_king",
+    "robocop",
+    "armageddon",
+    "conan_the_barbarian",
+    "the_legend_of_zorro",
+    "thor",
+    "iron_man",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "the_magnificent_seven",
+    "the_great_wall",
+    "ant_man_and_the_wasp_quantumania",
+    "indiana_jones_and_the_temple_of_doom",
+    "mission_impossible_rogue_nation",
+    "twister",
+    "men_in_black_ii",
+    "reign_of_fire",
+    "rampage",
+    "hulk",
+    "the_running_man",
+    "elysium"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "One of the best movies of the year. Timothy Olymphant truly is hitman. If you loved the game see this movie, if you don't then go see it. This movie has gone in a different direction then other Game-movie adaptations. It has still maintained the kicks that hitman game lovers want but has plenty of good action and storyline to keep you in the action."
     }
+  ],
+  "recommendations": [
+    "hitman_agent_47",
+    "lara_croft_tomb_raider",
+    "doom",
+    "tomb_raider",
+    "mortal_kombat",
+    "uncharted",
+    "prince_of_persia_the_sands_of_time",
+    "silent_hill",
+    "resident_evil_damnation",
+    "mortal_kombat_annihilation",
+    "bloodshot",
+    "silent_hill_revelation_3d",
+    "warcraft",
+    "gemini_man",
+    "gamer",
+    "spy_kids_3_d_game_over",
+    "the_a_team",
+    "polar",
+    "hardcore_henry",
+    "the_last_witch_hunter",
+    "hercules",
+    "jumper",
+    "monster_hunter",
+    "the_tax_collector",
+    "i_am_number_four"
   ]
 }

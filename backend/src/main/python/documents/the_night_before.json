@@ -174,5 +174,32 @@
       "rating": "5",
       "text": "A dull and predictable stoner flick. The premise seems to be as simple as, give a man a lot of drugs and watch what happens."
     }
+  ],
+  "recommendations": [
+    "elf",
+    "neighbors",
+    "friday",
+    "night_at_the_museum",
+    "sisters",
+    "blended",
+    "bad_santa",
+    "fred_claus",
+    "american_pie",
+    "wanderlust",
+    "american_pie_2",
+    "step_brothers",
+    "date_night",
+    "american_reunion",
+    "christmas_with_the_kranks",
+    "parental_guidance",
+    "old_school",
+    "a_bad_moms_christmas",
+    "ted",
+    "21_jump_street",
+    "just_friends",
+    "meet_the_fockers",
+    "wild_hogs",
+    "yes_man",
+    "bad_trip"
   ]
 }

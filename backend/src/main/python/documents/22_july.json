@@ -67,5 +67,32 @@
       "rating": "9",
       "text": "Found this movie searching through netflix the other day and it was really good.  The events that take place were horrible and the aftermath for survivors was defiantly not an easy road but a brave one that everyone can stand behind."
     }
+  ],
+  "recommendations": [
+    "munich",
+    "hotel_mumbai",
+    "letters_from_iwo_jima",
+    "the_legend_of_la_llorona",
+    "emperor",
+    "detroit",
+    "cartel_land",
+    "free_state_of_jones",
+    "the_pianist",
+    "a_united_kingdom",
+    "the_mauritanian",
+    "american_sniper",
+    "the_kill_team",
+    "13_minutes",
+    "the_physician",
+    "patriots_day",
+    "dark_waters",
+    "snowden",
+    "the_33",
+    "lone_survivor",
+    "the_social_dilemma",
+    "diego_maradona",
+    "before_the_flood",
+    "sweat",
+    "k_pax"
   ]
 }

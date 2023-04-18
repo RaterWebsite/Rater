@@ -74,5 +74,32 @@
       "rating": "10",
       "text": "Denise, ur crazy.. this movie is awesome!!.. Jet Li is the BEST!"
     }
+  ],
+  "recommendations": [
+    "the_forbidden_kingdom",
+    "fearless",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_scorpion_king",
+    "the_foreigner",
+    "predator",
+    "dredd",
+    "last_action_hero",
+    "true_lies",
+    "ninja_assassin",
+    "hulk",
+    "rambo_last_blood",
+    "top_gun_maverick",
+    "kung_fu_panda_2",
+    "desperado",
+    "gangster_squad",
+    "hercules",
+    "kingsman_the_secret_service",
+    "the_expendables_2",
+    "man_of_tai_chi",
+    "the_one",
+    "jiu_jitsu",
+    "robocop",
+    "the_expendables",
+    "indiana_jones_and_the_temple_of_doom"
   ]
 }

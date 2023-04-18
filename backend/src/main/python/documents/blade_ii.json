@@ -203,5 +203,32 @@
       "rating": "9",
       "text": "Blade II is a stunning and exciting action comic book film, Blade II straight away is a better film than the first Blade, Blade II have a lot of upgrade in terms of a performance, action (they got one of the best action scene i've seen in movies), and cinematography, Blade II is badass!"
     }
+  ],
+  "recommendations": [
+    "blade",
+    "blade_trinity",
+    "hellboy",
+    "underworld",
+    "upgrade",
+    "predator_2",
+    "the_terminator",
+    "300_rise_of_an_empire",
+    "john_wick_chapter_2",
+    "abraham_lincoln_vampire_hunter",
+    "aliens",
+    "mission_impossible_ghost_protocol",
+    "mission_impossible_ii",
+    "hellboy_ii_the_golden_army",
+    "robocop",
+    "mission_impossible",
+    "hulk",
+    "john_wick_chapter_3_parabellum",
+    "terminator_2_judgment_day",
+    "the_bourne_supremacy",
+    "kong_skull_island",
+    "van_helsing",
+    "the_league_of_extraordinary_gentlemen",
+    "the_scorpion_king",
+    "lethal_weapon_2"
   ]
 }

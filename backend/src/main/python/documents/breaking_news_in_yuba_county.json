@@ -46,5 +46,32 @@
       "rating": "9",
       "text": "Cleverly done. You yell \"WTF\" so many times as you continue watching. A good comedy. Good and silly... I loved it. I totally get it"
     }
+  ],
+  "recommendations": [
+    "jerry_maguire",
+    "the_dilemma",
+    "the_boss",
+    "hitch",
+    "notting_hill",
+    "a_few_good_men",
+    "police_academy_2_their_first_assignment",
+    "american_hustle",
+    "as_good_as_it_gets",
+    "silver_linings_playbook",
+    "trouble_with_the_curve",
+    "the_judge",
+    "burnt",
+    "the_town",
+    "bridget_jones_the_edge_of_reason",
+    "arbitrage",
+    "fracture",
+    "charade",
+    "morning_glory",
+    "all_the_money_in_the_world",
+    "the_heat",
+    "runaway_bride",
+    "the_nice_guys",
+    "daredevil",
+    "logan_lucky"
   ]
 }

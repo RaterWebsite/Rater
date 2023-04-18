@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "A few jokes meant for adults. Very stylish with the Spanish theme. Loved the way Zach Galifianakis portrayed Humptey. This is better for me than Shrek 2."
     }
+  ],
+  "recommendations": [
+    "despicable_me_2",
+    "the_spongebob_squarepants_movie",
+    "hotel_transylvania",
+    "peter_rabbit",
+    "hotel_transylvania_2",
+    "megamind",
+    "ice_age_the_meltdown",
+    "ice_age",
+    "rango",
+    "captain_underpants_the_first_epic_movie",
+    "madagascar",
+    "bolt",
+    "over_the_hedge",
+    "the_croods",
+    "storks",
+    "shaun_the_sheep_movie",
+    "spies_in_disguise",
+    "meet_the_robinsons",
+    "paddington",
+    "rise_of_the_guardians",
+    "hotel_transylvania_3_summer_vacation",
+    "the_lego_movie",
+    "despicable_me",
+    "monsters_vs_aliens",
+    "shazam"
   ]
 }

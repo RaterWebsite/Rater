@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Ridiculously cheesy dialogue, over the top action sequences, and quite frankly a boring story; all combine to make this film a mess. The most impressive aspect of the movie is its ability to transform quality actors into shockingly dull characters."
     }
+  ],
+  "recommendations": [
+    "mortal_engines",
+    "armageddon",
+    "300_rise_of_an_empire",
+    "independence_day",
+    "battle_los_angeles",
+    "red_tails",
+    "pacific_rim",
+    "midway",
+    "jupiter_ascending",
+    "hellboy_ii_the_golden_army",
+    "rampage",
+    "the_matrix",
+    "king_arthur_legend_of_the_sword",
+    "the_magnificent_seven",
+    "elysium",
+    "avatar",
+    "blade_of_the_47_ronin",
+    "prisoners_of_the_ghostland",
+    "centurion",
+    "pitch_black",
+    "kong_skull_island",
+    "pompeii",
+    "blackhat",
+    "reign_of_fire",
+    "the_league_of_extraordinary_gentlemen"
   ]
 }

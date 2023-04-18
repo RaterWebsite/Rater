@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "Compared to the first film, which was enough, this film is just mediocre. A film that I was able to recover only a short while ago and I've already forgotten it, in fact I don't remember what it was about at all, which means how profound it was and how much it struck me."
     }
+  ],
+  "recommendations": [
+    "red",
+    "knight_and_day",
+    "spy",
+    "spenser_confidential",
+    "kingsman_the_golden_circle",
+    "snatch",
+    "the_losers",
+    "american_ultra",
+    "logan_lucky",
+    "16_blocks",
+    "jack_reacher",
+    "from_paris_with_love",
+    "lucky_number_slevin",
+    "daredevil",
+    "the_nice_guys",
+    "deadpool_2",
+    "red_notice",
+    "grudge_match",
+    "angel_has_fallen",
+    "jumanji_the_next_level",
+    "seven_psychopaths",
+    "demolition_man",
+    "rocknrolla",
+    "boss_level",
+    "the_suicide_squad"
   ]
 }

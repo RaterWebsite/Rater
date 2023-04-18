@@ -33,5 +33,32 @@
       "rating": "0",
       "text": "And this is still a thing? Fifty shades franchise at least was exciting, but this... It's just... No."
     }
+  ],
+  "recommendations": [
+    "carnaval",
+    "resort_to_love",
+    "the_return_of_the_texas_chainsaw_massacre",
+    "hellraiser_hellworld",
+    "exorcist_ii_the_heretic",
+    "amityville_ii_the_possession",
+    "jeepers_creepers_reborn",
+    "jason_x",
+    "last_man_down",
+    "day_of_the_dead_bloodline",
+    "anaconda",
+    "rogue_hostage",
+    "jeepers_creepers_3",
+    "the_legend_of_hercules",
+    "jaws_the_revenge",
+    "halloween_resurrection",
+    "supergirl",
+    "the_day_the_earth_stood_still",
+    "mortal_kombat_annihilation",
+    "meet_the_spartans",
+    "apex",
+    "cell",
+    "van_helsing",
+    "suicide_squad",
+    "ghost_rider_spirit_of_vengeance"
   ]
 }

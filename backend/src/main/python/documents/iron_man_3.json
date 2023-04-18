@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "It is really fun and very enjoyable. The visual effect are very Well done but is a normal movie. The movie is not an spectacular  movie but is really run to all family"
     }
+  ],
+  "recommendations": [
+    "spider_man_3",
+    "x_men_origins_wolverine",
+    "iron_man_2",
+    "ant_man_and_the_wasp_quantumania",
+    "x_men_apocalypse",
+    "spider_man_no_way_home",
+    "men_in_black_international",
+    "max_steel",
+    "iron_man",
+    "kingsman_the_golden_circle",
+    "batman_v_superman_dawn_of_justice",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "suicide_squad",
+    "captain_marvel",
+    "the_punisher",
+    "the_old_guard",
+    "terminator_salvation",
+    "robocop_2",
+    "riddick",
+    "jonah_hex",
+    "surrogates",
+    "infinite",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "angel_has_fallen",
+    "elektra"
   ]
 }

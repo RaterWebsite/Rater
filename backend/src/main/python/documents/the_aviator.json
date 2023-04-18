@@ -224,5 +224,32 @@
       "rating": "9",
       "text": "\u2664\u2661\u2664\u2661\u2664\u2661\u2664\u2661\u2661\u2661\u2664\u2661\u2664\u2664\u2664\u2664\u2664\u2661\u2661\u2661\u2664\u2664\u2664\u2661\u2661\u2661\u2664\u2664\u2664\u2661\u2661\u2661\u2664\u2661\u2664\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u300b\u00a1\u300b\u00a1\u300b\u00a1\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00a1\u00a1\u00a1\u00bf\u00a1\u00a1\u00a1\u00bf\u00a1\u00a1\u00a1\u00bf\u00a1\u00bf\u00a1\u00bf\u00bf\u300b"
     }
+  ],
+  "recommendations": [
+    "american_hustle",
+    "catch_me_if_you_can",
+    "the_paperboy",
+    "rush",
+    "backdraft",
+    "legend",
+    "murder_on_the_orient_express",
+    "all_the_money_in_the_world",
+    "magnolia",
+    "casino",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_last_of_the_mohicans",
+    "the_professor_and_the_madman",
+    "the_irishman",
+    "crazy_heart",
+    "a_star_is_born",
+    "whiplash",
+    "youth",
+    "lincoln",
+    "black_mass",
+    "true_grit",
+    "big_eyes",
+    "cinderella_man",
+    "lawless",
+    "the_untouchables"
   ]
 }

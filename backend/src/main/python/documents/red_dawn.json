@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "I was actually surprised with this movie. It has a lot of negative reviews so I expected it to really suck. I was actually  really surprised that I enjoyed this movie so much. No it's not anywhere close to movie of the year but it wasn't that bad. Granted,I didn't see the original and that may change my opinion."
     }
+  ],
+  "recommendations": [
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "i_am_number_four",
+    "battleship",
+    "the_darkest_hour",
+    "dark_phoenix",
+    "poseidon",
+    "national_treasure_book_of_secrets",
+    "underworld_blood_wars",
+    "riddick",
+    "teenage_mutant_ninja_turtles",
+    "the_tax_collector",
+    "the_twilight_saga_eclipse",
+    "jonah_hex",
+    "terminator_genisys",
+    "gods_of_egypt",
+    "the_book_of_eli",
+    "the_matrix_resurrections",
+    "independence_day_resurgence",
+    "hercules",
+    "bright",
+    "the_new_mutants",
+    "shadow_in_the_cloud",
+    "london_has_fallen",
+    "doctor_strange_in_the_multiverse_of_madness"
   ]
 }

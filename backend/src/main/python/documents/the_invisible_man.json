@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "A solid 7/10 and deserves a watch. Skip the trailers tho as there are quite a few spoilers in them."
     }
+  ],
+  "recommendations": [
+    "us",
+    "the_lodge",
+    "lights_out",
+    "the_mothman_prophecies",
+    "gothika",
+    "a_cure_for_wellness",
+    "the_machinist",
+    "color_out_of_space",
+    "oculus",
+    "signs",
+    "cube",
+    "mirrors",
+    "the_killing_of_a_sacred_deer",
+    "the_fly",
+    "the_autopsy_of_jane_doe",
+    "eli",
+    "brimstone",
+    "a_quiet_place",
+    "the_ritual",
+    "a_quiet_place_part_ii",
+    "the_conjuring_the_devil_made_me_do_it",
+    "annabelle_creation",
+    "ouija_origin_of_evil",
+    "split",
+    "scary_stories_to_tell_in_the_dark"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Suddenly, cowboys! The worst of the trilogy. Still weirded out by these movies, lol."
     }
+  ],
+  "recommendations": [
+    "back_to_the_future_part_ii",
+    "x_men_days_of_future_past",
+    "twelve_monkeys",
+    "captain_america_the_first_avenger",
+    "looper",
+    "spider_man_far_from_home",
+    "ghostbusters_ii",
+    "creed_ii",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "fantastic_beasts_and_where_to_find_them",
+    "superman",
+    "superman_returns",
+    "thor_ragnarok",
+    "the_dark_knight_rises",
+    "black_widow",
+    "rocky_v",
+    "the_karate_kid_part_iii",
+    "star_trek_nemesis",
+    "man_of_steel",
+    "glass",
+    "harry_potter_and_the_chamber_of_secrets",
+    "the_karate_kid_part_ii",
+    "rocky_ii",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader"
   ]
 }

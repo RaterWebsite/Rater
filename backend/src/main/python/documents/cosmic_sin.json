@@ -66,5 +66,32 @@
       "rating": "1",
       "text": "Un film che definirei inclassificabile.Talmente orrenda la sceneggiatura e la messa in scena che dubito volessero fare qualcosa di sensato. Se cos\u00ec fosse hanno fallito su tutti i fronti."
     }
+  ],
+  "recommendations": [
+    "shadow_in_the_cloud",
+    "legion",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "suicide_squad",
+    "the_old_guard",
+    "skyline",
+    "the_tax_collector",
+    "terminator_dark_fate",
+    "battleship",
+    "transformers_age_of_extinction",
+    "lockout",
+    "men_in_black_international",
+    "wanted",
+    "hitman_agent_47",
+    "wonder_woman_1984",
+    "teenage_mutant_ninja_turtles",
+    "ghost_rider_spirit_of_vengeance",
+    "geostorm",
+    "how_it_ends",
+    "jumper",
+    "the_6th_day",
+    "knowing",
+    "sanctum",
+    "2012",
+    "infinite"
   ]
 }

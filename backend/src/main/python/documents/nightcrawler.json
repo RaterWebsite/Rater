@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Nightcrawler is an amazing film with an amazing performance of Jake Gyllenhaal and the incredible power of thriller-comedy-drama. I think it's incredible."
     }
+  ],
+  "recommendations": [
+    "patriots_day",
+    "enemy_of_the_state",
+    "sully",
+    "gold",
+    "bonnie_and_clyde",
+    "everest",
+    "apollo_13",
+    "sicario",
+    "allied",
+    "first_man",
+    "dark_waters",
+    "wind_river",
+    "deepwater_horizon",
+    "a_most_violent_year",
+    "donnie_brasco",
+    "you_were_never_really_here",
+    "flight",
+    "127_hours",
+    "no_country_for_old_men",
+    "beirut",
+    "spotlight",
+    "the_master",
+    "the_card_counter",
+    "the_founder",
+    "the_big_short"
   ]
 }

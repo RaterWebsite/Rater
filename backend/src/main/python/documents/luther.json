@@ -45,5 +45,32 @@
       "rating": "1",
       "text": "Have already rated thos movie and surprise surprise its gone missing. This film is so poor it is a insult to the TV show.Half hacked story a villian to forget and victims no one cares about. Hang up your badge Luther before you get investigated  for fraud mate."
     }
+  ],
+  "recommendations": [
+    "predestination",
+    "zero_dark_thirty",
+    "the_good_shepherd",
+    "sicario_day_of_the_soldado",
+    "tinker_tailor_soldier_spy",
+    "valkyrie",
+    "contagion",
+    "hereafter",
+    "the_machinist",
+    "child_44",
+    "annihilation",
+    "children_of_men",
+    "knives_out",
+    "the_gambler",
+    "the_counselor",
+    "the_king",
+    "tenet",
+    "argo",
+    "what_happened_to_monday",
+    "chaos_walking",
+    "the_accountant",
+    "the_experiment",
+    "broken_city",
+    "beirut",
+    "stillwater"
   ]
 }

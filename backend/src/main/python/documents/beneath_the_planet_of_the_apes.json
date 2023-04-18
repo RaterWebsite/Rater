@@ -54,5 +54,32 @@
       "rating": "5",
       "text": "The original one was the masterpiece. But this one is a piece of something unpleasant."
     }
+  ],
+  "recommendations": [
+    "star_trek_v_the_final_frontier",
+    "planet_of_the_apes",
+    "the_dark_tower",
+    "star_trek_into_darkness",
+    "predators",
+    "the_cloverfield_paradox",
+    "the_thing",
+    "superman_iii",
+    "star_trek_nemesis",
+    "terminator_salvation",
+    "star_trek_beyond",
+    "superman_returns",
+    "alien_covenant",
+    "aliens",
+    "battle_for_the_planet_of_the_apes",
+    "percy_jackson_sea_of_monsters",
+    "inferno",
+    "book_of_shadows_blair_witch_2",
+    "rise_of_the_planet_of_the_apes",
+    "the_invasion",
+    "science_fiction_volume_one_the_osiris_child",
+    "star_trek_first_contact",
+    "alien_resurrection",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "surrogates"
   ]
 }

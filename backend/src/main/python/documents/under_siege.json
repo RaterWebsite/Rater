@@ -37,5 +37,32 @@
       "rating": "6",
       "text": "Some people say this movie is a rip-off of Die Hard. But I see it as Die Hard with less interesting characters, and a hero with no emotions or personality. But somehow it isn't a bad movie. Maybe it has the ability to be solely entertaining, or it is protected by the power of nostalgia."
     }
+  ],
+  "recommendations": [
+    "a_good_day_to_die_hard",
+    "live_free_or_die_hard",
+    "die_hard_2",
+    "die_hard_with_a_vengeance",
+    "rambo",
+    "12_rounds",
+    "the_condemned",
+    "peppermint",
+    "the_expendables_2",
+    "rambo_last_blood",
+    "reprisal",
+    "the_tax_collector",
+    "death_wish",
+    "machete_kills",
+    "the_expendables",
+    "mission_impossible_iii",
+    "olympus_has_fallen",
+    "see_no_evil",
+    "the_expendables_3",
+    "transporter_2",
+    "kick_ass_2",
+    "terminator_3_rise_of_the_machines",
+    "bullet_to_the_head",
+    "salt",
+    "hitman_agent_47"
   ]
 }

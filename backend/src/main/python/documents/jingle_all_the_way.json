@@ -70,5 +70,32 @@
       "rating": "9",
       "text": "a hilarious movie for the family. I bet it will make you laugh your ass off. A ton of jokes, a charming performance Sinbad, and a great plot."
     }
+  ],
+  "recommendations": [
+    "night_at_the_museum_secret_of_the_tomb",
+    "elf",
+    "diary_of_a_wimpy_kid_dog_days",
+    "the_game_plan",
+    "my_spy",
+    "christmas_with_the_kranks",
+    "the_christmas_chronicles",
+    "deck_the_halls",
+    "fred_claus",
+    "night_at_the_museum",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_santa_clause_3_the_escape_clause",
+    "the_croods_a_new_age",
+    "american_pie_2",
+    "the_pacifier",
+    "sonic_the_hedgehog",
+    "jumanji_welcome_to_the_jungle",
+    "hannah_montana_the_movie",
+    "just_go_with_it",
+    "the_night_before",
+    "bad_santa",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "tower_heist",
+    "last_vegas",
+    "second_act"
   ]
 }

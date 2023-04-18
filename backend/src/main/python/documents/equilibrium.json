@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "The critics who reviewed this terrific movie are morons. Judging from the list of bad movies they gave good reviews for its no surprise. This film is one of the best sci fi action movies ever. You don't have to appreciate the ideas that are presented but cannot deny its powerful impact. We ourselves are the evil we try so hard to oppose. Our ideas and judgements about humanity are all at stake no matter how its presented. And this film does a great job of elevating that narrative."
     }
+  ],
+  "recommendations": [
+    "chappie",
+    "v_for_vendetta",
+    "they_live",
+    "the_13th_warrior",
+    "apocalypto",
+    "fight_club",
+    "run_hide_fight",
+    "morbius",
+    "hardcore_henry",
+    "sicario_day_of_the_soldado",
+    "sucker_punch",
+    "jarhead",
+    "antebellum",
+    "the_purge_election_year",
+    "zero_dark_thirty",
+    "arrival",
+    "the_darkest_minds",
+    "dredd",
+    "lucy",
+    "what_happened_to_monday",
+    "the_kingdom",
+    "inception",
+    "the_matrix_reloaded",
+    "mortal_engines",
+    "300"
   ]
 }

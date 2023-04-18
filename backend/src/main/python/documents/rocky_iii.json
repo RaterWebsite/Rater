@@ -88,5 +88,32 @@
       "rating": "6",
       "text": "Rocky III cuenta con el principal problema de que transmite una sensaci\u00f3n de alargar por alargar, pero lo hace por lo menos desde una perspectiva de un Rocky rico, el cu\u00e1l pierde la \"hambre\", pierde \"el ojo del tigre\" y que es ayudado por su amigo Apollo, eso es sin duda junto a la actuaci\u00f3n de Mr. T como Clubber Lang y la canci\u00f3n de \"Eye of the Tiger\" lo mejor de la pel\u00edcula"
     }
+  ],
+  "recommendations": [
+    "rocky_ii",
+    "rocky",
+    "creed_ii",
+    "the_incredible_hulk",
+    "spider_man_far_from_home",
+    "john_wick_chapter_3_parabellum",
+    "rocky_iv",
+    "creed",
+    "spectre",
+    "rocky_v",
+    "transformers",
+    "kung_fu_panda_2",
+    "top_gun",
+    "the_world_is_not_enough",
+    "john_wick",
+    "hulk",
+    "mission_impossible_ghost_protocol",
+    "thor",
+    "indiana_jones_and_the_temple_of_doom",
+    "captain_america_the_first_avenger",
+    "star_wars_episode_ii_attack_of_the_clones",
+    "quantum_of_solace",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "mission_impossible_rogue_nation",
+    "black_widow"
   ]
 }

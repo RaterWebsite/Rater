@@ -28,5 +28,32 @@
       "rating": "8",
       "text": "An smart and funny mexican humor. Whit big Things of the life That explain us ,if we are Reach or poor and the movie said,that does'nt inoport. A big Movie but a not a good final."
     }
+  ],
+  "recommendations": [
+    "ted",
+    "knocked_up",
+    "the_game_plan",
+    "second_act",
+    "grown_ups",
+    "hot_tub_time_machine",
+    "yes_man",
+    "paul_blart_mall_cop",
+    "the_change_up",
+    "bad_boys_for_life",
+    "a_million_ways_to_die_in_the_west",
+    "the_hangover",
+    "little_man",
+    "the_pacifier",
+    "jackass_presents_bad_grandpa",
+    "coming_2_america",
+    "the_hangover_part_ii",
+    "old_dogs",
+    "zoolander_2",
+    "masterminds",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "hotel_transylvania_transformania",
+    "my_spy",
+    "good_luck_chuck",
+    "dinner_for_schmucks"
   ]
 }

@@ -175,5 +175,32 @@
       "rating": "10",
       "text": "One of the greatest American movies ever made. There has been a great anti-American effort to slander this movie, but you can be assured this is one of the best movies you will ever watch. Stellar acting, epic action, and excellent pacing. For sure worth a watch... or two... or every year!"
     }
+  ],
+  "recommendations": [
+    "troy",
+    "enemy_at_the_gates",
+    "hacksaw_ridge",
+    "the_deer_hunter",
+    "braveheart",
+    "alexander",
+    "kingdom_of_heaven",
+    "american_gangster",
+    "we_were_soldiers",
+    "the_last_of_the_mohicans",
+    "the_last_duel",
+    "gladiator",
+    "the_monuments_men",
+    "platoon",
+    "darkest_hour",
+    "midway",
+    "blood_diamond",
+    "the_1517_to_paris",
+    "black_hawk_down",
+    "the_last_samurai",
+    "inglourious_basterds",
+    "master_and_commander_the_far_side_of_the_world",
+    "samson",
+    "valkyrie",
+    "the_eagle"
   ]
 }

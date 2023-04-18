@@ -44,5 +44,32 @@
       "rating": "6",
       "text": "Es una pel\u00edcula pasable; la trama es decente y la actuaci\u00f3n de Samuel Hunt es buena."
     }
+  ],
+  "recommendations": [
+    "machine_gun_preacher",
+    "exodus_gods_and_kings",
+    "the_road",
+    "into_the_wild",
+    "heaven_is_for_real",
+    "silence",
+    "i_still_believe",
+    "just_mercy",
+    "the_book_thief",
+    "the_boy_who_harnessed_the_wind",
+    "risen",
+    "dark_waters",
+    "lone_survivor",
+    "unbroken",
+    "the_33",
+    "greenland",
+    "miracles_from_heaven",
+    "united_93",
+    "snowden",
+    "sin_nombre",
+    "collateral_beauty",
+    "the_lost_city_of_z",
+    "zero_dark_thirty",
+    "the_hunt",
+    "the_mauritanian"
   ]
 }

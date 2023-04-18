@@ -201,5 +201,32 @@
       "rating": "8",
       "text": "Cast Away has another best performance by Tom Hanks makes this incredibly a great tom Hanks movie."
     }
+  ],
+  "recommendations": [
+    "everest",
+    "the_place_beyond_the_pines",
+    "only_the_brave",
+    "apollo_13",
+    "sully",
+    "flight",
+    "blue_valentine",
+    "into_the_wild",
+    "the_perfect_storm",
+    "first_man",
+    "manchester_by_the_sea",
+    "127_hours",
+    "the_florida_project",
+    "the_light_between_oceans",
+    "the_finest_hours",
+    "the_rover",
+    "the_impossible",
+    "the_descendants",
+    "in_the_heart_of_the_sea",
+    "beirut",
+    "prisoners",
+    "the_terminal",
+    "the_boy_who_harnessed_the_wind",
+    "21_grams",
+    "no_country_for_old_men"
   ]
 }

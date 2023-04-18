@@ -126,5 +126,32 @@
       "rating": "10",
       "text": "amazing movie made me cry selena gomez wishes to be in it i love it more than my mother"
     }
+  ],
+  "recommendations": [
+    "the_lucky_one",
+    "the_vow",
+    "if_i_stay",
+    "seven_pounds",
+    "a_walk_to_remember",
+    "abduction",
+    "aquamarine",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "midnight_sun",
+    "meet_joe_black",
+    "awake",
+    "gone_girl",
+    "jumper",
+    "no_strings_attached",
+    "the_lake_house",
+    "the_twilight_saga_eclipse",
+    "greenberg",
+    "captain_marvel",
+    "the_fault_in_our_stars",
+    "second_act",
+    "a_wrinkle_in_time",
+    "bridge_to_terabithia",
+    "the_notebook",
+    "there_will_be_blood",
+    "gone_baby_gone"
   ]
 }

@@ -128,5 +128,32 @@
       "rating": "10",
       "text": "$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.$.\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0\u25a0\u300b\u25a0\u300b\u25a0\u300b\u25a0"
     }
+  ],
+  "recommendations": [
+    "evolution",
+    "jungle_cruise",
+    "mars_attacks",
+    "guardians_of_the_galaxy",
+    "the_losers",
+    "american_ultra",
+    "iron_sky",
+    "snatch",
+    "demolition_man",
+    "jonah_hex",
+    "indiana_jones_and_the_temple_of_doom",
+    "gangster_squad",
+    "rampage",
+    "men_in_black",
+    "red_2",
+    "the_gentlemen",
+    "hercules",
+    "transformers",
+    "prisoners_of_the_ghostland",
+    "thor_ragnarok",
+    "skyscraper",
+    "red",
+    "red_notice",
+    "paul",
+    "the_meg"
   ]
 }

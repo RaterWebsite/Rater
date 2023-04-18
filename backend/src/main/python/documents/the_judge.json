@@ -224,5 +224,32 @@
       "rating": "5",
       "text": "The Judge benefits most from an excellent leading performance by Robert Downey Jr. and great supporting work by the great Robert Duvall. While The Judge is beautifully filmed, the film overall lacks some needed substance not to mention the 2 1/2 hour runtime, this is just way long."
     }
+  ],
+  "recommendations": [
+    "the_town",
+    "brothers",
+    "gone_baby_gone",
+    "silver_linings_playbook",
+    "arbitrage",
+    "all_the_money_in_the_world",
+    "the_lincoln_lawyer",
+    "donnie_brasco",
+    "black_mass",
+    "american_hustle",
+    "joy",
+    "the_fighter",
+    "widows",
+    "the_intern",
+    "fracture",
+    "as_good_as_it_gets",
+    "fences",
+    "rain_man",
+    "steve_jobs",
+    "the_descendants",
+    "the_iceman",
+    "knives_out",
+    "blue_jasmine",
+    "gifted",
+    "the_terminal"
   ]
 }

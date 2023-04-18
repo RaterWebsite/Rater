@@ -111,5 +111,32 @@
       "rating": "10",
       "text": "I love The Little Mermaid so much! I love mermaids, I relate to Ariel. I've heard how she seems to be autistic and I am to so that's interesting. Just a fanon (fan canon) nothing more."
     }
+  ],
+  "recommendations": [
+    "aladdin",
+    "tarzan",
+    "the_hunchback_of_notre_dame",
+    "pocahontas",
+    "the_princess_and_the_frog",
+    "moana",
+    "finding_nemo",
+    "the_lion_king",
+    "brother_bear",
+    "song_of_the_sea",
+    "anastasia",
+    "mulan",
+    "labyrinth",
+    "sing",
+    "the_prince_of_egypt",
+    "tangled",
+    "the_sword_in_the_stone",
+    "the_jungle_book",
+    "toy_story",
+    "the_aristocats",
+    "bambi",
+    "toy_story_2",
+    "treasure_planet",
+    "luca",
+    "brave"
   ]
 }

@@ -87,5 +87,32 @@
       "rating": "6",
       "text": "----------------------------------6.0/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "paul_blart_mall_cop",
+    "thunder_force",
+    "night_at_the_museum",
+    "old_dogs",
+    "ted",
+    "neighbors_2_sorority_rising",
+    "a_million_ways_to_die_in_the_west",
+    "dirty_grandpa",
+    "little_fockers",
+    "bad_santa_2",
+    "the_change_up",
+    "masterminds",
+    "zookeeper",
+    "norbit",
+    "the_hangover_part_ii",
+    "wanderlust",
+    "the_ridiculous_6",
+    "dodgeball_a_true_underdog_story",
+    "paul",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "due_date",
+    "dinner_for_schmucks",
+    "zoolander",
+    "what_happens_in_vegas",
+    "evan_almighty"
   ]
 }

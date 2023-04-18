@@ -106,5 +106,32 @@
       "rating": "0",
       "text": "This movie is so basic, and it fails at the attempted jokes. The characters are all so stereotypical, like the evil Russian guy and the little girl who loves pink sparkly dresses and pink sparkly in general. The plot is just like every other action movie, but is not executed have as well. If you care about your entertainment level, I recommend not watching this."
     }
+  ],
+  "recommendations": [
+    "kick_ass",
+    "paul_blart_mall_cop",
+    "kick_ass_2",
+    "this_means_war",
+    "thunder_force",
+    "21_jump_street",
+    "zookeeper",
+    "baywatch",
+    "machete_kills",
+    "dirty_grandpa",
+    "the_hangover_part_ii",
+    "the_green_hornet",
+    "spy",
+    "four_brothers",
+    "machete",
+    "a_million_ways_to_die_in_the_west",
+    "crank",
+    "mission_impossible_iii",
+    "venom_let_there_be_carnage",
+    "the_spy_who_dumped_me",
+    "minions",
+    "little_fockers",
+    "red",
+    "deadpool_2",
+    "the_bounty_hunter"
   ]
 }

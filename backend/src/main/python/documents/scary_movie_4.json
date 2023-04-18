@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "I used to think House of the Dead was the worst movie ever. Then i saw scary movie 4."
     }
+  ],
+  "recommendations": [
+    "scary_movie_3",
+    "scary_movie_2",
+    "superhero_movie",
+    "scary_movie",
+    "a_haunted_house",
+    "the_dictator",
+    "hot_fuzz",
+    "the_three_stooges",
+    "anchorman_2_the_legend_continues",
+    "one_year_one_night",
+    "hot_tub_time_machine",
+    "vampires_suck",
+    "22_jump_street",
+    "scary_movie_5",
+    "the_watch",
+    "meet_the_spartans",
+    "this_is_the_end",
+    "zoolander_2",
+    "nacho_libre",
+    "30_minutes_or_less",
+    "dumb_and_dumber_to",
+    "jackass_presents_bad_grandpa",
+    "johnny_english_reborn",
+    "ted_2",
+    "kangaroo_jack"
   ]
 }

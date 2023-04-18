@@ -228,5 +228,32 @@
       "rating": "7",
       "text": "The second part doesn't have the charm of the first but it's still a fun movie. I think the plot was somehow complicated (especially for a younger audience). The jokes weren't all that good. The music was enjoyable. I give a 72%. It was a decent movie."
     }
+  ],
+  "recommendations": [
+    "rio_2",
+    "frozen_ii",
+    "the_lego_movie",
+    "my_little_pony_the_movie",
+    "despicable_me_2",
+    "incredibles_2",
+    "hotel_transylvania_2",
+    "ice_age_the_meltdown",
+    "happy_feet_two",
+    "turbo",
+    "the_croods",
+    "ferdinand",
+    "hotel_transylvania_3_summer_vacation",
+    "the_secret_life_of_pets_2",
+    "penguins_of_madagascar",
+    "despicable_me_3",
+    "storks",
+    "bumblebee",
+    "minions",
+    "madagascar_escape_2_africa",
+    "tomorrowland",
+    "sing_2",
+    "trolls",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_lego_ninjago_movie"
   ]
 }

@@ -186,5 +186,32 @@
       "rating": "7",
       "text": "I always enjoy natural disaster movies (and Gerard Butler). It was entertaining and stressful enough."
     }
+  ],
+  "recommendations": [
+    "children_of_men",
+    "snowpiercer",
+    "downsizing",
+    "contagion",
+    "the_midnight_sky",
+    "the_purge_anarchy",
+    "the_titan",
+    "voyagers",
+    "what_happened_to_monday",
+    "the_first_purge",
+    "vivarium",
+    "chaos_walking",
+    "colossal",
+    "stowaway",
+    "annihilation",
+    "the_grey",
+    "lucy",
+    "elysium",
+    "zero_dark_thirty",
+    "the_purge",
+    "the_purge_election_year",
+    "noah",
+    "source_code",
+    "the_day_after_tomorrow",
+    "pompeii"
   ]
 }

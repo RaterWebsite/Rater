@@ -67,5 +67,32 @@
       "rating": "5",
       "text": "There are some genuine funny moments in this. It\u2019s a mediocre movie all around but it certainly isn\u2019t a bad movie."
     }
+  ],
+  "recommendations": [
+    "tron_legacy",
+    "the_ultimate_gift",
+    "alita_battle_angel",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "togo",
+    "how_to_train_your_dragon",
+    "sinbad_legend_of_the_seven_seas",
+    "klaus",
+    "zootopia",
+    "dredd",
+    "cruella",
+    "the_three_musketeers",
+    "john_carter",
+    "eternals",
+    "blade_of_the_47_ronin",
+    "peter_rabbit",
+    "atlantis_the_lost_empire",
+    "oz_the_great_and_powerful",
+    "peter_pan",
+    "my_little_pony_the_movie",
+    "kung_fu_panda_3",
+    "101_dalmatians",
+    "aquaman",
+    "oblivion",
+    "morbius"
   ]
 }

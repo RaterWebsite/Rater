@@ -209,5 +209,32 @@
       "rating": "9",
       "text": "You should absolutely check it out; after seeing it, I was tempted to go have a McDonald's. And it may be on its way as you read this review so just know your missing out."
     }
+  ],
+  "recommendations": [
+    "gold",
+    "wall_street",
+    "a_bronx_tale",
+    "nightcrawler",
+    "joy",
+    "hidden_figures",
+    "donnie_brasco",
+    "dallas_buyers_club",
+    "richard_jewell",
+    "42",
+    "american_made",
+    "wall_street_money_never_sleeps",
+    "blow",
+    "brian_banks",
+    "catch_me_if_you_can",
+    "steve_jobs",
+    "sully",
+    "the_lincoln_lawyer",
+    "enemy_of_the_state",
+    "the_terminal",
+    "a_beautiful_day_in_the_neighborhood",
+    "the_post",
+    "a_hologram_for_the_king",
+    "hell_or_high_water",
+    "fighting_with_my_family"
   ]
 }

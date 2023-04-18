@@ -199,5 +199,32 @@
       "rating": "10",
       "text": "Need I say it? A near perfect film, from a nearly evil human being. One of the best ever."
     }
+  ],
+  "recommendations": [
+    "insomnia",
+    "rear_window",
+    "catch_me_if_you_can",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_grand_budapest_hotel",
+    "casino",
+    "the_godfather_part_ii",
+    "the_last_of_the_mohicans",
+    "motherless_brooklyn",
+    "the_sting",
+    "hell_or_high_water",
+    "primal_fear",
+    "rush",
+    "nocturnal_animals",
+    "murder_on_the_orient_express",
+    "the_untouchables",
+    "goodfellas",
+    "north_by_northwest",
+    "body_of_lies",
+    "last_night_in_soho",
+    "whiplash",
+    "once_upon_a_time_in_america",
+    "the_devil_all_the_time",
+    "zodiac",
+    "gladiator"
   ]
 }

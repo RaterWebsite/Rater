@@ -182,5 +182,32 @@
       "rating": "6",
       "text": "The movie wasn't really that good. Everything looked pretty awesome though. It was a really good idea for a movie, but could have been better."
     }
+  ],
+  "recommendations": [
+    "you_were_never_really_here",
+    "eyes_wide_shut",
+    "mandy",
+    "the_killing_of_a_sacred_deer",
+    "the_birds",
+    "the_invisible_man",
+    "stoker",
+    "dark_city",
+    "under_the_skin",
+    "constantine",
+    "the_raven",
+    "the_neon_demon",
+    "color_out_of_space",
+    "the_mothman_prophecies",
+    "titane",
+    "the_machinist",
+    "ex_machina",
+    "us",
+    "trance",
+    "a_cure_for_wellness",
+    "zodiac",
+    "last_night_in_soho",
+    "candyman",
+    "the_crow",
+    "the_ninth_gate"
   ]
 }

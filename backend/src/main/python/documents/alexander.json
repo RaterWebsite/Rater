@@ -181,5 +181,32 @@
       "rating": "4",
       "text": "At 3 hours this talk-a-thon is one tedious slog.Oliver Stone's ambitious movie stumbles in it's dialogue, pacing and casting."
     }
+  ],
+  "recommendations": [
+    "there_will_be_blood",
+    "hereafter",
+    "samson",
+    "blood_diamond",
+    "the_1517_to_paris",
+    "valkyrie",
+    "perfume_the_story_of_a_murderer",
+    "revolutionary_road",
+    "the_last_duel",
+    "ben_hur",
+    "the_good_shepherd",
+    "the_social_network",
+    "troy",
+    "master_and_commander_the_far_side_of_the_world",
+    "hugo",
+    "the_godfather_part_iii",
+    "all_eyez_on_me",
+    "the_power_of_the_dog",
+    "unbroken",
+    "risen",
+    "invictus",
+    "eastern_promises",
+    "blade_of_the_47_ronin",
+    "the_monuments_men",
+    "black_panther_wakanda_forever"
   ]
 }

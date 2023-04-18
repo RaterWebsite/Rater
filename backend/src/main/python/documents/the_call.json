@@ -225,5 +225,32 @@
       "rating": "5",
       "text": "Too corny too melodramatic.  It just did not appeal to me.  I like Halle Barry (her best was Gothika and John Wick 3).  I like the director Brad Anderson, but the only movie I like of his is The Machinist."
     }
+  ],
+  "recommendations": [
+    "the_next_three_days",
+    "man_on_a_ledge",
+    "the_little_things",
+    "a_walk_among_the_tombstones",
+    "the_commuter",
+    "a_perfect_getaway",
+    "den_of_thieves",
+    "seeking_justice",
+    "vacancy",
+    "split",
+    "21_bridges",
+    "10_cloverfield_lane",
+    "bad_times_at_the_el_royale",
+    "run",
+    "i_see_you",
+    "cellular",
+    "cold_pursuit",
+    "identity",
+    "the_invisible_man",
+    "red_sparrow",
+    "good_time",
+    "broken_city",
+    "the_accountant",
+    "unstoppable",
+    "the_rental"
   ]
 }

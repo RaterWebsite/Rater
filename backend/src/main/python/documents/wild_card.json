@@ -102,5 +102,32 @@
       "rating": "7",
       "text": "An entertains movie, although I\u2019m a sucker for down and out detective (sort of) movies about gamblers."
     }
+  ],
+  "recommendations": [
+    "kingsman_the_golden_circle",
+    "tomb_raider",
+    "the_november_man",
+    "the_ice_road",
+    "escape_plan",
+    "jumper",
+    "honest_thief",
+    "furious_7",
+    "free_fire",
+    "contraband",
+    "bloodshot",
+    "nobody",
+    "lockout",
+    "the_mechanic",
+    "the_old_guard",
+    "infinite",
+    "xxx_return_of_xander_cage",
+    "man_on_a_ledge",
+    "rocknrolla",
+    "the_tax_collector",
+    "premium_rush",
+    "skyscraper",
+    "the_marine",
+    "jolt",
+    "miami_vice"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "kickass! cant wait til Saw 5."
     }
+  ],
+  "recommendations": [
+    "jigsaw",
+    "saw_vi",
+    "saw_3d",
+    "saw_iii",
+    "saw_v",
+    "paranormal_activity_4",
+    "spiral_from_the_book_of_saw",
+    "unfriended_dark_web",
+    "saw_ii",
+    "paranormal_activity_the_marked_ones",
+    "paranormal_activity_3",
+    "rings",
+    "saw",
+    "the_devil_inside",
+    "unfriended",
+    "better_watch_out",
+    "paranormal_activity_2",
+    "bird_box",
+    "maze_runner_the_scorch_trials",
+    "the_new_mutants",
+    "chernobyl_diaries",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "the_hunger_games_mockingjay_part_1",
+    "would_you_rather",
+    "the_collection"
   ]
 }

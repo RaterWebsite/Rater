@@ -153,5 +153,32 @@
       "rating": "10",
       "text": "The movie that few like but I'm in love with kane in the form of crazy assassin"
     }
+  ],
+  "recommendations": [
+    "friday_the_13th",
+    "rings",
+    "the_bye_bye_man",
+    "ouija",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "red_dawn",
+    "jeepers_creepers_reborn",
+    "the_eye",
+    "the_messengers",
+    "slender_man",
+    "venom",
+    "the_babysitter_killer_queen",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "drag_me_to_hell",
+    "cabin_fever",
+    "the_host",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "the_darkest_hour",
+    "the_wolfman",
+    "malignant",
+    "legion",
+    "stay_alive",
+    "the_grudge_2",
+    "the_curse_of_la_llorona",
+    "the_devil_inside"
   ]
 }

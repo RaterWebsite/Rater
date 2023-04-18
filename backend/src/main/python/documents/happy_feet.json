@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "You should see Happy Feet--not only because it's stupendous, but also because it features the best dancing you'll see on the screen this year."
     }
+  ],
+  "recommendations": [
+    "cloudy_with_a_chance_of_meatballs",
+    "the_smurfs",
+    "the_angry_birds_movie_2",
+    "coraline",
+    "dora_and_the_lost_city_of_gold",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "uglydolls",
+    "where_the_wild_things_are",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "the_angry_birds_movie",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "free_birds",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "chicken_little",
+    "the_boss_baby_christmas_bonus",
+    "the_lego_movie_2_the_second_part",
+    "the_lego_movie",
+    "we_can_be_heroes",
+    "shark_tale",
+    "the_boss_baby_family_business",
+    "bridge_to_terabithia",
+    "frozen_ii",
+    "astro_boy",
+    "paranorman",
+    "the_croods_a_new_age"
   ]
 }

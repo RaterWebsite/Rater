@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A fun and fantastic adventure story. Wonderful, imaginative settings and characters, and it feels like a return to the fun romps of Star Wars and Indiana Jones- back when they were good!"
     }
+  ],
+  "recommendations": [
+    "tomorrowland",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "edge_of_tomorrow",
+    "green_lantern",
+    "oblivion",
+    "alita_battle_angel",
+    "tron_legacy",
+    "serenity",
+    "percy_jackson_sea_of_monsters",
+    "glass",
+    "ben_hur",
+    "terminator_genisys",
+    "twelve_monkeys",
+    "dredd",
+    "it_chapter_two",
+    "the_chronicles_of_narnia_prince_caspian",
+    "bright",
+    "superman_ii",
+    "the_hobbit_an_unexpected_journey",
+    "national_treasure",
+    "warcraft",
+    "avengers_age_of_ultron",
+    "i_am_number_four",
+    "inferno",
+    "ghostbusters_afterlife"
   ]
 }

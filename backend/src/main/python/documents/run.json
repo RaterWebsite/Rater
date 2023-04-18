@@ -110,5 +110,32 @@
       "rating": "9",
       "text": "Psycho movie...! Like it for sure... Will creat a tension cloud..and very engaging movie .!!"
     }
+  ],
+  "recommendations": [
+    "i_see_you",
+    "the_call",
+    "before_i_go_to_sleep",
+    "the_next_three_days",
+    "the_good_liar",
+    "orphan",
+    "the_rental",
+    "man_on_a_ledge",
+    "a_walk_among_the_tombstones",
+    "summer_of_84",
+    "split",
+    "the_invisible_man",
+    "10_cloverfield_lane",
+    "the_little_things",
+    "marrowbone",
+    "a_simple_favor",
+    "the_black_phone",
+    "ready_or_not",
+    "gone_girl",
+    "the_others",
+    "the_uninvited",
+    "bad_times_at_the_el_royale",
+    "prisoners",
+    "insidious_chapter_3",
+    "the_lodge"
   ]
 }

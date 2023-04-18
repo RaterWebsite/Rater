@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I absolutely loved this movie.  It became my favorite movie as soon as I saw it.  If you are a fan of action movies I cannot recommend this movie enough.  It's a blast!"
     }
+  ],
+  "recommendations": [
+    "the_expendables",
+    "the_expendables_3",
+    "xxx_return_of_xander_cage",
+    "the_marine",
+    "6_underground",
+    "transporter_2",
+    "death_race",
+    "mission_impossible_iii",
+    "bullet_to_the_head",
+    "salt",
+    "furious_7",
+    "live_free_or_die_hard",
+    "crank",
+    "bloodshot",
+    "the_transporter_refueled",
+    "lockout",
+    "the_a_team",
+    "mechanic_resurrection",
+    "the_fate_of_the_furious",
+    "venom_let_there_be_carnage",
+    "transporter_3",
+    "escape_plan",
+    "angel_has_fallen",
+    "12_rounds",
+    "the_losers"
   ]
 }

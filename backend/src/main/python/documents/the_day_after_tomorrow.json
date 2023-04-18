@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "The Day After Tomorrow is a summer blockbuster that has some great disaster scenes and a good musical score. Other than that, the movie doesn't have much more to offer."
     }
+  ],
+  "recommendations": [
+    "sunshine",
+    "into_the_storm",
+    "monsters",
+    "battle_los_angeles",
+    "elysium",
+    "2012",
+    "geostorm",
+    "independence_day_resurgence",
+    "the_tomorrow_war",
+    "jurassic_world_fallen_kingdom",
+    "war_of_the_worlds",
+    "sanctum",
+    "poseidon",
+    "mortal_engines",
+    "the_grey",
+    "code_8",
+    "pandorum",
+    "independence_day",
+    "gravity",
+    "the_purge_election_year",
+    "jupiter_ascending",
+    "a_quiet_place_part_ii",
+    "the_5th_wave",
+    "captive_state",
+    "tomorrowland"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "This was a great zombie movie ... I enjoyed the dynamic between the heroes and the twists that caused even more stress between the actors.  One of my favorite zombie movies ever."
     }
+  ],
+  "recommendations": [
+    "the_girl_with_all_the_gifts",
+    "world_war_z",
+    "daybreakers",
+    "the_purge_election_year",
+    "night_of_the_living_dead",
+    "the_crazies",
+    "they_live",
+    "chernobyl_diaries",
+    "annabelle_comes_home",
+    "it_follows",
+    "the_descent",
+    "ouija_origin_of_evil",
+    "the_ritual",
+    "sunshine",
+    "the_conjuring_the_devil_made_me_do_it",
+    "monsters",
+    "event_horizon",
+    "house_of_1000_corpses",
+    "the_strangers_prey_at_night",
+    "pandorum",
+    "the_day_after_tomorrow",
+    "the_last_days_on_mars",
+    "insidious_the_last_key",
+    "us",
+    "battle_los_angeles"
   ]
 }

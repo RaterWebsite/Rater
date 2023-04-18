@@ -82,5 +82,32 @@
       "rating": "9",
       "text": "----------------------------------9.4/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "the_princess_bride",
+    "stardust",
+    "onward",
+    "paddington",
+    "christopher_robin",
+    "enchanted",
+    "nanny_mcphee",
+    "last_christmas",
+    "up",
+    "godmothered",
+    "klaus",
+    "me_and_earl_and_the_dying_girl",
+    "the_peanuts_movie",
+    "groundhog_day",
+    "paddington_2",
+    "the_polar_express",
+    "elf",
+    "a_cinderella_story",
+    "the_star",
+    "ratatouille",
+    "eternal_sunshine_of_the_spotless_mind",
+    "arthur_christmas",
+    "10_things_i_hate_about_you",
+    "a_christmas_carol",
+    "the_notebook"
   ]
 }

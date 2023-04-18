@@ -215,5 +215,32 @@
       "rating": "7",
       "text": "It's clever and so is the jokes, and even if the movie is not conceptually that great, it works! My score: 78"
     }
+  ],
+  "recommendations": [
+    "madagascar",
+    "shaun_the_sheep_movie",
+    "rango",
+    "hotel_transylvania_3_summer_vacation",
+    "storks",
+    "the_lego_movie",
+    "hotel_transylvania",
+    "penguins_of_madagascar",
+    "the_croods",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "puss_in_boots_the_last_wish",
+    "peter_rabbit",
+    "hotel_transylvania_2",
+    "ice_age_the_meltdown",
+    "despicable_me",
+    "over_the_hedge",
+    "ratatouille",
+    "despicable_me_2",
+    "rio_2",
+    "minions",
+    "turbo",
+    "madagascar_escape_2_africa",
+    "ice_age",
+    "smurfs_the_lost_village",
+    "meet_the_robinsons"
   ]
 }

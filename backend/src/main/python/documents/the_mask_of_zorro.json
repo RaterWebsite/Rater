@@ -101,5 +101,32 @@
       "rating": "10",
       "text": "$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf\u300b\u25cf"
     }
+  ],
+  "recommendations": [
+    "from_russia_with_love",
+    "for_your_eyes_only",
+    "octopussy",
+    "the_crow",
+    "entrapment",
+    "goldeneye",
+    "road_to_perdition",
+    "the_legend_of_zorro",
+    "tomorrow_never_dies",
+    "the_world_is_not_enough",
+    "the_rock",
+    "unforgiven",
+    "hellboy_ii_the_golden_army",
+    "the_spy_who_loved_me",
+    "butch_cassidy_and_the_sundance_kid",
+    "hellboy",
+    "the_hunt_for_red_october",
+    "king_arthur",
+    "captain_america_the_winter_soldier",
+    "conan_the_barbarian",
+    "rocky_iii",
+    "shanghai_noon",
+    "the_eagle",
+    "enemy_of_the_state",
+    "robin_hood_prince_of_thieves"
   ]
 }

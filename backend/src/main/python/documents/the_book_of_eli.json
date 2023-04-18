@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Great film. Another Denzel Washington masterpiece."
     }
+  ],
+  "recommendations": [
+    "v_for_vendetta",
+    "the_tomorrow_war",
+    "gods_of_egypt",
+    "surrogates",
+    "knowing",
+    "red_dawn",
+    "terminator_genisys",
+    "jumper",
+    "world_war_z",
+    "bright",
+    "the_mist",
+    "gamer",
+    "the_darkest_minds",
+    "polar",
+    "repo_men",
+    "riddick",
+    "i_am_legend",
+    "poseidon",
+    "morbius",
+    "the_twilight_saga_eclipse",
+    "pandorum",
+    "shadow_in_the_cloud",
+    "hercules",
+    "the_maze_runner",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull"
   ]
 }

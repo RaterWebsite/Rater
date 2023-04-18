@@ -40,5 +40,32 @@
       "rating": "7",
       "text": "Light-hearted, colourful and all in all a fun movie, Maverick offers a script full of entertaining twists and turns filled with memorable characters trying to outplay each other."
     }
+  ],
+  "recommendations": [
+    "the_nice_guys",
+    "some_like_it_hot",
+    "johnny_english_strikes_again",
+    "snatch",
+    "in_bruges",
+    "men_in_black",
+    "kingsman_the_secret_service",
+    "hot_shots",
+    "fargo",
+    "keeping_up_with_the_joneses",
+    "spenser_confidential",
+    "charade",
+    "role_models",
+    "american_ultra",
+    "logan_lucky",
+    "the_royal_tenenbaums",
+    "central_intelligence",
+    "lawless",
+    "blockers",
+    "spy",
+    "the_gentlemen",
+    "trading_places",
+    "mortdecai",
+    "life_after_beth",
+    "the_fifth_element"
   ]
 }

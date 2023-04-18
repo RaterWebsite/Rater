@@ -206,5 +206,32 @@
       "rating": "6",
       "text": "I think the fake CGI dog stops this film from being good but the music and story is really sweet and fun. Harrison Ford was definitely trying here."
     }
+  ],
+  "recommendations": [
+    "mowgli_legend_of_the_jungle",
+    "pan",
+    "dumbo",
+    "bumblebee",
+    "rango",
+    "9",
+    "how_to_train_your_dragon_2",
+    "the_croods",
+    "the_bfg",
+    "oz_the_great_and_powerful",
+    "cruella",
+    "the_good_dinosaur",
+    "my_little_pony_the_movie",
+    "the_adventures_of_tintin",
+    "cars",
+    "rio_2",
+    "tomorrowland",
+    "ferdinand",
+    "smurfs_the_lost_village",
+    "the_legend_of_tarzan",
+    "alice_through_the_looking_glass",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "spider_man_into_the_spider_verse",
+    "maleficent_mistress_of_evil",
+    "super_8"
   ]
 }

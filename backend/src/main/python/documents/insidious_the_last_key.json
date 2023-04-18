@@ -194,5 +194,32 @@
       "rating": "7",
       "text": "A pretty good movie with good moments of suspense. Here, too, as in the rest of the saga, there is a demon fighting infesting the house where the psychic grew up, here she will have to fight against the same demon that terrified her as a child, this detail is the only one that differentiates this insidious from the others."
     }
+  ],
+  "recommendations": [
+    "insidious_chapter_3",
+    "insidious_chapter_2",
+    "sinister_2",
+    "the_conjuring_the_devil_made_me_do_it",
+    "ouija_origin_of_evil",
+    "annabelle_comes_home",
+    "the_conjuring_2",
+    "scary_stories_to_tell_in_the_dark",
+    "happy_death_day_2u",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "dark_skies",
+    "the_grudge_2",
+    "the_invasion",
+    "annabelle",
+    "final_destination",
+    "annabelle_creation",
+    "malignant",
+    "the_conjuring",
+    "it",
+    "chernobyl_diaries",
+    "lights_out",
+    "a_quiet_place_part_ii",
+    "the_curse_of_la_llorona",
+    "the_invisible_man",
+    "the_ring"
   ]
 }

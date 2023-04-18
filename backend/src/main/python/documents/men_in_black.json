@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "My favourite alien comedy. Will Smith is as good as always, the concept is briliant, movie is full of fresh ideas and now a true classic. Highly recomended."
     }
+  ],
+  "recommendations": [
+    "men_in_black_ii",
+    "evolution",
+    "mars_attacks",
+    "the_nice_guys",
+    "wild_wild_west",
+    "johnny_english_strikes_again",
+    "iron_man",
+    "the_fifth_element",
+    "the_gentlemen",
+    "thor_ragnarok",
+    "demolition_man",
+    "madagascar_escape_2_africa",
+    "austin_powers_international_man_of_mystery",
+    "ghostbusters",
+    "captain_america_the_first_avenger",
+    "last_action_hero",
+    "american_ultra",
+    "snatch",
+    "kingsman_the_secret_service",
+    "robots",
+    "the_losers",
+    "red_2",
+    "the_league_of_extraordinary_gentlemen",
+    "paul",
+    "guardians_of_the_galaxy"
   ]
 }

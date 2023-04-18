@@ -166,5 +166,32 @@
       "rating": "9",
       "text": "Here is, one of the best creation from Tim Burton, magnificent movie, very good songs and visually so beautiful."
     }
+  ],
+  "recommendations": [
+    "a_christmas_carol",
+    "tangled",
+    "the_princess_and_the_frog",
+    "winnie_the_pooh_blood_and_honey",
+    "treasure_planet",
+    "aladdin",
+    "klaus",
+    "the_lion_king",
+    "arthur_christmas",
+    "the_sword_in_the_stone",
+    "frankenweenie",
+    "rio",
+    "anastasia",
+    "charlie_and_the_chocolate_factory",
+    "the_grinch",
+    "trolls",
+    "atlantis_the_lost_empire",
+    "vivo",
+    "toy_story",
+    "the_polar_express",
+    "over_the_moon",
+    "who_framed_roger_rabbit",
+    "the_muppets",
+    "finding_nemo",
+    "mary_poppins_returns"
   ]
 }

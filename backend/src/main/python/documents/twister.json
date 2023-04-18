@@ -174,5 +174,32 @@
       "rating": "9",
       "text": "Twister is incredible and had good graphics and CGI for the 1990s. The characters are enjoyable and the story keeps you on the edge of your seat for the whole movie. Though if you really care about the science, they didn\u2019t really do well with the actual meteorology part. Awesome movie!"
     }
+  ],
+  "recommendations": [
+    "elysium",
+    "san_andreas",
+    "pompeii",
+    "armageddon",
+    "ant_man_and_the_wasp_quantumania",
+    "transformers",
+    "race_to_witch_mountain",
+    "skyscraper",
+    "independence_day",
+    "the_day_after_tomorrow",
+    "bumblebee",
+    "rampage",
+    "into_the_storm",
+    "poseidon",
+    "super_8",
+    "doctor_strange",
+    "project_power",
+    "upgrade",
+    "creed_ii",
+    "thor",
+    "avengers_age_of_ultron",
+    "transformers_dark_of_the_moon",
+    "hanna",
+    "the_ice_road",
+    "after_earth"
   ]
 }

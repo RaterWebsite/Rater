@@ -213,5 +213,32 @@
       "rating": "9",
       "text": "This shd be a cult classic in the genre of pink panther. The over the top british humour is excellent. A thoroughly enjoyable movie. If you hv read the novels u wd enjoy even more."
     }
+  ],
+  "recommendations": [
+    "logan_lucky",
+    "burn_after_reading",
+    "johnny_english_strikes_again",
+    "pitch_perfect_2",
+    "thor_love_and_thunder",
+    "pineapple_express",
+    "zoolander_2",
+    "snatch",
+    "the_cobbler",
+    "johnny_english_reborn",
+    "deadpool_2",
+    "keeping_up_with_the_joneses",
+    "the_five_year_engagement",
+    "seven_psychopaths",
+    "the_gentlemen",
+    "in_bruges",
+    "the_happytime_murders",
+    "the_green_hornet",
+    "tropic_thunder",
+    "this_is_the_end",
+    "jumanji_the_next_level",
+    "wanderlust",
+    "the_wedding_ringer",
+    "blockers",
+    "deadpool"
   ]
 }

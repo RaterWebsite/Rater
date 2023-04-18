@@ -136,5 +136,32 @@
       "rating": "6",
       "text": "This was an okay movie! But not the best! I rewatched this movie and it was okay!"
     }
+  ],
+  "recommendations": [
+    "captain_underpants_the_first_epic_movie",
+    "ice_age_the_meltdown",
+    "spies_in_disguise",
+    "hotel_transylvania",
+    "hotel_transylvania_2",
+    "zookeeper",
+    "marmaduke",
+    "madagascar_escape_2_africa",
+    "the_smurfs",
+    "yogi_bear",
+    "alvin_and_the_chipmunks",
+    "madagascar",
+    "over_the_hedge",
+    "despicable_me",
+    "robots",
+    "minions",
+    "cloudy_with_a_chance_of_meatballs",
+    "ice_age",
+    "megamind",
+    "peter_rabbit",
+    "scooby_doo",
+    "penguins_of_madagascar",
+    "storks",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "despicable_me_2"
   ]
 }

@@ -85,5 +85,32 @@
       "rating": "5",
       "text": "Colette life story is interesting, but the movie doesn't really work, the movie really didn't have that power."
     }
+  ],
+  "recommendations": [
+    "mary_queen_of_scots",
+    "20th_century_women",
+    "the_danish_girl",
+    "men_of_honor",
+    "dances_with_wolves",
+    "the_imitation_game",
+    "the_white_tiger",
+    "bombshell",
+    "swallow",
+    "legends_of_the_fall",
+    "the_last_duel",
+    "closer",
+    "american_beauty",
+    "the_dig",
+    "the_last_king_of_scotland",
+    "nomadland",
+    "12_years_a_slave",
+    "hidden_figures",
+    "the_reader",
+    "agora",
+    "anna_karenina",
+    "green_book",
+    "thoroughbreds",
+    "cold_mountain",
+    "the_electrical_life_of_louis_wain"
   ]
 }

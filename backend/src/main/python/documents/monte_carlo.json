@@ -86,5 +86,32 @@
       "rating": "10",
       "text": "Loved Selena Gomez and her costars, the story is amazing and the way they filmed it in different areas is just amazing"
     }
+  ],
+  "recommendations": [
+    "young_adult",
+    "home_again",
+    "little_monsters",
+    "bride_wars",
+    "endless_love",
+    "cruel_intentions",
+    "about_a_boy",
+    "tooth_fairy",
+    "13_going_on_30",
+    "tall_girl",
+    "the_perks_of_being_a_wallflower",
+    "unforgettable",
+    "the_craft",
+    "something_borrowed",
+    "eat_pray_love",
+    "the_princess_diaries",
+    "moonrise_kingdom",
+    "the_age_of_adaline",
+    "you_again",
+    "knock_at_the_cabin",
+    "come_play",
+    "dora_and_the_lost_city_of_gold",
+    "the_space_between_us",
+    "sky_high",
+    "ingrid_goes_west"
   ]
 }

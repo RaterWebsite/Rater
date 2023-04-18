@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "This film drags on for far too long before becoming interesting. The cast do a great job in their flat, one dimensional roles. \"The Heights\" themselves seem like a concept rather than a fully formed suburb. The concept relies so heavily on stereotypes to feel authentic. The songs aren't as memorable or enjoyable as the trailer would have you believe."
     }
+  ],
+  "recommendations": [
+    "the_greatest_showman",
+    "the_sound_of_music",
+    "rocketman",
+    "yesterday",
+    "begin_again",
+    "sing_street",
+    "jingle_jangle_a_christmas_journey",
+    "mamma_mia_here_we_go_again",
+    "la_la_land",
+    "bohemian_rhapsody",
+    "annette",
+    "burlesque",
+    "vivo",
+    "whiplash",
+    "moulin_rouge",
+    "cats",
+    "sing",
+    "amadeus",
+    "marie_antoinette",
+    "music",
+    "a_star_is_born",
+    "chicago",
+    "youth",
+    "into_the_woods",
+    "the_great_gatsby"
   ]
 }

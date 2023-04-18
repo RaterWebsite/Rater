@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "This movie was pretty looking. Sometimes. On every other aspect, the movie was very bad. This universe has the potential of developing something special but instead aims at the lowest common denominator.\r Bland characters, bland story, go read a book."
     }
+  ],
+  "recommendations": [
+    "maleficent",
+    "the_nutcracker_and_the_four_realms",
+    "tomorrowland",
+    "maleficent_mistress_of_evil",
+    "cruella",
+    "alice_in_wonderland",
+    "pan",
+    "inkheart",
+    "oz_the_great_and_powerful",
+    "the_bfg",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_illusionist",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "ben_hur",
+    "a_wrinkle_in_time",
+    "eternals",
+    "hugo",
+    "bumblebee",
+    "seventh_son",
+    "black_panther_wakanda_forever",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_witches",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "victor_frankenstein",
+    "9"
   ]
 }

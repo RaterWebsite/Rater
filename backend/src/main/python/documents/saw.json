@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Ridiculous movie. Keeps you in suspense throughout the entire film. This horror movie keeps you thinking and gets you connected to the actors. Eleven out of ten star for this great flick."
     }
+  ],
+  "recommendations": [
+    "the_collection",
+    "the_hills_have_eyes",
+    "jigsaw",
+    "the_cabin_in_the_woods",
+    "insidious_chapter_2",
+    "malignant",
+    "dark_skies",
+    "saw_iii",
+    "the_grudge_2",
+    "wish_upon",
+    "the_last_house_on_the_left",
+    "the_grudge",
+    "the_ring",
+    "the_possession",
+    "devil",
+    "chernobyl_diaries",
+    "dead_silence",
+    "paranormal_activity",
+    "insidious",
+    "drag_me_to_hell",
+    "the_texas_chain_saw_massacre",
+    "scream_4",
+    "better_watch_out",
+    "annabelle",
+    "the_babadook"
   ]
 }

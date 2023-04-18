@@ -150,5 +150,32 @@
       "rating": "10",
       "text": "This is a thrilling action pack movie surely must watched.. Plus jessica is firstly seen in such film. She could also have played like a big boss of bad gang or something"
     }
+  ],
+  "recommendations": [
+    "gone_girl",
+    "tenet",
+    "inherent_vice",
+    "the_departed",
+    "fifty_shades_darker",
+    "the_accountant",
+    "next",
+    "the_counselor",
+    "broken_city",
+    "uncut_gems",
+    "there_will_be_blood",
+    "the_power_of_the_dog",
+    "beckett",
+    "21",
+    "what_happened_to_monday",
+    "lucky_number_slevin",
+    "tinker_tailor_soldier_spy",
+    "hereafter",
+    "the_many_saints_of_newark",
+    "kingsman_the_golden_circle",
+    "the_equalizer_2",
+    "captain_marvel",
+    "now_you_see_me",
+    "contagion",
+    "the_guardian"
   ]
 }

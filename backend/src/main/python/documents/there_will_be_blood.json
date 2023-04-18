@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "This was the most boring movie I have ever seen. Three hours of hell. Would have rather watched paint dry."
     }
+  ],
+  "recommendations": [
+    "the_power_of_the_dog",
+    "seven_pounds",
+    "the_curious_case_of_benjamin_button",
+    "meet_joe_black",
+    "slumdog_millionaire",
+    "boyhood",
+    "the_gambler",
+    "the_counselor",
+    "all_eyez_on_me",
+    "hereafter",
+    "the_butterfly_effect",
+    "inherent_vice",
+    "the_irishman",
+    "hugo",
+    "tenet",
+    "greenberg",
+    "revolutionary_road",
+    "black_panther_wakanda_forever",
+    "the_american",
+    "sanctum",
+    "alexander",
+    "pay_it_forward",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_hateful_eight",
+    "magnolia"
   ]
 }

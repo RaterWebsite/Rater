@@ -206,5 +206,32 @@
       "rating": "1",
       "text": "I detest this movie because this movie is a rip off of The Muppets. This includes the characters."
     }
+  ],
+  "recommendations": [
+    "neighbors_2_sorority_rising",
+    "the_hangover_part_ii",
+    "ted_2",
+    "a_million_ways_to_die_in_the_west",
+    "minions",
+    "burn_after_reading",
+    "this_is_the_end",
+    "the_cobbler",
+    "knocked_up",
+    "the_change_up",
+    "baywatch",
+    "jexi",
+    "barbershop_the_next_cut",
+    "good_boys",
+    "rough_night",
+    "night_at_the_museum",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "neighbors",
+    "jackass_presents_bad_grandpa",
+    "sausage_party",
+    "the_interview",
+    "zoolander_2",
+    "fifty_shades_of_black",
+    "thor_love_and_thunder",
+    "friday"
   ]
 }

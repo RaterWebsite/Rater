@@ -225,5 +225,32 @@
       "rating": "3",
       "text": "American Hustle is a somewhat uneven movie with disappointing and entertaining parts. The movie sagged in the middle with a tangled plot. Performances were generally good, although some seemed like a rehash from last year's Silver Linings Playbook. Overall, American Hustle is not a particularly memorable movie."
     }
+  ],
+  "recommendations": [
+    "true_grit",
+    "black_mass",
+    "legend",
+    "all_the_money_in_the_world",
+    "trouble_with_the_curve",
+    "lawless",
+    "the_aviator",
+    "casino",
+    "american_gangster",
+    "burnt",
+    "crazy_heart",
+    "inside_man",
+    "hustlers",
+    "mystic_river",
+    "changeling",
+    "the_king_of_staten_island",
+    "rush",
+    "logan_lucky",
+    "catch_me_if_you_can",
+    "joy",
+    "the_irishman",
+    "eddie_the_eagle",
+    "lucky_number_slevin",
+    "arbitrage",
+    "the_devil_all_the_time"
   ]
 }

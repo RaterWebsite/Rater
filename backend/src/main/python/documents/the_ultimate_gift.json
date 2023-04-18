@@ -90,5 +90,32 @@
       "rating": "9",
       "text": "This was a movie that I thought would be crappy, but turned out to be one of the greatest movies i've ever seen, it's got a touching story, my only complaint is that it's got bad acting, even with that you will enjoy the story, one I would highly recommend seeing."
     }
+  ],
+  "recommendations": [
+    "my_name_is_khan",
+    "eternals",
+    "the_blind_side",
+    "the_lucky_one",
+    "remember_the_titans",
+    "the_upside",
+    "just_before_i_go",
+    "the_shawshank_redemption",
+    "cinderella_man",
+    "coach_carter",
+    "eternal_sunshine_of_the_spotless_mind",
+    "passengers",
+    "paddington_2",
+    "eddie_the_eagle",
+    "wish_dragon",
+    "the_illusionist",
+    "ben_hur",
+    "delivery_man",
+    "breakthrough",
+    "blood_diamond",
+    "tomorrowland",
+    "cruella",
+    "the_king_of_staten_island",
+    "oz_the_great_and_powerful",
+    "jingle_jangle_a_christmas_journey"
   ]
 }

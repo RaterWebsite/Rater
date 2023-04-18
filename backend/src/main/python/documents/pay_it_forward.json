@@ -64,5 +64,32 @@
       "rating": "8",
       "text": "A good movie that gives us the idea of \u200b\u200bhow to change the world... If only, it had the best idea to make the world a better place... Perfect performances, very good script, very good plot and editing and photography were excellent... It is one of the movies that everyone needs to see."
     }
+  ],
+  "recommendations": [
+    "the_butterfly_effect",
+    "slumdog_millionaire",
+    "hereafter",
+    "tomorrowland",
+    "the_adjustment_bureau",
+    "code_8",
+    "bridge_to_terabithia",
+    "heaven_is_for_real",
+    "boyhood",
+    "seven_pounds",
+    "her",
+    "there_will_be_blood",
+    "the_giver",
+    "v_for_vendetta",
+    "chappie",
+    "3_idiots",
+    "fight_club",
+    "soul_surfer",
+    "babel",
+    "revolutionary_road",
+    "the_bucket_list",
+    "children_of_men",
+    "the_darkest_minds",
+    "the_curious_case_of_benjamin_button",
+    "contagion"
   ]
 }

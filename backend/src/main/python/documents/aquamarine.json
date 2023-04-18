@@ -79,5 +79,32 @@
       "rating": "7",
       "text": "----------------------------------7.0/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "the_lucky_one",
+    "no_strings_attached",
+    "the_last_song",
+    "we_bought_a_zoo",
+    "hustlers",
+    "the_boy_next_door",
+    "17_again",
+    "the_vow",
+    "dolittle",
+    "confessions_of_a_shopaholic",
+    "jumper",
+    "seven_pounds",
+    "the_break_up",
+    "we_are_your_friends",
+    "if_i_stay",
+    "juno",
+    "the_perfect_date",
+    "21",
+    "abduction",
+    "hannah_montana_the_movie",
+    "next",
+    "passengers",
+    "hancock",
+    "midnight_sun",
+    "red_riding_hood"
   ]
 }

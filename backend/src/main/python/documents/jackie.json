@@ -224,5 +224,32 @@
       "rating": "6",
       "text": "Natalie Portman is great as always but the film feels like it is missing something."
     }
+  ],
+  "recommendations": [
+    "the_father",
+    "the_last_king_of_scotland",
+    "the_danish_girl",
+    "american_beauty",
+    "spencer",
+    "judas_and_the_black_messiah",
+    "the_master",
+    "the_theory_of_everything",
+    "belfast",
+    "21_grams",
+    "melancholia",
+    "fences",
+    "12_years_a_slave",
+    "darkest_hour",
+    "spotlight",
+    "carol",
+    "legends_of_the_fall",
+    "the_impossible",
+    "manchester_by_the_sea",
+    "the_imitation_game",
+    "sicario",
+    "anna_karenina",
+    "philadelphia",
+    "lincoln",
+    "first_man"
   ]
 }

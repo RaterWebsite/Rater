@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "This movie was lit, what a bunch of haters. Its like a little bit of a time skip for the turtles"
     }
+  ],
+  "recommendations": [
+    "the_lego_movie",
+    "teen_titans_go_to_the_movies",
+    "ice_age_dawn_of_the_dinosaurs",
+    "free_birds",
+    "my_little_pony_the_movie",
+    "the_lego_ninjago_movie",
+    "hotel_transylvania",
+    "ice_age_the_meltdown",
+    "the_angry_birds_movie",
+    "incredibles_2",
+    "minions",
+    "hotel_transylvania_2",
+    "the_smurfs",
+    "sonic_the_hedgehog_2",
+    "meet_the_robinsons",
+    "speed_racer",
+    "minions_the_rise_of_gru",
+    "monsters_vs_aliens",
+    "paranorman",
+    "ice_age_continental_drift",
+    "wonder_park",
+    "the_spongebob_movie_sponge_out_of_water",
+    "despicable_me_2",
+    "chicken_little",
+    "guardians_of_the_galaxy"
   ]
 }

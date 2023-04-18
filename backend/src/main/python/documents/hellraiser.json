@@ -129,5 +129,32 @@
       "rating": "10",
       "text": "Easily among my top movies of all time. Doug Bradley gives the performance of a lifetime as the lead cenobite! The acting, sets, cinematography, and practical effects were all breathtaking when I first watched it and they still hold up today. It's simply just a cult classic, I love it!"
     }
+  ],
+  "recommendations": [
+    "the_conjuring_2",
+    "the_evil_dead",
+    "the_conjuring",
+    "the_babadook",
+    "the_texas_chain_saw_massacre",
+    "it_follows",
+    "the_ring",
+    "ouija_origin_of_evil",
+    "scary_stories_to_tell_in_the_dark",
+    "the_collector",
+    "evil_dead_ii",
+    "insidious_chapter_3",
+    "the_descent",
+    "sinister_2",
+    "the_prodigy",
+    "wrong_turn",
+    "the_woman_in_black",
+    "scream",
+    "lights_out",
+    "scream_2",
+    "candyman",
+    "annabelle_creation",
+    "terrifier",
+    "the_witch",
+    "the_texas_chainsaw_massacre"
   ]
 }

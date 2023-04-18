@@ -227,5 +227,32 @@
       "rating": "1",
       "text": "This is the first movie in years that I have walked out of. After 40 minutes of hoping it would turn the corner and get better the pain just continued."
     }
+  ],
+  "recommendations": [
+    "thunder_force",
+    "dirty_grandpa",
+    "a_million_ways_to_die_in_the_west",
+    "night_at_the_museum",
+    "get_hard",
+    "dodgeball_a_true_underdog_story",
+    "the_ridiculous_6",
+    "baywatch",
+    "zoolander",
+    "little_fockers",
+    "masterminds",
+    "hall_pass",
+    "the_change_up",
+    "tower_heist",
+    "30_minutes_or_less",
+    "the_other_guys",
+    "identity_thief",
+    "tammy",
+    "trainwreck",
+    "this_is_the_end",
+    "zack_and_miri_make_a_porno",
+    "what_happens_in_vegas",
+    "wanderlust",
+    "cop_out",
+    "ted"
   ]
 }

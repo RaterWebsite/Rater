@@ -142,5 +142,32 @@
       "rating": "10",
       "text": "That this movie has a critic rating of 50 is testament that critics and reviews should always be taken with a sizable grain of salt. A classic."
     }
+  ],
+  "recommendations": [
+    "enchanted",
+    "finding_nemo",
+    "brave",
+    "the_polar_express",
+    "the_hunchback_of_notre_dame",
+    "nanny_mcphee",
+    "christopher_robin",
+    "tooth_fairy",
+    "endless_love",
+    "ella_enchanted",
+    "moana",
+    "the_land_before_time",
+    "aladdin",
+    "we_bought_a_zoo",
+    "brother_bear",
+    "13_going_on_30",
+    "a_street_cat_named_bob",
+    "sing",
+    "sing_street",
+    "pocahontas",
+    "coraline",
+    "the_peanuts_movie",
+    "big",
+    "finding_dory",
+    "tangled"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Fight Club is better, but thats one of the best fight films ever, so inspiring and motivating. If you watch you will be amazed about the major characters focus."
     }
+  ],
+  "recommendations": [
+    "the_tax_collector",
+    "gamer",
+    "kick_ass",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "four_brothers",
+    "the_condemned",
+    "confessions_of_a_shopaholic",
+    "jumper",
+    "slumdog_millionaire",
+    "abduction",
+    "real_steel",
+    "seven_pounds",
+    "polar",
+    "assault_on_wall_street",
+    "the_karate_kid",
+    "i_am_number_four",
+    "crank_high_voltage",
+    "the_emoji_movie",
+    "gran_torino",
+    "the_guardian",
+    "spy_kids_all_the_time_in_the_world",
+    "code_8",
+    "shadow_in_the_cloud",
+    "the_twilight_saga_eclipse",
+    "we_can_be_heroes"
   ]
 }

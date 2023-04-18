@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "Just can't explain how much I liked this movie. MUST see if you're into good camera handling and good shots. Quite slow movie but that makes you enjoy it more. 10/10 for me, absolutely."
     }
+  ],
+  "recommendations": [
+    "hugo",
+    "the_green_knight",
+    "the_master",
+    "cloud_atlas",
+    "perfume_the_story_of_a_murderer",
+    "youth",
+    "the_social_network",
+    "barry_lyndon",
+    "annette",
+    "the_american",
+    "joker",
+    "drive",
+    "the_fountain",
+    "dunkirk",
+    "marie_antoinette",
+    "black_swan",
+    "all_eyez_on_me",
+    "you_were_never_really_here",
+    "the_neon_demon",
+    "babel",
+    "eyes_wide_shut",
+    "2001_a_space_odyssey",
+    "magnolia",
+    "there_will_be_blood",
+    "the_power_of_the_dog"
   ]
 }

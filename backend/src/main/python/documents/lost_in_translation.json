@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This is a great movie. It moved into my top 20 list a long time ago. Many films follow a very traditional structure. You know- a fully structured plot, a clear climax, and a \"feel good\" resolution at the end. These films generally treat you as a passenger, explicitly making it clear when these points in the story are happening (perhaps by showing a big explosion or a car chase). It's a great formula for entertainment, and there is a place for these movies. But Lost in Translation is not one of these movies. It leaves some room for the viewer to interpret events, the nature of relationships, and so on. It's not that people that don't like it aren't smart enough to understand it- it's just that they're likely approaching the movie the wrong way."
     }
+  ],
+  "recommendations": [
+    "her",
+    "babel",
+    "the_lobster",
+    "hugo",
+    "cloud_atlas",
+    "the_american",
+    "the_butterfly_effect",
+    "slumdog_millionaire",
+    "chappie",
+    "fifty_shades_darker",
+    "me_before_you",
+    "crash",
+    "v_for_vendetta",
+    "perfume_the_story_of_a_murderer",
+    "hereafter",
+    "the_green_knight",
+    "the_curious_case_of_benjamin_button",
+    "the_fault_in_our_stars",
+    "3_idiots",
+    "downsizing",
+    "okja",
+    "greenberg",
+    "colossal",
+    "no_country_for_old_men",
+    "nerve"
   ]
 }

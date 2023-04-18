@@ -203,5 +203,32 @@
       "rating": "7",
       "text": "From Dusk till Dawn is a cult movie of some kind. It is unique at least in that Quentin Tarantino plays one of the main roles. And of course, the contrast of the first half from the second is very different. A great cast, a second-half trash of the film and a fun ending. The viewer's film will definitely not leave indifferent"
     }
+  ],
+  "recommendations": [
+    "wrong_turn",
+    "malignant",
+    "vacancy",
+    "desperado",
+    "the_last_witch_hunter",
+    "copshop",
+    "the_cabin_in_the_woods",
+    "the_conjuring_the_devil_made_me_do_it",
+    "pride_and_prejudice_and_zombies",
+    "the_invasion",
+    "scream_4",
+    "hancock",
+    "the_babysitter",
+    "polar",
+    "mindhunters",
+    "the_wolf_of_snow_hollow",
+    "american_ultra",
+    "i_am_legend",
+    "scream_3",
+    "hercules",
+    "the_wolfman",
+    "final_destination",
+    "reservoir_dogs",
+    "ready_or_not",
+    "underworld_evolution"
   ]
 }

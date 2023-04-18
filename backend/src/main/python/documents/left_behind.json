@@ -54,5 +54,32 @@
       "rating": "8",
       "text": "i loved this movie so much! I thought it was awesome!!!!"
     }
+  ],
+  "recommendations": [
+    "son_of_god",
+    "eragon",
+    "the_da_vinci_code",
+    "idiocracy",
+    "the_emoji_movie",
+    "noah",
+    "the_book_of_eli",
+    "the_mortal_instruments_city_of_bones",
+    "bridge_to_terabithia",
+    "war_room",
+    "heaven_is_for_real",
+    "i_care_a_lot",
+    "mother",
+    "fifty_shades_of_grey",
+    "evan_almighty",
+    "knowing",
+    "meet_the_spartans",
+    "the_kissing_booth_2",
+    "saw_v",
+    "overcomer",
+    "never_back_down",
+    "confessions_of_a_shopaholic",
+    "woodlawn",
+    "norm_of_the_north",
+    "vampire_academy"
   ]
 }

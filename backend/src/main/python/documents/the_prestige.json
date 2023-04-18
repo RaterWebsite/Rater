@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This movie had me interested at the start. Watching them perform these magic tricks were astounding. The story about the bitter rivalry doesn't get points for originality, but it gets points because Jackman's and Bale's characters bring it to lengths that make you interested. it has quite a bit of funny moments, dramatic moments, suspenseful moments, and any other kind of moments. I kept my eyes glued to the screen from start to finish. It says on the cover: \"You want to see it again the second it's over\" and that is true."
     }
+  ],
+  "recommendations": [
+    "tenet",
+    "shutter_island",
+    "split",
+    "memento",
+    "twelve_monkeys",
+    "the_illusionist",
+    "the_usual_suspects",
+    "now_you_see_me",
+    "unbreakable",
+    "gone_girl",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "lucky_number_slevin",
+    "glass",
+    "inception",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "looper",
+    "inherent_vice",
+    "hereafter",
+    "the_accountant",
+    "mystic_river",
+    "no_country_for_old_men",
+    "the_machinist",
+    "predestination",
+    "the_number_23",
+    "what_happened_to_monday"
   ]
 }

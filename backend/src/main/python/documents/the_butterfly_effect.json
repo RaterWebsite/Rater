@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "This is an amazing movie. great story-line ... the ending is a bit sad, but still the movie is really solid. I don't see why the critics have given this movie such a less rating."
     }
+  ],
+  "recommendations": [
+    "pay_it_forward",
+    "hereafter",
+    "what_happened_to_monday",
+    "antebellum",
+    "tomorrowland",
+    "children_of_men",
+    "the_adjustment_bureau",
+    "cloud_atlas",
+    "the_lobster",
+    "the_darkest_minds",
+    "seven_pounds",
+    "v_for_vendetta",
+    "fight_club",
+    "boyhood",
+    "chappie",
+    "colossal",
+    "there_will_be_blood",
+    "vanilla_sky",
+    "the_hunger_games_mockingjay_part_1",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "slumdog_millionaire",
+    "the_giver",
+    "predestination",
+    "contagion",
+    "shutter_island"
   ]
 }

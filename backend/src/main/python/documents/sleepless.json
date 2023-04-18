@@ -82,5 +82,32 @@
       "rating": "6",
       "text": "Much better than it's reviews but still flawed. Its better than many of the movies in its genre but unfortunately its genre is a little dated. Jamie Foxx is a much better actor than he's given credit for and this was kind of entertaining."
     }
+  ],
+  "recommendations": [
+    "brick_mansions",
+    "bloodshot",
+    "wrath_of_man",
+    "the_transporter_refueled",
+    "contraband",
+    "rocknrolla",
+    "transporter_3",
+    "the_marine",
+    "triple_frontier",
+    "gemini_man",
+    "poseidon",
+    "the_three_musketeers",
+    "seeking_justice",
+    "the_a_team",
+    "infinite",
+    "american_assassin",
+    "the_old_guard",
+    "terminator_genisys",
+    "den_of_thieves",
+    "taken_2",
+    "escape_plan",
+    "the_tax_collector",
+    "desperado",
+    "clash_of_the_titans",
+    "the_last_witch_hunter"
   ]
 }

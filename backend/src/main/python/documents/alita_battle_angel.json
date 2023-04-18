@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Good movie. Maybe not particularly intellectually demanding, but I enjoyed the effects, fight scenes, aesthetics and even story surprised me here and there. Not sure, why \"critics\" rated it so low."
     }
+  ],
+  "recommendations": [
+    "the_adventures_of_tintin",
+    "oblivion",
+    "eternals",
+    "dredd",
+    "the_hunger_games_catching_fire",
+    "tron_legacy",
+    "avengers_age_of_ultron",
+    "john_carter",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "top_gun_maverick",
+    "blade_of_the_47_ronin",
+    "inception",
+    "moon",
+    "jupiter_ascending",
+    "the_bfg",
+    "9",
+    "edge_of_tomorrow",
+    "tomorrowland",
+    "the_hobbit_an_unexpected_journey",
+    "oz_the_great_and_powerful",
+    "rise_of_the_planet_of_the_apes",
+    "the_13th_warrior",
+    "ben_hur",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "serenity"
   ]
 }

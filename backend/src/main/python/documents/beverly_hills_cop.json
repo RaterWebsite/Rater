@@ -126,5 +126,32 @@
       "rating": "10",
       "text": "One of the best comedies of the 1980's.A vechile to show off the comedic talents of Eddie Murphy, this well paced and well written movie is still funny today."
     }
+  ],
+  "recommendations": [
+    "bad_boys",
+    "beverly_hills_cop_ii",
+    "beverly_hills_cop_iii",
+    "shanghai_noon",
+    "lethal_weapon",
+    "red",
+    "spy",
+    "red_heat",
+    "shanghai_knights",
+    "due_date",
+    "tower_heist",
+    "the_nice_guys",
+    "sister_act",
+    "the_pink_panther",
+    "the_boss",
+    "grudge_match",
+    "red_2",
+    "training_day",
+    "the_naked_gun_from_the_files_of_police_squad",
+    "true_lies",
+    "the_rock",
+    "spenser_confidential",
+    "lethal_weapon_3",
+    "skiptrace",
+    "from_paris_with_love"
   ]
 }

@@ -59,5 +59,32 @@
       "rating": "5",
       "text": "jon bon jovi in this film .thats a good dedicate for all army men saler man and ubots mens"
     }
+  ],
+  "recommendations": [
+    "the_eagle",
+    "enemy_at_the_gates",
+    "the_monuments_men",
+    "master_and_commander_the_far_side_of_the_world",
+    "centurion",
+    "the_great_wall",
+    "captain_america_the_winter_soldier",
+    "red_tails",
+    "darkest_hour",
+    "12_strong",
+    "full_metal_jacket",
+    "midway",
+    "the_last_samurai",
+    "the_magnificent_seven",
+    "das_boot",
+    "valkyrie",
+    "the_great_escape",
+    "independence_day",
+    "hostiles",
+    "1917",
+    "bone_tomahawk",
+    "deepwater_horizon",
+    "the_league_of_extraordinary_gentlemen",
+    "air_force_one",
+    "argo"
   ]
 }

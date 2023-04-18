@@ -86,5 +86,32 @@
       "rating": "8",
       "text": "A slasher film that turns darkly romantic near the end. What's not to respect about this film"
     }
+  ],
+  "recommendations": [
+    "the_others",
+    "last_night_in_soho",
+    "the_black_phone",
+    "the_conjuring_2",
+    "antlers",
+    "the_fly",
+    "it_follows",
+    "the_lodge",
+    "color_out_of_space",
+    "the_woman_in_black",
+    "insidious_chapter_3",
+    "the_babadook",
+    "the_conjuring",
+    "ouija_origin_of_evil",
+    "the_mothman_prophecies",
+    "us",
+    "scary_stories_to_tell_in_the_dark",
+    "the_invisible_man",
+    "the_conjuring_the_devil_made_me_do_it",
+    "crimson_peak",
+    "bone_tomahawk",
+    "hellraiser",
+    "lights_out",
+    "it",
+    "the_ritual"
   ]
 }

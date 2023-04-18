@@ -37,5 +37,32 @@
       "rating": "1",
       "text": "Ruim pra cacete, perca de tempo ter assistido esse treco, n\u00e3o recomendo e dublagem br t\u00e3o ruim quanto o filme."
     }
+  ],
+  "recommendations": [
+    "blade_runner",
+    "star_trek_first_contact",
+    "raiders_of_the_lost_ark",
+    "stargate",
+    "captain_america_the_winter_soldier",
+    "close_encounters_of_the_third_kind",
+    "pitch_black",
+    "jurassic_park",
+    "aliens",
+    "the_league_of_extraordinary_gentlemen",
+    "1917",
+    "apollo_11",
+    "apollo_13",
+    "the_crow",
+    "the_martian",
+    "sully",
+    "the_lord_of_the_rings_the_fellowship_of_the_ring",
+    "u_571",
+    "nightcrawler",
+    "enemy_of_the_state",
+    "independence_day",
+    "das_boot",
+    "europa_report",
+    "crimson_tide",
+    "deep_impact"
   ]
 }

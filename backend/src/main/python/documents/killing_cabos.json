@@ -54,5 +54,32 @@
       "rating": "3",
       "text": "What would happen if Quentin Tarantino vomited Pulp Fiction, nothing more than indifference to the film, the end must be explained in a YouTube video"
     }
+  ],
+  "recommendations": [
+    "the_big_lebowski",
+    "idiocracy",
+    "the_men_who_stare_at_goats",
+    "the_lego_movie",
+    "bright",
+    "coming_2_america",
+    "fear_and_loathing_in_las_vegas",
+    "the_interview",
+    "entourage",
+    "the_dictator",
+    "speed_racer",
+    "the_simpsons_movie",
+    "burn_after_reading",
+    "pulp_fiction",
+    "cloudy_with_a_chance_of_meatballs",
+    "minions_the_rise_of_gru",
+    "paul",
+    "free_birds",
+    "ghostbusters_afterlife",
+    "teen_titans_go_to_the_movies",
+    "friday",
+    "the_three_stooges",
+    "the_spongebob_squarepants_movie",
+    "sonic_the_hedgehog_2",
+    "the_hangover_part_ii"
   ]
 }

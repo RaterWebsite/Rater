@@ -38,5 +38,32 @@
       "rating": "10",
       "text": "Es una historia bien elaborada, con toques de humor y momentos sentimentales."
     }
+  ],
+  "recommendations": [
+    "destination_wedding",
+    "notting_hill",
+    "the_king_of_staten_island",
+    "palmer",
+    "jerry_maguire",
+    "while_you_were_sleeping",
+    "scent_of_a_woman",
+    "as_good_as_it_gets",
+    "in_bruges",
+    "crazy_heart",
+    "snow_white_and_the_huntsman",
+    "leaving_las_vegas",
+    "begin_again",
+    "american_hustle",
+    "the_paperboy",
+    "uncut_gems",
+    "taking_lives",
+    "the_place_beyond_the_pines",
+    "that_awkward_moment",
+    "magnolia",
+    "the_princess_switch",
+    "meet_joe_black",
+    "last_christmas",
+    "burnt",
+    "bachelorette"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "Awful, awful, awful. Perhaps the worst movie I have ever seen. Are we supposed to care about any of the characters? The plot and dialogue could have been developed by a middle-school drama club. The acting is atrocious, but the script is likely responsible for most of that. And the horror is simply gratuitous torture. I guess I'm giving it a \"1\" because I'm sure a worse movie will come out at some point... or perhaps not."
     }
+  ],
+  "recommendations": [
+    "jigsaw",
+    "saw_3d",
+    "saw_ii",
+    "saw_vi",
+    "saw_iv",
+    "paranormal_activity_4",
+    "saw",
+    "the_final_destination",
+    "final_destination_2",
+    "rings",
+    "would_you_rather",
+    "spiral_from_the_book_of_saw",
+    "the_last_house_on_the_left",
+    "saw_v",
+    "the_devil_inside",
+    "the_grudge_2",
+    "the_collection",
+    "hostel_part_ii",
+    "the_hills_have_eyes",
+    "malignant",
+    "texas_chainsaw_3d",
+    "devil",
+    "brightburn",
+    "the_strangers",
+    "paranormal_activity_the_marked_ones"
   ]
 }

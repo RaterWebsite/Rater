@@ -135,5 +135,32 @@
       "rating": "10",
       "text": "this film is one of the best films i have ever watched. I am grateful to be able to watch this film, the story of the friendship of a child and an old grandfather and the story of a lonely prince, really touching. when watching this film I felt emotions that I can't describe, the emotions in this film were successfully delivered. the adventure is no less interesting, there are many moral messages that you can take in this film."
     }
+  ],
+  "recommendations": [
+    "your_name",
+    "the_book_of_life",
+    "soul",
+    "luca",
+    "kubo_and_the_two_strings",
+    "the_bfg",
+    "onward",
+    "toy_story_3",
+    "the_prince_of_egypt",
+    "cinderella",
+    "the_lion_king",
+    "brave",
+    "moana",
+    "the_incredibles",
+    "atlantis_the_lost_empire",
+    "anastasia",
+    "the_nutcracker_and_the_four_realms",
+    "wolfwalkers",
+    "klaus",
+    "finding_dory",
+    "raya_and_the_last_dragon",
+    "song_of_the_sea",
+    "zootopia",
+    "over_the_moon",
+    "finding_nemo"
   ]
 }

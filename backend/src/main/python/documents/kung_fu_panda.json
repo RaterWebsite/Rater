@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "Fantastic action scenes and Jack Black knocks the ball out of the park. Hilarious to boot."
     }
+  ],
+  "recommendations": [
+    "kung_fu_panda_2",
+    "rango",
+    "kung_fu_panda_3",
+    "how_to_train_your_dragon",
+    "puss_in_boots_the_last_wish",
+    "the_croods",
+    "rio",
+    "madagascar",
+    "shaun_the_sheep_movie",
+    "the_forbidden_kingdom",
+    "megamind",
+    "atlantis_the_lost_empire",
+    "robots",
+    "ice_age",
+    "bolt",
+    "the_adventures_of_tintin",
+    "over_the_hedge",
+    "peter_rabbit",
+    "the_lego_movie",
+    "sinbad_legend_of_the_seven_seas",
+    "ratatouille",
+    "who_framed_roger_rabbit",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "ice_age_the_meltdown",
+    "spies_in_disguise"
   ]
 }

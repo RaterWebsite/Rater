@@ -135,5 +135,32 @@
       "rating": "10",
       "text": "Probably my Favorite Action Movie ever. It isn't just action, it's a take on Vietnam PTSD."
     }
+  ],
+  "recommendations": [
+    "shooter",
+    "john_wick",
+    "the_equalizer",
+    "the_mechanic",
+    "angel_has_fallen",
+    "john_wick_chapter_3_parabellum",
+    "the_italian_job",
+    "rambo_first_blood_part_ii",
+    "the_expendables",
+    "run_all_night",
+    "die_hard",
+    "the_terminator",
+    "bullet_to_the_head",
+    "safe",
+    "terminator_3_rise_of_the_machines",
+    "iron_man_2",
+    "nobody",
+    "the_expendables_3",
+    "true_lies",
+    "mechanic_resurrection",
+    "hercules",
+    "16_blocks",
+    "gangster_squad",
+    "homefront",
+    "mission_impossible_iii"
   ]
 }

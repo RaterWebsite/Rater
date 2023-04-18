@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This is such a, and movie. I felt inspired when Dr. Michael Morbius said \u201cIt\u2019s Morbin\u2019 time\u201d. Can\u2019t wait for the sequel."
     }
+  ],
+  "recommendations": [
+    "gods_of_egypt",
+    "they_live",
+    "chappie",
+    "tomorrowland",
+    "bright",
+    "dredd",
+    "equilibrium",
+    "black_panther_wakanda_forever",
+    "v_for_vendetta",
+    "jupiter_ascending",
+    "the_book_of_eli",
+    "i_am_legend",
+    "thor_ragnarok",
+    "avengers_age_of_ultron",
+    "king_arthur_legend_of_the_sword",
+    "guardians_of_the_galaxy",
+    "the_13th_warrior",
+    "sucker_punch",
+    "aquaman",
+    "hercules",
+    "gamer",
+    "poseidon",
+    "green_lantern",
+    "glass",
+    "beowulf"
   ]
 }

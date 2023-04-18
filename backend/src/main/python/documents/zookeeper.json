@@ -182,5 +182,32 @@
       "rating": "2",
       "text": "The fact that there's a market for films like this is an indictment of humanity. I might be being generous by giving this a 2, I'm not sure. But then again, we as a species are being pretty generous in letting Kevin James have a career starring in this kind of crap so we all should take the blame."
     }
+  ],
+  "recommendations": [
+    "minions",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "the_croods_a_new_age",
+    "the_smurfs",
+    "cloudy_with_a_chance_of_meatballs",
+    "marmaduke",
+    "the_change_up",
+    "the_boss_baby_family_business",
+    "jexi",
+    "ice_age_dawn_of_the_dinosaurs",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "ted",
+    "hotel_transylvania_2",
+    "ted_2",
+    "barnyard",
+    "hotel_transylvania",
+    "the_cobbler",
+    "trainwreck",
+    "yogi_bear",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "megamind",
+    "neighbors_2_sorority_rising",
+    "the_game_plan",
+    "chicken_little",
+    "the_happytime_murders"
   ]
 }

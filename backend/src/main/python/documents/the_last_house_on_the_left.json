@@ -187,5 +187,32 @@
       "rating": "10",
       "text": "Better than the original in my opinion. Brutal, suspenseful and graphic. Worth watching"
     }
+  ],
+  "recommendations": [
+    "hostel_part_ii",
+    "the_hills_have_eyes",
+    "insidious_chapter_2",
+    "the_grudge_2",
+    "annabelle",
+    "the_possession",
+    "malignant",
+    "dark_skies",
+    "saw",
+    "saw_iii",
+    "vacancy",
+    "the_strangers_prey_at_night",
+    "sinister_2",
+    "the_grudge",
+    "the_amityville_horror",
+    "poltergeist",
+    "chernobyl_diaries",
+    "the_curse_of_la_llorona",
+    "the_eye",
+    "final_destination_2",
+    "the_ring",
+    "shut_in",
+    "house_at_the_end_of_the_street",
+    "insidious",
+    "final_destination"
   ]
 }

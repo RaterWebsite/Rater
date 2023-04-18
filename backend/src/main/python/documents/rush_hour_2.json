@@ -138,5 +138,32 @@
       "rating": "8",
       "text": "----------------------------------8.2/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "rush_hour_3",
+    "hot_fuzz",
+    "johnny_english_reborn",
+    "around_the_world_in_80_days",
+    "kingsman_the_secret_service",
+    "22_jump_street",
+    "spy",
+    "stuber",
+    "ride_along_2",
+    "deadpool_2",
+    "shanghai_knights",
+    "the_rundown",
+    "get_smart",
+    "last_action_hero",
+    "the_longest_yard",
+    "this_means_war",
+    "venom_let_there_be_carnage",
+    "chips",
+    "grudge_match",
+    "pineapple_express",
+    "the_other_guys",
+    "ride_along",
+    "spenser_confidential",
+    "knight_and_day",
+    "the_green_hornet"
   ]
 }

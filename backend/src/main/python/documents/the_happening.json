@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Not so bad, not so good !, but the rates of critics are not fair, for me Shyamalan's movies are full of originality."
     }
+  ],
+  "recommendations": [
+    "hereditary",
+    "old",
+    "shut_in",
+    "the_mist",
+    "knowing",
+    "the_bye_bye_man",
+    "house_at_the_end_of_the_street",
+    "midsommar",
+    "seven_pounds",
+    "shadow_in_the_cloud",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "next",
+    "the_devil_inside",
+    "bird_box",
+    "the_room",
+    "slender_man",
+    "the_day_the_earth_stood_still",
+    "2012",
+    "poseidon",
+    "awake",
+    "the_new_mutants",
+    "ouija",
+    "national_treasure_book_of_secrets",
+    "the_eye",
+    "doctor_strange_in_the_multiverse_of_madness"
   ]
 }

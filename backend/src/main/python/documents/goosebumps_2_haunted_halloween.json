@@ -96,5 +96,32 @@
       "rating": "5",
       "text": "Not the same actors. The actors that are in it aren't good actors. At least the scary monsters were good. If it weren't for Jack Black saving the movie. I would have given this a 1 rating."
     }
+  ],
+  "recommendations": [
+    "goosebumps",
+    "the_house_with_a_clock_in_its_walls",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "monster_house",
+    "i_still_know_what_you_did_last_summer",
+    "jack_the_giant_slayer",
+    "the_meg",
+    "jumanji_welcome_to_the_jungle",
+    "the_babysitter",
+    "ghostbusters_ii",
+    "hotel_transylvania_2",
+    "hotel_transylvania_3_summer_vacation",
+    "krampus",
+    "insidious_chapter_2",
+    "teenage_mutant_ninja_turtles",
+    "jumanji_the_next_level",
+    "poltergeist",
+    "the_curse_of_la_llorona",
+    "minions",
+    "disturbia",
+    "dead_silence",
+    "incredibles_2",
+    "i_am_number_four",
+    "shazam_fury_of_the_gods",
+    "halloween_iii_season_of_the_witch"
   ]
 }

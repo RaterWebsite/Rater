@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "Spider-Man: Into the Spider-Verse is one of the best movies of the year.A different and unique animation, a perfect soundtrack and a narrative and incredible characters.Spider-Man: Into the Spider-Verse is the Spider-Man movie that was already needed."
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon_2",
+    "the_incredibles",
+    "kung_fu_panda_3",
+    "how_to_train_your_dragon",
+    "the_lego_batman_movie",
+    "big_hero_6",
+    "atlantis_the_lost_empire",
+    "rango",
+    "man_of_steel",
+    "the_adventures_of_tintin",
+    "the_amazing_spider_man_2",
+    "bumblebee",
+    "kung_fu_panda_2",
+    "ratatouille",
+    "the_legend_of_tarzan",
+    "dumbo",
+    "my_little_pony_the_movie",
+    "the_iron_giant",
+    "the_call_of_the_wild",
+    "the_bfg",
+    "onward",
+    "thor",
+    "smurfs_the_lost_village",
+    "doctor_strange",
+    "dredd"
   ]
 }

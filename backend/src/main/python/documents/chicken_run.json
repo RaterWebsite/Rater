@@ -218,5 +218,32 @@
       "rating": "8",
       "text": "The most underrated movie of all time. And holy **** those people are **** horrifying"
     }
+  ],
+  "recommendations": [
+    "shaun_the_sheep_movie",
+    "flushed_away",
+    "madagascar",
+    "the_boxtrolls",
+    "ratatouille",
+    "finding_nemo",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "penguins_of_madagascar",
+    "despicable_me",
+    "toy_story",
+    "the_incredibles",
+    "the_croods",
+    "rango",
+    "antz",
+    "smurfs_the_lost_village",
+    "the_secret_life_of_pets",
+    "the_ant_bully",
+    "the_good_dinosaur",
+    "madagascar_escape_2_africa",
+    "bolt",
+    "hotel_transylvania_3_summer_vacation",
+    "shark_tale",
+    "turbo",
+    "big_hero_6",
+    "rio_2"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Action from start to finish, great film."
     }
+  ],
+  "recommendations": [
+    "crank_high_voltage",
+    "furious_7",
+    "6_underground",
+    "the_marine",
+    "salt",
+    "polar",
+    "the_expendables_2",
+    "the_expendables",
+    "transporter_3",
+    "eagle_eye",
+    "the_a_team",
+    "xxx_return_of_xander_cage",
+    "lockout",
+    "venom_let_there_be_carnage",
+    "the_fate_of_the_furious",
+    "the_expendables_3",
+    "mission_impossible_iii",
+    "escape_plan",
+    "nobody",
+    "the_tax_collector",
+    "transporter_2",
+    "guns_akimbo",
+    "death_race",
+    "the_mechanic",
+    "this_means_war"
   ]
 }

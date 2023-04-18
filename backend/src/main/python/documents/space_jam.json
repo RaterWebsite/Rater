@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "Una buena pel\u00edcula con Michael Jordan; la trama es decente, la animaci\u00f3n es buena y las escenas del partido de baloncesto son muy divertidas; la recomiendo si te gustan las pel\u00edculas que combinan live-action con animaci\u00f3n."
     }
+  ],
+  "recommendations": [
+    "looney_tunes_back_in_action",
+    "over_the_hedge",
+    "madagascar",
+    "robots",
+    "rio_2",
+    "madagascar_escape_2_africa",
+    "puss_in_boots_the_last_wish",
+    "rio",
+    "penguins_of_madagascar",
+    "the_angry_birds_movie",
+    "ice_age_the_meltdown",
+    "flushed_away",
+    "bolt",
+    "hotel_transylvania_3_summer_vacation",
+    "sonic_the_hedgehog",
+    "jumanji_welcome_to_the_jungle",
+    "trolls",
+    "spies_in_disguise",
+    "wreck_it_ralph",
+    "shaun_the_sheep_movie",
+    "despicable_me",
+    "kung_fu_panda_2",
+    "kung_fu_panda",
+    "scoob",
+    "the_ant_bully"
   ]
 }

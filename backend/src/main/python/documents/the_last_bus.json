@@ -28,5 +28,32 @@
       "rating": "8",
       "text": "This is a really quite British film - it's quite touching and uplifting at different times. Spall gives a great performance and its relatively thought provoking too. Its based on a true story, which I liked. I would recommend this, yes."
     }
+  ],
+  "recommendations": [
+    "the_ultimate_gift",
+    "my_name_is_khan",
+    "breakthrough",
+    "bliss",
+    "eternal_sunshine_of_the_spotless_mind",
+    "the_professor_and_the_madman",
+    "amores_perros",
+    "cinderella_man",
+    "to_kill_a_mockingbird",
+    "gattaca",
+    "togo",
+    "chemical_hearts",
+    "wish_dragon",
+    "eddie_the_eagle",
+    "american_history_x",
+    "goodbye_christopher_robin",
+    "the_count_of_monte_cristo",
+    "the_upside",
+    "the_shawshank_redemption",
+    "the_english_patient",
+    "tolkien",
+    "the_secret_life_of_walter_mitty",
+    "forrest_gump",
+    "finding_neverland",
+    "eternals"
   ]
 }

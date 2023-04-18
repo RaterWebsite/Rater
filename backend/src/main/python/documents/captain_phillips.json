@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Captain Philips keeps you on the edge of your seat! You think it's intense when the pirates board the ship, but it takes you to a whole new level later on. I could not look away for a second. Tom Hanks delivers a breathtaking performance worthy of an Oscar nomination and possibly an Oscar. One of the best films I've seen this year."
     }
+  ],
+  "recommendations": [
+    "sully",
+    "apollo_13",
+    "enemy_of_the_state",
+    "crimson_tide",
+    "nightcrawler",
+    "only_the_brave",
+    "cast_away",
+    "richard_jewell",
+    "dallas_buyers_club",
+    "everest",
+    "outbreak",
+    "flight",
+    "sicario",
+    "patriots_day",
+    "wind_river",
+    "jackie",
+    "american_made",
+    "judas_and_the_black_messiah",
+    "darkest_hour",
+    "the_fugitive",
+    "the_post",
+    "fences",
+    "wall_street",
+    "the_perfect_storm",
+    "deepwater_horizon"
   ]
 }

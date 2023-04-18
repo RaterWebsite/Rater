@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "The movie is enjoyable and entertaining, but it is also too predictable throughout the whole movie. The acting was mostly pretty good, with some weaker scenes. The movie was a little too unrealistic, and a lot too predictable (throughout most of the movie). Even with those things though, the movie was still very fun and entertaining to watch, which is something I was wanting from the movie. I recommend it, even though it is predictable."
     }
+  ],
+  "recommendations": [
+    "san_andreas",
+    "bloodshot",
+    "angel_has_fallen",
+    "poseidon",
+    "lockout",
+    "infinite",
+    "kingsman_the_golden_circle",
+    "the_ice_road",
+    "escape_plan",
+    "the_a_team",
+    "london_has_fallen",
+    "hercules",
+    "xxx_return_of_xander_cage",
+    "the_guardian",
+    "the_transporter_refueled",
+    "free_fire",
+    "triple_frontier",
+    "avengers_age_of_ultron",
+    "rampage",
+    "the_fate_of_the_furious",
+    "the_meg",
+    "nobody",
+    "the_losers",
+    "into_the_storm",
+    "ant_man_and_the_wasp_quantumania"
   ]
 }

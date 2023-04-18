@@ -110,5 +110,32 @@
       "rating": "2",
       "text": "You can clearly see that Sean Connery had lost most of his passion for playing James Bond here, and the whole movie suffers as a result."
     }
+  ],
+  "recommendations": [
+    "from_russia_with_love",
+    "tomorrow_never_dies",
+    "captain_america_the_winter_soldier",
+    "thunderball",
+    "no_time_to_die",
+    "the_spy_who_loved_me",
+    "diamonds_are_forever",
+    "spectre",
+    "skyfall",
+    "casino_royale",
+    "captain_america_civil_war",
+    "octopussy",
+    "x_men_days_of_future_past",
+    "stargate",
+    "the_world_is_not_enough",
+    "mission_impossible_rogue_nation",
+    "the_league_of_extraordinary_gentlemen",
+    "quantum_of_solace",
+    "back_to_the_future_part_iii",
+    "the_man_with_the_golden_gun",
+    "raiders_of_the_lost_ark",
+    "wonder_woman",
+    "creed_ii",
+    "the_eagle",
+    "the_magnificent_seven"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "One of the year's best- i do not understand why it has not been better promoted. Great acting by all of the leads, visually stunning."
     }
+  ],
+  "recommendations": [
+    "the_prestige",
+    "maleficent",
+    "alice_through_the_looking_glass",
+    "eternals",
+    "snow_white_and_the_huntsman",
+    "now_you_see_me",
+    "shutter_island",
+    "atonement",
+    "hugo",
+    "the_lovely_bones",
+    "glass",
+    "tomorrowland",
+    "the_usual_suspects",
+    "the_lucky_one",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "maleficent_mistress_of_evil",
+    "magnolia",
+    "gone_girl",
+    "oz_the_great_and_powerful",
+    "stardust",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "changeling",
+    "super_8",
+    "uncut_gems",
+    "reminiscence"
   ]
 }

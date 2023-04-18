@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This was the stupidest movie ever created it was a waste of money, time, and good popcorn. if you wanted a good movie to laugh at you got it. i nearly fell asleep 30 minutes into. dont waste your money on this movie."
     }
+  ],
+  "recommendations": [
+    "code_8",
+    "lucy",
+    "guns_akimbo",
+    "next",
+    "repo_men",
+    "the_adjustment_bureau",
+    "jumper",
+    "elysium",
+    "contagion",
+    "downsizing",
+    "the_hunger_games_mockingjay_part_1",
+    "shadow_in_the_cloud",
+    "colossal",
+    "infinite",
+    "taken",
+    "man_on_a_ledge",
+    "now_you_see_me",
+    "awake",
+    "bird_box",
+    "nerve",
+    "the_loft",
+    "the_tomorrow_war",
+    "brightburn",
+    "sanctum",
+    "what_happened_to_monday"
   ]
 }

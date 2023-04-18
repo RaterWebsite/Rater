@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Just really good. Thanks that's it you just need to watch this movie. I think that it is a Great addition to the witcher franchise and a  great look at Vesimir In his youth."
     }
+  ],
+  "recommendations": [
+    "final_fantasy_the_spirits_within",
+    "death_note_relight_1_visions_of_a_god",
+    "raya_and_the_last_dragon",
+    "9",
+    "the_hunger_games",
+    "beowulf",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "next_gen",
+    "mowgli_legend_of_the_jungle",
+    "how_to_train_your_dragon_2",
+    "maze_runner_the_scorch_trials",
+    "bumblebee",
+    "the_13th_warrior",
+    "jupiter_ascending",
+    "the_legend_of_tarzan",
+    "percy_jackson_sea_of_monsters",
+    "ready_player_one",
+    "frozen_ii",
+    "how_to_train_your_dragon_the_hidden_world",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "surrogates",
+    "the_hobbit_an_unexpected_journey",
+    "the_maze_runner",
+    "the_darkest_minds",
+    "mortal_engines"
   ]
 }

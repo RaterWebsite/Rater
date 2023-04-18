@@ -225,5 +225,32 @@
       "rating": "2",
       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     }
+  ],
+  "recommendations": [
+    "the_incredible_hulk",
+    "thor",
+    "thor_the_dark_world",
+    "the_terminator",
+    "avengers_age_of_ultron",
+    "terminator_3_rise_of_the_machines",
+    "hercules",
+    "terminator_2_judgment_day",
+    "superman_returns",
+    "aquaman",
+    "justice_league",
+    "the_suicide_squad",
+    "fantastic_four",
+    "rise_of_the_planet_of_the_apes",
+    "elektra",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "hellboy",
+    "sherlock_holmes_a_game_of_shadows",
+    "man_of_steel",
+    "transformers_dark_of_the_moon",
+    "indiana_jones_and_the_temple_of_doom",
+    "bloodshot",
+    "iron_man_2",
+    "transformers",
+    "last_action_hero"
   ]
 }

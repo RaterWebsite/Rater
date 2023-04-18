@@ -162,5 +162,32 @@
       "rating": "10",
       "text": "There is a 75 character minimum for reviews. If your review contains spoilers, please check the Spoiler box. Please do not use ALL CAPS. There is no linking or other HTML allowed. Your review may be edited for content."
     }
+  ],
+  "recommendations": [
+    "hellboy",
+    "troy",
+    "hellboy_ii_the_golden_army",
+    "thor",
+    "highlander",
+    "indiana_jones_and_the_temple_of_doom",
+    "doctor_strange",
+    "the_fifth_element",
+    "the_league_of_extraordinary_gentlemen",
+    "the_scorpion_king",
+    "victor_frankenstein",
+    "sin_city",
+    "gladiator",
+    "dredd",
+    "samson",
+    "watchmen",
+    "upgrade",
+    "captain_america_the_winter_soldier",
+    "the_matrix",
+    "the_nutcracker_and_the_four_realms",
+    "war_for_the_planet_of_the_apes",
+    "body_of_lies",
+    "rocky",
+    "total_recall",
+    "the_count_of_monte_cristo"
   ]
 }

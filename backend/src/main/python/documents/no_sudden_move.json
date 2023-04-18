@@ -102,5 +102,32 @@
       "rating": "6",
       "text": "The acting, the sets, the cars and the costumes were great.But the story ran off the rails in the second half of the movie. In the end, I didn't care who lived and who died after all the double and triple crosses.  Thumbs up for the acting and sets. Thumbs down for it's convoluted story."
     }
+  ],
+  "recommendations": [
+    "broken_city",
+    "bad_times_at_the_el_royale",
+    "beyond_the_reach",
+    "cube",
+    "triple_9",
+    "good_time",
+    "widows",
+    "a_most_wanted_man",
+    "survivor",
+    "blackhat",
+    "the_equalizer_2",
+    "bone_tomahawk",
+    "sicario_day_of_the_soldado",
+    "beirut",
+    "the_accountant",
+    "terminal",
+    "the_gunman",
+    "the_little_things",
+    "the_infiltrator",
+    "wrath_of_man",
+    "solace",
+    "reminiscence",
+    "a_most_violent_year",
+    "end_of_watch",
+    "triple_frontier"
   ]
 }

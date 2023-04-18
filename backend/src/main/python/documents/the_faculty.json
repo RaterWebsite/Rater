@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Scream meets The Thing. Great cast with superb direction though its not without it's formulaic drawbacks. I still love this movie"
     }
+  ],
+  "recommendations": [
+    "wrong_turn",
+    "from_dusk_till_dawn",
+    "house_of_wax",
+    "vacancy",
+    "ouija_origin_of_evil",
+    "the_babysitter",
+    "the_prodigy",
+    "the_conjuring_the_devil_made_me_do_it",
+    "red_riding_hood",
+    "the_house_with_a_clock_in_its_walls",
+    "freaky",
+    "disturbia",
+    "case_39",
+    "bone_tomahawk",
+    "cooties",
+    "annabelle_comes_home",
+    "hell_fest",
+    "the_collector",
+    "carrie",
+    "it_follows",
+    "insidious_chapter_3",
+    "fright_night",
+    "the_curse_of_la_llorona",
+    "pride_and_prejudice_and_zombies",
+    "lucky_number_slevin"
   ]
 }

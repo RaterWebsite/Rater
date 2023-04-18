@@ -178,5 +178,32 @@
       "rating": "9",
       "text": "Amazing movie! It was incredibly thought provoking and heart wrenching. Imo it is a must watch for everyone"
     }
+  ],
+  "recommendations": [
+    "spotlight",
+    "the_mauritanian",
+    "12_years_a_slave",
+    "hotel_rwanda",
+    "judas_and_the_black_messiah",
+    "patriots_day",
+    "the_reader",
+    "richard_jewell",
+    "the_last_king_of_scotland",
+    "the_imitation_game",
+    "dark_waters",
+    "the_impossible",
+    "the_hunt",
+    "manchester_by_the_sea",
+    "snowden",
+    "only_the_brave",
+    "12_angry_men",
+    "hidden_figures",
+    "the_last_duel",
+    "the_hate_u_give",
+    "machine_gun_preacher",
+    "the_good_shepherd",
+    "philadelphia",
+    "collateral_beauty",
+    "legends_of_the_fall"
   ]
 }

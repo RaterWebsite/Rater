@@ -40,5 +40,32 @@
       "rating": "3",
       "text": "The movie was pretty odd...I would like for a more clear story. If you were watching this for halloween it's ok but this is kinda strange story and doesn't any sense for my opinion. Thats my review! Thanks."
     }
+  ],
+  "recommendations": [
+    "high_life",
+    "the_killing_of_a_sacred_deer",
+    "the_green_knight",
+    "in_fabric",
+    "us",
+    "antichrist",
+    "titane",
+    "annihilation",
+    "the_guilty",
+    "eyes_wide_shut",
+    "you_were_never_really_here",
+    "under_the_skin",
+    "trance",
+    "mandy",
+    "flashback",
+    "ex_machina",
+    "coherence",
+    "anon",
+    "donnie_darko",
+    "the_lodge",
+    "a_ghost_story",
+    "the_howling",
+    "dark_city",
+    "color_out_of_space",
+    "a_cure_for_wellness"
   ]
 }

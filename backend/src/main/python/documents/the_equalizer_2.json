@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Denzel Washington shows off his star-power once again, but the film itself is too slowly paced and doesn't have enough to keep me interested besides the action and one or two likable, if not unoriginal, characters."
     }
+  ],
+  "recommendations": [
+    "the_accountant",
+    "the_equalizer",
+    "triple_frontier",
+    "sicario_day_of_the_soldado",
+    "broken_city",
+    "wrath_of_man",
+    "a_walk_among_the_tombstones",
+    "good_time",
+    "end_of_watch",
+    "tenet",
+    "avengers_age_of_ultron",
+    "man_on_fire",
+    "the_commuter",
+    "widows",
+    "taken",
+    "what_happened_to_monday",
+    "rocknrolla",
+    "a_most_wanted_man",
+    "project_power",
+    "drive",
+    "blackhat",
+    "haywire",
+    "ant_man_and_the_wasp_quantumania",
+    "hanna",
+    "bad_times_at_the_el_royale"
   ]
 }

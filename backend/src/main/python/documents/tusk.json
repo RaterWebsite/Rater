@@ -225,5 +225,32 @@
       "rating": "0",
       "text": "This is by far the worst film I've ever seen. AI went into this film hopeful, as I do like kevin smith. I was subsequently disappointed and then revolted at what I watched. It was as if someone made a movie about a terrible inside joke. Which is actually pretty much what happened. I have lost most of my respect for kevin smith. Dont watch this movie."
     }
+  ],
+  "recommendations": [
+    "the_hangover_part_ii",
+    "burn_after_reading",
+    "thor_love_and_thunder",
+    "seven_psychopaths",
+    "hancock",
+    "logan_lucky",
+    "inherent_vice",
+    "the_hangover_part_iii",
+    "lucky_number_slevin",
+    "next",
+    "baywatch",
+    "the_cobbler",
+    "this_is_the_end",
+    "old",
+    "awake",
+    "the_babysitter",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "terminator_genisys",
+    "the_guardian",
+    "house_at_the_end_of_the_street",
+    "identity_thief",
+    "venom_let_there_be_carnage",
+    "the_number_23",
+    "the_loft",
+    "kingsman_the_golden_circle"
   ]
 }

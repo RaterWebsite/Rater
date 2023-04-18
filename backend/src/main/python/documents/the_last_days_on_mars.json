@@ -66,5 +66,32 @@
       "rating": "3",
       "text": "From this fiasco I can only rescue and mention Max Richter's musicIt hurts me to see him composing music for such miserable films."
     }
+  ],
+  "recommendations": [
+    "pandorum",
+    "monsters",
+    "riddick",
+    "daybreakers",
+    "the_cloverfield_paradox",
+    "captive_state",
+    "event_horizon",
+    "spectral",
+    "sunshine",
+    "independence_day_resurgence",
+    "battle_los_angeles",
+    "science_fiction_volume_one_the_osiris_child",
+    "geostorm",
+    "the_tomorrow_war",
+    "surrogates",
+    "the_darkest_hour",
+    "world_war_z",
+    "predators",
+    "the_predator",
+    "the_day_after_tomorrow",
+    "the_last_witch_hunter",
+    "jurassic_world_fallen_kingdom",
+    "prometheus",
+    "the_core",
+    "chernobyl_diaries"
   ]
 }

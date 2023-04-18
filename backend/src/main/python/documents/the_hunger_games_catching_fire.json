@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This movie just awesome. The cast so natural,the animation and the setting so stunning,the plot is exactly like the book. This is the best movie of the year. The story is like really happen in the past... Awesome. Jennifer is a talented cast. Congrats for all the catching fire team"
     }
+  ],
+  "recommendations": [
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_hunger_games",
+    "avengers_age_of_ultron",
+    "alita_battle_angel",
+    "the_hunger_games_mockingjay_part_2",
+    "inception",
+    "harry_potter_and_the_chamber_of_secrets",
+    "harry_potter_and_the_goblet_of_fire",
+    "inferno",
+    "looper",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "the_hobbit_an_unexpected_journey",
+    "maze_runner_the_scorch_trials",
+    "the_13th_warrior",
+    "odd_thomas",
+    "eternals",
+    "glass",
+    "maze_runner_the_death_cure",
+    "ready_player_one",
+    "the_prestige",
+    "doctor_strange",
+    "tomorrowland",
+    "tenet",
+    "black_widow",
+    "creed_ii"
   ]
 }

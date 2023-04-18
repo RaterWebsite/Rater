@@ -49,5 +49,32 @@
       "rating": "7",
       "text": "A series of horror-comedy films featuring mini-stories, the first two of which are Stephen King, translated in 1982, 1987, and 2007.Villains and oppressors win in most of the stories. Those who were killed are resurrected and take revenge. Stories are fun. As a concept, an illustrated magazine atmosphere is created for the audience. Nudity prevails in some stories. The paths of the characters in the stories in the last chapter somehow cross."
     }
+  ],
+  "recommendations": [
+    "scary_stories_to_tell_in_the_dark",
+    "pet_sematary",
+    "batman_the_killing_joke",
+    "king_arthur_legend_of_the_sword",
+    "jack_the_giant_slayer",
+    "sinister_2",
+    "sin_city_a_dame_to_kill_for",
+    "insidious_chapter_3",
+    "the_conjuring_the_devil_made_me_do_it",
+    "percy_jackson_sea_of_monsters",
+    "insidious_the_last_key",
+    "final_destination",
+    "insidious_chapter_2",
+    "the_last_witch_hunter",
+    "resident_evil_damnation",
+    "underworld_awakening",
+    "ouija_origin_of_evil",
+    "it",
+    "maze_runner_the_scorch_trials",
+    "evil_dead_ii",
+    "i_am_legend",
+    "annabelle_creation",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_witcher_nightmare_of_the_wolf",
+    "the_woman_in_black"
   ]
 }

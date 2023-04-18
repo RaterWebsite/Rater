@@ -135,5 +135,32 @@
       "rating": "3",
       "text": "Here, I am going to admit laughing at some parts of this movie. Some of it was funny. The Australia set also looks good. However, this movie is not worth much. Much of the humor was slapsticky, the plot was no good, and the acting was not all that great. Besides, I cannot believe this movie could get a PG rating. This should have been a PG-13 rating, as there was a lot of slapstick and language not appropriate for children."
     }
+  ],
+  "recommendations": [
+    "one_year_one_night",
+    "hot_tub_time_machine",
+    "meet_the_spartans",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "night_at_the_museum",
+    "tropic_thunder",
+    "coming_2_america",
+    "pixels",
+    "yogi_bear",
+    "scary_movie_5",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "scary_movie_4",
+    "the_pacifier",
+    "grown_ups",
+    "marmaduke",
+    "spy_kids_all_the_time_in_the_world",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "thunder_force",
+    "hubie_halloween",
+    "the_green_hornet",
+    "son_of_the_mask",
+    "grown_ups_2",
+    "barnyard",
+    "little_fockers"
   ]
 }

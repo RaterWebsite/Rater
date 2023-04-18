@@ -103,5 +103,32 @@
       "rating": "9",
       "text": "This is a good film that features a pretty impressive cast, including Kevin Costner, Sean Connery and Robert DeNiro. DeNiro as Al Capone is really quite sinister and its certainly a pretty gripping film in general. I was aware of the general story but not all the details and so I found this, I suppose, an insightful watch, although I can't be sure how accurate it is. There was one long scene set in I think Grand Central station, feautring a mother and a pram, that really did have me right at the edge of my seat. I thought the use of incidental music was quite well judged too - not too little and not too over the top. There are some nice settings/locations too. I would definitely recommend this film, yes."
     }
+  ],
+  "recommendations": [
+    "casino",
+    "lawless",
+    "heat",
+    "django_unchained",
+    "body_of_lies",
+    "spy_game",
+    "the_hunt_for_red_october",
+    "black_mass",
+    "backdraft",
+    "butch_cassidy_and_the_sundance_kid",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "catch_me_if_you_can",
+    "american_hustle",
+    "legend",
+    "true_grit",
+    "all_the_money_in_the_world",
+    "rush",
+    "troy",
+    "the_score",
+    "gangster_squad",
+    "the_fugitive",
+    "insomnia",
+    "jackie_brown",
+    "the_last_of_the_mohicans",
+    "chinatown"
   ]
 }

@@ -126,5 +126,32 @@
       "rating": "8",
       "text": "Great plot, the movie itself is is a good thriller, i don't understand why the press rated it so bad, the only thing i have to say about it is that it's not really scary, besides that the plot twists are awesome, better than most horror movies today."
     }
+  ],
+  "recommendations": [
+    "mama",
+    "the_boy",
+    "brightburn",
+    "ouija_origin_of_evil",
+    "orphan",
+    "the_prodigy",
+    "the_possession",
+    "annabelle_creation",
+    "the_curse_of_la_llorona",
+    "dark_skies",
+    "splice",
+    "happy_death_day",
+    "the_forest",
+    "sinister_2",
+    "the_haunting_in_connecticut",
+    "knock_at_the_cabin",
+    "the_uninvited",
+    "would_you_rather",
+    "you_should_have_left",
+    "unfriended",
+    "the_unborn",
+    "jessabelle",
+    "insidious_chapter_3",
+    "annabelle_comes_home",
+    "the_collector"
   ]
 }

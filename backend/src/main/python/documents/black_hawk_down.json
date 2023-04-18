@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "A great war movie , which tells grueling war against the nation of Somalia, but even surpassed by the movie Saving Private Ryan , Ridley Scott does not lose the move to film ."
     }
+  ],
+  "recommendations": [
+    "12_strong",
+    "we_were_soldiers",
+    "enemy_at_the_gates",
+    "platoon",
+    "fury",
+    "captain_america_civil_war",
+    "red_tails",
+    "full_metal_jacket",
+    "hacksaw_ridge",
+    "the_patriot",
+    "saving_private_ryan",
+    "lone_survivor",
+    "the_deer_hunter",
+    "greyhound",
+    "midway",
+    "the_thin_red_line",
+    "the_outpost",
+    "apocalypse_now",
+    "captain_america_the_winter_soldier",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_eagle",
+    "pearl_harbor",
+    "jarhead",
+    "anthropoid",
+    "the_hurt_locker"
   ]
 }

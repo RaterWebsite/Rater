@@ -42,5 +42,32 @@
       "rating": "6",
       "text": "Not my favourite Film Noir. Quinlan is so disgusting. And somehow I find this movie was so cheap, many scenes are in the studio with artificial light. There are some very mean scenes, but somehow I just wanted to see the end."
     }
+  ],
+  "recommendations": [
+    "the_godfather",
+    "once_upon_a_time_in_america",
+    "goodfellas",
+    "chinatown",
+    "the_godfather_part_ii",
+    "rear_window",
+    "gladiator",
+    "raging_bull",
+    "blade_runner",
+    "django_unchained",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_last_of_the_mohicans",
+    "unforgiven",
+    "braveheart",
+    "casablanca",
+    "north_by_northwest",
+    "kingdom_of_heaven",
+    "amores_perros",
+    "the_lord_of_the_rings_the_return_of_the_king",
+    "the_shawshank_redemption",
+    "victor_frankenstein",
+    "casino",
+    "close_encounters_of_the_third_kind",
+    "the_dark_knight",
+    "million_dollar_baby"
   ]
 }

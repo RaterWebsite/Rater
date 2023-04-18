@@ -52,5 +52,32 @@
       "rating": "10",
       "text": ""
     }
+  ],
+  "recommendations": [
+    "finding_nemo",
+    "finding_dory",
+    "enchanted",
+    "christopher_robin",
+    "the_incredibles",
+    "arthur_christmas",
+    "onward",
+    "toy_story_2",
+    "happiest_season",
+    "winnie_the_pooh_blood_and_honey",
+    "up",
+    "the_willoughbys",
+    "the_secret_life_of_pets",
+    "paddington",
+    "the_peanuts_movie",
+    "mary_poppins",
+    "moana",
+    "bolt",
+    "elf",
+    "tangled",
+    "eight_below",
+    "the_princess_diaries",
+    "stand_by_me_doraemon_2",
+    "labyrinth",
+    "paddington_2"
   ]
 }

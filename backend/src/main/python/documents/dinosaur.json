@@ -125,5 +125,32 @@
       "rating": "9",
       "text": "Love this movie. Grew up with this movie. Paid critics know nothing. Give it a watch. Watch with your kids. Nice animation and real world combo"
     }
+  ],
+  "recommendations": [
+    "kubo_and_the_two_strings",
+    "isle_of_dogs",
+    "luca",
+    "wolfwalkers",
+    "how_to_train_your_dragon",
+    "how_to_train_your_dragon_2",
+    "the_iron_giant",
+    "paprika",
+    "raya_and_the_last_dragon",
+    "jurassic_park",
+    "the_book_of_life",
+    "the_call_of_the_wild",
+    "your_name",
+    "the_good_dinosaur",
+    "ghost_in_the_shell",
+    "the_boxtrolls",
+    "atlantis_the_lost_empire",
+    "the_incredibles",
+    "mowgli_legend_of_the_jungle",
+    "finding_nemo",
+    "over_the_moon",
+    "song_of_the_sea",
+    "avatar",
+    "treasure_planet",
+    "how_to_train_your_dragon_the_hidden_world"
   ]
 }

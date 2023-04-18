@@ -97,5 +97,32 @@
       "rating": "8",
       "text": "A fun gore fest for thr whole family. Well, just not the kids. Unless you want to ruin chicken nuggets for them."
     }
+  ],
+  "recommendations": [
+    "cabin_fever",
+    "krampus",
+    "the_curse_of_la_llorona",
+    "freaky",
+    "zombieland",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "the_babysitter",
+    "splice",
+    "house_of_1000_corpses",
+    "the_possession",
+    "countdown",
+    "the_green_inferno",
+    "malignant",
+    "goosebumps",
+    "drag_me_to_hell",
+    "dark_skies",
+    "gremlins",
+    "ready_or_not",
+    "scream_4",
+    "the_happytime_murders",
+    "unfriended",
+    "texas_chainsaw_3d",
+    "case_39",
+    "hostel",
+    "the_host"
   ]
 }

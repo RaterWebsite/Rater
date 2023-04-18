@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Good continuation of story about Jason Bourne. The plot in difference from the first movie became really more interesting, development of characters is observed here. Though a part of the movie which occurs in Russia raises only a smile. I didn't see such \"cranberry\" long ago."
     }
+  ],
+  "recommendations": [
+    "the_bourne_ultimatum",
+    "mission_impossible",
+    "the_bourne_legacy",
+    "the_bourne_identity",
+    "wrath_of_man",
+    "jason_bourne",
+    "john_wick_chapter_3_parabellum",
+    "mission_impossible_ii",
+    "quantum_of_solace",
+    "mission_impossible_ghost_protocol",
+    "den_of_thieves",
+    "sherlock_holmes_a_game_of_shadows",
+    "john_wick_chapter_2",
+    "upgrade",
+    "haywire",
+    "the_mechanic",
+    "the_equalizer_2",
+    "mission_impossible_rogue_nation",
+    "the_commuter",
+    "run_all_night",
+    "premium_rush",
+    "minority_report",
+    "atomic_blonde",
+    "unstoppable",
+    "21_bridges"
   ]
 }

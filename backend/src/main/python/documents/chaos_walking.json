@@ -224,5 +224,32 @@
       "rating": "2",
       "text": "Mads Mikkelson is the best thing about this movie. Everything else is very bad."
     }
+  ],
+  "recommendations": [
+    "what_happened_to_monday",
+    "x_men_apocalypse",
+    "annihilation",
+    "interstellar",
+    "colossal",
+    "mortal_engines",
+    "elysium",
+    "downsizing",
+    "the_darkest_minds",
+    "lucy",
+    "sicario_day_of_the_soldado",
+    "arrival",
+    "nerve",
+    "the_maze_runner",
+    "eo",
+    "contagion",
+    "sunshine",
+    "captive_state",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "predestination",
+    "children_of_men",
+    "pompeii",
+    "coherence",
+    "source_code",
+    "the_martian"
   ]
 }

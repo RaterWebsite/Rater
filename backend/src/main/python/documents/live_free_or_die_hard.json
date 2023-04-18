@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Awesome action and extremely thrilling."
     }
+  ],
+  "recommendations": [
+    "a_good_day_to_die_hard",
+    "die_hard_2",
+    "the_expendables_2",
+    "the_expendables",
+    "nobody",
+    "mission_impossible_iii",
+    "skyscraper",
+    "the_expendables_3",
+    "angel_has_fallen",
+    "furious_7",
+    "the_marine",
+    "salt",
+    "xxx_return_of_xander_cage",
+    "12_rounds",
+    "the_mechanic",
+    "mechanic_resurrection",
+    "the_a_team",
+    "die_hard_with_a_vengeance",
+    "escape_plan",
+    "crank",
+    "lockout",
+    "transformers_dark_of_the_moon",
+    "the_losers",
+    "the_fate_of_the_furious",
+    "bloodshot"
   ]
 }

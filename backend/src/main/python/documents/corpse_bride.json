@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Great movie overall!!"
     }
+  ],
+  "recommendations": [
+    "alice_in_wonderland",
+    "cruella",
+    "dumbo",
+    "pan",
+    "maleficent_mistress_of_evil",
+    "maleficent",
+    "dark_shadows",
+    "trolls",
+    "rio_2",
+    "alice_through_the_looking_glass",
+    "happy_feet_two",
+    "into_the_woods",
+    "the_secret_life_of_pets_2",
+    "oz_the_great_and_powerful",
+    "the_lego_movie_2_the_second_part",
+    "frozen_ii",
+    "charlie_and_the_chocolate_factory",
+    "ratatouille",
+    "the_call_of_the_wild",
+    "hotel_transylvania_3_summer_vacation",
+    "the_bfg",
+    "mowgli_legend_of_the_jungle",
+    "the_tale_of_despereaux",
+    "beetlejuice",
+    "finch"
   ]
 }

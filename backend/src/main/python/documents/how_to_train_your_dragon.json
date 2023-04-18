@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "This movie is beyond amazing. It didn't seem very good in the trailer, but when I actually saw the movie, I was blown away. It has beautiful animation, beautiful voices, a beautiful plot, and one thing that I think is beyond amazing is it's beautiful music. The movie could've had no voices and just music and it would get 10 stars. The only thing that wasn't great was the 2 cheesy lines that Astrid says. Other than that, it is a COMPLETELY AMAZING."
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon_2",
+    "kung_fu_panda_3",
+    "the_incredibles",
+    "rio",
+    "atlantis_the_lost_empire",
+    "the_adventures_of_tintin",
+    "kung_fu_panda",
+    "kung_fu_panda_2",
+    "wolfwalkers",
+    "spider_man_into_the_spider_verse",
+    "klaus",
+    "the_book_of_life",
+    "the_croods",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "rango",
+    "ratatouille",
+    "cars",
+    "onward",
+    "zootopia",
+    "big_hero_6",
+    "up",
+    "bolt",
+    "spirit_stallion_of_the_cimarron",
+    "luca",
+    "tron_legacy"
   ]
 }

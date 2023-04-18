@@ -174,5 +174,32 @@
       "rating": "10",
       "text": "One of the amazing remake movies. This movie would be good choice if you loved the original one."
     }
+  ],
+  "recommendations": [
+    "the_incredibles",
+    "onward",
+    "okja",
+    "the_good_dinosaur",
+    "finding_nemo",
+    "the_iron_giant",
+    "how_to_train_your_dragon_2",
+    "soul",
+    "up",
+    "soul_surfer",
+    "christopher_robin",
+    "brave",
+    "ratatouille",
+    "bolt",
+    "the_polar_express",
+    "paddington_2",
+    "the_art_of_racing_in_the_rain",
+    "luca",
+    "spider_man_into_the_spider_verse",
+    "her",
+    "moonrise_kingdom",
+    "the_bfg",
+    "finding_dory",
+    "bicentennial_man",
+    "the_call_of_the_wild"
   ]
 }

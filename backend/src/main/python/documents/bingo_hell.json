@@ -33,5 +33,32 @@
       "rating": "6",
       "text": "Community of old folks have their bingo hall bought over by an evil force that kills them when they win the big prizes."
     }
+  ],
+  "recommendations": [
+    "night_of_the_living_dead",
+    "annabelle_comes_home",
+    "the_forever_purge",
+    "the_curse_of_la_llorona",
+    "house_of_1000_corpses",
+    "the_remaining",
+    "monster_hunter",
+    "28_days_later",
+    "gremlins",
+    "texas_chainsaw_3d",
+    "the_woman_in_black_2_angel_of_death",
+    "the_first_purge",
+    "the_purge_anarchy",
+    "the_purge_election_year",
+    "maya_the_bee_movie",
+    "the_crazies",
+    "brahms_the_boy_ii",
+    "the_unborn",
+    "stay_alive",
+    "paranormal_activity_the_marked_ones",
+    "paranormal_activity_the_ghost_dimension",
+    "the_pyramid",
+    "the_haunting_in_connecticut",
+    "chernobyl_diaries",
+    "the_girl_with_all_the_gifts"
   ]
 }

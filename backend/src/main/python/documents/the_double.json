@@ -46,5 +46,32 @@
       "rating": "6",
       "text": "To be honest, this movie is not exactly a movie that I can watch over and over again. However, it is fairly enjoyable in my opinion. Also the weapon Cassius uses...I want that :)"
     }
+  ],
+  "recommendations": [
+    "man_on_a_ledge",
+    "contraband",
+    "the_commuter",
+    "21_bridges",
+    "escape_plan",
+    "seeking_justice",
+    "den_of_thieves",
+    "mission_impossible_iii",
+    "the_next_three_days",
+    "jack_reacher",
+    "unlocked",
+    "the_bank_job",
+    "reasonable_doubt",
+    "nobody",
+    "a_walk_among_the_tombstones",
+    "taken_2",
+    "hancock",
+    "taken_3",
+    "the_mechanic",
+    "orphan_first_kill",
+    "safe_house",
+    "the_taking_of_pelham_1_2_3",
+    "the_loft",
+    "16_blocks",
+    "the_call"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Saving Private Ryan has to be an all time favourite for everyone who likes war films. I personally enjoyed the movie because of its gripping action scenes and the very moving storyline which shows the bond between soldiers who have been tasked with a near-suicidal mission. Just simply amazing."
     }
+  ],
+  "recommendations": [
+    "hacksaw_ridge",
+    "the_deer_hunter",
+    "platoon",
+    "braveheart",
+    "gladiator",
+    "black_hawk_down",
+    "unbroken",
+    "the_patriot",
+    "empire_of_the_sun",
+    "apocalypse_now",
+    "troy",
+    "war_for_the_planet_of_the_apes",
+    "cold_mountain",
+    "hotel_rwanda",
+    "raging_bull",
+    "dunkirk",
+    "deepwater_horizon",
+    "the_thin_red_line",
+    "full_metal_jacket",
+    "master_and_commander_the_far_side_of_the_world",
+    "1917",
+    "american_history_x",
+    "avengers_endgame",
+    "we_were_soldiers",
+    "black_widow"
   ]
 }

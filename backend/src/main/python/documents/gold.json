@@ -93,5 +93,32 @@
       "rating": "7",
       "text": "McConaughey's acting is quite good and the movie is quite interesting, even though it lacks some flavour to put it amongst the great movies. I mean Matthew portrayed it in his talk show appearances that this is his best movie, but I doubt it and didn't find it that amazing. Still a good watch"
     }
+  ],
+  "recommendations": [
+    "the_founder",
+    "nightcrawler",
+    "hidden_figures",
+    "blow",
+    "wall_street_money_never_sleeps",
+    "donnie_brasco",
+    "42",
+    "the_lincoln_lawyer",
+    "falling_down",
+    "sully",
+    "cry_macho",
+    "a_bronx_tale",
+    "fighting_with_my_family",
+    "savages",
+    "the_intern",
+    "jane_got_a_gun",
+    "hell_or_high_water",
+    "moneyball",
+    "live_by_night",
+    "public_enemies",
+    "a_hologram_for_the_king",
+    "green_book",
+    "eddie_the_eagle",
+    "blue_jasmine",
+    "the_town"
   ]
 }

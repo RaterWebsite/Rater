@@ -133,5 +133,32 @@
       "rating": "5",
       "text": "min problem with the movie is that it fell too long, if it was about half and hour long I would have liked it much better"
     }
+  ],
+  "recommendations": [
+    "wild_things",
+    "bonnie_and_clyde",
+    "true_romance",
+    "widows",
+    "the_woman_in_the_window",
+    "a_walk_among_the_tombstones",
+    "triple_9",
+    "a_simple_favor",
+    "conspiracy_theory",
+    "fracture",
+    "savages",
+    "total_recall",
+    "casino",
+    "street_kings",
+    "the_lincoln_lawyer",
+    "cold_pursuit",
+    "heat",
+    "hollow_man",
+    "the_call",
+    "blood_ties",
+    "red_sparrow",
+    "stoker",
+    "insomnia",
+    "dirty_harry",
+    "the_frozen_ground"
   ]
 }

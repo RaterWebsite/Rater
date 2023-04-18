@@ -227,5 +227,32 @@
       "rating": "3",
       "text": "It's just awful! A horrible, and needless, sequel to a cult classic. The story makes little sense and is trying its hardest to be clever, yet all it manages to really do is undermine everything set in the first movie. There are some decent action sequences and the FX are OK, but it is not enough to save this obvious cash-in. Overall: For shame!!!!!"
     }
+  ],
+  "recommendations": [
+    "the_matrix_revolutions",
+    "maze_runner_the_death_cure",
+    "300_rise_of_an_empire",
+    "maze_runner_the_scorch_trials",
+    "mortal_engines",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "avengers_age_of_ultron",
+    "battle_los_angeles",
+    "captive_state",
+    "mad_max_fury_road",
+    "hardcore_henry",
+    "the_purge_election_year",
+    "infinite",
+    "transformers_the_last_knight",
+    "jupiter_ascending",
+    "inception",
+    "pacific_rim",
+    "blade_runner_2049",
+    "equilibrium",
+    "jurassic_world_fallen_kingdom",
+    "source_code",
+    "the_5th_wave",
+    "they_live",
+    "sicario_day_of_the_soldado",
+    "sunshine"
   ]
 }

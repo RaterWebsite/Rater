@@ -43,5 +43,32 @@
       "rating": "8",
       "text": "From great atmospheric building, to amazing background score, with consistent and developing character traits, and twists and turns, this movie came out of nowhere and blew me away. Writer-Director, Shawn Lendin definitely deserves praise, and Camille Sullivan steals the show."
     }
+  ],
+  "recommendations": [
+    "perfect_stranger",
+    "identity",
+    "shutter_island",
+    "the_loft",
+    "split",
+    "the_rental",
+    "how_it_ends",
+    "contagion",
+    "gone_girl",
+    "the_little_things",
+    "flightplan",
+    "vivarium",
+    "the_call",
+    "escape_room",
+    "the_counselor",
+    "now_you_see_me",
+    "alone",
+    "limitless",
+    "predestination",
+    "the_purge",
+    "man_on_a_ledge",
+    "the_prestige",
+    "shut_in",
+    "a_perfect_getaway",
+    "unfriended_dark_web"
   ]
 }

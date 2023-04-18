@@ -165,5 +165,32 @@
       "rating": "10",
       "text": "This is one of my favourite movies and I just love this movie. The young star McKenna Grace play this role to perfection"
     }
+  ],
+  "recommendations": [
+    "joy",
+    "the_glass_castle",
+    "marriage_story",
+    "scent_of_a_woman",
+    "blue_valentine",
+    "brothers",
+    "lady_bird",
+    "silver_linings_playbook",
+    "still_alice",
+    "blue_jasmine",
+    "rain_man",
+    "collateral_beauty",
+    "fatherhood",
+    "a_beautiful_day_in_the_neighborhood",
+    "lovelace",
+    "the_descendants",
+    "the_intern",
+    "legends_of_the_fall",
+    "belfast",
+    "me_before_you",
+    "the_danish_girl",
+    "manchester_by_the_sea",
+    "the_spectacular_now",
+    "the_edge_of_seventeen",
+    "captain_fantastic"
   ]
 }

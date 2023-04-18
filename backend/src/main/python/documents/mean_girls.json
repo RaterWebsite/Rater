@@ -224,5 +224,32 @@
       "rating": "7",
       "text": "This movie is really funny and represents American teen generation. Good acting and story deserves my positive score  7/10, and if you haven't watch it, then trust SEROJ, it's fun."
     }
+  ],
+  "recommendations": [
+    "the_duff",
+    "easy_a",
+    "17_again",
+    "superbad",
+    "you_again",
+    "the_game_plan",
+    "the_croods_a_new_age",
+    "clueless",
+    "bad_teacher",
+    "the_change_up",
+    "legally_blonde",
+    "no_strings_attached",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "confessions_of_a_shopaholic",
+    "the_hot_chick",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "just_go_with_it",
+    "my_spy",
+    "bad_moms",
+    "second_act",
+    "the_pacifier",
+    "zookeeper",
+    "the_ugly_truth",
+    "hannah_montana_the_movie",
+    "fist_fight"
   ]
 }

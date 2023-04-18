@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "I was dragged to this by my wife and i admit that it was charming and Amy Adams proves JUNEBUG was not a fluke."
     }
+  ],
+  "recommendations": [
+    "the_peanuts_movie",
+    "tangled",
+    "winnie_the_pooh_blood_and_honey",
+    "nanny_mcphee",
+    "onward",
+    "paddington",
+    "up",
+    "ella_enchanted",
+    "christopher_robin",
+    "elf",
+    "bolt",
+    "hannah_montana_the_movie",
+    "meet_the_robinsons",
+    "the_star",
+    "labyrinth",
+    "stardust",
+    "the_muppets",
+    "the_spongebob_squarepants_movie",
+    "the_princess_bride",
+    "a_cinderella_story",
+    "rise_of_the_guardians",
+    "ice_age_the_meltdown",
+    "arthur_christmas",
+    "godmothered",
+    "coraline"
   ]
 }

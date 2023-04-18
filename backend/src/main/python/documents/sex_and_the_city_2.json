@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "This movie make that  women look stupid,  this movie has no story, no developmen, nothing this movie is as empty as the first one, Michael Patrick King must the worst movie director ever"
     }
+  ],
+  "recommendations": [
+    "sex_and_the_city",
+    "fifty_shades_of_grey",
+    "project_x",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_ugly_truth",
+    "confessions_of_a_shopaholic",
+    "bridesmaids",
+    "the_croods_a_new_age",
+    "book_club",
+    "magic_mikes_last_dance",
+    "bad_moms",
+    "love_hard",
+    "fifty_shades_freed",
+    "zookeeper",
+    "the_smurfs",
+    "rim_of_the_world",
+    "superbad",
+    "fifty_shades_of_black",
+    "cloudy_with_a_chance_of_meatballs",
+    "how_to_be_single",
+    "dora_and_the_lost_city_of_gold",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "happy_feet",
+    "knocked_up",
+    "the_wolf_of_wall_street"
   ]
 }

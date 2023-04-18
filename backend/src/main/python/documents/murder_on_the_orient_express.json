@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Whats not to like folks? Brannagh is great...charming. The story itself a classic. Good actors abound. And you get what is promised. That can't be said for so many movies. Take grandma, the kids your wife and your mistress. Enjoy."
     }
+  ],
+  "recommendations": [
+    "the_devil_all_the_time",
+    "odd_thomas",
+    "backdraft",
+    "the_great_gatsby",
+    "inkheart",
+    "the_girl_with_the_dragon_tattoo",
+    "victor_frankenstein",
+    "nocturnal_animals",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "harry_potter_and_the_order_of_the_phoenix",
+    "the_count_of_monte_cristo",
+    "the_aviator",
+    "the_illusionist",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "dune",
+    "harry_potter_and_the_chamber_of_secrets",
+    "alice_through_the_looking_glass",
+    "kingdom_of_heaven",
+    "legend",
+    "a_most_wanted_man",
+    "magnolia",
+    "body_of_lies",
+    "blood_ties",
+    "the_paperboy",
+    "oz_the_great_and_powerful"
   ]
 }

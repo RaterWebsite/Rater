@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "The movie capture perfectly the spirit of the Suicide Squad. Good rhythm and visualy spectacular. Dif\u00edcilmente se podr\u00eda haber hecho una pel\u00edcula mejor del g\u00e9nero y apostando por lo que apuesta."
     }
+  ],
+  "recommendations": [
+    "avengers_age_of_ultron",
+    "thor_the_dark_world",
+    "hercules",
+    "kingsman_the_golden_circle",
+    "thor_ragnarok",
+    "aquaman",
+    "deadpool_2",
+    "gemini_man",
+    "fantastic_four",
+    "rocknrolla",
+    "the_a_team",
+    "poseidon",
+    "thor",
+    "nobody",
+    "shazam_fury_of_the_gods",
+    "the_three_musketeers",
+    "the_losers",
+    "edge_of_tomorrow",
+    "guardians_of_the_galaxy",
+    "glass",
+    "ant_man_and_the_wasp_quantumania",
+    "deadpool",
+    "sherlock_holmes_a_game_of_shadows",
+    "bloodshot",
+    "iron_man_2"
   ]
 }

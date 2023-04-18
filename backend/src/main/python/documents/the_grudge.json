@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Love this movie when it first came out. Ended being the best one out of the series. This movie really freaked me out the first time."
     }
+  ],
+  "recommendations": [
+    "the_grudge_2",
+    "the_possession",
+    "insidious_chapter_2",
+    "the_ring",
+    "insidious",
+    "dead_silence",
+    "annabelle",
+    "the_amityville_horror",
+    "sinister_2",
+    "dark_skies",
+    "the_curse_of_la_llorona",
+    "malignant",
+    "blair_witch",
+    "the_haunting_in_connecticut",
+    "the_ring_two",
+    "drag_me_to_hell",
+    "the_blair_witch_project",
+    "the_hills_have_eyes",
+    "the_eye",
+    "chernobyl_diaries",
+    "saw",
+    "cabin_fever",
+    "ouija",
+    "the_last_house_on_the_left",
+    "slender_man"
   ]
 }

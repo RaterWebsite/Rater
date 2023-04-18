@@ -170,5 +170,32 @@
       "rating": "10",
       "text": "Far and away my favorite musical movie. It works as a story, the songs are perfect updated period-style pieces, the casting was brilliant -- like most musicals, it requires some suspension of disbelief, but this viewer is more than willing to do so in order to enter this fantasy-Chicago again and again."
     }
+  ],
+  "recommendations": [
+    "the_sound_of_music",
+    "begin_again",
+    "a_star_is_born",
+    "bohemian_rhapsody",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "la_la_land",
+    "in_the_heights",
+    "the_greatest_showman",
+    "rocketman",
+    "moulin_rouge",
+    "whiplash",
+    "amadeus",
+    "burlesque",
+    "annette",
+    "mary_poppins_returns",
+    "cats",
+    "yesterday",
+    "almost_famous",
+    "crazy_heart",
+    "the_great_gatsby",
+    "mamma_mia_here_we_go_again",
+    "once_upon_a_time_in_america",
+    "casablanca",
+    "the_last_of_the_mohicans",
+    "the_aviator"
   ]
 }

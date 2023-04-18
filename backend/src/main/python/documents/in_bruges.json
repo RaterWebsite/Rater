@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Great actors and a wonderful setting. It's been a long time since I enjoyed the atmosphere and the sense of humor of a movie that much."
     }
+  ],
+  "recommendations": [
+    "fargo",
+    "seven_psychopaths",
+    "the_nice_guys",
+    "snatch",
+    "mortdecai",
+    "pineapple_express",
+    "the_five_year_engagement",
+    "the_king_of_staten_island",
+    "logan_lucky",
+    "the_gentlemen",
+    "the_royal_tenenbaums",
+    "keeping_up_with_the_joneses",
+    "tag",
+    "the_family",
+    "inherent_vice",
+    "american_ultra",
+    "blockers",
+    "delivery_man",
+    "django_unchained",
+    "lucky_number_slevin",
+    "deadpool_2",
+    "sleeping_with_other_people",
+    "friends_with_benefits",
+    "palm_springs",
+    "destination_wedding"
   ]
 }

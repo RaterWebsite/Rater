@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "In my opinion was a decent movie. Watched it longer time ago but still remember main events, action was nice and good actors. Maybe only thing I missed is a bit more plot or at least more action, but both lacked a bit as some parts the main characters where just moving from one place to other and not much happened."
     }
+  ],
+  "recommendations": [
+    "project_power",
+    "wrath_of_man",
+    "the_equalizer_2",
+    "contraband",
+    "bloodshot",
+    "the_italian_job",
+    "unstoppable",
+    "gemini_man",
+    "skyscraper",
+    "poseidon",
+    "the_commuter",
+    "the_accountant",
+    "rocknrolla",
+    "the_bank_job",
+    "infinite",
+    "the_equalizer",
+    "haywire",
+    "the_ice_road",
+    "jiu_jitsu",
+    "avengers_age_of_ultron",
+    "san_andreas",
+    "broken_city",
+    "angel_has_fallen",
+    "the_three_musketeers",
+    "man_on_a_ledge"
   ]
 }

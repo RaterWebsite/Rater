@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "It should be clear to all that The Last Crusade is easily the best in the Indiana Jones series. Its comedy and wit gives it charm and breathes new life into the series, much needed after the dark Temple of Doom."
     }
+  ],
+  "recommendations": [
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "the_world_is_not_enough",
+    "goldeneye",
+    "the_dark_knight",
+    "spider_man",
+    "the_batman",
+    "raiders_of_the_lost_ark",
+    "hook",
+    "highlander",
+    "die_hard",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_spy_who_loved_me",
+    "true_grit",
+    "last_action_hero",
+    "catch_me_if_you_can",
+    "die_another_day",
+    "back_to_the_future_part_iii",
+    "the_fifth_element",
+    "rocky_ii",
+    "the_incredible_hulk",
+    "batman_begins",
+    "sherlock_holmes_a_game_of_shadows",
+    "tombstone",
+    "terminator_2_judgment_day",
+    "goodfellas"
   ]
 }

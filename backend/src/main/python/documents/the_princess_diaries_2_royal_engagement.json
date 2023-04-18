@@ -67,5 +67,32 @@
       "rating": "6",
       "text": "----------------------------------5.5/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "enchanted",
+    "leap_year",
+    "clueless",
+    "the_santa_clause_2",
+    "maid_in_manhattan",
+    "mean_girls",
+    "easy_a",
+    "17_again",
+    "godmothered",
+    "what_a_girl_wants",
+    "hannah_montana_the_movie",
+    "bride_wars",
+    "labyrinth",
+    "10_things_i_hate_about_you",
+    "13_going_on_30",
+    "the_princess_diaries",
+    "nanny_mcphee",
+    "pretty_woman",
+    "the_holiday",
+    "the_christmas_chronicles",
+    "tooth_fairy",
+    "ella_enchanted",
+    "stardust",
+    "a_cinderella_story",
+    "you_again"
   ]
 }

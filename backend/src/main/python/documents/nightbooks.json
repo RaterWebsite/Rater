@@ -62,5 +62,32 @@
       "rating": "10",
       "text": "movie is good and Lidya Jewett is beautiful and works very wellfilme \u00e9 bom e Lidya Jewett \u00e9 linda e trabalha muito bem"
     }
+  ],
+  "recommendations": [
+    "the_house_with_a_clock_in_its_walls",
+    "the_spiderwick_chronicles",
+    "it",
+    "coraline",
+    "monster_house",
+    "mama",
+    "ouija_origin_of_evil",
+    "orphan",
+    "case_39",
+    "paranorman",
+    "goosebumps",
+    "nanny_mcphee",
+    "moonrise_kingdom",
+    "brightburn",
+    "red_riding_hood",
+    "the_kid_who_would_be_king",
+    "the_witches",
+    "annabelle_comes_home",
+    "super_8",
+    "it_chapter_two",
+    "scary_stories_to_tell_in_the_dark",
+    "insidious_chapter_3",
+    "the_possession",
+    "wish_upon",
+    "the_curse_of_la_llorona"
   ]
 }

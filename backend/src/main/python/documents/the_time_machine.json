@@ -76,5 +76,32 @@
       "rating": "6",
       "text": "It was an entertaining movie, the acting was pretty good and the story was fun. Definitely watch it if it's on."
     }
+  ],
+  "recommendations": [
+    "source_code",
+    "the_butterfly_effect",
+    "arrival",
+    "annihilation",
+    "project_almanac",
+    "mortal_engines",
+    "the_day_after_tomorrow",
+    "city_of_ember",
+    "the_13th_warrior",
+    "contact",
+    "back_to_the_future_part_ii",
+    "the_maze_runner",
+    "voyagers",
+    "avatar",
+    "the_midnight_sky",
+    "donnie_darko",
+    "sunshine",
+    "maze_runner_the_scorch_trials",
+    "time_trap",
+    "ready_player_one",
+    "divergent",
+    "interstellar",
+    "cloud_atlas",
+    "predestination",
+    "antebellum"
   ]
 }

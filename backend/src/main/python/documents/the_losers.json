@@ -164,5 +164,32 @@
       "rating": "4",
       "text": "An explosive tale of double cross and revenge, The Losers centers upon the members of an elite U.S. Special Forces unit sent into the Bolivian jungle on a search and destroy mission. The team--Clay, Jensen, Roque, Pooch and Cougar--find themselves the target of a lethal betrayal instigated from inside by a powerful enemy known only as"
     }
+  ],
+  "recommendations": [
+    "the_a_team",
+    "deadpool",
+    "american_ultra",
+    "the_green_hornet",
+    "hercules",
+    "shazam_fury_of_the_gods",
+    "bloodshot",
+    "deadpool_2",
+    "kingsman_the_golden_circle",
+    "hancock",
+    "skyscraper",
+    "the_suicide_squad",
+    "guardians_of_the_galaxy",
+    "venom_let_there_be_carnage",
+    "iron_man_2",
+    "escape_plan",
+    "the_expendables_3",
+    "jumanji_the_next_level",
+    "thor_the_dark_world",
+    "thor_ragnarok",
+    "kingsman_the_secret_service",
+    "this_means_war",
+    "last_action_hero",
+    "red_notice",
+    "nobody"
   ]
 }

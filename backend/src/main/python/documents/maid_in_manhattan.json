@@ -54,5 +54,32 @@
       "rating": "6",
       "text": "Ok movie, this is probably every maids dream. To meet a handsome rich man that will sweep her off her feet."
     }
+  ],
+  "recommendations": [
+    "red_riding_hood",
+    "17_again",
+    "stardust",
+    "leap_year",
+    "10_things_i_hate_about_you",
+    "mean_girls",
+    "the_lucky_one",
+    "no_strings_attached",
+    "a_cinderella_story",
+    "the_duff",
+    "the_break_up",
+    "aquamarine",
+    "friends_with_benefits",
+    "the_vow",
+    "easy_a",
+    "the_blind_side",
+    "how_to_be_single",
+    "clueless",
+    "legally_blonde",
+    "no_reservations",
+    "the_boy_next_door",
+    "snow_white_and_the_huntsman",
+    "barely_lethal",
+    "just_go_with_it",
+    "hustlers"
   ]
 }

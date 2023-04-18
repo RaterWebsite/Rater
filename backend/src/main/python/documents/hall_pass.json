@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "It\u2019s a much better movie than it\u2019s ratings. I love the cast and the Farrelly Brothers strike again, this is a funny movie with more heart than you\u2019d expect."
     }
+  ],
+  "recommendations": [
+    "knocked_up",
+    "bridesmaids",
+    "the_change_up",
+    "neighbors_2_sorority_rising",
+    "a_million_ways_to_die_in_the_west",
+    "neighbors",
+    "the_40_year_old_virgin",
+    "dirty_grandpa",
+    "rough_night",
+    "trainwreck",
+    "what_happens_in_vegas",
+    "ted_2",
+    "good_boys",
+    "step_brothers",
+    "the_ugly_truth",
+    "sisters",
+    "tammy",
+    "superbad",
+    "this_is_the_end",
+    "identity_thief",
+    "paul_blart_mall_cop",
+    "the_hangover",
+    "dinner_for_schmucks",
+    "jackass_presents_bad_grandpa",
+    "ted"
   ]
 }

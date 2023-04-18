@@ -229,5 +229,32 @@
       "rating": "10",
       "text": "This movie is worthy of going up against a Pixar movie. yes i said it. It may even be better than a Pixar movie because while it kept to a more mature form and also still a childish sense of humor laughable at all ages.\r10/10"
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon",
+    "the_incredibles",
+    "the_croods",
+    "kung_fu_panda_3",
+    "raya_and_the_last_dragon",
+    "next_gen",
+    "big_hero_6",
+    "onward",
+    "spider_man_into_the_spider_verse",
+    "bumblebee",
+    "the_good_dinosaur",
+    "my_little_pony_the_movie",
+    "kung_fu_panda_2",
+    "how_to_train_your_dragon_the_hidden_world",
+    "the_iron_giant",
+    "super_8",
+    "9",
+    "atlantis_the_lost_empire",
+    "cars",
+    "up",
+    "zootopia",
+    "kubo_and_the_two_strings",
+    "rise_of_the_guardians",
+    "the_adventures_of_tintin",
+    "incredibles_2"
   ]
 }

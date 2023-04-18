@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "Bom filme, fotografia perfeita, \u00f3timo roteiro, atua\u00e7\u00e3o magn\u00edfica do elenco, ambienta\u00e7\u00e3o incr\u00edvel. Puro entretenimento, filme para qualquer pessoa, Tim Burton est\u00e1 de parab\u00e9ns pelo trabalho, assistir esse filme traz at\u00e9 satisfa\u00e7\u00e3o pessoal de ter gasto esse tempo em uma obra t\u00e3o magn\u00edfica."
     }
+  ],
+  "recommendations": [
+    "crimson_peak",
+    "candyman",
+    "doctor_sleep",
+    "the_grand_budapest_hotel",
+    "last_night_in_soho",
+    "chinatown",
+    "the_fifth_element",
+    "the_shining",
+    "hellboy",
+    "victor_frankenstein",
+    "dark_shadows",
+    "doctor_strange",
+    "sin_city",
+    "frankenweenie",
+    "the_others",
+    "beetlejuice",
+    "the_sting",
+    "conan_the_barbarian",
+    "alice_in_wonderland",
+    "murder_on_the_orient_express",
+    "the_dark_knight",
+    "django_unchained",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_black_phone",
+    "fargo"
   ]
 }

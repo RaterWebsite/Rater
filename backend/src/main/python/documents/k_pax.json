@@ -113,5 +113,32 @@
       "rating": "7",
       "text": "----------------------------------7.3/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "erin_brockovich",
+    "the_card_counter",
+    "dark_waters",
+    "the_way_back",
+    "nine_days",
+    "ingrid_goes_west",
+    "leave_no_trace",
+    "silence",
+    "personal_shopper",
+    "the_mauritanian",
+    "greta",
+    "deep_impact",
+    "snowden",
+    "munich",
+    "the_hunt",
+    "the_conversation",
+    "a_hidden_life",
+    "first_man",
+    "miss_sloane",
+    "the_space_between_us",
+    "disobedience",
+    "nightcrawler",
+    "the_33",
+    "the_boy_who_harnessed_the_wind",
+    "patriots_day"
   ]
 }

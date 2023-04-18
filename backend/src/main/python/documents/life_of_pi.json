@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I'm still mulling through the writer's and director's meaning for this film.  I was spellbound by the cinematography, the acting, and the story.\rWithout the 3 D, it would have been just as wonderful."
     }
+  ],
+  "recommendations": [
+    "cloud_atlas",
+    "the_fountain",
+    "tolkien",
+    "soul",
+    "what_dreams_may_come",
+    "upside_down",
+    "amores_perros",
+    "perfume_the_story_of_a_murderer",
+    "the_bfg",
+    "hugo",
+    "the_great_gatsby",
+    "the_lovely_bones",
+    "the_master",
+    "inception",
+    "eternals",
+    "your_name",
+    "roma",
+    "the_giver",
+    "alita_battle_angel",
+    "the_tree_of_life",
+    "the_walk",
+    "braveheart",
+    "risen",
+    "the_social_network",
+    "ex_machina"
   ]
 }

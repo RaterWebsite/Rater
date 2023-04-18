@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Wow, this is a really good movie, great performances by Haley Joel Osment and Bruce Willis and a very good twist. Although my first thoughts at the beginning of the film could have predicted it, but I was still surprised. It really is an unexpected turn, while also well hinted."
     }
+  ],
+  "recommendations": [
+    "the_usual_suspects",
+    "unbreakable",
+    "shutter_island",
+    "10_cloverfield_lane",
+    "the_others",
+    "the_prestige",
+    "the_black_phone",
+    "the_guest",
+    "signs",
+    "the_illusionist",
+    "split",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "now_you_see_me",
+    "the_lodge",
+    "us",
+    "twelve_monkeys",
+    "insidious_chapter_3",
+    "glass",
+    "the_babadook",
+    "ready_or_not",
+    "looper",
+    "the_fly",
+    "last_night_in_soho",
+    "it",
+    "candyman"
   ]
 }

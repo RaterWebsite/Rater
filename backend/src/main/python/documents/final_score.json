@@ -41,5 +41,32 @@
       "rating": "5",
       "text": "(Mauro Lanari)Once the protagonist of this kind of action movie was Bruce Willis (\"The Last Boy Scout\", Tony Scott 1991). More than a quarter of a century later it is still proposed, exhausted and geopolitically incorrect."
     }
+  ],
+  "recommendations": [
+    "safe",
+    "war",
+    "the_mechanic",
+    "shooter",
+    "the_bourne_identity",
+    "the_equalizer",
+    "quantum_of_solace",
+    "wrath_of_man",
+    "den_of_thieves",
+    "death_race",
+    "escape_plan",
+    "rambo_first_blood_part_ii",
+    "london_has_fallen",
+    "mission_impossible_ii",
+    "21_bridges",
+    "the_commuter",
+    "mission_impossible_ghost_protocol",
+    "2_guns",
+    "john_wick_chapter_3_parabellum",
+    "the_expendables",
+    "the_ice_road",
+    "angel_has_fallen",
+    "the_november_man",
+    "the_foreigner",
+    "mission_impossible"
   ]
 }

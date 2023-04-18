@@ -137,5 +137,32 @@
       "rating": "9",
       "text": "I enjoyed every minute of the film.. a great story with great music.. ending was very sad but beautiful."
     }
+  ],
+  "recommendations": [
+    "me_before_you",
+    "blue_valentine",
+    "about_time",
+    "the_age_of_adaline",
+    "her",
+    "call_me_by_your_name",
+    "the_notebook",
+    "the_big_sick",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "up_in_the_air",
+    "love_actually",
+    "the_fault_in_our_stars",
+    "stand_by_me_doraemon_2",
+    "cashback",
+    "collateral_beauty",
+    "moonrise_kingdom",
+    "the_perks_of_being_a_wallflower",
+    "the_florida_project",
+    "closer",
+    "secretary",
+    "instant_family",
+    "lost_in_translation",
+    "the_light_between_oceans",
+    "i_kill_giants",
+    "into_the_wild"
   ]
 }

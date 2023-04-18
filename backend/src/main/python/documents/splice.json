@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "A really bad horror movie not one part of this movie will scare you. the plot is very weak and is so so., The climax is built very slow and the ending is very dissapointing dont go see this movie unless its free."
     }
+  ],
+  "recommendations": [
+    "brightburn",
+    "unfriended",
+    "dark_skies",
+    "the_curse_of_la_llorona",
+    "chernobyl_diaries",
+    "the_host",
+    "devil",
+    "the_green_inferno",
+    "malignant",
+    "cabin_fever",
+    "the_possession",
+    "daybreakers",
+    "the_mist",
+    "midsommar",
+    "case_39",
+    "pandorum",
+    "the_strangers",
+    "better_watch_out",
+    "bird_box",
+    "unfriended_dark_web",
+    "the_pyramid",
+    "hostel",
+    "countdown",
+    "the_unborn",
+    "colossal"
   ]
 }

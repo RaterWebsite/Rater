@@ -225,5 +225,32 @@
       "rating": "2",
       "text": "The more and more I think about this movie the more I think it is a rip off. The movie was so bad, I can't even explain how bad it really was. There was little for the actors to work with in the way of lines and story. They butchered one of my faviorite stories worse then Kevin Cosnter did."
     }
+  ],
+  "recommendations": [
+    "superman_returns",
+    "thor",
+    "captain_america_the_first_avenger",
+    "the_scorpion_king",
+    "the_amazing_spider_man",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_legend_of_tarzan",
+    "daredevil",
+    "the_karate_kid_part_iii",
+    "superman",
+    "man_of_steel",
+    "sin_city_a_dame_to_kill_for",
+    "sherlock_holmes",
+    "spider_man_homecoming",
+    "underworld_rise_of_the_lycans",
+    "black_widow",
+    "hercules",
+    "true_grit",
+    "highlander",
+    "the_forbidden_kingdom",
+    "the_batman",
+    "hulk",
+    "spider_man_far_from_home",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader"
   ]
 }

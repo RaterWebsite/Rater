@@ -78,5 +78,32 @@
       "rating": "7",
       "text": "Even though this movie isn't the greatest, I must admit that I was pleasantly delighted by it. I really found myself giggling as we embarked on our global trip. Since there were so many supporting appearances, it was exciting to see who would appear next. Jackie Chan is a genuinely gifted actor. The brutality was a little lighthearted, but the results were real. I liked how each nation became magical as they departed for the next."
     }
+  ],
+  "recommendations": [
+    "the_forbidden_kingdom",
+    "the_big_lebowski",
+    "the_mummy",
+    "the_green_hornet",
+    "deadpool",
+    "rush_hour_2",
+    "kingsman_the_secret_service",
+    "last_action_hero",
+    "hot_fuzz",
+    "kung_fu_panda",
+    "deadpool_2",
+    "minions_the_rise_of_gru",
+    "kung_fu_panda_2",
+    "johnny_english_reborn",
+    "ghostbusters",
+    "the_spongebob_squarepants_movie",
+    "the_a_team",
+    "venom_let_there_be_carnage",
+    "megamind",
+    "sonic_the_hedgehog",
+    "peter_rabbit",
+    "sonic_the_hedgehog_2",
+    "pulp_fiction",
+    "thor_ragnarok",
+    "guardians_of_the_galaxy"
   ]
 }

@@ -29,5 +29,32 @@
       "rating": "10",
       "text": "A delicate and poetic masterpiece filmed under the scorching heat with an exceptional cast."
     }
+  ],
+  "recommendations": [
+    "presumed_innocent",
+    "once_upon_a_time_in_america",
+    "spartacus",
+    "to_kill_a_mockingbird",
+    "a_streetcar_named_desire",
+    "tombstone",
+    "the_godfather",
+    "the_thomas_crown_affair",
+    "the_english_patient",
+    "the_grand_budapest_hotel",
+    "little_women",
+    "gattaca",
+    "the_last_of_the_mohicans",
+    "chinatown",
+    "the_aviator",
+    "the_french_dispatch",
+    "chicago",
+    "chocolat",
+    "rear_window",
+    "sleepy_hollow",
+    "north_by_northwest",
+    "finding_neverland",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "amores_perros",
+    "the_secret_garden"
   ]
 }

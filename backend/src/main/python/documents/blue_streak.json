@@ -94,5 +94,32 @@
       "rating": "6",
       "text": "Blue Streak is good but one thing that flops this is the plot of the movie. But it's sometimes funny."
     }
+  ],
+  "recommendations": [
+    "the_whole_nine_yards",
+    "beverly_hills_cop",
+    "bad_boys",
+    "lethal_weapon",
+    "beverly_hills_cop_iii",
+    "the_cable_guy",
+    "sister_act",
+    "red",
+    "211",
+    "due_date",
+    "once_upon_a_time_in_venice",
+    "the_boss",
+    "the_wackness",
+    "beverly_hills_cop_ii",
+    "along_came_polly",
+    "wedding_crashers",
+    "jack_reacher_never_go_back",
+    "killer_elite",
+    "the_jackal",
+    "spy",
+    "ride_along_2",
+    "walking_tall",
+    "snitch",
+    "the_spy_next_door",
+    "black_and_blue"
   ]
 }

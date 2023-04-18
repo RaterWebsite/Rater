@@ -69,5 +69,32 @@
       "rating": "7",
       "text": "This is a underrated movie. I loved the characters and the fun moments that happen. And while the plot is kinda dumb, it keeps me entertained, most of the time."
     }
+  ],
+  "recommendations": [
+    "peter_rabbit",
+    "puss_in_boots_the_last_wish",
+    "the_adventures_of_tintin",
+    "megamind",
+    "meet_the_robinsons",
+    "the_croods",
+    "monsters_vs_aliens",
+    "despicable_me_2",
+    "hotel_transylvania_3_summer_vacation",
+    "my_little_pony_the_movie",
+    "atlantis_the_lost_empire",
+    "rango",
+    "kung_fu_panda_2",
+    "cars",
+    "kung_fu_panda_3",
+    "kung_fu_panda",
+    "rise_of_the_guardians",
+    "home_on_the_range",
+    "hotel_transylvania",
+    "rio",
+    "the_lego_movie",
+    "incredibles_2",
+    "the_call_of_the_wild",
+    "bolt",
+    "sonic_the_hedgehog_2"
   ]
 }

@@ -200,5 +200,32 @@
       "rating": "10",
       "text": "A fun western with a stellar performance from Josh Brolin and John Malkovich."
     }
+  ],
+  "recommendations": [
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "bloodshot",
+    "dark_phoenix",
+    "red_dawn",
+    "riddick",
+    "poseidon",
+    "hercules",
+    "teenage_mutant_ninja_turtles",
+    "brick_mansions",
+    "the_magnificent_seven",
+    "jumper",
+    "skyscraper",
+    "king_arthur_legend_of_the_sword",
+    "immortals",
+    "infinite",
+    "the_old_guard",
+    "max_steel",
+    "transformers_the_last_knight",
+    "national_treasure_book_of_secrets",
+    "the_meg",
+    "suicide_squad",
+    "rampage",
+    "the_transporter_refueled",
+    "xxx_return_of_xander_cage",
+    "kingsman_the_golden_circle"
   ]
 }

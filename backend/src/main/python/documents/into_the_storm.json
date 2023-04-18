@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Incredible film with a fantastic ending! The special effects will have you on the edge of your seat. Great story line too involving a documentary and some funny guys doing stunts. Dunno what the problem is with some people giving it a bad review!!!!!!!! It's one of those films you know you are going to enjoy watching again at a later date. I actually found it very original. Just because it's in the genre of disaster movie does not make it boring at all."
     }
+  ],
+  "recommendations": [
+    "poseidon",
+    "san_andreas",
+    "the_meg",
+    "teenage_mutant_ninja_turtles",
+    "the_darkest_hour",
+    "volcano",
+    "bloodshot",
+    "jumper",
+    "battleship",
+    "lockout",
+    "skyline",
+    "independence_day_resurgence",
+    "transformers_dark_of_the_moon",
+    "2012",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_shallows",
+    "transformers_the_last_knight",
+    "geostorm",
+    "gods_of_egypt",
+    "war_of_the_worlds",
+    "gemini_man",
+    "i_am_number_four",
+    "clash_of_the_titans",
+    "ghost_rider_spirit_of_vengeance",
+    "transformers_revenge_of_the_fallen"
   ]
 }

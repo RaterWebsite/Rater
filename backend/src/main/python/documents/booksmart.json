@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "Fantastic coming of age movie. Very fun watch with compelling characters. Already feels like a classic."
     }
+  ],
+  "recommendations": [
+    "the_duff",
+    "i_feel_pretty",
+    "blockers",
+    "moxie",
+    "easy_a",
+    "me_and_earl_and_the_dying_girl",
+    "17_again",
+    "the_perfect_date",
+    "life_of_the_party",
+    "how_to_be_single",
+    "superbad",
+    "sisters",
+    "knocked_up",
+    "dora_and_the_lost_city_of_gold",
+    "the_cobbler",
+    "palm_springs",
+    "moonrise_kingdom",
+    "good_boys",
+    "10_things_i_hate_about_you",
+    "the_40_year_old_virgin",
+    "3_idiots",
+    "juno",
+    "burn_after_reading",
+    "hall_pass",
+    "no_strings_attached"
   ]
 }

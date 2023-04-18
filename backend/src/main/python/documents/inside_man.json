@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A fantastic film! I'll be seeing this one again and buying the DVD when it comes out!"
     }
+  ],
+  "recommendations": [
+    "lucky_number_slevin",
+    "the_departed",
+    "money_monster",
+    "body_of_lies",
+    "breach",
+    "jack_ryan_shadow_recruit",
+    "american_gangster",
+    "knives_out",
+    "logan_lucky",
+    "gangster_squad",
+    "the_accountant",
+    "safe_house",
+    "broken_city",
+    "the_equalizer",
+    "triple_9",
+    "the_taking_of_pelham_1_2_3",
+    "american_hustle",
+    "man_on_fire",
+    "shooter",
+    "suburbicon",
+    "changeling",
+    "widows",
+    "the_equalizer_2",
+    "the_guardian",
+    "mystic_river"
   ]
 }

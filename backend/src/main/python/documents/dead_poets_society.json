@@ -224,5 +224,32 @@
       "rating": "3",
       "text": "i liked the message they gave throught the movie.Not really my type of movie to watch.I didn't like the ending to be honest."
     }
+  ],
+  "recommendations": [
+    "captain_fantastic",
+    "freedom_writers",
+    "the_glass_castle",
+    "minari",
+    "the_perks_of_being_a_wallflower",
+    "american_pastoral",
+    "a_bronx_tale",
+    "the_hunt",
+    "the_miseducation_of_cameron_post",
+    "gifted",
+    "hidden_figures",
+    "stand_by_me_doraemon_2",
+    "the_white_tiger",
+    "legends_of_the_fall",
+    "wonder",
+    "lady_bird",
+    "green_book",
+    "call_me_by_your_name",
+    "leave_no_trace",
+    "manchester_by_the_sea",
+    "ingrid_goes_west",
+    "me_before_you",
+    "i_can_only_imagine",
+    "race",
+    "belfast"
   ]
 }

@@ -228,5 +228,32 @@
       "rating": "3",
       "text": "If you"
     }
+  ],
+  "recommendations": [
+    "the_mechanic",
+    "the_equalizer",
+    "2_guns",
+    "angel_has_fallen",
+    "gangster_squad",
+    "jack_ryan_shadow_recruit",
+    "den_of_thieves",
+    "demolition_man",
+    "killer_elite",
+    "american_assassin",
+    "21_bridges",
+    "safe_house",
+    "wrath_of_man",
+    "from_paris_with_love",
+    "first_blood",
+    "escape_plan",
+    "the_commuter",
+    "the_november_man",
+    "safe",
+    "mile_22",
+    "the_last_stand",
+    "copshop",
+    "sabotage",
+    "true_lies",
+    "contraband"
   ]
 }

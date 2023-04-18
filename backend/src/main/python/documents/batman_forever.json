@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Alot of people hate this movie but i really like it. It's a good movie to just sit and watch and you don't have to pay close attention to. It's not the best batman movie by any means but it is a movie i enjoy."
     }
+  ],
+  "recommendations": [
+    "batman_returns",
+    "batman",
+    "the_batman",
+    "batman_begins",
+    "the_incredible_hulk",
+    "daredevil",
+    "the_mask",
+    "superman_returns",
+    "spider_man",
+    "spider_man_homecoming",
+    "the_amazing_spider_man",
+    "superman_iii",
+    "superman",
+    "beetlejuice",
+    "austin_powers_in_goldmember",
+    "robin_hood",
+    "die_another_day",
+    "halloween_4_the_return_of_michael_myers",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "the_flintstones",
+    "the_dark_knight",
+    "gremlins_2_the_new_batch",
+    "the_dark_knight_rises",
+    "fantastic_four",
+    "batman_v_superman_dawn_of_justice"
   ]
 }

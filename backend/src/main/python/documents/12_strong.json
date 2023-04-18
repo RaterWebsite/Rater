@@ -215,5 +215,32 @@
       "rating": "1",
       "text": "the movies is really violent. and it akes it rather annoying. does not show millitary"
     }
+  ],
+  "recommendations": [
+    "red_tails",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "lone_survivor",
+    "midway",
+    "greyhound",
+    "black_hawk_down",
+    "the_outpost",
+    "the_hurt_locker",
+    "fury",
+    "lord_of_war",
+    "captain_america_civil_war",
+    "jarhead",
+    "pearl_harbor",
+    "anthropoid",
+    "the_1517_to_paris",
+    "the_kingdom",
+    "battle_los_angeles",
+    "green_zone",
+    "deepwater_horizon",
+    "valkyrie",
+    "equilibrium",
+    "london_has_fallen",
+    "dunkirk",
+    "hostiles",
+    "the_eagle"
   ]
 }

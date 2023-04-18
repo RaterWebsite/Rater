@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "I am drawn to Jack Sparrow stories like sailors are drawn to mermaids... The franchise brings out the same kind of feelings I felt when going to the movies as a kid.  Penelope is a good addition to the team, however I did miss the chemistry between Sparrow and Will Turner."
     }
+  ],
+  "recommendations": [
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "terminator_genisys",
+    "riddick",
+    "poseidon",
+    "shazam_fury_of_the_gods",
+    "kingsman_the_golden_circle",
+    "avengers_age_of_ultron",
+    "maze_runner_the_scorch_trials",
+    "the_many_saints_of_newark",
+    "i_am_number_four",
+    "hancock",
+    "max_steel",
+    "jumper",
+    "bumblebee",
+    "the_last_witch_hunter",
+    "now_you_see_me_2",
+    "the_a_team",
+    "incredibles_2",
+    "edge_of_tomorrow",
+    "hercules",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "transformers_dark_of_the_moon",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "percy_jackson_sea_of_monsters",
+    "teenage_mutant_ninja_turtles"
   ]
 }

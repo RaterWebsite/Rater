@@ -118,5 +118,32 @@
       "rating": "9",
       "text": "My all time favorite. I love this movie.Anyone thats interested in WW2, watch this movie."
     }
+  ],
+  "recommendations": [
+    "dunkirk",
+    "apocalypse_now",
+    "1917",
+    "master_and_commander_the_far_side_of_the_world",
+    "full_metal_jacket",
+    "the_thin_red_line",
+    "red_tails",
+    "midway",
+    "anthropoid",
+    "the_deer_hunter",
+    "deepwater_horizon",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "close_encounters_of_the_third_kind",
+    "hostiles",
+    "12_strong",
+    "greyhound",
+    "unbroken",
+    "the_eagle",
+    "arrival",
+    "avatar",
+    "patriots_day",
+    "valkyrie",
+    "the_lost_city_of_z",
+    "zero_dark_thirty",
+    "the_monuments_men"
   ]
 }

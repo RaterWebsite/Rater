@@ -165,5 +165,32 @@
       "rating": "7",
       "text": "Es una simple historia de amor, pero es entretenida y divertida, la recomiendo."
     }
+  ],
+  "recommendations": [
+    "life_as_we_know_it",
+    "we_bought_a_zoo",
+    "happiest_season",
+    "last_christmas",
+    "friends_with_benefits",
+    "love_actually",
+    "silver_linings_playbook",
+    "the_notebook",
+    "the_lake_house",
+    "no_strings_attached",
+    "chef",
+    "the_intern",
+    "17_again",
+    "leap_year",
+    "something_borrowed",
+    "the_vow",
+    "midnight_sun",
+    "the_perfect_date",
+    "if_i_stay",
+    "me_before_you",
+    "last_vegas",
+    "book_club",
+    "the_blind_side",
+    "a_walk_to_remember",
+    "hustlers"
   ]
 }

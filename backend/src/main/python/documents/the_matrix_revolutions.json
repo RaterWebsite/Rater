@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "You know what? The first hour of this movie isn't too bad. But then, it gets really really really really really stupid... That's the best way I could describe this movie. Not bad, just really stupid."
     }
+  ],
+  "recommendations": [
+    "the_matrix_reloaded",
+    "maze_runner_the_death_cure",
+    "maze_runner_the_scorch_trials",
+    "battle_los_angeles",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "300_rise_of_an_empire",
+    "captive_state",
+    "avengers_age_of_ultron",
+    "avengers_infinity_war",
+    "mortal_engines",
+    "the_5th_wave",
+    "star_trek_v_the_final_frontier",
+    "the_hunger_games_mockingjay_part_2",
+    "the_13th_warrior",
+    "transformers_dark_of_the_moon",
+    "final_fantasy_the_spirits_within",
+    "equilibrium",
+    "surrogates",
+    "source_code",
+    "how_to_train_your_dragon_the_hidden_world",
+    "underworld_awakening",
+    "jupiter_ascending",
+    "mad_max_fury_road",
+    "reign_of_fire",
+    "pacific_rim"
   ]
 }

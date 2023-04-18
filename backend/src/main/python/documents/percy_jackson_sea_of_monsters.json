@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Still A Harry Potter Ripoff in Many Ways It's Still A Decent Film For Kids, Teens, Adults And More, The Effects Were Amazing, The Characters Are OK, The Story Is Pretty Good"
     }
+  ],
+  "recommendations": [
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "the_chronicles_of_narnia_prince_caspian",
+    "the_hobbit_the_desolation_of_smaug",
+    "maze_runner_the_scorch_trials",
+    "the_mortal_instruments_city_of_bones",
+    "batman_v_superman_dawn_of_justice",
+    "the_maze_runner",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "terminator_genisys",
+    "dreamcatcher",
+    "vampire_academy",
+    "inferno",
+    "the_golden_compass",
+    "the_last_witch_hunter",
+    "the_twilight_saga_eclipse",
+    "the_twilight_saga_new_moon",
+    "artemis_fowl",
+    "green_lantern",
+    "it_chapter_two",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "city_of_ember",
+    "i_am_number_four",
+    "i_am_legend",
+    "the_hobbit_an_unexpected_journey",
+    "eragon"
   ]
 }

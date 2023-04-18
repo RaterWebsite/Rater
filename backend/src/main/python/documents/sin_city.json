@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "Ridculous dialogue. Self-serving and preposterous. This movie uses every cliche in the book. It's gut wrenching watching quality actors seem like they are suffering through such a goofy movie with some of the worst lines ever written."
     }
+  ],
+  "recommendations": [
+    "watchmen",
+    "dredd",
+    "sin_city_a_dame_to_kill_for",
+    "hellboy",
+    "conan_the_barbarian",
+    "dune",
+    "reservoir_dogs",
+    "victor_frankenstein",
+    "django_unchained",
+    "samson",
+    "the_great_gatsby",
+    "the_count_of_monte_cristo",
+    "alita_battle_angel",
+    "doctor_sleep",
+    "blade_of_the_47_ronin",
+    "the_fifth_element",
+    "thor",
+    "king_arthur_legend_of_the_sword",
+    "murder_on_the_orient_express",
+    "aquaman",
+    "blade_runner_2049",
+    "indiana_jones_and_the_temple_of_doom",
+    "jackie_brown",
+    "the_girl_with_the_dragon_tattoo",
+    "fantastic_beasts_the_crimes_of_grindelwald"
   ]
 }

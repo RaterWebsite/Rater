@@ -42,5 +42,32 @@
       "rating": "7",
       "text": "Cleaner image than the first movie. The creature effects go to the next level too. Great use of all the speakers except the bass speaker which was a little soft. This takes everything to the next level. There is more comedy, more crazy gremlins and that's your lot. Much less serious than the first and I prefer it that way."
     }
+  ],
+  "recommendations": [
+    "beetlejuice",
+    "austin_powers_the_spy_who_shagged_me",
+    "robots",
+    "ghostbusters",
+    "scooby_doo_2_monsters_unleashed",
+    "austin_powers_in_goldmember",
+    "ghostbusters_ii",
+    "the_fifth_element",
+    "fantastic_four",
+    "sherlock_gnomes",
+    "dark_shadows",
+    "oz_the_great_and_powerful",
+    "megamind",
+    "the_green_hornet",
+    "101_dalmatians",
+    "jumanji_the_next_level",
+    "scary_movie_3",
+    "the_mummy",
+    "men_in_black_ii",
+    "charlie_and_the_chocolate_factory",
+    "jumanji_welcome_to_the_jungle",
+    "horrible_bosses_2",
+    "aquaman",
+    "zombieland_double_tap",
+    "van_helsing"
   ]
 }

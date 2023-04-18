@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "This is a movie that leads you to think about your love life, especially if you already have an advanced age. It brings a slight comedy, sometimes without goal or without a great message, but it makes us laugh from beginning to end. The cast manages to build good characters, even with a difficult-to-approach topic. Empty and na\u00efve, but still, it makes us laugh and believe. 7.0/10"
     }
+  ],
+  "recommendations": [
+    "13_going_on_30",
+    "sex_and_the_city_2",
+    "last_vegas",
+    "sisters",
+    "the_intern",
+    "bridesmaids",
+    "the_holiday",
+    "magic_mikes_last_dance",
+    "the_hustle",
+    "no_strings_attached",
+    "trainwreck",
+    "spanglish",
+    "easy_a",
+    "don_jon",
+    "the_40_year_old_virgin",
+    "something_borrowed",
+    "hall_pass",
+    "bride_wars",
+    "life_as_we_know_it",
+    "friends_with_benefits",
+    "booksmart",
+    "the_first_time",
+    "the_perfect_date",
+    "27_dresses",
+    "young_adult"
   ]
 }

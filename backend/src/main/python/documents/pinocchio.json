@@ -62,5 +62,32 @@
       "rating": "0",
       "text": "One word review: SUCKS."
     }
+  ],
+  "recommendations": [
+    "the_matrix_resurrections",
+    "the_emoji_movie",
+    "dragonball_evolution",
+    "dolittle",
+    "the_day_the_earth_stood_still",
+    "transformers_the_last_knight",
+    "space_jam_a_new_legacy",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_last_airbender",
+    "battleship",
+    "king_kong",
+    "transformers_revenge_of_the_fallen",
+    "norm_of_the_north",
+    "teenage_mutant_ninja_turtles",
+    "a_wrinkle_in_time",
+    "the_legend_of_hercules",
+    "clash_of_the_titans",
+    "pan",
+    "eragon",
+    "uglydolls",
+    "red_dawn",
+    "gamer",
+    "all_eyez_on_me",
+    "the_hobbit_the_desolation_of_smaug",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull"
   ]
 }

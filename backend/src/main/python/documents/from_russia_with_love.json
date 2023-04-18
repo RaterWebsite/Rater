@@ -118,5 +118,32 @@
       "rating": "9",
       "text": "This is honestly the best of the Sean Connery Bond films as it is more of a meditative thriller than what we typically expect from a Bond film now, and is the least sexist and racist of the Connery Bond films along with Thunderball."
     }
+  ],
+  "recommendations": [
+    "the_spy_who_loved_me",
+    "tomorrow_never_dies",
+    "you_only_live_twice",
+    "the_world_is_not_enough",
+    "goldeneye",
+    "for_your_eyes_only",
+    "spectre",
+    "octopussy",
+    "no_time_to_die",
+    "the_man_with_the_golden_gun",
+    "captain_america_the_winter_soldier",
+    "entrapment",
+    "casino_royale",
+    "thunderball",
+    "diamonds_are_forever",
+    "mission_impossible_rogue_nation",
+    "quantum_of_solace",
+    "the_hunt_for_red_october",
+    "unforgiven",
+    "captain_america_civil_war",
+    "raiders_of_the_lost_ark",
+    "die_another_day",
+    "the_fugitive",
+    "the_rock",
+    "heat"
   ]
 }

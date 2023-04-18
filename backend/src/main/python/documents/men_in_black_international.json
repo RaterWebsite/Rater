@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "This movie is a total garbage. Just terrible. Don't waste your time and money"
     }
+  ],
+  "recommendations": [
+    "the_old_guard",
+    "captain_marvel",
+    "suicide_squad",
+    "terminator_dark_fate",
+    "shadow_in_the_cloud",
+    "x_men_apocalypse",
+    "after_earth",
+    "x_men_origins_wolverine",
+    "the_new_mutants",
+    "dark_phoenix",
+    "iron_man_3",
+    "max_steel",
+    "elektra",
+    "21",
+    "jumper",
+    "battleship",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "infinite",
+    "teenage_mutant_ninja_turtles",
+    "pompeii",
+    "geostorm",
+    "jolt",
+    "olympus_has_fallen",
+    "independence_day_resurgence",
+    "jonah_hex"
   ]
 }

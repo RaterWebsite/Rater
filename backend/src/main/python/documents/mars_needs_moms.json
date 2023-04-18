@@ -134,5 +134,32 @@
       "rating": "3",
       "text": "The animation, while good, looks too realistic, like way too realistic compared to The Adventures of TinTin."
     }
+  ],
+  "recommendations": [
+    "coraline",
+    "the_good_dinosaur",
+    "the_smurfs",
+    "the_boss_baby_christmas_bonus",
+    "monster_house",
+    "the_angry_birds_movie_2",
+    "astro_boy",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "cloudy_with_a_chance_of_meatballs",
+    "happy_feet",
+    "the_tale_of_despereaux",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "where_the_wild_things_are",
+    "walking_with_dinosaurs",
+    "hotel_transylvania",
+    "real_steel",
+    "chicken_little",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_angry_birds_movie",
+    "ice_age_the_meltdown",
+    "the_croods",
+    "the_polar_express",
+    "the_nut_job",
+    "shark_tale",
+    "the_boss_baby_family_business"
   ]
 }

@@ -193,5 +193,32 @@
       "rating": "8",
       "text": "Pretty decent action flick. Simple but enjoyable. A movie like in the good old days."
     }
+  ],
+  "recommendations": [
+    "lockout",
+    "the_mechanic",
+    "skyscraper",
+    "bloodshot",
+    "the_fate_of_the_furious",
+    "the_ice_road",
+    "angel_has_fallen",
+    "wild_card",
+    "salt",
+    "the_transporter_refueled",
+    "mission_impossible_iii",
+    "the_commuter",
+    "seeking_justice",
+    "contraband",
+    "den_of_thieves",
+    "honest_thief",
+    "iron_man_2",
+    "mechanic_resurrection",
+    "the_losers",
+    "the_equalizer",
+    "wrath_of_man",
+    "infinite",
+    "furious_7",
+    "the_marine",
+    "the_a_team"
   ]
 }

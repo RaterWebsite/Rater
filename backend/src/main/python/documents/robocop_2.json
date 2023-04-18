@@ -60,5 +60,32 @@
       "rating": "8",
       "text": "There's a reason this film killed the franchise. The violence and action are replaced with cheesy comedy that is more cringe-worthy than actually funny. Everything is dumbed down, From the terrible plot to the terrible acting, It's just awful."
     }
+  ],
+  "recommendations": [
+    "teenage_mutant_ninja_turtles",
+    "the_old_guard",
+    "transformers_age_of_extinction",
+    "xxx_return_of_xander_cage",
+    "max_steel",
+    "jolt",
+    "x_men_origins_wolverine",
+    "lockout",
+    "sabotage",
+    "suicide_squad",
+    "transformers_revenge_of_the_fallen",
+    "kingsman_the_golden_circle",
+    "unhinged",
+    "iron_man_3",
+    "terminator_dark_fate",
+    "jumper",
+    "the_predator",
+    "iron_man_2",
+    "the_6th_day",
+    "battleship",
+    "shadow_in_the_cloud",
+    "wild_card",
+    "terminator_salvation",
+    "mechanic_resurrection",
+    "leatherface"
   ]
 }

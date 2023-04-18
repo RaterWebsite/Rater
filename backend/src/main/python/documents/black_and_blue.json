@@ -87,5 +87,32 @@
       "rating": "10",
       "text": "This movie was great from beginning to end. The acting, the storytelling and the plot. Spotted what happens when police don't protect and serve communities of color when those within their ranks are still trying to do the right thing."
     }
+  ],
+  "recommendations": [
+    "21_bridges",
+    "no_escape",
+    "the_commuter",
+    "3_days_to_kill",
+    "cold_pursuit",
+    "triple_9",
+    "street_kings",
+    "the_marksman",
+    "the_lincoln_lawyer",
+    "the_little_things",
+    "killer_elite",
+    "end_of_watch",
+    "the_equalizer",
+    "donnie_brasco",
+    "breaking_in",
+    "jack_ryan_shadow_recruit",
+    "the_accountant",
+    "the_call",
+    "widows",
+    "hotel_artemis",
+    "a_walk_among_the_tombstones",
+    "the_november_man",
+    "beirut",
+    "closed_circuit",
+    "the_rhythm_section"
   ]
 }

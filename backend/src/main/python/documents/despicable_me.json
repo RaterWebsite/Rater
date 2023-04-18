@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Although the story isn't totally heart-warming and a few jokes felt a little tired, Despicable Me is still quiet clever in a few places and shows some great animation and design."
     }
+  ],
+  "recommendations": [
+    "spies_in_disguise",
+    "bolt",
+    "penguins_of_madagascar",
+    "hotel_transylvania",
+    "despicable_me_2",
+    "ice_age_the_meltdown",
+    "madagascar_escape_2_africa",
+    "the_croods",
+    "ice_age",
+    "hotel_transylvania_2",
+    "robots",
+    "shazam",
+    "rise_of_the_guardians",
+    "storks",
+    "over_the_hedge",
+    "shaun_the_sheep_movie",
+    "madagascar",
+    "puss_in_boots_the_last_wish",
+    "the_secret_life_of_pets",
+    "turbo",
+    "megamind",
+    "peter_rabbit",
+    "despicable_me_3",
+    "captain_underpants_the_first_epic_movie",
+    "cloudy_with_a_chance_of_meatballs"
   ]
 }

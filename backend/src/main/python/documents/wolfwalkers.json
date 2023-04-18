@@ -195,5 +195,32 @@
       "rating": "8",
       "text": "The animation is absolutely fantastic here and the story and characters are very well written."
     }
+  ],
+  "recommendations": [
+    "anastasia",
+    "luca",
+    "how_to_train_your_dragon",
+    "the_book_of_life",
+    "spirit_stallion_of_the_cimarron",
+    "the_lion_king",
+    "klaus",
+    "kubo_and_the_two_strings",
+    "your_name",
+    "song_of_the_sea",
+    "the_prince_of_egypt",
+    "over_the_moon",
+    "cinderella",
+    "soul",
+    "the_little_prince",
+    "the_incredibles",
+    "how_to_train_your_dragon_2",
+    "atlantis_the_lost_empire",
+    "ratatouille",
+    "isle_of_dogs",
+    "treasure_planet",
+    "dinosaur",
+    "finding_nemo",
+    "the_iron_giant",
+    "the_princess_and_the_frog"
   ]
 }

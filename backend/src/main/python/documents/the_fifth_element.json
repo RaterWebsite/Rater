@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "Absoloubtley fantastic film! It's got all your favorite actors/actress rolled into one!"
     }
+  ],
+  "recommendations": [
+    "indiana_jones_and_the_temple_of_doom",
+    "doctor_strange",
+    "the_terminator",
+    "thor_the_dark_world",
+    "tron_legacy",
+    "highlander",
+    "the_three_musketeers",
+    "ghostbusters",
+    "oz_the_great_and_powerful",
+    "thor_ragnarok",
+    "thor",
+    "aquaman",
+    "last_action_hero",
+    "looper",
+    "oblivion",
+    "django_unchained",
+    "dredd",
+    "the_mummy",
+    "the_adventures_of_tintin",
+    "the_scorpion_king",
+    "guardians_of_the_galaxy",
+    "twelve_monkeys",
+    "avengers_age_of_ultron",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "kingsman_the_secret_service"
   ]
 }

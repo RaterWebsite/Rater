@@ -141,5 +141,32 @@
       "rating": "3",
       "text": "Rushed with little to no character or story development with a boring soundtrack."
     }
+  ],
+  "recommendations": [
+    "meet_the_robinsons",
+    "atlantis_the_lost_empire",
+    "my_little_pony_the_movie",
+    "zootopia",
+    "rio_2",
+    "rio",
+    "rango",
+    "wonder_park",
+    "smurfs_the_lost_village",
+    "the_lego_movie",
+    "bolt",
+    "ice_age_the_meltdown",
+    "strange_magic",
+    "ferdinand",
+    "the_croods",
+    "frozen_ii",
+    "hotel_transylvania",
+    "trolls",
+    "free_birds",
+    "sing_2",
+    "shaun_the_sheep_movie",
+    "uglydolls",
+    "tmnt",
+    "the_tale_of_despereaux",
+    "the_call_of_the_wild"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "''Indiana Jones'' style movie with remarkable cast assemble, an unforgettable score and great action-adventure story makes you wanna watch the movie over and over again."
     }
+  ],
+  "recommendations": [
+    "indiana_jones_and_the_temple_of_doom",
+    "the_fifth_element",
+    "the_scorpion_king",
+    "ghostbusters",
+    "the_three_musketeers",
+    "hercules",
+    "the_forbidden_kingdom",
+    "prince_of_persia_the_sands_of_time",
+    "thor_the_dark_world",
+    "edge_of_tomorrow",
+    "kingsman_the_secret_service",
+    "tron_legacy",
+    "kung_fu_panda_2",
+    "last_action_hero",
+    "thor_ragnarok",
+    "the_terminator",
+    "jungle_cruise",
+    "guardians_of_the_galaxy",
+    "national_treasure",
+    "the_adventures_of_tintin",
+    "jumanji_welcome_to_the_jungle",
+    "the_suicide_squad",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "jack_the_giant_slayer",
+    "captain_america_the_first_avenger"
   ]
 }

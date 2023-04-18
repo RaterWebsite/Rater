@@ -206,5 +206,32 @@
       "rating": "8",
       "text": "The best movie about witchcraft everAlong with The Witches of Eastwick. This tells a very entertaining story about 3 beautiful girls and Fairuza Balk who get into witchcraft and find out that power corrupts. The effects are great and so is the acting. I just wish it didn't get so dark near the end."
     }
+  ],
+  "recommendations": [
+    "monte_carlo",
+    "little_monsters",
+    "labyrinth",
+    "tooth_fairy",
+    "the_space_between_us",
+    "sky_high",
+    "darkness_falls",
+    "young_adult",
+    "mama",
+    "home_again",
+    "endless_love",
+    "colombiana",
+    "the_rite",
+    "mirror_mirror",
+    "the_hunchback_of_notre_dame",
+    "you_again",
+    "13_going_on_30",
+    "footloose",
+    "the_house_with_a_clock_in_its_walls",
+    "fifty_shades_freed",
+    "greta",
+    "knock_at_the_cabin",
+    "cruel_intentions",
+    "bride_wars",
+    "moonrise_kingdom"
   ]
 }

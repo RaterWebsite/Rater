@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "This film is a work of art. Stunning images, fantastic sound design and beautiful colors. The story was mysterious and the time was taken to tell it at a good pace."
     }
+  ],
+  "recommendations": [
+    "inception",
+    "the_green_knight",
+    "mortal_engines",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "the_matrix",
+    "oblivion",
+    "dune",
+    "moon",
+    "arrival",
+    "ex_machina",
+    "color_out_of_space",
+    "jupiter_ascending",
+    "interstellar",
+    "2001_a_space_odyssey",
+    "upgrade",
+    "sunshine",
+    "the_matrix_reloaded",
+    "close_encounters_of_the_third_kind",
+    "9",
+    "coherence",
+    "the_fly",
+    "sicario_day_of_the_soldado",
+    "annihilation",
+    "alita_battle_angel"
   ]
 }

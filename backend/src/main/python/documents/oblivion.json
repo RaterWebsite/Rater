@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "I enjoyed SEEING the film, but once I came outside, I realised the really wasn't that much to it, and I might've wasted my money seeing this in cinemas. I think they paid too much attention to \"super cool\" effects instead of giving the story more substance."
     }
+  ],
+  "recommendations": [
+    "moon",
+    "jupiter_ascending",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "alita_battle_angel",
+    "twelve_monkeys",
+    "serenity",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "tron_legacy",
+    "looper",
+    "inception",
+    "edge_of_tomorrow",
+    "eternals",
+    "john_carter",
+    "blade_runner_2049",
+    "minority_report",
+    "tron",
+    "9",
+    "blade_of_the_47_ronin",
+    "tomorrowland",
+    "avengers_age_of_ultron",
+    "the_three_musketeers",
+    "super_8",
+    "rise_of_the_planet_of_the_apes",
+    "the_last_witch_hunter",
+    "doctor_strange"
   ]
 }

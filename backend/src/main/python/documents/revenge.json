@@ -198,5 +198,32 @@
       "rating": "0",
       "text": "The movie starts out alright, showing some promise and a potentially good story. Where it falls apart is when a grievous wound is miraculously fixed with some warm metal and a pump-action shotgun is used as a long range rifle. This is an obvious attempt to draw female fans by making the lead be able to survive a complete impaling, multiple gunshots, and further injuries whereas all of the others characters die rather easily and carelessly."
     }
+  ],
+  "recommendations": [
+    "red_sparrow",
+    "the_invisible_man",
+    "alone",
+    "a_history_of_violence",
+    "hanna",
+    "cold_pursuit",
+    "crawl",
+    "the_shallows",
+    "sicario_day_of_the_soldado",
+    "guns_akimbo",
+    "dragged_across_concrete",
+    "300_rise_of_an_empire",
+    "the_grey",
+    "the_howling",
+    "i_spit_on_your_grave_2",
+    "the_voyeurs",
+    "mirrors",
+    "eden_lake",
+    "brimstone",
+    "47_meters_down",
+    "the_shape_of_water",
+    "taken",
+    "the_autopsy_of_jane_doe",
+    "pompeii",
+    "repo_men"
   ]
 }

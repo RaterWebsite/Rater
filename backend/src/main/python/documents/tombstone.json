@@ -57,5 +57,32 @@
       "rating": "10",
       "text": "This is one of my favorite movies of all time! It has a great story and characters you can understand and enjoy. The acting is amazing and the movie has so many great quotes and scenes. Tombstone is a true masterpiece."
     }
+  ],
+  "recommendations": [
+    "goodfellas",
+    "the_godfather",
+    "django_unchained",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_last_of_the_mohicans",
+    "highlander",
+    "the_fifth_element",
+    "the_dark_knight",
+    "the_untouchables",
+    "the_aviator",
+    "rush",
+    "indiana_jones_and_the_last_crusade",
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "old_henry",
+    "butch_cassidy_and_the_sundance_kid",
+    "the_hunt_for_red_october",
+    "gladiator",
+    "true_grit",
+    "casino",
+    "the_count_of_monte_cristo",
+    "braveheart",
+    "troy",
+    "cinderella_man",
+    "once_upon_a_time_in_america",
+    "last_action_hero"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "5",
       "text": "waited, but not worth it...nothing else to say"
     }
+  ],
+  "recommendations": [
+    "the_darkest_hour",
+    "war_of_the_worlds",
+    "2012",
+    "geostorm",
+    "battleship",
+    "knowing",
+    "into_the_storm",
+    "transformers_age_of_extinction",
+    "legion",
+    "the_predator",
+    "the_tomorrow_war",
+    "the_matrix_resurrections",
+    "the_legend_of_hercules",
+    "transformers_the_last_knight",
+    "shadow_in_the_cloud",
+    "independence_day_resurgence",
+    "the_new_mutants",
+    "jurassic_world_dominion",
+    "jurassic_world_fallen_kingdom",
+    "ghost_rider_spirit_of_vengeance",
+    "district_9",
+    "volcano",
+    "teenage_mutant_ninja_turtles",
+    "transformers_revenge_of_the_fallen",
+    "cloverfield"
   ]
 }

@@ -105,5 +105,32 @@
       "rating": "10",
       "text": "This is the best film I ever seen! Thank you, Benny Boom!2Pac - is the real icon"
     }
+  ],
+  "recommendations": [
+    "there_will_be_blood",
+    "blackhat",
+    "the_power_of_the_dog",
+    "the_hateful_eight",
+    "the_1517_to_paris",
+    "black_panther_wakanda_forever",
+    "the_american",
+    "king_arthur_legend_of_the_sword",
+    "gamer",
+    "t2_trainspotting",
+    "v_for_vendetta",
+    "straight_outta_compton",
+    "hugo",
+    "roma",
+    "blade_of_the_47_ronin",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "public_enemies",
+    "ben_hur",
+    "antebellum",
+    "the_gambler",
+    "inception",
+    "the_last_airbender",
+    "the_social_network",
+    "the_green_knight",
+    "inherent_vice"
   ]
 }

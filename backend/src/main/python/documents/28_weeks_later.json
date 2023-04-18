@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "'28 Weeks Later' is visceral and gripping moviemaking of an uncommon order. It manages to reaffirm the terror of it's predecessor while also charting down an unrelenting path of mounting doom and gloom. It explodes at a fevered pitch from it's very first scene, and the pace never wavers for more than a couple seconds. This is simply one of the finest horror films of recent years. A must see!"
     }
+  ],
+  "recommendations": [
+    "paranormal_activity_the_marked_ones",
+    "the_purge_anarchy",
+    "the_purge",
+    "escape_room",
+    "paranormal_activity_the_ghost_dimension",
+    "frozen",
+    "jurassic_world_fallen_kingdom",
+    "47_meters_down",
+    "how_it_ends",
+    "doomsday",
+    "final_destination_5",
+    "jurassic_world",
+    "paranormal_activity_2",
+    "final_destination_3",
+    "sanctum",
+    "the_strangers_prey_at_night",
+    "unfriended_dark_web",
+    "war_of_the_worlds",
+    "crawl",
+    "escape_room_tournament_of_champions",
+    "transformers_age_of_extinction",
+    "olympus_has_fallen",
+    "would_you_rather",
+    "unfriended",
+    "snowpiercer"
   ]
 }

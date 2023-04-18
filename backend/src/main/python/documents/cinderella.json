@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "I don't think Disney could have done a better job at retelling the classic tale of Cinderella. Everything is done brilliantly in keeping to its classic roots and at the same time updating it to a new era. It short and sweet and  guided along with a magnificent score."
     }
+  ],
+  "recommendations": [
+    "luca",
+    "the_book_of_life",
+    "over_the_moon",
+    "a_christmas_carol",
+    "the_bfg",
+    "the_little_prince",
+    "the_nutcracker_and_the_four_realms",
+    "the_princess_and_the_frog",
+    "klaus",
+    "wolfwalkers",
+    "maleficent_mistress_of_evil",
+    "anastasia",
+    "mowgli_legend_of_the_jungle",
+    "dumbo",
+    "the_lion_king",
+    "cruella",
+    "kubo_and_the_two_strings",
+    "maleficent",
+    "song_of_the_sea",
+    "atlantis_the_lost_empire",
+    "moana",
+    "finding_nemo",
+    "onward",
+    "the_prince_of_egypt",
+    "corpse_bride"
   ]
 }

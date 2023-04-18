@@ -107,5 +107,32 @@
       "rating": "7",
       "text": "This is a convoluted conspiracy theory thriller based around a terrorist attack in London.  Though as time goes on, the lawyers prosecuting and defending realise there's more at play than just the facts they're allowed to have.  This puts them in mortal danger.  Sounds good, but the director doesn't do a great job of setting a pace for the film and it seems haphazard in it's flow."
     }
+  ],
+  "recommendations": [
+    "zero_dark_thirty",
+    "patriots_day",
+    "argo",
+    "valkyrie",
+    "beirut",
+    "child_44",
+    "searching",
+    "sicario_day_of_the_soldado",
+    "snowden",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_sum_of_all_fears",
+    "the_kingdom",
+    "knives_out",
+    "predestination",
+    "allied",
+    "source_code",
+    "trance",
+    "minority_report",
+    "blackhat",
+    "green_zone",
+    "the_accountant",
+    "dark_waters",
+    "morgan",
+    "zodiac",
+    "the_good_shepherd"
   ]
 }

@@ -38,5 +38,32 @@
       "rating": "9",
       "text": "A movie Masterpiece. There are almost no comparable action movies. The tension and strategic approach of the director enables a complete immersion into a realistic and scary war scenario.JK genius jokes and best dark comments ever."
     }
+  ],
+  "recommendations": [
+    "hot_shots_part_deux",
+    "role_models",
+    "johnny_english_strikes_again",
+    "austin_powers_international_man_of_mystery",
+    "men_in_black",
+    "the_pink_panther",
+    "ace_ventura_pet_detective",
+    "police_academy_2_their_first_assignment",
+    "bean",
+    "austin_powers_in_goldmember",
+    "grudge_match",
+    "police_academy",
+    "ace_ventura_when_nature_calls",
+    "meet_the_parents",
+    "ghostbusters",
+    "get_smart",
+    "maverick",
+    "austin_powers_the_spy_who_shagged_me",
+    "horrible_bosses",
+    "coming_to_america",
+    "spy",
+    "fargo",
+    "last_action_hero",
+    "the_fifth_element",
+    "men_in_black_ii"
   ]
 }

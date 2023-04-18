@@ -137,5 +137,32 @@
       "rating": "10",
       "text": "Simplemente Anne Hathaway es una gran actriz, sus pel\u00edculas son muy amadas en M\u00e9xico, en especial est\u00e1 pel\u00edcula, no entiendo porque tiene mala cr\u00edtica."
     }
+  ],
+  "recommendations": [
+    "something_borrowed",
+    "you_again",
+    "book_club",
+    "ghosts_of_girlfriends_past",
+    "cruel_intentions",
+    "monte_carlo",
+    "the_holiday",
+    "home_again",
+    "13_going_on_30",
+    "sex_and_the_city_2",
+    "the_hustle",
+    "eat_pray_love",
+    "tall_girl",
+    "bridesmaids",
+    "27_dresses",
+    "good_on_paper",
+    "no_strings_attached",
+    "young_adult",
+    "if_i_stay",
+    "we_bought_a_zoo",
+    "life_as_we_know_it",
+    "tooth_fairy",
+    "the_first_time",
+    "bad_moms",
+    "legally_blonde"
   ]
 }

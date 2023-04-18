@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "A film that is kind of a mixed bag, but there's enough to appreciate here to recommend it. This type film has been done a few different times and you really don't get many new ideas, but they follow the formula well. B"
     }
+  ],
+  "recommendations": [
+    "happy_death_day_2u",
+    "dark_skies",
+    "the_strangers_prey_at_night",
+    "countdown",
+    "paranormal_activity_the_marked_ones",
+    "devil",
+    "would_you_rather",
+    "brightburn",
+    "unfriended",
+    "chernobyl_diaries",
+    "the_boy",
+    "insidious_chapter_2",
+    "final_destination_3",
+    "wish_upon",
+    "paranormal_activity_2",
+    "escape_room",
+    "mama",
+    "disturbia",
+    "ready_or_not",
+    "case_39",
+    "texas_chainsaw_3d",
+    "vacancy",
+    "summer_of_84",
+    "unfriended_dark_web",
+    "the_haunting_in_connecticut"
   ]
 }

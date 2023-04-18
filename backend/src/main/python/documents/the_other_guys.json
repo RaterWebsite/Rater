@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "The jokes are the kind that you have to force yourself to laugh at , and the stunts are too over the top to be believed. O.K. , it had a few good laughs , but my expectations were much higher. The talent was up there , but the story was just lame."
     }
+  ],
+  "recommendations": [
+    "30_minutes_or_less",
+    "22_jump_street",
+    "identity_thief",
+    "this_is_the_end",
+    "jackass_presents_bad_grandpa",
+    "the_wedding_ringer",
+    "date_night",
+    "tower_heist",
+    "ride_along",
+    "the_hangover",
+    "ted_2",
+    "masterminds",
+    "dirty_grandpa",
+    "hot_tub_time_machine",
+    "forgetting_sarah_marshall",
+    "stuber",
+    "spy",
+    "21_jump_street",
+    "the_longest_yard",
+    "dinner_for_schmucks",
+    "the_watch",
+    "the_dictator",
+    "paul_blart_mall_cop",
+    "sex_drive",
+    "hot_fuzz"
   ]
 }

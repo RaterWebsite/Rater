@@ -66,5 +66,32 @@
       "rating": "7",
       "text": "Very good typical 80s action flick the script is very good but the delivery is not."
     }
+  ],
+  "recommendations": [
+    "the_last_stand",
+    "war",
+    "broken_arrow",
+    "white_house_down",
+    "death_race",
+    "bad_boys_ii",
+    "safe",
+    "the_mechanic",
+    "mechanic_resurrection",
+    "olympus_has_fallen",
+    "the_expendables_2",
+    "salt",
+    "angel_has_fallen",
+    "the_expendables",
+    "ninja_assassin",
+    "machete_kills",
+    "jack_reacher_never_go_back",
+    "transporter_2",
+    "mad_max",
+    "the_fate_of_the_furious",
+    "escape_plan",
+    "rambo_iii",
+    "mission_impossible_ghost_protocol",
+    "2_guns",
+    "shooter"
   ]
 }

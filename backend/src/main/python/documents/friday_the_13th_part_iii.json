@@ -96,5 +96,32 @@
       "rating": "6",
       "text": "Other than the Hockey Mask, Gore, 3D, and the Funky Fresh Music, it's just another film for Friday the 13th thats the same."
     }
+  ],
+  "recommendations": [
+    "friday_the_13th_the_final_chapter",
+    "friday_the_13th_part_2",
+    "friday_the_13th_a_new_beginning",
+    "jason_goes_to_hell_the_final_friday",
+    "halloween_kills",
+    "seed_of_chucky",
+    "texas_chainsaw_3d",
+    "jason_x",
+    "a_nightmare_on_elm_street",
+    "final_destination_3",
+    "final_destination_2",
+    "machete_kills",
+    "halloween_ii",
+    "friday_the_13th_part_vii_the_new_blood",
+    "halloween_5_the_revenge_of_michael_myers",
+    "hellbound_hellraiser_ii",
+    "the_strangers_prey_at_night",
+    "halloween_resurrection",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "stay_alive",
+    "halloween_iii_season_of_the_witch",
+    "would_you_rather",
+    "doomsday",
+    "saw_3d",
+    "the_babysitter_killer_queen"
   ]
 }

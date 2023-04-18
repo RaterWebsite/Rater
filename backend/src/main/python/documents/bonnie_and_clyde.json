@@ -93,5 +93,32 @@
       "rating": "9",
       "text": "If you haven't seen it, do yourself a favour...go and watch it...I am sure you are going to enjoy it!$1 to buy a Netflix account, Google search: vtvshare"
     }
+  ],
+  "recommendations": [
+    "nightcrawler",
+    "savages",
+    "trainspotting",
+    "allied",
+    "donnie_brasco",
+    "public_enemies",
+    "gangs_of_new_york",
+    "no_country_for_old_men",
+    "a_history_of_violence",
+    "widows",
+    "the_last_duel",
+    "the_experiment",
+    "man_on_fire",
+    "live_by_night",
+    "enemy_of_the_state",
+    "a_most_violent_year",
+    "eastern_promises",
+    "raging_bull",
+    "elle",
+    "you_were_never_really_here",
+    "straight_outta_compton",
+    "stoker",
+    "hell_or_high_water",
+    "cold_pursuit",
+    "jane_got_a_gun"
   ]
 }

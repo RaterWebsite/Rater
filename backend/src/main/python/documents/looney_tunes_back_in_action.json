@@ -94,5 +94,32 @@
       "rating": "10",
       "text": "This is my favorite movie. It's not the best movie of all time, but it's my best movie. Every single joke gets a laugh out of me every single time and all the characters are great. Brendan Fraser is amazing, as always."
     }
+  ],
+  "recommendations": [
+    "penguins_of_madagascar",
+    "space_jam",
+    "scoob",
+    "madagascar",
+    "hotel_transylvania_3_summer_vacation",
+    "ice_age_the_meltdown",
+    "spies_in_disguise",
+    "flushed_away",
+    "scooby_doo",
+    "the_angry_birds_movie",
+    "despicable_me_3",
+    "the_angry_birds_movie_2",
+    "rio_2",
+    "robots",
+    "igor",
+    "hotel_transylvania_2",
+    "the_secret_life_of_pets_2",
+    "the_lego_movie_2_the_second_part",
+    "despicable_me",
+    "madagascar_escape_2_africa",
+    "despicable_me_2",
+    "austin_powers_the_spy_who_shagged_me",
+    "minions",
+    "hotel_transylvania",
+    "the_secret_life_of_pets"
   ]
 }

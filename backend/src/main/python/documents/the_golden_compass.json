@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "The secenary and the whole movie is done perfectly."
     }
+  ],
+  "recommendations": [
+    "the_hunger_games",
+    "the_dark_tower",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "the_hobbit_an_unexpected_journey",
+    "the_chronicles_of_narnia_prince_caspian",
+    "artemis_fowl",
+    "the_hobbit_the_desolation_of_smaug",
+    "harry_potter_and_the_goblet_of_fire",
+    "percy_jackson_sea_of_monsters",
+    "inferno",
+    "the_maze_runner",
+    "ready_player_one",
+    "city_of_ember",
+    "the_mortal_instruments_city_of_bones",
+    "the_giver",
+    "eragon",
+    "maze_runner_the_scorch_trials",
+    "the_hunger_games_mockingjay_part_2",
+    "inkheart",
+    "the_hunger_games_catching_fire",
+    "it_chapter_two",
+    "the_lovely_bones",
+    "ben_hur",
+    "harry_potter_and_the_chamber_of_secrets",
+    "cloud_atlas"
   ]
 }

@@ -54,5 +54,32 @@
       "rating": "4",
       "text": "The plot is really good but I think it should be better musically to be considered a really great musical movie."
     }
+  ],
+  "recommendations": [
+    "grease",
+    "hairspray",
+    "cats",
+    "sing_2",
+    "into_the_woods",
+    "mamma_mia_here_we_go_again",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "mamma_mia",
+    "step_up_2_the_streets",
+    "pitch_perfect_3",
+    "high_school_musical_3_senior_year",
+    "pitch_perfect",
+    "alvin_and_the_chipmunks",
+    "burlesque",
+    "step_up",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "pitch_perfect_2",
+    "sherlock_gnomes",
+    "hannah_montana_the_movie",
+    "trolls",
+    "happy_feet_two",
+    "baby_driver",
+    "dolittle",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "marmaduke"
   ]
 }

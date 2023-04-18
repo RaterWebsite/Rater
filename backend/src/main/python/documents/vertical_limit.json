@@ -42,5 +42,32 @@
       "rating": "6",
       "text": "Fully action packed movie. Technical details about the K-2 are not right though but daring action sequence, one with another, are alone enough to keep you interested in the movie."
     }
+  ],
+  "recommendations": [
+    "demolition_man",
+    "jiu_jitsu",
+    "kate",
+    "xxx_return_of_xander_cage",
+    "shooter",
+    "gunpowder_milkshake",
+    "mechanic_resurrection",
+    "sabotage",
+    "safe",
+    "extraction",
+    "con_air",
+    "angel_has_fallen",
+    "the_mechanic",
+    "desperado",
+    "the_last_stand",
+    "mission_impossible_ii",
+    "the_expendables_3",
+    "transporter_3",
+    "hercules",
+    "american_assassin",
+    "gangster_squad",
+    "salt",
+    "gone_in_sixty_seconds",
+    "elektra",
+    "the_equalizer"
   ]
 }

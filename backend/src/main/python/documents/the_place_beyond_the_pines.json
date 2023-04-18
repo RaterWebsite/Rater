@@ -225,5 +225,32 @@
       "rating": "5",
       "text": "Film with good performances and heady themes but the various threads are not satisfyingly resolved."
     }
+  ],
+  "recommendations": [
+    "magnolia",
+    "a_most_wanted_man",
+    "widows",
+    "prisoners",
+    "good_time",
+    "blue_valentine",
+    "donnie_brasco",
+    "21_grams",
+    "the_devil_all_the_time",
+    "news_of_the_world",
+    "the_good_shepherd",
+    "the_rover",
+    "man_on_fire",
+    "manchester_by_the_sea",
+    "a_most_violent_year",
+    "the_curious_case_of_benjamin_button",
+    "hugo",
+    "cast_away",
+    "nocturnal_animals",
+    "the_accountant",
+    "the_irishman",
+    "white_boy_rick",
+    "flight",
+    "the_infiltrator",
+    "beirut"
   ]
 }

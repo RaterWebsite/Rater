@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Whoever gave bad reviews to this gem obviously can't laugh unless it's super complicated commedy. Welp to me I need only the quote \"I don't wear diamonds\" to laugh uncontrollably. I love this movie"
     }
+  ],
+  "recommendations": [
+    "scary_movie",
+    "scary_movie_4",
+    "scary_movie_3",
+    "scary_movie_2",
+    "a_haunted_house",
+    "vampires_suck",
+    "the_dictator",
+    "the_watch",
+    "dumb_and_dumber",
+    "not_another_teen_movie",
+    "one_year_one_night",
+    "hot_tub_time_machine",
+    "epic_movie",
+    "white_chicks",
+    "scary_movie_5",
+    "the_three_stooges",
+    "meet_the_spartans",
+    "hot_fuzz",
+    "nacho_libre",
+    "dumb_and_dumber_to",
+    "the_hangover",
+    "eurotrip",
+    "grown_ups",
+    "miss_march",
+    "anchorman_2_the_legend_continues"
   ]
 }

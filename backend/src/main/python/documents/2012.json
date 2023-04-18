@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Based on some of the reviews, my expectations were not high. I was very pleasantly surprised! Maybe these harsh reviewers were expecting Shakespeare. This is a fun, entertaining movie that really delivers. Could have used a little editing at the end - a bit too long. Other than that - great!"
     }
+  ],
+  "recommendations": [
+    "geostorm",
+    "skyline",
+    "knowing",
+    "wonder_woman_1984",
+    "war_of_the_worlds",
+    "the_tomorrow_war",
+    "into_the_storm",
+    "independence_day_resurgence",
+    "the_darkest_hour",
+    "shadow_in_the_cloud",
+    "sanctum",
+    "battleship",
+    "volcano",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_host",
+    "the_matrix_resurrections",
+    "the_devil_inside",
+    "the_new_mutants",
+    "bird_box",
+    "poseidon",
+    "the_day_after_tomorrow",
+    "jurassic_world_fallen_kingdom",
+    "how_it_ends",
+    "legion",
+    "transformers_the_last_knight"
   ]
 }

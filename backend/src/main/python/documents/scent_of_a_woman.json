@@ -152,5 +152,32 @@
       "rating": "10",
       "text": "My favorite Film of all time. Al Pacino's performance is amazing. Would recommend"
     }
+  ],
+  "recommendations": [
+    "joy",
+    "crazy_heart",
+    "gifted",
+    "rain_man",
+    "marriage_story",
+    "the_place_beyond_the_pines",
+    "manchester_by_the_sea",
+    "whiplash",
+    "good_will_hunting",
+    "as_good_as_it_gets",
+    "the_fighter",
+    "eddie_the_eagle",
+    "blue_valentine",
+    "revolutionary_road",
+    "leaving_las_vegas",
+    "hustlers",
+    "the_secret_life_of_walter_mitty",
+    "silver_linings_playbook",
+    "the_devil_wears_prada",
+    "american_hustle",
+    "the_danish_girl",
+    "fences",
+    "magnolia",
+    "the_best_exotic_marigold_hotel",
+    "rush"
   ]
 }

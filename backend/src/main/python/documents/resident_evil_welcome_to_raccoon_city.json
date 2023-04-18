@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "So get along with Leon, do you have children that get a job and are just as stupid?"
     }
+  ],
+  "recommendations": [
+    "monster_hunter",
+    "resident_evil_apocalypse",
+    "hitman_agent_47",
+    "silent_hill_revelation_3d",
+    "terminator_dark_fate",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "stay_alive",
+    "priest",
+    "the_new_mutants",
+    "unfriended_dark_web",
+    "tomb_raider",
+    "divergent",
+    "max_steel",
+    "the_old_guard",
+    "jurassic_world_fallen_kingdom",
+    "men_in_black_international",
+    "the_6th_day",
+    "teenage_mutant_ninja_turtles",
+    "space_jam_a_new_legacy",
+    "would_you_rather",
+    "the_purge_anarchy",
+    "suicide_squad",
+    "legion",
+    "the_hunger_games_mockingjay_part_1",
+    "doom"
   ]
 }

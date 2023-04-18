@@ -69,5 +69,32 @@
       "rating": "8",
       "text": "I really liked this movie. No political agenda whatsoever, just good film making, and it didn't need a huge budget or a bunch of flashy special effects to do it. Very refreshing. This is how movies are supposed to be made. Not sure what the critics were thinking giving this such a poor rating, but it seems lately there's a huge chasm between what movie goers like and what movie critics like."
     }
+  ],
+  "recommendations": [
+    "project_almanac",
+    "pandorum",
+    "monsters",
+    "the_cloverfield_paradox",
+    "the_tomorrow_war",
+    "the_darkest_hour",
+    "geostorm",
+    "chernobyl_diaries",
+    "into_the_storm",
+    "bird_box",
+    "jupiter_ascending",
+    "independence_day_resurgence",
+    "bright",
+    "the_maze_runner",
+    "eo",
+    "freaks",
+    "the_day_after_tomorrow",
+    "riddick",
+    "code_8",
+    "in_time",
+    "gods_of_egypt",
+    "the_new_mutants",
+    "city_of_ember",
+    "unfriended_dark_web",
+    "2012"
   ]
 }

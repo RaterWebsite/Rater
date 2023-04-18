@@ -98,5 +98,32 @@
       "rating": "10",
       "text": "A classic. I remember when I was young my dad had a copy of it on DVD or Blu-Ray and I would watch it every time I could. It has great moral values and is just fun overall. Easily my favourite film."
     }
+  ],
+  "recommendations": [
+    "sing_street",
+    "mamma_mia_here_we_go_again",
+    "mary_poppins_returns",
+    "sing",
+    "vivo",
+    "grease",
+    "winnie_the_pooh_blood_and_honey",
+    "cats",
+    "trolls",
+    "burlesque",
+    "almost_famous",
+    "the_fox_and_the_hound",
+    "the_greatest_showman",
+    "over_the_moon",
+    "la_la_land",
+    "rocketman",
+    "aladdin",
+    "rio",
+    "in_the_heights",
+    "yesterday",
+    "mamma_mia",
+    "tangled",
+    "into_the_woods",
+    "jingle_jangle_a_christmas_journey",
+    "enchanted"
   ]
 }

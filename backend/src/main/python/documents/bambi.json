@@ -82,5 +82,32 @@
       "rating": "7",
       "text": "You know looking back at it, I saw some **** up **** when I was a kid holy hell."
     }
+  ],
+  "recommendations": [
+    "brave",
+    "the_iron_giant",
+    "the_water_horse",
+    "a_monster_calls",
+    "brother_bear",
+    "finding_nemo",
+    "song_of_the_sea",
+    "luca",
+    "where_the_wild_things_are",
+    "kubo_and_the_two_strings",
+    "smallfoot",
+    "the_polar_express",
+    "the_good_dinosaur",
+    "moana",
+    "the_little_prince",
+    "the_land_before_time",
+    "your_name",
+    "alpha",
+    "mulan",
+    "the_lion_king",
+    "okja",
+    "soul",
+    "the_willoughbys",
+    "stand_by_me_doraemon_2",
+    "raya_and_the_last_dragon"
   ]
 }

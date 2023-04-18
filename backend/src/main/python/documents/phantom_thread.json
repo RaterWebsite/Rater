@@ -225,5 +225,32 @@
       "rating": "3",
       "text": "I have seen all of the movies up for the Oscar best picture and they were all great....except for this one.  It's the type of movie that takes 4 years of brainwashing at film school to make you think you enjoy it.  First 30 minutes were not bad but it has about 45 minutes of good material and a lot of boring filler.  I have seen a lot of artsy movies that I have really enjoyed and wanted to like this one but I just can't."
     }
+  ],
+  "recommendations": [
+    "youth",
+    "black_swan",
+    "nocturnal_animals",
+    "the_favourite",
+    "the_master",
+    "magnolia",
+    "20th_century_women",
+    "carol",
+    "thoroughbreds",
+    "the_grand_budapest_hotel",
+    "belfast",
+    "spencer",
+    "21_grams",
+    "melancholia",
+    "blue_valentine",
+    "annette",
+    "ammonite",
+    "the_place_beyond_the_pines",
+    "marriage_story",
+    "roma",
+    "whiplash",
+    "the_light_between_oceans",
+    "anna_karenina",
+    "marie_antoinette",
+    "the_walk"
   ]
 }

@@ -114,5 +114,32 @@
       "rating": "10",
       "text": "Funny and lighthearted. I had a lot of laugh out loud moments. The jokes won\u2019t be for everyone. Dax and Michael have amazing chemistry."
     }
+  ],
+  "recommendations": [
+    "keeping_up_with_the_joneses",
+    "the_spy_who_dumped_me",
+    "central_intelligence",
+    "baywatch",
+    "stuber",
+    "spy",
+    "this_means_war",
+    "the_heat",
+    "jumanji_the_next_level",
+    "american_ultra",
+    "red_notice",
+    "paul_blart_mall_cop",
+    "the_nice_guys",
+    "deadpool_2",
+    "identity_thief",
+    "spenser_confidential",
+    "pineapple_express",
+    "the_losers",
+    "the_wedding_ringer",
+    "tower_heist",
+    "dodgeball_a_true_underdog_story",
+    "deadpool",
+    "johnny_english_strikes_again",
+    "welcome_to_the_jungle",
+    "thunder_force"
   ]
 }

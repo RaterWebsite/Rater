@@ -110,5 +110,32 @@
       "rating": "8",
       "text": "Me gusta el soundtrack, que aparezcan The Lindas Lindas, trata temas que llegan a ser muy comunes"
     }
+  ],
+  "recommendations": [
+    "booksmart",
+    "freedom_writers",
+    "the_perks_of_being_a_wallflower",
+    "young_adult",
+    "captain_fantastic",
+    "lady_bird",
+    "moonrise_kingdom",
+    "i_feel_pretty",
+    "wonder",
+    "the_help",
+    "dora_and_the_lost_city_of_gold",
+    "don_jon",
+    "the_big_sick",
+    "the_intern",
+    "the_spectacular_now",
+    "the_edge_of_seventeen",
+    "cashback",
+    "sky_high",
+    "easy_a",
+    "juno",
+    "me_and_earl_and_the_dying_girl",
+    "jojo_rabbit",
+    "closer",
+    "crazy_rich_asians",
+    "the_witches_of_eastwick"
   ]
 }

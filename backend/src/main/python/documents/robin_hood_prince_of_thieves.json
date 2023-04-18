@@ -87,5 +87,32 @@
       "rating": "9",
       "text": "To jest najlepszy film z serii o Robin Hoodzie jaki powsta\u0142 ever. Mo\u017cecie go negowa\u0107 itd. Ja i tak b\u0119d\u0119 go lubi\u0142."
     }
+  ],
+  "recommendations": [
+    "robin_hood",
+    "daredevil",
+    "true_grit",
+    "spider_man_homecoming",
+    "the_man_in_the_iron_mask",
+    "gangs_of_new_york",
+    "the_terminal",
+    "the_quick_and_the_dead",
+    "the_legend_of_zorro",
+    "black_mass",
+    "lawless",
+    "hook",
+    "gold",
+    "the_second_best_exotic_marigold_hotel",
+    "bridget_jones_the_edge_of_reason",
+    "the_flintstones",
+    "the_amazing_spider_man",
+    "iron_man",
+    "american_hustle",
+    "going_in_style",
+    "silver_linings_playbook",
+    "highlander",
+    "a_bronx_tale",
+    "suburbicon",
+    "42"
   ]
 }

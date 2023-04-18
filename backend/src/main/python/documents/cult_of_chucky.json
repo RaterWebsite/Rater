@@ -49,5 +49,32 @@
       "rating": "5",
       "text": "this movie was pretty disappointing, i wouldn't say it's the worst in the franchise, (i'm looking at you seed!) anyway. this movie was just plain not scary for me, i did likenica, . in this movie, andy was alright, i liked chucky in this movie, but all of a side that, this movie wasn't that good for me, especially when curse was really good, and this is the follow up, so..5/10"
     }
+  ],
+  "recommendations": [
+    "curse_of_chucky",
+    "dead_silence",
+    "a_nightmare_on_elm_street",
+    "i_still_know_what_you_did_last_summer",
+    "halloween_ii",
+    "underworld_evolution",
+    "house_at_the_end_of_the_street",
+    "halloween_iii_season_of_the_witch",
+    "the_eye",
+    "i_am_number_four",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "friday_the_13th",
+    "the_babysitter_killer_queen",
+    "hellbound_hellraiser_ii",
+    "the_twilight_saga_eclipse",
+    "saw_ii",
+    "slender_man",
+    "the_grudge_2",
+    "insidious_chapter_2",
+    "wish_upon",
+    "the_possession",
+    "the_last_house_on_the_left",
+    "i_am_legend",
+    "the_twilight_saga_new_moon",
+    "underworld_rise_of_the_lycans"
   ]
 }

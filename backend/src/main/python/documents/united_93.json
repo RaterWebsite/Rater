@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "This was the most powerful movie i have ever seen very good and is going to win movie of the year never forget the bravery of flight United 93."
     }
+  ],
+  "recommendations": [
+    "zero_dark_thirty",
+    "the_hurt_locker",
+    "lone_survivor",
+    "children_of_men",
+    "antebellum",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_butterfly_effect",
+    "war_room",
+    "babel",
+    "the_lobster",
+    "crash",
+    "apocalypto",
+    "greenland",
+    "cartel_land",
+    "courageous",
+    "source_code",
+    "vivarium",
+    "the_forever_purge",
+    "noah",
+    "contagion",
+    "the_tree_of_life",
+    "the_hunger_games_mockingjay_part_1",
+    "heaven_is_for_real",
+    "unbroken",
+    "slumdog_millionaire"
   ]
 }

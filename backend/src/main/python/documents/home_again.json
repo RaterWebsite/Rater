@@ -78,5 +78,32 @@
       "rating": "5",
       "text": "This movie gave me more questions than answering............................"
     }
+  ],
+  "recommendations": [
+    "13_going_on_30",
+    "endless_love",
+    "young_adult",
+    "eat_pray_love",
+    "something_borrowed",
+    "the_perks_of_being_a_wallflower",
+    "the_intern",
+    "monte_carlo",
+    "the_age_of_adaline",
+    "afternoon_delight",
+    "moonrise_kingdom",
+    "flipped",
+    "captain_fantastic",
+    "me_before_you",
+    "the_spectacular_now",
+    "about_time",
+    "don_jon",
+    "the_princess_diaries",
+    "lady_bird",
+    "paper_towns",
+    "about_a_boy",
+    "wonder",
+    "book_club",
+    "crazy_rich_asians",
+    "we_bought_a_zoo"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "While \u201cAnnabelle Comes Home\u201d is a decent way to pass time, the film is a cacophony of missed opportunities as it deals its brilliant premise with kiddy gloves."
     }
+  ],
+  "recommendations": [
+    "ouija_origin_of_evil",
+    "the_conjuring_the_devil_made_me_do_it",
+    "insidious_chapter_3",
+    "insidious_the_last_key",
+    "colossal",
+    "the_ritual",
+    "annabelle_creation",
+    "scary_stories_to_tell_in_the_dark",
+    "the_girl_with_all_the_gifts",
+    "lights_out",
+    "us",
+    "dark_skies",
+    "a_cure_for_wellness",
+    "color_out_of_space",
+    "happy_death_day_2u",
+    "brightburn",
+    "the_curse_of_la_llorona",
+    "sinister_2",
+    "the_invasion",
+    "chernobyl_diaries",
+    "insidious_chapter_2",
+    "a_quiet_place_part_ii",
+    "it_follows",
+    "the_conjuring_2",
+    "it"
   ]
 }

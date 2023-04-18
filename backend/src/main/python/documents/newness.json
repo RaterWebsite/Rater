@@ -37,5 +37,32 @@
       "rating": "10",
       "text": "It's the most realistic movie I've ever seen.You can learn a lot from it.There are problems that we encounter in today's relationships.As the movie's advertisement says...it's good for soul..."
     }
+  ],
+  "recommendations": [
+    "wonder",
+    "the_perks_of_being_a_wallflower",
+    "the_spectacular_now",
+    "me_before_you",
+    "the_age_of_adaline",
+    "lady_bird",
+    "the_notebook",
+    "endless_love",
+    "the_glass_castle",
+    "i_kill_giants",
+    "about_time",
+    "home_again",
+    "closer",
+    "the_big_sick",
+    "midnight_sun",
+    "flipped",
+    "about_a_boy",
+    "blue_valentine",
+    "goodbye_christopher_robin",
+    "love_actually",
+    "brokeback_mountain",
+    "collateral_beauty",
+    "the_intern",
+    "five_feet_apart",
+    "captain_fantastic"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "3",
       "text": "Sounds track is bad, story line is cliche action is ok and annoyingly woke like all Netflix movies"
     }
+  ],
+  "recommendations": [
+    "jumper",
+    "shadow_in_the_cloud",
+    "suicide_squad",
+    "jolt",
+    "battleship",
+    "teenage_mutant_ninja_turtles",
+    "infinite",
+    "the_tax_collector",
+    "max_steel",
+    "the_new_mutants",
+    "men_in_black_international",
+    "xxx_return_of_xander_cage",
+    "lockout",
+    "bloodshot",
+    "wonder_woman_1984",
+    "mile_22",
+    "transformers_the_last_knight",
+    "poseidon",
+    "the_twilight_saga_eclipse",
+    "hitman_agent_47",
+    "i_am_number_four",
+    "wild_card",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "sabotage",
+    "next"
   ]
 }

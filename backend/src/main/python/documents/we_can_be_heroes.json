@@ -63,5 +63,32 @@
       "rating": "0",
       "text": "Wow! This one was a painful one to watch. A really trash movie all around. Nothing good about it."
     }
+  ],
+  "recommendations": [
+    "astro_boy",
+    "spy_kids_all_the_time_in_the_world",
+    "incredibles_2",
+    "rim_of_the_world",
+    "cloudy_with_a_chance_of_meatballs",
+    "turbo",
+    "minions",
+    "free_birds",
+    "the_smurfs",
+    "the_nut_job",
+    "real_steel",
+    "teenage_mutant_ninja_turtles",
+    "shadow_in_the_cloud",
+    "jumper",
+    "transformers_revenge_of_the_fallen",
+    "g_force",
+    "the_angry_birds_movie",
+    "brightburn",
+    "despicable_me_3",
+    "the_boss_baby_family_business",
+    "unfriended",
+    "legion",
+    "would_you_rather",
+    "the_tomorrow_war",
+    "the_croods_a_new_age"
   ]
 }

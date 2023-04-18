@@ -52,5 +52,32 @@
       "rating": "10",
       "text": "Es el escape m\u00e1s \u00e9pico y emocionante de la historia. \u00a1TOTALMENTE RECOMENDABLE!"
     }
+  ],
+  "recommendations": [
+    "anthropoid",
+    "master_and_commander_the_far_side_of_the_world",
+    "the_monuments_men",
+    "beirut",
+    "deepwater_horizon",
+    "centurion",
+    "the_deer_hunter",
+    "patriots_day",
+    "1917",
+    "the_finest_hours",
+    "the_sum_of_all_fears",
+    "apollo_13",
+    "allied",
+    "the_eagle",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "a_most_violent_year",
+    "dunkirk",
+    "the_abyss",
+    "in_the_heart_of_the_sea",
+    "first_man",
+    "the_perfect_storm",
+    "argo",
+    "sicario_day_of_the_soldado",
+    "greyhound",
+    "sicario"
   ]
 }

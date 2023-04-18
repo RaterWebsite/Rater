@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "An interesting and exciting adventure, marred by ridiculous violence and darkness (although I'm no longer as bothered by that as I used to be).  Like the other movies in the series, it has something of a historical basis (emphasis on the word \"something\" - LOL), although this one is probably more accurate than the others.  Many condemn it as racist, sexist, etc.  That's ridiculous.  (And condemning it for condemning idol worship is also ridiculous.)"
     }
+  ],
+  "recommendations": [
+    "thor_the_dark_world",
+    "the_fifth_element",
+    "thor_ragnarok",
+    "the_scorpion_king",
+    "jungle_cruise",
+    "avengers_age_of_ultron",
+    "kung_fu_panda_2",
+    "guardians_of_the_galaxy",
+    "thor",
+    "last_action_hero",
+    "the_suicide_squad",
+    "hercules",
+    "the_adventures_of_tintin",
+    "captain_america_the_first_avenger",
+    "kung_fu_panda_3",
+    "doctor_strange",
+    "bumblebee",
+    "dredd",
+    "the_terminator",
+    "king_arthur_legend_of_the_sword",
+    "the_three_musketeers",
+    "highlander",
+    "the_last_witch_hunter",
+    "rango",
+    "black_widow"
   ]
 }

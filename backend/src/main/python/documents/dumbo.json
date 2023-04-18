@@ -225,5 +225,32 @@
       "rating": "2",
       "text": "A veces esta bueno hacer una historia diferente cuando se hace un live action de disney pero bien echa"
     }
+  ],
+  "recommendations": [
+    "the_bfg",
+    "mowgli_legend_of_the_jungle",
+    "the_call_of_the_wild",
+    "cruella",
+    "smurfs_the_lost_village",
+    "corpse_bride",
+    "the_nutcracker_and_the_four_realms",
+    "atlantis_the_lost_empire",
+    "bumblebee",
+    "a_christmas_carol",
+    "frankenweenie",
+    "ferdinand",
+    "pan",
+    "how_to_train_your_dragon_2",
+    "charlie_and_the_chocolate_factory",
+    "the_lego_batman_movie",
+    "spider_man_into_the_spider_verse",
+    "maleficent_mistress_of_evil",
+    "rio_2",
+    "alice_through_the_looking_glass",
+    "alice_in_wonderland",
+    "the_witches",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "my_little_pony_the_movie",
+    "the_lego_movie_2_the_second_part"
   ]
 }

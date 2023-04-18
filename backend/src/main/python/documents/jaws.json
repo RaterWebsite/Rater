@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "One of Steven Spielberg's best films, and possibly the most revolutionary of them all, \"Jaws\" is the first blockbuster ever made. It is brilliantly executed and so effective as thriller that has been scaring the audience for decades."
     }
+  ],
+  "recommendations": [
+    "the_conjuring_the_devil_made_me_do_it",
+    "the_conjuring_2",
+    "the_island",
+    "the_terminator",
+    "the_wolfman",
+    "vacancy",
+    "i_am_legend",
+    "it_follows",
+    "the_conjuring",
+    "king_arthur_legend_of_the_sword",
+    "from_dusk_till_dawn",
+    "top_gun_maverick",
+    "edge_of_tomorrow",
+    "jurassic_park",
+    "the_magnificent_seven",
+    "super_8",
+    "the_invasion",
+    "color_out_of_space",
+    "mad_max_fury_road",
+    "the_thing",
+    "avengers_age_of_ultron",
+    "bone_tomahawk",
+    "armageddon",
+    "godzilla_king_of_the_monsters",
+    "thor_ragnarok"
   ]
 }

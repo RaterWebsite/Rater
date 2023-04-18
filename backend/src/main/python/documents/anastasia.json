@@ -167,5 +167,32 @@
       "rating": "10",
       "text": "it\u2019s an amazing movie i definitely recommend. I\u2019m constantly singing to the music and just thinking about it overall, it reminds me of beauty and the beast or princess and the frog!!"
     }
+  ],
+  "recommendations": [
+    "the_lion_king",
+    "wolfwalkers",
+    "the_princess_and_the_frog",
+    "the_prince_of_egypt",
+    "atlantis_the_lost_empire",
+    "treasure_planet",
+    "moana",
+    "tangled",
+    "klaus",
+    "the_book_of_life",
+    "over_the_moon",
+    "the_little_prince",
+    "luca",
+    "spirit_stallion_of_the_cimarron",
+    "cinderella",
+    "song_of_the_sea",
+    "winnie_the_pooh_blood_and_honey",
+    "strange_magic",
+    "zootopia",
+    "fantasia",
+    "your_name",
+    "the_sword_in_the_stone",
+    "rio",
+    "how_to_train_your_dragon",
+    "the_incredibles"
   ]
 }

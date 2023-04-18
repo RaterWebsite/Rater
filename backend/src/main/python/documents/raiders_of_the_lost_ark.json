@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Brilliantly crafted with moving characters, delightfully evil antagonists, Raiders of the Lost Ark certain to hark up nostalgia of early black-and-white escapist films."
     }
+  ],
+  "recommendations": [
+    "captain_america_the_winter_soldier",
+    "rocky_ii",
+    "the_lord_of_the_rings_the_fellowship_of_the_ring",
+    "back_to_the_future_part_iii",
+    "mission_impossible_rogue_nation",
+    "indiana_jones_and_the_temple_of_doom",
+    "you_only_live_twice",
+    "the_lord_of_the_rings_the_two_towers",
+    "the_lord_of_the_rings_the_return_of_the_king",
+    "creed",
+    "terminator_2_judgment_day",
+    "captain_america_the_first_avenger",
+    "x_men_days_of_future_past",
+    "mission_impossible_ghost_protocol",
+    "die_hard",
+    "blade_runner",
+    "top_gun_maverick",
+    "the_scorpion_king",
+    "jurassic_park",
+    "the_island",
+    "from_russia_with_love",
+    "mad_max_beyond_thunderdome",
+    "the_magnificent_seven",
+    "the_league_of_extraordinary_gentlemen",
+    "john_wick_chapter_2"
   ]
 }

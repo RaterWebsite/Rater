@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "jack ryan is pretty much a averge thriller that can keep you entrained to watch but its nowhere being good .. I kinda felt like it was a dull movie in some parts."
     }
+  ],
+  "recommendations": [
+    "the_equalizer",
+    "shooter",
+    "killer_elite",
+    "the_commuter",
+    "american_assassin",
+    "angel_has_fallen",
+    "inside_man",
+    "the_gunman",
+    "the_accountant",
+    "triple_frontier",
+    "gangster_squad",
+    "safe_house",
+    "jack_reacher",
+    "the_equalizer_2",
+    "mission_impossible_rogue_nation",
+    "2_guns",
+    "the_mechanic",
+    "3_days_to_kill",
+    "skyscraper",
+    "unstoppable",
+    "the_taking_of_pelham_1_2_3",
+    "the_ice_road",
+    "escape_plan",
+    "run_all_night",
+    "street_kings"
   ]
 }

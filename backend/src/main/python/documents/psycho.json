@@ -106,5 +106,32 @@
       "rating": "0",
       "text": "This movie sucks! Why would anyone want a shot-for-shot remake of a film that is perfect as it is? Not only was that a dumb decision, but the casting is awful, the acting is bad, they changed the look of the iconic house for some unknown reason. This movie is just bad all around."
     }
+  ],
+  "recommendations": [
+    "the_omen",
+    "the_texas_chainsaw_massacre",
+    "halloween_the_curse_of_michael_myers",
+    "poltergeist",
+    "the_wolfman",
+    "the_thing",
+    "the_amityville_horror",
+    "scream_3",
+    "halloween_h20_20_years_later",
+    "halloween_ii",
+    "book_of_shadows_blair_witch_2",
+    "halloween_iii_season_of_the_witch",
+    "halloween_4_the_return_of_michael_myers",
+    "evil_dead_ii",
+    "martyrs",
+    "scream_4",
+    "the_grudge_2",
+    "the_last_house_on_the_left",
+    "wrong_turn",
+    "exorcist_ii_the_heretic",
+    "from_dusk_till_dawn",
+    "scream_2",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "the_texas_chainsaw_massacre_2",
+    "blair_witch"
   ]
 }

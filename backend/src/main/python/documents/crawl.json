@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "This is basically a direct-to-DVD film that somehow got a mainstream release AND critical acclaim. I gotta say, it surprised me how bad this film is considering how much buzz it got. It's predictable, it's laughable at times, and it's not particularly fun to watch. I looked at my watch numerous times to see how much time was left."
     }
+  ],
+  "recommendations": [
+    "the_shallows",
+    "frozen",
+    "47_meters_down",
+    "chernobyl_diaries",
+    "the_meg",
+    "mirrors",
+    "army_of_the_dead",
+    "bird_box",
+    "into_the_storm",
+    "malignant",
+    "devil",
+    "the_possession_of_hannah_grace",
+    "the_descent",
+    "annabelle_creation",
+    "paranormal_activity_2",
+    "the_strangers_prey_at_night",
+    "dark_skies",
+    "the_curse_of_la_llorona",
+    "countdown",
+    "a_quiet_place",
+    "jurassic_world_fallen_kingdom",
+    "insidious",
+    "doomsday",
+    "the_possession",
+    "annabelle"
   ]
 }

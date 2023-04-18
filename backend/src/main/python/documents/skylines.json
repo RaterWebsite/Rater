@@ -53,5 +53,32 @@
       "rating": "8",
       "text": "Great installment in a surprisingly entertaining trilogy. Worthwhile the watch."
     }
+  ],
+  "recommendations": [
+    "transformers_dark_of_the_moon",
+    "underworld_awakening",
+    "jupiter_ascending",
+    "edge_of_tomorrow",
+    "avengers_age_of_ultron",
+    "the_last_witch_hunter",
+    "riddick",
+    "battle_los_angeles",
+    "bloodshot",
+    "bright",
+    "rampage",
+    "surrogates",
+    "the_a_team",
+    "i_am_number_four",
+    "underworld_blood_wars",
+    "infinite",
+    "hercules",
+    "the_matrix_reloaded",
+    "guardians_of_the_galaxy",
+    "mad_max_fury_road",
+    "underworld_evolution",
+    "serenity",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "poseidon",
+    "transformers"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "1",
       "text": "Plot makes no sense, its just 2 & 1/2 hours of good zoombie-makeup and bad movie."
     }
+  ],
+  "recommendations": [
+    "shadow_in_the_cloud",
+    "the_tomorrow_war",
+    "transformers_the_last_knight",
+    "battleship",
+    "world_war_z",
+    "crawl",
+    "bird_box",
+    "geostorm",
+    "riddick",
+    "polar",
+    "underworld_blood_wars",
+    "the_mist",
+    "independence_day_resurgence",
+    "the_old_guard",
+    "legion",
+    "chernobyl_diaries",
+    "the_meg",
+    "malignant",
+    "pacific_rim_uprising",
+    "poseidon",
+    "bloodshot",
+    "wanted",
+    "into_the_storm",
+    "the_darkest_hour",
+    "infinite"
   ]
 }

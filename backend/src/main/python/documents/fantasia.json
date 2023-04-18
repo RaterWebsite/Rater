@@ -81,5 +81,32 @@
       "rating": "9",
       "text": "It's a classic, and it already was when I first watched it as a child. It's just sad that most kids these days won't get to see it or want to see it."
     }
+  ],
+  "recommendations": [
+    "anastasia",
+    "wolfwalkers",
+    "song_of_the_sea",
+    "the_lion_king",
+    "the_princess_and_the_frog",
+    "the_prince_of_egypt",
+    "spirit_stallion_of_the_cimarron",
+    "your_name",
+    "the_book_of_life",
+    "cinderella",
+    "treasure_planet",
+    "dinosaur",
+    "tarzan",
+    "luca",
+    "klaus",
+    "over_the_moon",
+    "isle_of_dogs",
+    "the_sound_of_music",
+    "ghost_in_the_shell",
+    "tangled",
+    "moana",
+    "kubo_and_the_two_strings",
+    "paprika",
+    "the_nightmare_before_christmas",
+    "the_little_prince"
   ]
 }

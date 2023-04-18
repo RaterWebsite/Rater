@@ -32,5 +32,32 @@
       "rating": "10",
       "text": "Great movie classic, and great message.  Critics are so freaking pretentious and can\u2019t understand the real message of the movie"
     }
+  ],
+  "recommendations": [
+    "overcomer",
+    "woodlawn",
+    "facing_the_giants",
+    "v_for_vendetta",
+    "my_name_is_khan",
+    "let_there_be_light",
+    "body_brokers",
+    "redemption_day",
+    "son_of_god",
+    "war_room",
+    "idiocracy",
+    "fear_and_loathing_in_las_vegas",
+    "the_ultimate_gift",
+    "chappie",
+    "speed_racer",
+    "the_shawshank_redemption",
+    "jojo_rabbit",
+    "the_bucket_list",
+    "i_can_only_imagine",
+    "starship_troopers",
+    "morbius",
+    "remember_the_titans",
+    "cloud_atlas",
+    "killing_cabos",
+    "equilibrium"
   ]
 }

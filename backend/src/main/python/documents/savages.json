@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "A fun stylish action film, Savages is a lot of fun.  It's good to see Oliver Stone making a strong action movie again.  The only thing that made this film an 8 was a weak ending."
     }
+  ],
+  "recommendations": [
+    "taken",
+    "eastern_promises",
+    "cold_pursuit",
+    "no_country_for_old_men",
+    "a_history_of_violence",
+    "hanna",
+    "wonder_woman",
+    "the_accountant",
+    "limitless",
+    "red_sparrow",
+    "those_who_wish_me_dead",
+    "public_enemies",
+    "lucky_number_slevin",
+    "falling_down",
+    "guns_akimbo",
+    "magic_mikes_last_dance",
+    "four_brothers",
+    "war_dogs",
+    "donnie_brasco",
+    "a_walk_among_the_tombstones",
+    "no_escape",
+    "the_gambler",
+    "the_punisher",
+    "widows",
+    "live_by_night"
   ]
 }

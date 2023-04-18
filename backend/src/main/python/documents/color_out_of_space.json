@@ -228,5 +228,32 @@
       "rating": "7",
       "text": "This movie is a great adaptation of the book. The actors are (in my opinion) really good and let the viewer be fully immersed. Probably due to a limited budget the alpaca monster seems to be a puppet but it is really good and visually impressive. However I found it a lot more convincing than the mom monster that  looks a bit unrealistic to me, probably because it uses CGI. What really stood out to me is how they used color, portraying a color human beings don't know about seems impossible but they somehow pulled it off. The strange shade of purple they used in the movie really conveys this idea of a color put of space. It's not a masterpiece but it's a pretty good adaptation of a Lovecraft book and that's truly impressive."
     }
+  ],
+  "recommendations": [
+    "the_fly",
+    "signs",
+    "us",
+    "sunshine",
+    "the_invisible_man",
+    "a_quiet_place",
+    "the_ritual",
+    "it",
+    "event_horizon",
+    "the_conjuring_the_devil_made_me_do_it",
+    "annabelle_comes_home",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "the_invasion",
+    "annihilation",
+    "a_cure_for_wellness",
+    "a_quiet_place_part_ii",
+    "cube",
+    "coherence",
+    "scary_stories_to_tell_in_the_dark",
+    "it_follows",
+    "the_green_knight",
+    "the_conjuring_2",
+    "ouija_origin_of_evil",
+    "blade_runner_2049",
+    "reminiscence"
   ]
 }

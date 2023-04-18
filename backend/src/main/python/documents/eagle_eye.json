@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "If I plop down $8-10 for a movie I want it to entertain me. Eagle Eye did just that. I don't care if it borrows from several classic films - as long as it entertains. This movie did that. Some films are thought provoking, some are just for fun - and that's okay. A film doesn't have to be all things to all people."
     }
+  ],
+  "recommendations": [
+    "i_am_number_four",
+    "the_a_team",
+    "bright",
+    "furious_7",
+    "polar",
+    "next",
+    "crank",
+    "underworld_evolution",
+    "pandorum",
+    "vantage_point",
+    "edge_of_tomorrow",
+    "gemini_man",
+    "rambo_last_blood",
+    "glass",
+    "terminator_genisys",
+    "poseidon",
+    "jumper",
+    "venom_let_there_be_carnage",
+    "transformers_dark_of_the_moon",
+    "the_marine",
+    "nobody",
+    "salt",
+    "gamer",
+    "the_tax_collector",
+    "hancock"
   ]
 }

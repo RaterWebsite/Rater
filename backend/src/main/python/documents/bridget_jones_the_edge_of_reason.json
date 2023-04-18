@@ -57,5 +57,32 @@
       "rating": "7",
       "text": "This is a fairly amusing film sequel. Its not as good as the follow up, Bridget Jones' Baby, which I saw recently but its still entertaining and amusing, in a cringe-y way, as all Bridget Jones films are. Its hardly the best film of its type but it could be worse - seeing Hugh Grant and Colin Firth fight like little boys is amusing enough and there are comical moments with Bridget skydiving and the like. I wouldn't necessarily recommend it but there are worse films around, though I'm not sure this is the best of the 3 films made to date, it could certainly be worse. A harmless bit of slapstick fun."
     }
+  ],
+  "recommendations": [
+    "the_terminal",
+    "daredevil",
+    "suburbicon",
+    "true_grit",
+    "the_second_best_exotic_marigold_hotel",
+    "midnight_in_paris",
+    "burnt",
+    "knives_out",
+    "alice_in_wonderland",
+    "american_hustle",
+    "lucky_number_slevin",
+    "logan_lucky",
+    "the_godfather_part_iii",
+    "the_dilemma",
+    "legend",
+    "victor_frankenstein",
+    "charade",
+    "charlie_and_the_chocolate_factory",
+    "the_royal_tenenbaums",
+    "notting_hill",
+    "alice_through_the_looking_glass",
+    "inkheart",
+    "enola_holmes_2",
+    "eddie_the_eagle",
+    "odd_thomas"
   ]
 }

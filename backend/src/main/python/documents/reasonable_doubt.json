@@ -73,5 +73,32 @@
       "rating": "6",
       "text": "I found this quite a tense film with some interesting plot elements, although preditable to a degree. Not as bad as the critics make t out to be. It had a fairly fast pace, and was not stuck in the courtroom as one might expect with a film of this type, which was a good thing."
     }
+  ],
+  "recommendations": [
+    "man_on_a_ledge",
+    "the_little_things",
+    "the_next_three_days",
+    "honest_thief",
+    "perfect_stranger",
+    "those_who_wish_me_dead",
+    "jack_reacher",
+    "unhinged",
+    "peppermint",
+    "snitch",
+    "jack_reacher_never_go_back",
+    "killer_elite",
+    "the_call",
+    "the_town",
+    "the_loft",
+    "the_taking_of_pelham_1_2_3",
+    "law_abiding_citizen",
+    "live_by_night",
+    "gone_baby_gone",
+    "cellular",
+    "flightplan",
+    "taken",
+    "taken_2",
+    "awake",
+    "a_walk_among_the_tombstones"
   ]
 }

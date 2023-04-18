@@ -102,5 +102,32 @@
       "rating": "6",
       "text": "A quaint movie that at times does slip into the corny and sickly sweet. Okay."
     }
+  ],
+  "recommendations": [
+    "belfast",
+    "finding_neverland",
+    "the_electrical_life_of_louis_wain",
+    "carol",
+    "the_best_exotic_marigold_hotel",
+    "american_beauty",
+    "legends_of_the_fall",
+    "while_you_were_sleeping",
+    "thoroughbreds",
+    "spencer",
+    "phantom_thread",
+    "eddie_the_eagle",
+    "20th_century_women",
+    "the_grand_budapest_hotel",
+    "youth",
+    "the_favourite",
+    "paddington_2",
+    "notting_hill",
+    "anna_karenina",
+    "dances_with_wolves",
+    "a_star_is_born",
+    "the_danish_girl",
+    "scent_of_a_woman",
+    "casablanca",
+    "the_devil_wears_prada"
   ]
 }

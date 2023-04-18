@@ -54,5 +54,32 @@
       "rating": "7",
       "text": "Extraction is an average action flick that has awesome action, good performances, and a totally \"meh\" plot. But hey, this is exactly what Netflix is for and I'm totally okay with that."
     }
+  ],
+  "recommendations": [
+    "bullet_to_the_head",
+    "the_expendables",
+    "collide",
+    "the_expendables_3",
+    "2_guns",
+    "mechanic_resurrection",
+    "parker",
+    "the_mechanic",
+    "sabotage",
+    "safe",
+    "angel_has_fallen",
+    "contraband",
+    "the_italian_job",
+    "16_blocks",
+    "bloodshot",
+    "kate",
+    "gunpowder_milkshake",
+    "the_marine",
+    "haywire",
+    "the_transporter_refueled",
+    "the_last_stand",
+    "jiu_jitsu",
+    "the_expendables_2",
+    "red_notice",
+    "transporter_3"
   ]
 }

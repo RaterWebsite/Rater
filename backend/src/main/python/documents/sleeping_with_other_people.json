@@ -80,5 +80,32 @@
       "rating": "5",
       "text": "Average rom-com at best. Has some funny scenes but not enough to keep you fully engaged. The final act was unnecessary."
     }
+  ],
+  "recommendations": [
+    "friends_with_benefits",
+    "the_five_year_engagement",
+    "that_awkward_moment",
+    "palm_springs",
+    "how_to_be_single",
+    "delivery_man",
+    "the_break_up",
+    "blockers",
+    "hitch",
+    "the_king_of_staten_island",
+    "the_dilemma",
+    "50_first_dates",
+    "no_strings_attached",
+    "the_vow",
+    "i_feel_pretty",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "the_nice_guys",
+    "the_cobbler",
+    "10_things_i_hate_about_you",
+    "tag",
+    "the_edge_of_seventeen",
+    "the_upside",
+    "silver_linings_playbook",
+    "forgetting_sarah_marshall",
+    "the_family"
   ]
 }

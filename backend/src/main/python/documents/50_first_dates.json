@@ -201,5 +201,32 @@
       "rating": "7",
       "text": "It's got a couple highlights but overall, 50 First Dates is a good enough movie I'll watch again."
     }
+  ],
+  "recommendations": [
+    "friends_with_benefits",
+    "the_break_up",
+    "click",
+    "blended",
+    "the_wedding_ringer",
+    "delivery_man",
+    "forgetting_sarah_marshall",
+    "zack_and_miri_make_a_porno",
+    "meet_the_parents",
+    "the_proposal",
+    "sandy_wexler",
+    "just_friends",
+    "pitch_perfect_2",
+    "the_five_year_engagement",
+    "that_awkward_moment",
+    "27_dresses",
+    "the_longest_yard",
+    "just_go_with_it",
+    "hubie_halloween",
+    "second_act",
+    "funny_people",
+    "a_bad_moms_christmas",
+    "this_means_war",
+    "yes_man",
+    "step_brothers"
   ]
 }

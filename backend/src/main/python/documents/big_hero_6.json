@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "I loved this movie!!! The plot was fun, suspenseful and hilarious at the same time!!! The animation is amazing, the futuristic theme blows me away, but the plot twists are a little annoying. WATCH THIS MOVIE NOW"
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon_2",
+    "the_incredibles",
+    "raya_and_the_last_dragon",
+    "onward",
+    "my_little_pony_the_movie",
+    "atlantis_the_lost_empire",
+    "the_croods",
+    "incredibles_2",
+    "kung_fu_panda_3",
+    "bolt",
+    "the_lego_batman_movie",
+    "spider_man_into_the_spider_verse",
+    "next_gen",
+    "meet_the_robinsons",
+    "the_iron_giant",
+    "rio_2",
+    "turbo",
+    "rise_of_the_guardians",
+    "the_good_dinosaur",
+    "monsters_university",
+    "bumblebee",
+    "zootopia",
+    "the_lego_movie_2_the_second_part",
+    "shaun_the_sheep_movie",
+    "kung_fu_panda_2"
   ]
 }

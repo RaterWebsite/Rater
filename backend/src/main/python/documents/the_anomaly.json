@@ -34,5 +34,32 @@
       "rating": "10",
       "text": "the best movie ever I love this movie because it has a lot of action and fighting scenes also the protagonist is my idol and I just love it so go and watch"
     }
+  ],
+  "recommendations": [
+    "the_condemned",
+    "underworld_evolution",
+    "transporter_2",
+    "the_expendables",
+    "mortal_kombat_annihilation",
+    "rambo_last_blood",
+    "abduction",
+    "ninja_assassin",
+    "the_marine",
+    "i_am_number_four",
+    "the_expendables_2",
+    "the_forbidden_kingdom",
+    "the_twilight_saga_new_moon",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "venom_let_there_be_carnage",
+    "the_legend_of_hercules",
+    "the_tuxedo",
+    "hercules",
+    "ginger_snaps",
+    "gods_of_egypt",
+    "kick_ass_2",
+    "bloodsport",
+    "the_green_hornet",
+    "gemini_man",
+    "the_twilight_saga_eclipse"
   ]
 }

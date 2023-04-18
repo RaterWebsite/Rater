@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Loved this movie!! I love movies that are unpredictable, and this was as good as it gets. Thank you!!!"
     }
+  ],
+  "recommendations": [
+    "enemy",
+    "the_prestige",
+    "now_you_see_me",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "the_usual_suspects",
+    "gone_girl",
+    "bad_times_at_the_el_royale",
+    "signs",
+    "a_cure_for_wellness",
+    "a_quiet_place_part_ii",
+    "tenet",
+    "tinker_tailor_soldier_spy",
+    "split",
+    "the_machinist",
+    "what_happened_to_monday",
+    "a_perfect_getaway",
+    "us",
+    "the_loft",
+    "the_snowman",
+    "zodiac",
+    "twelve_monkeys",
+    "the_butterfly_effect",
+    "glass",
+    "the_illusionist",
+    "inception"
   ]
 }

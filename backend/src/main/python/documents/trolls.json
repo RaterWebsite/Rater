@@ -229,5 +229,32 @@
       "rating": "5",
       "text": "Some of Kendrick's less stellar work. The actually funny and clever humor is constantly washed away by excrement jokes. The story is highly convoluted. This movie is nothing to be happy about."
     }
+  ],
+  "recommendations": [
+    "strange_magic",
+    "rio",
+    "rio_2",
+    "vivo",
+    "over_the_moon",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "moana",
+    "the_lego_movie_2_the_second_part",
+    "rock_dog_2_rock_around_the_park",
+    "happy_feet_two",
+    "the_croods",
+    "sing_2",
+    "ratatouille",
+    "trolls_world_tour",
+    "shark_tale",
+    "ferdinand",
+    "the_road_to_el_dorado",
+    "sing",
+    "bolt",
+    "winnie_the_pooh_blood_and_honey",
+    "jingle_jangle_a_christmas_journey",
+    "my_little_pony_the_movie",
+    "spirit_stallion_of_the_cimarron",
+    "cats",
+    "ice_age_the_meltdown"
   ]
 }

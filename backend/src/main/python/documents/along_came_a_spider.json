@@ -95,5 +95,32 @@
       "rating": "9",
       "text": "An Excellent movie one of my favorites by Morgan Freeman. well worth watching."
     }
+  ],
+  "recommendations": [
+    "primal_fear",
+    "insomnia",
+    "breach",
+    "sherlock_holmes_a_game_of_shadows",
+    "the_usual_suspects",
+    "lucky_number_slevin",
+    "looper",
+    "unbreakable",
+    "the_prestige",
+    "murder_on_the_orient_express",
+    "sherlock_holmes",
+    "backdraft",
+    "jackie_brown",
+    "the_raven",
+    "street_kings",
+    "a_walk_among_the_tombstones",
+    "rush",
+    "inside_man",
+    "daredevil",
+    "zodiac",
+    "the_fugitive",
+    "the_italian_job",
+    "minority_report",
+    "state_of_play",
+    "the_bourne_identity"
   ]
 }

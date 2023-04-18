@@ -126,5 +126,32 @@
       "rating": "9",
       "text": "The Best \"Tiny Terrors Films\" Ever made. Also did I mention I was scared of this when I was younger."
     }
+  ],
+  "recommendations": [
+    "krampus",
+    "the_house_with_a_clock_in_its_walls",
+    "cooties",
+    "the_boxtrolls",
+    "rango",
+    "monster_house",
+    "tremors",
+    "flushed_away",
+    "annabelle_comes_home",
+    "monsters_university",
+    "hotel_transylvania",
+    "shark_tale",
+    "hotel_transylvania_3_summer_vacation",
+    "scary_stories_to_tell_in_the_dark",
+    "it",
+    "goosebumps",
+    "ouija_origin_of_evil",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_babysitter",
+    "ice_age_the_meltdown",
+    "antz",
+    "the_return_of_the_living_dead",
+    "warm_bodies",
+    "it_follows",
+    "despicable_me"
   ]
 }

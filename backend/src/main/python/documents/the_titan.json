@@ -77,5 +77,32 @@
       "rating": "8",
       "text": "I thought this movie was excellent. I don't know why it has such low ratings. Great sci fi movie. Sam Worthington gives a touching performance."
     }
+  ],
+  "recommendations": [
+    "stowaway",
+    "eo",
+    "contagion",
+    "greenland",
+    "how_it_ends",
+    "children_of_men",
+    "the_midnight_sky",
+    "code_8",
+    "snowpiercer",
+    "the_tomorrow_war",
+    "prometheus",
+    "after_earth",
+    "sanctum",
+    "jurassic_world_fallen_kingdom",
+    "vivarium",
+    "the_purge_anarchy",
+    "elysium",
+    "the_purge",
+    "noah",
+    "lucy",
+    "the_hunger_games_mockingjay_part_1",
+    "the_day_after_tomorrow",
+    "chaos_walking",
+    "downsizing",
+    "divergent"
   ]
 }

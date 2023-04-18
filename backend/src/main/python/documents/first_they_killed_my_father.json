@@ -86,5 +86,32 @@
       "rating": "10",
       "text": "Wow. First They Killed My Father is so beautiful, powerful and heartbreaking. A Masterpiece that is told through the eyes of a child. A rare film that stays true to the book and its culture."
     }
+  ],
+  "recommendations": [
+    "the_impossible",
+    "12_years_a_slave",
+    "hotel_rwanda",
+    "empire_of_the_sun",
+    "nomadland",
+    "the_hunt",
+    "the_florida_project",
+    "just_mercy",
+    "the_boy_who_harnessed_the_wind",
+    "sin_nombre",
+    "the_pianist",
+    "american_history_x",
+    "manchester_by_the_sea",
+    "the_book_thief",
+    "the_imitation_game",
+    "minari",
+    "call_me_by_your_name",
+    "silence",
+    "the_last_king_of_scotland",
+    "the_road",
+    "a_monster_calls",
+    "melancholia",
+    "only_the_brave",
+    "legends_of_the_fall",
+    "hidden_figures"
   ]
 }

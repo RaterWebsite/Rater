@@ -224,5 +224,32 @@
       "rating": "4",
       "text": "As someone who knows nothing about the series, I was still able to follow and hold my attention.  Very violent."
     }
+  ],
+  "recommendations": [
+    "terminator_genisys",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "black_panther_wakanda_forever",
+    "the_karate_kid_part_iii",
+    "suicide_squad",
+    "captain_marvel",
+    "the_tax_collector",
+    "serenity",
+    "thor_love_and_thunder",
+    "the_new_mutants",
+    "poseidon",
+    "x_men_apocalypse",
+    "the_gambler",
+    "kingsman_the_golden_circle",
+    "the_craft_legacy",
+    "the_last_airbender",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_twilight_saga_eclipse",
+    "the_departed",
+    "jumper",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "next",
+    "seventh_son",
+    "ghostbusters_ii",
+    "rocknrolla"
   ]
 }

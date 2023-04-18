@@ -50,5 +50,32 @@
       "rating": "0",
       "text": "This is probably the worst movie I have ever seen, wow !!! DO NOT recommend it\u2026 what the **** is wrong to who never mad this \u2026."
     }
+  ],
+  "recommendations": [
+    "mortal_kombat_annihilation",
+    "the_day_the_earth_stood_still",
+    "the_legend_of_hercules",
+    "abduction",
+    "suicide_squad",
+    "pixels",
+    "bloodshot",
+    "rogue_hostage",
+    "hellraiser_hellworld",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "jeepers_creepers_3",
+    "battleship",
+    "national_treasure_book_of_secrets",
+    "clash_of_the_titans",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_expendables_3",
+    "the_happening",
+    "pacific_rim_uprising",
+    "day_of_the_dead_bloodline",
+    "anaconda",
+    "the_transporter_refueled",
+    "the_room",
+    "dolittle",
+    "torque",
+    "see_no_evil"
   ]
 }

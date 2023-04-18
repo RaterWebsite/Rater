@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Es una de las mejores pel\u00edculas de ciencia ficci\u00f3n en la historia del cine; es tensa, dram\u00e1tica y la actuaci\u00f3n de Bruce Willis es grandiosa."
     }
+  ],
+  "recommendations": [
+    "looper",
+    "the_prestige",
+    "glass",
+    "edge_of_tomorrow",
+    "oblivion",
+    "moon",
+    "tomorrowland",
+    "terminator_genisys",
+    "back_to_the_future_part_ii",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "i_am_legend",
+    "avengers_age_of_ultron",
+    "vanilla_sky",
+    "john_carter",
+    "inception",
+    "now_you_see_me",
+    "shutter_island",
+    "inherent_vice",
+    "doctor_strange",
+    "tenet",
+    "eternals",
+    "the_last_witch_hunter",
+    "super_8",
+    "sherlock_holmes",
+    "serenity"
   ]
 }

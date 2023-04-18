@@ -205,5 +205,32 @@
       "rating": "9",
       "text": "A nightmare of a film that feels awful to watch yet you can't keep your eyes away from the screen."
     }
+  ],
+  "recommendations": [
+    "the_neon_demon",
+    "mandy",
+    "under_the_skin",
+    "you_were_never_really_here",
+    "titane",
+    "enemy",
+    "127_hours",
+    "a_ghost_story",
+    "eyes_wide_shut",
+    "drive",
+    "black_swan",
+    "a_cure_for_wellness",
+    "annette",
+    "the_green_knight",
+    "us",
+    "hanna",
+    "roma",
+    "antichrist",
+    "last_night_in_soho",
+    "hugo",
+    "the_grey",
+    "the_american",
+    "a_history_of_violence",
+    "dunkirk",
+    "bad_times_at_the_el_royale"
   ]
 }

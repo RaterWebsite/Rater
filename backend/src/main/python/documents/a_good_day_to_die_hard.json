@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I don't know why people hate this movie it's enjoyable. It's action packed, what else do you want from a Die Hard movie. I only recommend for Die Hard fans."
     }
+  ],
+  "recommendations": [
+    "live_free_or_die_hard",
+    "die_hard_2",
+    "mission_impossible_iii",
+    "salt",
+    "olympus_has_fallen",
+    "furious_7",
+    "12_rounds",
+    "wanted",
+    "the_tax_collector",
+    "mechanic_resurrection",
+    "suicide_squad",
+    "transformers_age_of_extinction",
+    "sabotage",
+    "skyscraper",
+    "the_marine",
+    "taken_2",
+    "nobody",
+    "the_expendables_3",
+    "the_transporter_refueled",
+    "transporter_2",
+    "jason_bourne",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "xxx_return_of_xander_cage",
+    "wonder_woman_1984",
+    "taken_3"
   ]
 }

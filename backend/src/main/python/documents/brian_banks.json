@@ -44,5 +44,32 @@
       "rating": "8",
       "text": "Good movie with a great cast! It's crazy that Mr Banks has been accused of sexual assault twice. He's got a great story to tell and it came together very well."
     }
+  ],
+  "recommendations": [
+    "the_founder",
+    "spotlight",
+    "a_bronx_tale",
+    "snowden",
+    "just_mercy",
+    "hidden_figures",
+    "the_mauritanian",
+    "the_post",
+    "collateral_beauty",
+    "patriots_day",
+    "the_big_short",
+    "richard_jewell",
+    "dallas_buyers_club",
+    "the_white_tiger",
+    "the_imitation_game",
+    "ingrid_goes_west",
+    "i_can_only_imagine",
+    "judas_and_the_black_messiah",
+    "the_social_network",
+    "captain_fantastic",
+    "hotel_rwanda",
+    "fighting_with_my_family",
+    "gold",
+    "shot_caller",
+    "heaven_is_for_real"
   ]
 }

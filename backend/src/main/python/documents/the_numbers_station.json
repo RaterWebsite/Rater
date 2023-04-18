@@ -57,5 +57,32 @@
       "rating": "5",
       "text": "Um filme com bons atores mais totalmente esquesivel, infelizmente poderia ser mais caprichado!!!"
     }
+  ],
+  "recommendations": [
+    "triple_9",
+    "hunter_killer",
+    "the_taking_of_pelham_1_2_3",
+    "hotel_artemis",
+    "survivor",
+    "the_commuter",
+    "mile_22",
+    "jack_ryan_shadow_recruit",
+    "live_by_night",
+    "killer_elite",
+    "shooter",
+    "unstoppable",
+    "the_equalizer",
+    "2_guns",
+    "mission_impossible",
+    "no_sudden_move",
+    "21_bridges",
+    "the_gunman",
+    "the_hurricane_heist",
+    "safe_house",
+    "gangster_squad",
+    "snitch",
+    "the_sum_of_all_fears",
+    "blackhat",
+    "the_little_things"
   ]
 }

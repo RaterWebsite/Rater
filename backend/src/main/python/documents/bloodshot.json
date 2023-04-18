@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "While there's nothing spectacular about the movie, the acting is terribly average, the story is clich\u00e9 and predictable, the CGI is fine but not exceptional and the action sequences weren't made particularly well. It's still very watchable and entertaining. If you're looking for a fun, mindless action flick, you might appreciate it."
     }
+  ],
+  "recommendations": [
+    "lockout",
+    "hercules",
+    "gemini_man",
+    "poseidon",
+    "the_transporter_refueled",
+    "clash_of_the_titans",
+    "xxx_return_of_xander_cage",
+    "pacific_rim_uprising",
+    "infinite",
+    "the_last_witch_hunter",
+    "the_marine",
+    "skyscraper",
+    "into_the_storm",
+    "teenage_mutant_ninja_turtles",
+    "tomb_raider",
+    "avengers_age_of_ultron",
+    "battleship",
+    "the_three_musketeers",
+    "rampage",
+    "the_meg",
+    "riddick",
+    "jumper",
+    "transformers_dark_of_the_moon",
+    "the_expendables_3",
+    "transporter_3"
   ]
 }

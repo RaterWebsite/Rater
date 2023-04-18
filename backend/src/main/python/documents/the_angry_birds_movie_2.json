@@ -131,5 +131,32 @@
       "rating": "10",
       "text": "Wow. This is honestly the best movie I've watched in 2021 so far. Waiting for the sequel."
     }
+  ],
+  "recommendations": [
+    "the_angry_birds_movie",
+    "cloudy_with_a_chance_of_meatballs",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "penguins_of_madagascar",
+    "the_smurfs",
+    "ice_age_the_meltdown",
+    "free_birds",
+    "astro_boy",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "turbo",
+    "the_lego_movie",
+    "despicable_me_3",
+    "minions",
+    "the_lego_movie_2_the_second_part",
+    "happy_feet",
+    "chicken_little",
+    "shark_tale",
+    "ice_age_dawn_of_the_dinosaurs",
+    "incredibles_2",
+    "the_spongebob_movie_sponge_out_of_water",
+    "g_force",
+    "hotel_transylvania_2",
+    "antz",
+    "hotel_transylvania",
+    "the_croods_a_new_age"
   ]
 }

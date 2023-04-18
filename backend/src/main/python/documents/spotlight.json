@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Spotlight is a powerful drama with brilliant performances from Michael Keaton, Mark Ruffalo and Rachel McAdams, a well-written script by Tom McCarthy and Josh Singer, and a message that is still relevant today."
     }
+  ],
+  "recommendations": [
+    "just_mercy",
+    "hotel_rwanda",
+    "12_angry_men",
+    "snowden",
+    "patriots_day",
+    "the_social_network",
+    "the_mauritanian",
+    "hidden_figures",
+    "the_last_king_of_scotland",
+    "the_post",
+    "richard_jewell",
+    "argo",
+    "the_good_shepherd",
+    "judas_and_the_black_messiah",
+    "the_big_short",
+    "blood_diamond",
+    "a_beautiful_mind",
+    "manchester_by_the_sea",
+    "the_imitation_game",
+    "hereafter",
+    "risen",
+    "the_reader",
+    "the_last_duel",
+    "valkyrie",
+    "donnie_brasco"
   ]
 }

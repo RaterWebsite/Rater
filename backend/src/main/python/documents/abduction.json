@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "This film was interesting and had a little mystery in it. I have to say that i expected more but it wasn't like the worst adventure film i've ever seen. It has some good action scenes but that's all for that movie. The actors were nothing, as if they weren't there. I liked Maria Bello's appearance"
     }
+  ],
+  "recommendations": [
+    "jumper",
+    "the_tax_collector",
+    "suicide_squad",
+    "dark_phoenix",
+    "killers",
+    "gemini_man",
+    "the_twilight_saga_eclipse",
+    "the_green_hornet",
+    "the_guardian",
+    "national_treasure_book_of_secrets",
+    "the_day_the_earth_stood_still",
+    "the_departed",
+    "poseidon",
+    "the_legend_of_hercules",
+    "the_old_guard",
+    "contraband",
+    "the_happening",
+    "gran_torino",
+    "mortal_kombat_annihilation",
+    "seven_pounds",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "seventh_son",
+    "hercules",
+    "terminator_genisys",
+    "i_am_number_four"
   ]
 }

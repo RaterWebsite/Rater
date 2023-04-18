@@ -146,5 +146,32 @@
       "rating": "9",
       "text": "It's a spectacular movie. The performances, the screenplay, production, cinematography is beautiful, direction and the soundtrack is great than Fargo (1996). I don't understand how people forget that movie and it is true that the movie won 9 Oscars including Best Picture and Best Director. The truth is that this movie is a jewel of the 90's and a masterpiece of the seventh art. The movie is amazing so there is beauty in the lines, the soundtrack and the cinematography, a masterpiece that will never be forgotten."
     }
+  ],
+  "recommendations": [
+    "casablanca",
+    "amadeus",
+    "the_last_of_the_mohicans",
+    "youth",
+    "gladiator",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_great_gatsby",
+    "whiplash",
+    "spencer",
+    "carol",
+    "phantom_thread",
+    "magnolia",
+    "once_upon_a_time_in_america",
+    "a_star_is_born",
+    "anna_karenina",
+    "a_beautiful_mind",
+    "the_aviator",
+    "amores_perros",
+    "kingdom_of_heaven",
+    "the_dig",
+    "the_master",
+    "the_grand_budapest_hotel",
+    "belfast",
+    "cinderella_man",
+    "life_of_pi"
   ]
 }

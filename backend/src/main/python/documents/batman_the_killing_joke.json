@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "Batman: The Killing Joke is a disappointment, considering how good the graphic novel was. The animation is bad, the portrayals are horrible, especially Batgirl. The second half was OK but it wasn't enough to save the movie."
     }
+  ],
+  "recommendations": [
+    "percy_jackson_sea_of_monsters",
+    "batman_v_superman_dawn_of_justice",
+    "death_note_relight_1_visions_of_a_god",
+    "the_witcher_nightmare_of_the_wolf",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "incredibles_2",
+    "artemis_fowl",
+    "the_secret_life_of_pets_2",
+    "the_karate_kid_part_iii",
+    "sin_city_a_dame_to_kill_for",
+    "dreamcatcher",
+    "the_legend_of_tarzan",
+    "dumbo",
+    "the_hobbit_the_desolation_of_smaug",
+    "the_chronicles_of_narnia_prince_caspian",
+    "bumblebee",
+    "green_lantern",
+    "the_tale_of_despereaux",
+    "the_hunger_games",
+    "the_suicide_squad",
+    "harry_potter_and_the_goblet_of_fire",
+    "spider_man_3",
+    "terminator_genisys",
+    "the_lego_ninjago_movie",
+    "the_lego_batman_movie"
   ]
 }

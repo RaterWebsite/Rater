@@ -75,5 +75,32 @@
       "rating": "9",
       "text": "This movie engulfed me.  Its music, lyrical writing and the ensemble cast brought to life a story of a redemptive nature we sorely need today.  It answers the question; If love .... Then what?  Well worth the time.  High praise indeed!"
     }
+  ],
+  "recommendations": [
+    "lincoln",
+    "i_am_sam",
+    "the_aviator",
+    "a_beautiful_mind",
+    "american_hustle",
+    "the_theory_of_everything",
+    "cinderella_man",
+    "catch_me_if_you_can",
+    "breakthrough",
+    "scent_of_a_woman",
+    "rush",
+    "magnolia",
+    "joy",
+    "my_name_is_khan",
+    "the_last_of_the_mohicans",
+    "the_upside",
+    "the_devil_all_the_time",
+    "the_hurricane",
+    "american_gangster",
+    "changeling",
+    "good_will_hunting",
+    "the_place_beyond_the_pines",
+    "steve_jobs",
+    "murder_on_the_orient_express",
+    "mystic_river"
   ]
 }

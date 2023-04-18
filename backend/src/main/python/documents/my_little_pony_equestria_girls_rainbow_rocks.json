@@ -90,5 +90,32 @@
       "rating": "10",
       "text": "Great movie, great story, great music. They also did a great job on making me hate the antagonists."
     }
+  ],
+  "recommendations": [
+    "trolls",
+    "rio_2",
+    "rio",
+    "strange_magic",
+    "the_lego_movie_2_the_second_part",
+    "sing_2",
+    "bolt",
+    "the_croods",
+    "vivo",
+    "my_little_pony_the_movie",
+    "ice_age_the_meltdown",
+    "ferdinand",
+    "frozen_ii",
+    "cruella",
+    "over_the_moon",
+    "moana",
+    "rise_of_the_guardians",
+    "winnie_the_pooh_blood_and_honey",
+    "the_secret_life_of_pets_2",
+    "happy_feet_two",
+    "how_to_train_your_dragon_2",
+    "the_tale_of_despereaux",
+    "my_little_pony_a_new_generation",
+    "spies_in_disguise",
+    "rock_dog_2_rock_around_the_park"
   ]
 }

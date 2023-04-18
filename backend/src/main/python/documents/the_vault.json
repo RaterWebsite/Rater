@@ -44,5 +44,32 @@
       "rating": "5",
       "text": "The movie starts out really promising and you do have to know that it is not just heist movie, it actually is more of a horror movie or something like that, but when the horror part actually starts the movie gets down to be quite simplistic and a bit boring fast, even though they made it to have the other effect."
     }
+  ],
+  "recommendations": [
+    "malignant",
+    "annabelle",
+    "ouija",
+    "final_destination",
+    "mirrors",
+    "event_horizon",
+    "chernobyl_diaries",
+    "the_pyramid",
+    "sinister_2",
+    "science_fiction_volume_one_the_osiris_child",
+    "shut_in",
+    "army_of_the_dead",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "antlers",
+    "dark_skies",
+    "the_curse_of_la_llorona",
+    "insidious",
+    "the_mist",
+    "wrong_turn",
+    "the_possession_of_hannah_grace",
+    "a_classic_horror_story",
+    "cube",
+    "insidious_chapter_2",
+    "the_grudge_2",
+    "devil"
   ]
 }

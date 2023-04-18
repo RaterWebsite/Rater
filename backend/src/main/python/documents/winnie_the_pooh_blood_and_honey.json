@@ -181,5 +181,32 @@
       "rating": "10",
       "text": "greatest movie on earth, thisisbecauseofthecharactermaximumthisisbecauseofthecharactermaximumthisisbecauseofthecharactermaximumthisisbecauseofthecharactermaximumthisisbecauseofthecharactermaximumthisisbecauseofthecharactermaximum"
     }
+  ],
+  "recommendations": [
+    "tangled",
+    "rio",
+    "the_peanuts_movie",
+    "trolls",
+    "bolt",
+    "enchanted",
+    "over_the_moon",
+    "ice_age",
+    "klaus",
+    "atlantis_the_lost_empire",
+    "shaun_the_sheep_movie",
+    "strange_magic",
+    "the_princess_and_the_frog",
+    "vivo",
+    "moana",
+    "zootopia",
+    "sing_2",
+    "meet_the_robinsons",
+    "the_sword_in_the_stone",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "the_grinch",
+    "up",
+    "paddington",
+    "peter_pan",
+    "onward"
   ]
 }

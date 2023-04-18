@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Fresh style of an old story giving a new role model to all wannabe hero fathers."
     }
+  ],
+  "recommendations": [
+    "kingsman_the_golden_circle",
+    "terminator_genisys",
+    "the_a_team",
+    "angel_has_fallen",
+    "the_guardian",
+    "john_wick",
+    "wild_card",
+    "the_suicide_squad",
+    "the_tax_collector",
+    "run_all_night",
+    "skyscraper",
+    "four_brothers",
+    "avengers_age_of_ultron",
+    "i_am_number_four",
+    "hancock",
+    "bloodshot",
+    "gemini_man",
+    "contraband",
+    "poseidon",
+    "the_equalizer",
+    "the_mechanic",
+    "the_marine",
+    "rocknrolla",
+    "glass",
+    "furious_7"
   ]
 }

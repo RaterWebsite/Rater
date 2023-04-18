@@ -200,5 +200,32 @@
       "rating": "10",
       "text": "The best alter ego. The best Disney movie. The best Disney Princess. The best Disney character. The best movie."
     }
+  ],
+  "recommendations": [
+    "the_game_plan",
+    "the_croods_a_new_age",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "17_again",
+    "minions_the_rise_of_gru",
+    "sing_2",
+    "the_smurfs",
+    "alvin_and_the_chipmunks",
+    "garfield_a_tail_of_two_kitties",
+    "herbie_fully_loaded",
+    "cloudy_with_a_chance_of_meatballs",
+    "marmaduke",
+    "love_hard",
+    "we_bought_a_zoo",
+    "ice_age_the_meltdown",
+    "zookeeper",
+    "chicken_little",
+    "bridge_to_terabithia",
+    "second_act",
+    "just_go_with_it",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "the_family_man",
+    "confessions_of_a_shopaholic"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "what a good movie . it is not funny it just cool ........................................................................................................"
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_2",
+    "ice_age_the_meltdown",
+    "peter_rabbit",
+    "the_croods",
+    "monster_house",
+    "storks",
+    "captain_underpants_the_first_epic_movie",
+    "alvin_and_the_chipmunks",
+    "the_lego_movie",
+    "puss_in_boots_the_last_wish",
+    "ice_age_dawn_of_the_dinosaurs",
+    "despicable_me_2",
+    "megamind",
+    "monsters_vs_aliens",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "cloudy_with_a_chance_of_meatballs",
+    "turbo",
+    "the_angry_birds_movie",
+    "meet_the_robinsons",
+    "the_nut_job",
+    "ice_age_continental_drift",
+    "despicable_me",
+    "chicken_little",
+    "the_smurfs",
+    "bolt"
   ]
 }

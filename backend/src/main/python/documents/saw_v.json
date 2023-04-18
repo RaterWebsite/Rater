@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "It was a disapointment... \"Saw IV\" was pretty good and surprised me. This one is confusing. There's no more history to tell, and they already making things up."
     }
+  ],
+  "recommendations": [
+    "saw_iv",
+    "jigsaw",
+    "rings",
+    "saw_3d",
+    "saw_vi",
+    "saw_iii",
+    "spiral_from_the_book_of_saw",
+    "saw",
+    "paranormal_activity_4",
+    "saw_ii",
+    "paranormal_activity_3",
+    "the_devil_inside",
+    "the_babysitter_killer_queen",
+    "wish_upon",
+    "the_twilight_saga_new_moon",
+    "see_no_evil",
+    "better_watch_out",
+    "a_nightmare_on_elm_street",
+    "the_ring_two",
+    "paranormal_activity_the_marked_ones",
+    "friday_the_13th",
+    "unfriended",
+    "the_collection",
+    "dead_silence",
+    "the_bye_bye_man"
   ]
 }

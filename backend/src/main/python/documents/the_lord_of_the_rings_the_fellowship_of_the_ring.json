@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "The Story of this movie is one the best in cinemahistory.the execution is even better, What makes this movie great is that you care about the characters, so once some stuff goes down you feel for them en your emotional invested. What can i say about this movie that has not been said already, Its A Masterpiece! 10/10"
     }
+  ],
+  "recommendations": [
+    "the_lord_of_the_rings_the_two_towers",
+    "the_lord_of_the_rings_the_return_of_the_king",
+    "the_hobbit_an_unexpected_journey",
+    "fantastic_beasts_and_where_to_find_them",
+    "war_for_the_planet_of_the_apes",
+    "master_and_commander_the_far_side_of_the_world",
+    "in_the_heart_of_the_sea",
+    "doctor_sleep",
+    "watchmen",
+    "conan_the_barbarian",
+    "how_to_train_your_dragon_the_hidden_world",
+    "close_encounters_of_the_third_kind",
+    "the_hunger_games_catching_fire",
+    "blade_runner",
+    "the_bfg",
+    "the_lovely_bones",
+    "hellboy_ii_the_golden_army",
+    "gladiator",
+    "braveheart",
+    "unbroken",
+    "blade_runner_2049",
+    "avatar",
+    "apocalypse_now",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "mortal_engines"
   ]
 }

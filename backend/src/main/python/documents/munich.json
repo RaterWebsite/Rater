@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "This is not a film about Munich, its a film about Sept 11 and how should a civalised society response to terrorist attacks. Unforunently it spends too much time on school boy moralising over the rights or wrongs of assinations and yet misses a key moral point of the whole Munich story. The Isreali assasins killed an innocent man after mistaking him for a terrorist."
     }
+  ],
+  "recommendations": [
+    "detroit",
+    "american_sniper",
+    "lone_survivor",
+    "cartel_land",
+    "hotel_mumbai",
+    "zero_dark_thirty",
+    "a_time_to_kill",
+    "22_july",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "dark_waters",
+    "snowden",
+    "machine_gun_preacher",
+    "the_mauritanian",
+    "united_93",
+    "the_hate_u_give",
+    "patriots_day",
+    "letters_from_iwo_jima",
+    "free_state_of_jones",
+    "the_hurt_locker",
+    "silence",
+    "the_first_purge",
+    "a_clockwork_orange",
+    "crash",
+    "blackkklansman",
+    "green_zone"
   ]
 }

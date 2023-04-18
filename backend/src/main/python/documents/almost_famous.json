@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "With great acting performances, an impressive cast, an original and interesting story and a good soundtrack, Almost Famous is a genuinely good movie. While it would've been better had it been shorter and the movie was boring at times, it's still a fairly entertaining movie."
     }
+  ],
+  "recommendations": [
+    "the_greatest_showman",
+    "yesterday",
+    "hairspray",
+    "begin_again",
+    "bohemian_rhapsody",
+    "la_la_land",
+    "mamma_mia_here_we_go_again",
+    "rocketman",
+    "walk_the_line",
+    "burlesque",
+    "casablanca",
+    "eddie_the_eagle",
+    "moulin_rouge",
+    "eternal_sunshine_of_the_spotless_mind",
+    "sing_street",
+    "forrest_gump",
+    "cats",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "cinderella_man",
+    "the_sound_of_music",
+    "the_secret_life_of_walter_mitty",
+    "into_the_woods",
+    "we_are_your_friends",
+    "jingle_jangle_a_christmas_journey",
+    "in_the_heights"
   ]
 }

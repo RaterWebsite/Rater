@@ -41,5 +41,32 @@
       "rating": "7",
       "text": "Bardzo dobry film... Film oparty na faktach... Fajne jest to \u017ce takie zdarzenia maj\u0105 miejsce."
     }
+  ],
+  "recommendations": [
+    "moneyball",
+    "sky_high",
+    "the_kissing_booth",
+    "fighting_with_my_family",
+    "the_game_plan",
+    "high_school_teacher_maturing",
+    "fist_fight",
+    "big",
+    "assault_on_wall_street",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "42",
+    "bee_movie",
+    "to_all_the_boys_always_and_forever",
+    "a_street_cat_named_bob",
+    "college",
+    "something_borrowed",
+    "the_craft",
+    "cars_3",
+    "race",
+    "the_basketball_diaries",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "you_again",
+    "ralph_breaks_the_internet",
+    "rocky_balboa",
+    "blow"
   ]
 }

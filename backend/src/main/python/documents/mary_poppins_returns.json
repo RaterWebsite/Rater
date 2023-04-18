@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Emily Blunt is clearly the best thing in this movie, which itself is a fun ride for families with younger children. However, Lin-Manuel Miranda is not very good and brings the movie down the entire time."
     }
+  ],
+  "recommendations": [
+    "mamma_mia_here_we_go_again",
+    "cats",
+    "into_the_woods",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "mary_poppins",
+    "begin_again",
+    "hairspray",
+    "yesterday",
+    "jingle_jangle_a_christmas_journey",
+    "burlesque",
+    "the_parent_trap",
+    "winnie_the_pooh_blood_and_honey",
+    "almost_famous",
+    "the_greatest_showman",
+    "grease",
+    "cruella",
+    "vivo",
+    "charlie_and_the_chocolate_factory",
+    "sing",
+    "walk_the_line",
+    "chicago",
+    "rocketman",
+    "the_sound_of_music",
+    "trolls",
+    "sing_2"
   ]
 }

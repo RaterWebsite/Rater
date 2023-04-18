@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Incredible movie. Best movie of the year so far."
     }
+  ],
+  "recommendations": [
+    "eastern_promises",
+    "v_for_vendetta",
+    "django_unchained",
+    "equilibrium",
+    "tenet",
+    "the_hateful_eight",
+    "blade_of_the_47_ronin",
+    "tinker_tailor_soldier_spy",
+    "inherent_vice",
+    "thor_the_dark_world",
+    "avengers_age_of_ultron",
+    "reservoir_dogs",
+    "pulp_fiction",
+    "drive",
+    "they_live",
+    "shutter_island",
+    "blackhat",
+    "dunkirk",
+    "braveheart",
+    "the_american",
+    "ben_hur",
+    "king_arthur_legend_of_the_sword",
+    "bone_tomahawk",
+    "the_invasion",
+    "the_departed"
   ]
 }

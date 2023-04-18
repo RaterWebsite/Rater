@@ -227,5 +227,32 @@
       "rating": "2",
       "text": "This is one of the most ridiculous movies I have ever seen. The story premise was good, decent plot, but the DIALOGUE made it nearly unwatchable. Grammar errors bordering on the absurd. Cliche's used with such abandon that it was nearly mind numbing. The Operative and River were great characters with halfway decent script but the rest, total B-movie hack jobs."
     }
+  ],
+  "recommendations": [
+    "jupiter_ascending",
+    "guardians_of_the_galaxy",
+    "avengers_age_of_ultron",
+    "the_last_airbender",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "poseidon",
+    "edge_of_tomorrow",
+    "riddick",
+    "oblivion",
+    "black_panther_wakanda_forever",
+    "independence_day_resurgence",
+    "terminator_genisys",
+    "maze_runner_the_scorch_trials",
+    "moon",
+    "what_happened_to_monday",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "the_a_team",
+    "bumblebee",
+    "9",
+    "tomorrowland",
+    "thor_the_dark_world",
+    "john_carter",
+    "justice_league",
+    "the_darkest_minds"
   ]
 }

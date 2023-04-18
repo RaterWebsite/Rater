@@ -225,5 +225,32 @@
       "rating": "4",
       "text": "Starts off ok but just gets stupid. I can't recommend this one."
     }
+  ],
+  "recommendations": [
+    "the_men_who_stare_at_goats",
+    "the_happytime_murders",
+    "the_cobbler",
+    "mortdecai",
+    "tusk",
+    "a_million_ways_to_die_in_the_west",
+    "thor_love_and_thunder",
+    "logan_lucky",
+    "seven_psychopaths",
+    "the_hangover_part_ii",
+    "this_is_the_end",
+    "identity_thief",
+    "the_ridiculous_6",
+    "barbershop_the_next_cut",
+    "dinner_for_schmucks",
+    "lucky_number_slevin",
+    "funny_people",
+    "zoolander_2",
+    "wanderlust",
+    "knocked_up",
+    "the_family",
+    "hancock",
+    "inherent_vice",
+    "ted_2",
+    "the_dilemma"
   ]
 }

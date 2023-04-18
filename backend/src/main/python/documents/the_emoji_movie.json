@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "This is a complete failure.Is not it possible to create a normal movie these days?what the **** is this what the **** is this what the **** is this what the **** is this what the **** is this what the **** is this what the **** is this"
     }
+  ],
+  "recommendations": [
+    "norm_of_the_north",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "i_care_a_lot",
+    "wonder_woman_1984",
+    "2012",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_matrix_resurrections",
+    "the_room",
+    "the_happening",
+    "shadow_in_the_cloud",
+    "gamer",
+    "transformers_revenge_of_the_fallen",
+    "the_bye_bye_man",
+    "space_jam_a_new_legacy",
+    "knowing",
+    "district_9",
+    "uglydolls",
+    "midsommar",
+    "the_host",
+    "the_last_airbender",
+    "the_day_the_earth_stood_still",
+    "legion",
+    "pixels",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "dragonball_evolution"
   ]
 }

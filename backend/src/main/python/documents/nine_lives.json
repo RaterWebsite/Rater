@@ -78,5 +78,32 @@
       "rating": "2",
       "text": "pointless. you must be an art movie fanatic to enjoy this one..."
     }
+  ],
+  "recommendations": [
+    "the_devil_all_the_time",
+    "cinderella_man",
+    "rush",
+    "magnolia",
+    "gladiator",
+    "legend",
+    "changeling",
+    "the_place_beyond_the_pines",
+    "the_green_mile",
+    "raging_bull",
+    "mystic_river",
+    "creed",
+    "rocky",
+    "the_fighter",
+    "alexander",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "nocturnal_animals",
+    "troy",
+    "atonement",
+    "the_irishman",
+    "joker",
+    "true_grit",
+    "braveheart",
+    "the_shawshank_redemption",
+    "the_godfather_part_iii"
   ]
 }

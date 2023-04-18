@@ -160,5 +160,32 @@
       "rating": "10",
       "text": "We can always count on Jim Carrey to give us a classic. Absolutely hilarious and also has a good moral message to it."
     }
+  ],
+  "recommendations": [
+    "bruce_almighty",
+    "the_boss",
+    "yes_man",
+    "dodgeball_a_true_underdog_story",
+    "ace_ventura_pet_detective",
+    "life_as_we_know_it",
+    "along_came_polly",
+    "wanderlust",
+    "anger_management",
+    "ace_ventura_when_nature_calls",
+    "step_brothers",
+    "meet_the_parents",
+    "due_date",
+    "zack_and_miri_make_a_porno",
+    "little_miss_sunshine",
+    "get_hard",
+    "click",
+    "masterminds",
+    "sandy_wexler",
+    "arthur",
+    "little_nicky",
+    "forgetting_sarah_marshall",
+    "the_wedding_ringer",
+    "zoolander",
+    "ted"
   ]
 }

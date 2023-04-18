@@ -78,5 +78,32 @@
       "rating": "9",
       "text": "this movie is simply amazing with no doubts. the lively animation, the PHENOMENAL character design, and the BANGER songs! I totally recommend this!"
     }
+  ],
+  "recommendations": [
+    "trolls",
+    "sing",
+    "moana",
+    "rio",
+    "sing_2",
+    "cats",
+    "strange_magic",
+    "rock_dog_2_rock_around_the_park",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "rio_2",
+    "winnie_the_pooh_blood_and_honey",
+    "spirit_stallion_of_the_cimarron",
+    "trolls_world_tour",
+    "jingle_jangle_a_christmas_journey",
+    "over_the_moon",
+    "the_greatest_showman",
+    "sing_street",
+    "tangled",
+    "the_princess_and_the_frog",
+    "klaus",
+    "pocahontas",
+    "my_little_pony_the_movie",
+    "the_road_to_el_dorado",
+    "my_little_pony_a_new_generation",
+    "in_the_heights"
   ]
 }

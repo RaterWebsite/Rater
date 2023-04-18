@@ -180,5 +180,32 @@
       "rating": "7",
       "text": "Some parts of Dodgeball are predictable, but its hilarious jokes and cast, especially the undeniable Ben Stiller can make up for all of it. The story is also encouraging too."
     }
+  ],
+  "recommendations": [
+    "zoolander",
+    "get_hard",
+    "masterminds",
+    "tower_heist",
+    "the_wedding_ringer",
+    "neighbors",
+    "paul_blart_mall_cop",
+    "the_longest_yard",
+    "identity_thief",
+    "ted",
+    "step_brothers",
+    "central_intelligence",
+    "forgetting_sarah_marshall",
+    "due_date",
+    "wanderlust",
+    "thunder_force",
+    "a_million_ways_to_die_in_the_west",
+    "spy",
+    "30_minutes_or_less",
+    "dirty_grandpa",
+    "dinner_for_schmucks",
+    "the_other_guys",
+    "horrible_bosses_2",
+    "zack_and_miri_make_a_porno",
+    "little_fockers"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "An absolute masterpiece delivered to us by Christopher Nolan, Interstellar is a space-settled story of human dreams, love and sins. Typical Nolan's focus about time feels great and gives us two not-so-different point of views on humanity. Most heartful Nolan's movie so far. Hopefully not the last one."
     }
+  ],
+  "recommendations": [
+    "arrival",
+    "sunshine",
+    "annihilation",
+    "the_martian",
+    "chaos_walking",
+    "the_midnight_sky",
+    "mortal_engines",
+    "inception",
+    "avatar",
+    "gravity",
+    "in_the_heart_of_the_sea",
+    "coherence",
+    "tenet",
+    "predestination",
+    "contact",
+    "lucy",
+    "the_green_knight",
+    "donnie_darko",
+    "ex_machina",
+    "midnight_special",
+    "what_happened_to_monday",
+    "blade_runner_2049",
+    "elysium",
+    "dunkirk",
+    "prometheus"
   ]
 }

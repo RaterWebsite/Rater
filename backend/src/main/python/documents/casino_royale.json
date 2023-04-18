@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Waiting for this movie to come out on DVD is my mistake. I wish I saw this one on the large theatre screen. The most impresive Bond Movie in decades. Daniel Craig brings 007 back to someone we respect & love. This change in style was exactly what the Bond franchise needed to save itself. I can't wait to see the next one, this time at the Theatre ."
     }
+  ],
+  "recommendations": [
+    "no_time_to_die",
+    "spectre",
+    "die_another_day",
+    "quantum_of_solace",
+    "the_world_is_not_enough",
+    "skyfall",
+    "diamonds_are_forever",
+    "tomorrow_never_dies",
+    "thunderball",
+    "the_spy_who_loved_me",
+    "you_only_live_twice",
+    "man_of_steel",
+    "xxx",
+    "lara_croft_tomb_raider",
+    "goldeneye",
+    "the_man_with_the_golden_gun",
+    "mission_impossible_rogue_nation",
+    "creed_ii",
+    "true_lies",
+    "spider_man_far_from_home",
+    "x_men_days_of_future_past",
+    "thor",
+    "the_amazing_spider_man",
+    "x_men_apocalypse",
+    "boss_level"
   ]
 }

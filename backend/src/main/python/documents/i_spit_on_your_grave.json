@@ -134,5 +134,32 @@
       "rating": "5",
       "text": "The movie lives from being a shocker, but once you got shocked, there is not much left. The story is eh, the atmosphere is okay."
     }
+  ],
+  "recommendations": [
+    "i_spit_on_your_grave_2",
+    "hostel_part_ii",
+    "knock_at_the_cabin",
+    "the_green_inferno",
+    "the_last_house_on_the_left",
+    "the_hills_have_eyes",
+    "hostel",
+    "case_39",
+    "would_you_rather",
+    "the_strangers",
+    "the_collector",
+    "revenge",
+    "leatherface",
+    "saw_iii",
+    "brightburn",
+    "mama",
+    "eden_lake",
+    "the_forest",
+    "the_purge",
+    "the_strangers_prey_at_night",
+    "splice",
+    "terrifier",
+    "final_destination_2",
+    "red_sparrow",
+    "colombiana"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "I thought the movie was great fun. As long as you do not expect to see the classic Sherlock Holmes in the books I think you will be pleasantly surprised. The whole  theatre was laughing and enjoying the movie and I was too."
     }
+  ],
+  "recommendations": [
+    "sherlock_holmes",
+    "thor_the_dark_world",
+    "the_suicide_squad",
+    "boss_level",
+    "avengers_age_of_ultron",
+    "the_equalizer_2",
+    "looper",
+    "american_ultra",
+    "the_bourne_supremacy",
+    "the_accountant",
+    "street_kings",
+    "hulk",
+    "the_equalizer",
+    "wrath_of_man",
+    "last_action_hero",
+    "glass",
+    "mission_impossible_rogue_nation",
+    "ant_man_and_the_wasp_quantumania",
+    "rocknrolla",
+    "jackie_brown",
+    "16_blocks",
+    "quantum_of_solace",
+    "angel_has_fallen",
+    "edge_of_tomorrow",
+    "kingsman_the_secret_service"
   ]
 }

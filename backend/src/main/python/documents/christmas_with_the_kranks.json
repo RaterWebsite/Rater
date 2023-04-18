@@ -141,5 +141,32 @@
       "rating": "10",
       "text": "This movie is so great! Before this movie I didn\u2019t believe in anything. This renewed my faith in all things Christmas. By freeing Frosty, I was freed. Thank you, Tim Allen."
     }
+  ],
+  "recommendations": [
+    "fred_claus",
+    "night_at_the_museum",
+    "deck_the_halls",
+    "elf",
+    "blended",
+    "bedtime_stories",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "diary_of_a_wimpy_kid_dog_days",
+    "yes_man",
+    "night_at_the_museum_secret_of_the_tomb",
+    "bad_santa",
+    "american_pie_2",
+    "the_three_stooges",
+    "hotel_transylvania_2",
+    "goosebumps",
+    "ted_2",
+    "meet_the_fockers",
+    "the_croods_a_new_age",
+    "alvin_and_the_chipmunks",
+    "neighbors_2_sorority_rising",
+    "little_fockers",
+    "american_reunion",
+    "hubie_halloween",
+    "the_boss_baby_family_business"
   ]
 }

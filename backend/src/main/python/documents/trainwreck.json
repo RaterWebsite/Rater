@@ -225,5 +225,32 @@
       "rating": "0",
       "text": "Worst movie I've seen in a long time. Can't believe anyone likes this crud. America please make Amy Shumer go away. She has a shiite face and not funny at all. Liked Bill Hader performance"
     }
+  ],
+  "recommendations": [
+    "tammy",
+    "no_strings_attached",
+    "the_change_up",
+    "couples_retreat",
+    "good_luck_chuck",
+    "the_proposal",
+    "what_happens_in_vegas",
+    "hall_pass",
+    "dirty_grandpa",
+    "knocked_up",
+    "forgetting_sarah_marshall",
+    "little_fockers",
+    "this_is_the_end",
+    "dinner_for_schmucks",
+    "bridesmaids",
+    "the_dilemma",
+    "identity_thief",
+    "friends_with_benefits",
+    "that_awkward_moment",
+    "funny_people",
+    "the_wrong_missy",
+    "the_break_up",
+    "a_million_ways_to_die_in_the_west",
+    "bad_teacher",
+    "sandy_wexler"
   ]
 }

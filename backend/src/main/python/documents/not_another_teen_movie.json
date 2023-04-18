@@ -68,5 +68,32 @@
       "rating": "7",
       "text": "I did enjoy it although some scenes are badly acted and rushed give it a chance if you can."
     }
+  ],
+  "recommendations": [
+    "a_haunted_house",
+    "eurotrip",
+    "miss_march",
+    "superhero_movie",
+    "american_pie",
+    "hot_tub_time_machine",
+    "scary_movie",
+    "the_watch",
+    "scary_movie_2",
+    "the_hangover",
+    "jackass_presents_bad_grandpa",
+    "white_chicks",
+    "epic_movie",
+    "little_man",
+    "grown_ups",
+    "the_ugly_truth",
+    "scary_movie_4",
+    "the_dictator",
+    "scary_movie_5",
+    "vampires_suck",
+    "ted",
+    "knocked_up",
+    "the_three_stooges",
+    "nacho_libre",
+    "old_school"
   ]
 }

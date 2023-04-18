@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "A plot that has great potential but ultimately falls short. Foxx's performance is the best thing about this movie."
     }
+  ],
+  "recommendations": [
+    "triple_frontier",
+    "pacific_rim_uprising",
+    "bloodshot",
+    "jumper",
+    "tenet",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "poseidon",
+    "infinite",
+    "grudge",
+    "gemini_man",
+    "cube",
+    "now_you_see_me",
+    "the_old_guard",
+    "the_equalizer_2",
+    "now_you_see_me_2",
+    "independence_day_resurgence",
+    "the_last_witch_hunter",
+    "what_happened_to_monday",
+    "the_tomorrow_war",
+    "code_8",
+    "elysium",
+    "surrogates",
+    "jupiter_ascending",
+    "broken_city",
+    "rocknrolla"
   ]
 }

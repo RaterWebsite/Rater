@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "I love original comedy screenplays. This film falls right into that file. I'm shocked at any negative rating given to this film. Just a good ole fun-filled flick with just enough twists and turns to keep you guessing."
     }
+  ],
+  "recommendations": [
+    "tag",
+    "jumanji_welcome_to_the_jungle",
+    "keeping_up_with_the_joneses",
+    "jumanji_the_next_level",
+    "deadpool_2",
+    "neighbors",
+    "rough_night",
+    "the_wedding_ringer",
+    "stuber",
+    "pineapple_express",
+    "identity_thief",
+    "ted_2",
+    "central_intelligence",
+    "date_night",
+    "spy",
+    "this_is_the_end",
+    "jexi",
+    "ready_or_not",
+    "22_jump_street",
+    "pitch_perfect_2",
+    "palm_springs",
+    "chips",
+    "deadpool",
+    "30_minutes_or_less",
+    "the_babysitter"
   ]
 }

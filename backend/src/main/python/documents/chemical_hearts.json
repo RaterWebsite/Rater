@@ -129,5 +129,32 @@
       "rating": "10",
       "text": "This movie is awesome it takes into very good love and it is one of the best movie I've watched \u2764\u2764\u2764\u2764"
     }
+  ],
+  "recommendations": [
+    "the_fault_in_our_stars",
+    "brokeback_mountain",
+    "eternal_sunshine_of_the_spotless_mind",
+    "breakthrough",
+    "the_notebook",
+    "eternals",
+    "me_before_you",
+    "scent_of_a_woman",
+    "blue_valentine",
+    "me_and_earl_and_the_dying_girl",
+    "eddie_the_eagle",
+    "the_spectacular_now",
+    "my_name_is_khan",
+    "the_secret_life_of_walter_mitty",
+    "the_lucky_one",
+    "casablanca",
+    "her",
+    "the_edge_of_seventeen",
+    "goodbye_christopher_robin",
+    "coach_carter",
+    "onward",
+    "magnolia",
+    "titanic",
+    "cinderella_man",
+    "the_perks_of_being_a_wallflower"
   ]
 }

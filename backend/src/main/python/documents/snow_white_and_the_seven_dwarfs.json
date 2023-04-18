@@ -118,5 +118,32 @@
       "rating": "8",
       "text": "Muy buena pel\u00edcula, no por blanca nieves en s\u00ed. Si no por los siete enanitos, se llevan la pel\u00edcula. Me gusta que cada uno tiene su propia personalidad. Adriana Caselotti ten\u00eda una bruta voz. Creo que los personajes, las grandes canciones y la historia como est\u00e1 llevada, logran hacer de esta una hermosa joya."
     }
+  ],
+  "recommendations": [
+    "the_hunchback_of_notre_dame",
+    "the_little_mermaid",
+    "aladdin",
+    "pocahontas",
+    "labyrinth",
+    "tarzan",
+    "the_princess_and_the_frog",
+    "mulan",
+    "the_jungle_book",
+    "song_of_the_sea",
+    "the_lion_king",
+    "finding_nemo",
+    "moana",
+    "mirror_mirror",
+    "lady_and_the_tramp",
+    "luca",
+    "the_water_horse",
+    "the_road_to_el_dorado",
+    "bambi",
+    "brother_bear",
+    "the_aristocats",
+    "the_polar_express",
+    "tangled",
+    "toy_story",
+    "the_nightmare_before_christmas"
   ]
 }

@@ -56,5 +56,32 @@
       "rating": "10",
       "text": "Excelent film, really inspiring. A really nice movie based on a real story, I recommend it."
     }
+  ],
+  "recommendations": [
+    "facing_the_giants",
+    "overcomer",
+    "risen",
+    "heaven_is_for_real",
+    "my_name_is_khan",
+    "the_shawshank_redemption",
+    "the_bucket_list",
+    "the_blind_side",
+    "i_can_only_imagine",
+    "brokeback_mountain",
+    "ben_hur",
+    "v_for_vendetta",
+    "son_of_god",
+    "soul_surfer",
+    "forever_my_girl",
+    "cloud_atlas",
+    "chappie",
+    "unbroken",
+    "the_giver",
+    "remember_the_titans",
+    "blood_diamond",
+    "war_room",
+    "the_butterfly_effect",
+    "samson",
+    "revolutionary_road"
   ]
 }

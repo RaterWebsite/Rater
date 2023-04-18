@@ -65,5 +65,32 @@
       "rating": "10",
       "text": "This beautiful and devastating film will change how you look at life. A must watch."
     }
+  ],
+  "recommendations": [
+    "nomadland",
+    "the_tree_of_life",
+    "a_hidden_life",
+    "leave_no_trace",
+    "donnie_darko",
+    "personal_shopper",
+    "the_boy_who_harnessed_the_wind",
+    "the_florida_project",
+    "into_the_wild",
+    "silence",
+    "20th_century_women",
+    "the_lost_city_of_z",
+    "melancholia",
+    "ingrid_goes_west",
+    "a_ghost_story",
+    "snowden",
+    "her",
+    "searching",
+    "sweat",
+    "the_hate_u_give",
+    "disobedience",
+    "the_road",
+    "the_way_back",
+    "flashback",
+    "first_man"
   ]
 }

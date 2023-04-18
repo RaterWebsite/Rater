@@ -72,5 +72,32 @@
       "rating": "7",
       "text": "I love the dramatic scenes as well as the Japanese village setting. It gives into a couple clich\u00e9s, but it's still alright."
     }
+  ],
+  "recommendations": [
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_karate_kid_part_iii",
+    "the_secret_life_of_pets_2",
+    "creed_ii",
+    "back_to_the_future_part_ii",
+    "the_next_karate_kid",
+    "incredibles_2",
+    "x_men_apocalypse",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "terminator_genisys",
+    "thor",
+    "the_accountant",
+    "alice_through_the_looking_glass",
+    "bumblebee",
+    "the_many_saints_of_newark",
+    "ghostbusters_ii",
+    "toy_story_4",
+    "let_me_in",
+    "the_kid_who_would_be_king",
+    "tomorrowland",
+    "the_craft_legacy",
+    "odd_thomas",
+    "the_vow",
+    "maleficent",
+    "paper_towns"
   ]
 }

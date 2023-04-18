@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Better than the previous garbage movie Hulk, it really stay true to the character and makes for one of Marvel's best super hero movies yet, a must see for fans of the comics."
     }
+  ],
+  "recommendations": [
+    "hulk",
+    "daredevil",
+    "iron_man",
+    "thor",
+    "terminator_3_rise_of_the_machines",
+    "iron_man_2",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "die_another_day",
+    "fantastic_four",
+    "hellboy",
+    "sherlock_holmes_a_game_of_shadows",
+    "the_batman",
+    "true_lies",
+    "the_world_is_not_enough",
+    "creed_ii",
+    "transformers",
+    "the_terminator",
+    "16_blocks",
+    "spider_man_far_from_home",
+    "die_hard",
+    "the_amazing_spider_man",
+    "the_suicide_squad",
+    "rocky_iii",
+    "the_dark_knight_rises",
+    "superman_iii"
   ]
 }

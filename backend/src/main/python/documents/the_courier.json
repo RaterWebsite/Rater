@@ -43,5 +43,32 @@
       "rating": "4",
       "text": "Flat characters, chunky lines, and a simple plot could be excused but The Courier is boring at times and stretched for most of the rest. It fails to meet even the rather manageable minimum requirements for simple action movies."
     }
+  ],
+  "recommendations": [
+    "mile_22",
+    "immortals",
+    "armageddon",
+    "once_upon_a_time_in_mexico",
+    "xxx_return_of_xander_cage",
+    "transformers_the_last_knight",
+    "battleship",
+    "pompeii",
+    "miami_vice",
+    "haywire",
+    "diablo",
+    "the_old_guard",
+    "gunpowder_milkshake",
+    "mission_impossible_ii",
+    "pearl_harbor",
+    "king_kong",
+    "terminator_salvation",
+    "x_men_origins_wolverine",
+    "san_andreas",
+    "atomic_blonde",
+    "suicide_squad",
+    "olympus_has_fallen",
+    "the_transporter_refueled",
+    "midway",
+    "transformers_age_of_extinction"
   ]
 }

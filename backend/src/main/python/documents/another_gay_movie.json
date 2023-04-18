@@ -105,5 +105,32 @@
       "rating": "8",
       "text": "Cute movie although there are obvious problems with the story etc.  I still enjoyed it."
     }
+  ],
+  "recommendations": [
+    "white_chicks",
+    "the_ugly_truth",
+    "miss_march",
+    "not_another_teen_movie",
+    "the_interview",
+    "american_pie",
+    "a_haunted_house",
+    "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan",
+    "fifty_shades_of_black",
+    "superbad",
+    "knocked_up",
+    "the_change_up",
+    "meet_the_spartans",
+    "the_40_year_old_virgin",
+    "vampires_suck",
+    "deuce_bigalow_european_gigolo",
+    "grown_ups",
+    "movie_43",
+    "eurotrip",
+    "hall_pass",
+    "nacho_libre",
+    "sausage_party",
+    "the_hangover",
+    "superhero_movie",
+    "the_dictator"
   ]
 }

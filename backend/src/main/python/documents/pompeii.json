@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "I like historical movies. And so I like this one. Aesthetically its a beautiful movie. Especially when it comes to CGI lava balls flying out of Mt. Vesuvius crashing down upon the citizens of Pompeii. I recommended this movie to a friend. He liked it. He thanked me. That's all there is to it. A nice movie."
     }
+  ],
+  "recommendations": [
+    "immortals",
+    "pearl_harbor",
+    "elysium",
+    "infinite",
+    "after_earth",
+    "x_men_apocalypse",
+    "the_old_guard",
+    "chaos_walking",
+    "transformers_the_last_knight",
+    "san_andreas",
+    "the_mountain_between_us",
+    "x_men_origins_wolverine",
+    "pacific_rim_uprising",
+    "sanctum",
+    "independence_day_resurgence",
+    "what_happened_to_monday",
+    "code_8",
+    "battleship",
+    "the_ice_road",
+    "mortal_engines",
+    "terminator_salvation",
+    "skyscraper",
+    "project_power",
+    "poseidon",
+    "300_rise_of_an_empire"
   ]
 }

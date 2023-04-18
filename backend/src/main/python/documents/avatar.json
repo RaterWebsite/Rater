@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "Despite almost being a spin off of Dances With Wolves, the ridiculously beautiful visuals, believable and likable characters, and successful good Vs. evil theme makes this movie one of 2009's best"
     }
+  ],
+  "recommendations": [
+    "arrival",
+    "mortal_engines",
+    "interstellar",
+    "sunshine",
+    "the_13th_warrior",
+    "contact",
+    "the_matrix",
+    "dunkirk",
+    "blade_runner_2049",
+    "beowulf",
+    "the_martian",
+    "master_and_commander_the_far_side_of_the_world",
+    "okja",
+    "annihilation",
+    "upside_down",
+    "jupiter_ascending",
+    "cloud_atlas",
+    "independence_day",
+    "in_the_heart_of_the_sea",
+    "the_day_after_tomorrow",
+    "chaos_walking",
+    "close_encounters_of_the_third_kind",
+    "inception",
+    "gravity",
+    "the_great_wall"
   ]
 }

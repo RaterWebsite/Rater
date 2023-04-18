@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "----------------------------------8.4/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "arthur_christmas",
+    "deck_the_halls",
+    "fred_claus",
+    "the_night_before",
+    "the_christmas_chronicles",
+    "christmas_with_the_kranks",
+    "last_christmas",
+    "paddington",
+    "the_muppets",
+    "enchanted",
+    "happiest_season",
+    "night_at_the_museum_secret_of_the_tomb",
+    "the_spongebob_squarepants_movie",
+    "ella_enchanted",
+    "american_pie_2",
+    "a_cinderella_story",
+    "the_princess_bride",
+    "despicable_me_2",
+    "despicable_me",
+    "blended",
+    "the_peanuts_movie",
+    "hotel_transylvania_2",
+    "the_santa_clause_2",
+    "the_star",
+    "hannah_montana_the_movie"
   ]
 }

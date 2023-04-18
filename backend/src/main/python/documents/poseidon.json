@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "It was an entertaining movie! Those who didn't get entertained (looking for character depth, blah blah) were watching the wrong MOVIE! You don't watch \"American Beauty\" and expect action and suspense, so don't watch \"Poiseidon\" looking for character depth and the blah blah. It was fun to WATCH, it was ENTERTAINING and I liked it!"
     }
+  ],
+  "recommendations": [
+    "into_the_storm",
+    "independence_day_resurgence",
+    "jumper",
+    "bloodshot",
+    "san_andreas",
+    "hercules",
+    "avengers_age_of_ultron",
+    "seventh_son",
+    "edge_of_tomorrow",
+    "riddick",
+    "clash_of_the_titans",
+    "terminator_genisys",
+    "kingsman_the_golden_circle",
+    "teenage_mutant_ninja_turtles",
+    "the_last_witch_hunter",
+    "guardians_of_the_galaxy",
+    "transformers_dark_of_the_moon",
+    "the_a_team",
+    "skyscraper",
+    "gods_of_egypt",
+    "the_meg",
+    "gemini_man",
+    "transformers_the_last_knight",
+    "black_panther_wakanda_forever",
+    "pacific_rim_uprising"
   ]
 }

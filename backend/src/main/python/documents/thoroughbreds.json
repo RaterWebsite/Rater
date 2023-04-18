@@ -129,5 +129,32 @@
       "rating": "8",
       "text": "A first-rate dark comedy with first-rate performances. Anya Taylor-Joy and Olivia Cooke's chemistry shine over a really good screenplay."
     }
+  ],
+  "recommendations": [
+    "20th_century_women",
+    "blue_valentine",
+    "21_grams",
+    "closer",
+    "the_rover",
+    "nocturnal_animals",
+    "secretary",
+    "the_beguiled",
+    "the_good_shepherd",
+    "a_simple_favor",
+    "black_swan",
+    "walking_out",
+    "the_place_beyond_the_pines",
+    "ex_machina",
+    "the_killing_of_a_sacred_deer",
+    "the_devil_all_the_time",
+    "arbitrage",
+    "white_boy_rick",
+    "stoker",
+    "melancholia",
+    "you_were_never_really_here",
+    "anna",
+    "phantom_thread",
+    "legends_of_the_fall",
+    "the_machinist"
   ]
 }

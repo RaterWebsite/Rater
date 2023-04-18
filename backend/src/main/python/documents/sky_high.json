@@ -138,5 +138,32 @@
       "rating": "5",
       "text": "This movie is basically a live action version of My Hero Academia and you can't tell me it's not."
     }
+  ],
+  "recommendations": [
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "little_monsters",
+    "dora_and_the_lost_city_of_gold",
+    "love_and_monsters",
+    "cloudy_with_a_chance_of_meatballs",
+    "astro_boy",
+    "real_steel",
+    "we_can_be_heroes",
+    "incredibles_2",
+    "turbo",
+    "shazam",
+    "zookeeper",
+    "free_guy",
+    "tooth_fairy",
+    "13_going_on_30",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "the_secret_life_of_pets",
+    "the_adjustment_bureau",
+    "despicable_me_3",
+    "spies_in_disguise",
+    "the_game_plan",
+    "bad_moms",
+    "despicable_me",
+    "the_smurfs",
+    "godmothered"
   ]
 }

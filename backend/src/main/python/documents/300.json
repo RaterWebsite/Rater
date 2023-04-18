@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "This is a Zack Snyder hit. Before \"Man of Steel\" or \"Watchmen\", he made an instant classic. It's a bloody good time and visually dazzling. It is not only well written but extremely quotable. You never seen anything like this. Overall, THIS IS SPARTA!"
     }
+  ],
+  "recommendations": [
+    "apocalypto",
+    "beowulf",
+    "blade_of_the_47_ronin",
+    "starship_troopers",
+    "equilibrium",
+    "v_for_vendetta",
+    "midway",
+    "jarhead",
+    "morbius",
+    "red_tails",
+    "the_13th_warrior",
+    "abraham_lincoln_vampire_hunter",
+    "sucker_punch",
+    "the_book_of_eli",
+    "300_rise_of_an_empire",
+    "chappie",
+    "gods_of_egypt",
+    "they_live",
+    "king_arthur_legend_of_the_sword",
+    "dredd",
+    "eastern_promises",
+    "the_darkest_minds",
+    "samson",
+    "battle_los_angeles",
+    "jupiter_ascending"
   ]
 }

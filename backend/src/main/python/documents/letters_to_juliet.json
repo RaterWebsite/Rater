@@ -74,5 +74,32 @@
       "rating": "10",
       "text": "Letters to Juliet is a highly underrated romantic comedy that has an undeniably lovable sense of fun through its sweet, funny, and beautifully driven story for all ages."
     }
+  ],
+  "recommendations": [
+    "adore",
+    "the_holiday",
+    "the_devil_wears_prada",
+    "love_actually",
+    "just_like_heaven",
+    "sabrina",
+    "walk_the_line",
+    "we_bought_a_zoo",
+    "respect",
+    "sleepless_in_seattle",
+    "gifted",
+    "cruel_intentions",
+    "spencer",
+    "pretty_woman",
+    "the_longest_ride",
+    "blue_jasmine",
+    "the_notebook",
+    "endless_love",
+    "marriage_story",
+    "silver_linings_playbook",
+    "carol",
+    "notting_hill",
+    "labyrinth",
+    "a_beautiful_day_in_the_neighborhood",
+    "the_descendants"
   ]
 }

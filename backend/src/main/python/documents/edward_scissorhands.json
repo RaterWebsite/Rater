@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A fantastic movie no doubt about it.The best thing in the movie is the acting especially Johnny Depp's.He just used facial features to show emotion rather than words and it pays off.Burton put his heart and soul into this and it shows,it's just perfect.The best in my opinion is the score by Danny Elfman.It's one of his best and I watched the movie because of the soundtrack.It's beautiful.The movie is excellent definitely worth the time.It's beautiful."
     }
+  ],
+  "recommendations": [
+    "eternal_sunshine_of_the_spotless_mind",
+    "alice_in_wonderland",
+    "dark_shadows",
+    "stardust",
+    "charlie_and_the_chocolate_factory",
+    "beetlejuice",
+    "the_royal_tenenbaums",
+    "the_princess_bride",
+    "best_sellers",
+    "peter_pan",
+    "corpse_bride",
+    "cruella",
+    "ghostbusters",
+    "frankenweenie",
+    "paddington_2",
+    "oz_the_great_and_powerful",
+    "a_cinderella_story",
+    "the_green_mile",
+    "let_me_in",
+    "maleficent",
+    "eddie_the_eagle",
+    "ella_enchanted",
+    "hook",
+    "the_bfg",
+    "the_disaster_artist"
   ]
 }

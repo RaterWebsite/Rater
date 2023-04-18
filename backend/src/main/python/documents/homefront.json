@@ -97,5 +97,32 @@
       "rating": "10",
       "text": "Amazing just like if  James Bond and Indiana Jones met like actually amazing"
     }
+  ],
+  "recommendations": [
+    "parker",
+    "run_all_night",
+    "collide",
+    "killer_elite",
+    "safe_house",
+    "16_blocks",
+    "the_italian_job",
+    "the_mechanic",
+    "snitch",
+    "the_equalizer",
+    "mechanic_resurrection",
+    "lawless",
+    "true_lies",
+    "2_guns",
+    "angel_has_fallen",
+    "gangster_squad",
+    "jack_ryan_shadow_recruit",
+    "daredevil",
+    "street_kings",
+    "the_town",
+    "extraction",
+    "contraband",
+    "jack_reacher",
+    "kate",
+    "alex_cross"
   ]
 }

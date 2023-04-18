@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "Totally average. Technically it's great, but it misses content. A lot of it. It's the kind of movie that it's like a dog. It will sit, lay and roll to gain a cookie (oscar)."
     }
+  ],
+  "recommendations": [
+    "the_greatest_showman",
+    "moulin_rouge",
+    "casablanca",
+    "in_the_heights",
+    "the_sound_of_music",
+    "almost_famous",
+    "rocketman",
+    "bohemian_rhapsody",
+    "chicago",
+    "sing_street",
+    "yesterday",
+    "marie_antoinette",
+    "jingle_jangle_a_christmas_journey",
+    "begin_again",
+    "amadeus",
+    "annette",
+    "a_star_is_born",
+    "burlesque",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "mamma_mia_here_we_go_again",
+    "cats",
+    "whiplash",
+    "mary_poppins",
+    "youth",
+    "vivo"
   ]
 }

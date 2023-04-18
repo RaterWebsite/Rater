@@ -30,5 +30,32 @@
       "rating": "2",
       "text": "i watched this movie on my birthday, and i also got splatoon 2, its like getting wendys but then drinking a dr.pepper rip-off!"
     }
+  ],
+  "recommendations": [
+    "bee_movie",
+    "safer_at_home",
+    "the_lighthouse",
+    "friday_the_13th_part_viii_jason_takes_manhattan",
+    "the_condemned",
+    "the_hot_chick",
+    "pandemic",
+    "friday_the_13th_part_vii_the_new_blood",
+    "everly",
+    "seed_of_chucky",
+    "playmobil_the_movie",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "beverly_hills_chihuahua",
+    "garfield_a_tail_of_two_kitties",
+    "old_dogs",
+    "project_x",
+    "friday_the_13th_the_final_chapter",
+    "the_babysitter_killer_queen",
+    "once_upon_a_deadpool",
+    "the_toll",
+    "deuce_bigalow_male_gigolo",
+    "bad_santa",
+    "leprechaun",
+    "friday_the_13th_part_iii",
+    "scary_movie_5"
   ]
 }

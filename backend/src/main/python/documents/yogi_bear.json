@@ -187,5 +187,32 @@
       "rating": "9",
       "text": "Boo Boo, grab me my blicky from the pic-a-nic basket. The park rangers found my ketamine again."
     }
+  ],
+  "recommendations": [
+    "the_smurfs",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "uglydolls",
+    "chicken_little",
+    "alvin_and_the_chipmunks",
+    "marmaduke",
+    "free_birds",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "dolittle",
+    "scooby_doo",
+    "the_nut_job",
+    "monsters_vs_aliens",
+    "the_spongebob_movie_sponge_out_of_water",
+    "hotel_transylvania",
+    "planet_51",
+    "captain_underpants_the_first_epic_movie",
+    "ice_age_dawn_of_the_dinosaurs",
+    "zookeeper",
+    "space_jam_a_new_legacy",
+    "teen_titans_go_to_the_movies",
+    "herbie_fully_loaded",
+    "minions",
+    "kangaroo_jack",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "the_boss_baby_family_business"
   ]
 }

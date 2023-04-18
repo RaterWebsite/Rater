@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "i realy really dislike this movie , 12 years of making really makes all critics blind, this movie really has no plot, those people suffering from insomnia are suggested to see this movie"
     }
+  ],
+  "recommendations": [
+    "there_will_be_blood",
+    "slumdog_millionaire",
+    "the_curious_case_of_benjamin_button",
+    "the_butterfly_effect",
+    "pay_it_forward",
+    "the_wolf_of_wall_street",
+    "bridge_to_terabithia",
+    "the_lobster",
+    "babel",
+    "the_power_of_the_dog",
+    "greenberg",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "seven_pounds",
+    "old",
+    "if_i_stay",
+    "fifty_shades_of_grey",
+    "the_hunger_games_mockingjay_part_1",
+    "code_8",
+    "fifty_shades_darker",
+    "children_of_men",
+    "mother",
+    "vivarium",
+    "downsizing",
+    "the_counselor",
+    "project_almanac"
   ]
 }

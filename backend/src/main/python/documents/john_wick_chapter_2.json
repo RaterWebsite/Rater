@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "John Wick is a film that you go in simply for the adrenaline you get off of the immense action sequences. The plot was OK, but not memorable, and the villains lacked in 'wow factor'. Keanu Reeves played his part well, really showing the age in the character and giving off a sense of realism, that John Wick isn't some superhuman man that never ages and whose instincts never slow. All in all, a film that probably won't stick with you for long, save some incredibly choreographed and executed fight scenes."
     }
+  ],
+  "recommendations": [
+    "john_wick_chapter_3_parabellum",
+    "john_wick",
+    "the_bourne_ultimatum",
+    "the_bourne_supremacy",
+    "kate",
+    "mission_impossible_ii",
+    "upgrade",
+    "nobody",
+    "the_matrix_reloaded",
+    "mission_impossible_ghost_protocol",
+    "creed_ii",
+    "hardcore_henry",
+    "haywire",
+    "mad_max_fury_road",
+    "the_magnificent_seven",
+    "abraham_lincoln_vampire_hunter",
+    "300_rise_of_an_empire",
+    "avengers_age_of_ultron",
+    "atomic_blonde",
+    "mission_impossible",
+    "quantum_of_solace",
+    "the_equalizer",
+    "top_gun",
+    "the_mechanic",
+    "hanna"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "The movie is not 100% real. There are a lot of parts in the movie, that are just not true. But the movie was still enjoyable to watch. The cast was good, acting was good as well. a solid 7 out of 10!"
     }
+  ],
+  "recommendations": [
+    "12_strong",
+    "lone_survivor",
+    "black_hawk_down",
+    "american_sniper",
+    "the_hurt_locker",
+    "captain_america_civil_war",
+    "greyhound",
+    "lord_of_war",
+    "apocalypse_now",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "full_metal_jacket",
+    "red_tails",
+    "letters_from_iwo_jima",
+    "anthropoid",
+    "hostiles",
+    "the_thin_red_line",
+    "the_outpost",
+    "platoon",
+    "allied",
+    "enemy_at_the_gates",
+    "jarhead",
+    "tears_of_the_sun",
+    "the_eagle",
+    "we_were_soldiers",
+    "dunkirk"
   ]
 }

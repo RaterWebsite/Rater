@@ -224,5 +224,32 @@
       "rating": "9",
       "text": "Hilarious! I laughed... and laughed some more. Seth Rogen is so funny!! I was happy with the ending even though it was a bit predictable."
     }
+  ],
+  "recommendations": [
+    "forgetting_sarah_marshall",
+    "the_break_up",
+    "the_wedding_ringer",
+    "friends_with_benefits",
+    "step_brothers",
+    "tropic_thunder",
+    "this_is_the_end",
+    "zoolander",
+    "sandy_wexler",
+    "dinner_for_schmucks",
+    "the_longest_yard",
+    "funny_people",
+    "click",
+    "thunder_force",
+    "just_go_with_it",
+    "grown_ups",
+    "hubie_halloween",
+    "50_first_dates",
+    "yes_man",
+    "what_happens_in_vegas",
+    "identity_thief",
+    "knocked_up",
+    "trainwreck",
+    "17_again",
+    "the_proposal"
   ]
 }

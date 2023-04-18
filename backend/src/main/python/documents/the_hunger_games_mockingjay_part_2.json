@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A spectacular conclusion to this amazing series. Francis Lawrence handles every detail with care and truly understands and respects the fans of these books. Emotional, action packed, thoughtful, grim, and real."
     }
+  ],
+  "recommendations": [
+    "maze_runner_the_death_cure",
+    "maze_runner_the_scorch_trials",
+    "avengers_infinity_war",
+    "the_hunger_games_mockingjay_part_1",
+    "the_maze_runner",
+    "the_hunger_games_catching_fire",
+    "the_hunger_games",
+    "a_quiet_place_part_ii",
+    "avengers_endgame",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "what_happened_to_monday",
+    "inferno",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "harry_potter_and_the_goblet_of_fire",
+    "glass",
+    "the_matrix_revolutions",
+    "harry_potter_and_the_half_blood_prince",
+    "chaos_walking",
+    "the_golden_compass",
+    "death_note_relight_1_visions_of_a_god",
+    "predestination",
+    "x_men_apocalypse",
+    "avengers_age_of_ultron",
+    "sicario_day_of_the_soldado",
+    "the_matrix_reloaded"
   ]
 }

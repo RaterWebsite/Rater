@@ -78,5 +78,32 @@
       "rating": "9",
       "text": "Groundbreaking for its visuals first and foremost, TRON blends classic fantasy with (for the time) new-school tech to create an awe-inspiring science fiction film with a fun action-packed ride and a lovely synth score by Wendy Carlos."
     }
+  ],
+  "recommendations": [
+    "oblivion",
+    "tron_legacy",
+    "the_three_musketeers",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "the_fifth_element",
+    "the_terminator",
+    "jupiter_ascending",
+    "oz_the_great_and_powerful",
+    "moon",
+    "clash_of_the_titans",
+    "the_adventures_of_tintin",
+    "doctor_strange",
+    "9",
+    "blade_runner_2049",
+    "avengers_age_of_ultron",
+    "upgrade",
+    "alita_battle_angel",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "blade_of_the_47_ronin",
+    "gemini_man",
+    "the_last_witch_hunter",
+    "pan",
+    "the_fly",
+    "aquaman",
+    "the_harder_they_fall"
   ]
 }

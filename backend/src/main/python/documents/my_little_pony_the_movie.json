@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "It's everything you love about the TV show, in movie form. If you're not a fan, watch seasons 1 to 7, become a fan and then watch this movie. I say seasons 1 to 7 because this movie takes place inbetween 7's finale and 8's premiere."
     }
+  ],
+  "recommendations": [
+    "the_lego_movie_2_the_second_part",
+    "atlantis_the_lost_empire",
+    "frozen_ii",
+    "zootopia",
+    "the_lego_movie",
+    "rio_2",
+    "meet_the_robinsons",
+    "the_croods",
+    "how_to_train_your_dragon_2",
+    "happy_feet_two",
+    "incredibles_2",
+    "tmnt",
+    "my_little_pony_a_new_generation",
+    "tomorrowland",
+    "raya_and_the_last_dragon",
+    "despicable_me_2",
+    "big_hero_6",
+    "smurfs_the_lost_village",
+    "onward",
+    "paranorman",
+    "home_on_the_range",
+    "9",
+    "rango",
+    "turbo",
+    "the_peanuts_movie"
   ]
 }

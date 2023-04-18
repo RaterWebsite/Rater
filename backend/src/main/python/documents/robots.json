@@ -171,5 +171,32 @@
       "rating": "7",
       "text": "----------------------------------6.9/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "madagascar_escape_2_africa",
+    "ice_age",
+    "spies_in_disguise",
+    "madagascar",
+    "despicable_me",
+    "megamind",
+    "bolt",
+    "ice_age_the_meltdown",
+    "puss_in_boots_the_last_wish",
+    "despicable_me_2",
+    "the_croods",
+    "peter_rabbit",
+    "hotel_transylvania_3_summer_vacation",
+    "hotel_transylvania_2",
+    "shazam",
+    "rio_2",
+    "over_the_hedge",
+    "storks",
+    "penguins_of_madagascar",
+    "kung_fu_panda_2",
+    "the_lego_batman_movie",
+    "guardians_of_the_galaxy",
+    "the_lego_movie_2_the_second_part",
+    "rise_of_the_guardians",
+    "ghostbusters"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "A fairly gripping drama with a very good performance from Tom Hardy though the sport is pretty dumb."
     }
+  ],
+  "recommendations": [
+    "creed_ii",
+    "black_widow",
+    "real_steel",
+    "the_guardian",
+    "creed",
+    "uncut_gems",
+    "avengers_endgame",
+    "rocky",
+    "the_king_of_staten_island",
+    "top_gun_maverick",
+    "the_fighter",
+    "man_of_steel",
+    "top_gun",
+    "no_country_for_old_men",
+    "nobody",
+    "rush",
+    "super_8",
+    "avengers_age_of_ultron",
+    "fighting_with_my_family",
+    "midnight_sun",
+    "spider_man_far_from_home",
+    "avengers_infinity_war",
+    "the_place_beyond_the_pines",
+    "rocky_v",
+    "hanna"
   ]
 }

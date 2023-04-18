@@ -75,5 +75,32 @@
       "rating": "0",
       "text": "Very bad movie. Not enough action. I've wasted $20 to rent this movie and 90 minutes of my life for this bad movie. Don't rent or buy!!"
     }
+  ],
+  "recommendations": [
+    "v_for_vendetta",
+    "antebellum",
+    "the_happening",
+    "2067",
+    "gamer",
+    "idiocracy",
+    "facing_the_giants",
+    "an_interview_with_god",
+    "the_darkest_minds",
+    "gods_of_egypt",
+    "seven_pounds",
+    "midsommar",
+    "all_eyez_on_me",
+    "code_8",
+    "bright",
+    "the_emoji_movie",
+    "the_book_of_eli",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "redemption_day",
+    "the_mist",
+    "forever_my_girl",
+    "the_last_airbender",
+    "knowing",
+    "the_butterfly_effect",
+    "dark_phoenix"
   ]
 }

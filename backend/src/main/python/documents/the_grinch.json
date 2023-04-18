@@ -227,5 +227,32 @@
       "rating": "1",
       "text": "The Grinch is an avalanche of a studio and it still is not the worse from a company. The only reason I don't think its the worse film I've seen is because it has good visuals and even then illumination had to cut corners even though they knew it was gonna make hundreds of millions of dollars."
     }
+  ],
+  "recommendations": [
+    "the_peanuts_movie",
+    "rio_2",
+    "ice_age_the_meltdown",
+    "ferdinand",
+    "hotel_transylvania_2",
+    "the_lego_movie_2_the_second_part",
+    "scoob",
+    "dumbo",
+    "meet_the_robinsons",
+    "smurfs_the_lost_village",
+    "winnie_the_pooh_blood_and_honey",
+    "the_lego_movie",
+    "despicable_me_2",
+    "madagascar_escape_2_africa",
+    "hotel_transylvania_3_summer_vacation",
+    "the_star",
+    "trolls",
+    "happy_feet_two",
+    "paddington",
+    "a_christmas_carol",
+    "shaun_the_sheep_movie",
+    "101_dalmatians",
+    "how_the_grinch_stole_christmas",
+    "the_tale_of_despereaux",
+    "captain_underpants_the_first_epic_movie"
   ]
 }

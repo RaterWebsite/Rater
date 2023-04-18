@@ -91,5 +91,32 @@
       "rating": "10",
       "text": "I was thoroughly entertained with this movie.  Kurt Russell makes a great Santa!  It's a very clean movie with very cute humor.  I loved the special effects, too.  It's a hit for me."
     }
+  ],
+  "recommendations": [
+    "elf",
+    "fred_claus",
+    "arthur_christmas",
+    "the_santa_clause_2",
+    "deck_the_halls",
+    "the_muppets",
+    "the_santa_clause",
+    "christmas_with_the_kranks",
+    "the_night_before",
+    "nanny_mcphee",
+    "hannah_montana_the_movie",
+    "the_grinch",
+    "enchanted",
+    "jingle_all_the_way",
+    "bad_santa",
+    "night_at_the_museum_secret_of_the_tomb",
+    "paddington",
+    "how_the_grinch_stole_christmas",
+    "the_game_plan",
+    "a_cinderella_story",
+    "ice_age_the_meltdown",
+    "17_again",
+    "stuart_little_2",
+    "puss_in_boots_the_last_wish",
+    "the_peanuts_movie"
   ]
 }

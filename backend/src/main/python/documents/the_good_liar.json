@@ -120,5 +120,32 @@
       "rating": "5",
       "text": "Both McKellen and Mirren are great in the film, but their characters aren't interesting enough in an already uninteresting plot."
     }
+  ],
+  "recommendations": [
+    "gone_girl",
+    "the_loft",
+    "man_on_a_ledge",
+    "now_you_see_me",
+    "broken_city",
+    "a_perfect_getaway",
+    "the_accountant",
+    "before_i_go_to_sleep",
+    "the_next_three_days",
+    "what_happened_to_monday",
+    "flight_of_the_phoenix",
+    "i_see_you",
+    "the_usual_suspects",
+    "the_number_23",
+    "run",
+    "nerve",
+    "the_prestige",
+    "shutter_island",
+    "bad_times_at_the_el_royale",
+    "red_sparrow",
+    "the_call",
+    "knives_out",
+    "cube",
+    "the_equalizer_2",
+    "lucky_number_slevin"
   ]
 }

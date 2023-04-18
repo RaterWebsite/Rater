@@ -96,5 +96,32 @@
       "rating": "9",
       "text": "Sean Penn's portrayal in this movie is priceless... It moves you to the bone, although it can be uninteresting to see if you lack empathy. Nevertheless, Sean Penn's performance deserves to be seen."
     }
+  ],
+  "recommendations": [
+    "a_beautiful_mind",
+    "magnolia",
+    "the_upside",
+    "my_name_is_khan",
+    "american_hustle",
+    "the_professor_and_the_madman",
+    "the_devil_all_the_time",
+    "mystic_river",
+    "scent_of_a_woman",
+    "eternal_sunshine_of_the_spotless_mind",
+    "revolutionary_road",
+    "manchester_by_the_sea",
+    "whiplash",
+    "breakthrough",
+    "blood_diamond",
+    "marriage_story",
+    "youth",
+    "closer",
+    "the_master",
+    "vicky_cristina_barcelona",
+    "changeling",
+    "cinderella_man",
+    "joy",
+    "the_social_network",
+    "the_shawshank_redemption"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "I'm not a fan of pirate movies, but I got to admit it... this one did 'pirate' enough to say \"Arr!\" and basically the best in the Pirates of the Caribbean franchise."
     }
+  ],
+  "recommendations": [
+    "ghostbusters",
+    "the_fifth_element",
+    "indiana_jones_and_the_temple_of_doom",
+    "highlander",
+    "the_princess_bride",
+    "the_mummy",
+    "last_action_hero",
+    "jungle_cruise",
+    "robots",
+    "thor",
+    "captain_america_the_first_avenger",
+    "spider_man",
+    "black_widow",
+    "spider_man_far_from_home",
+    "thor_ragnarok",
+    "rocky",
+    "stardust",
+    "kung_fu_panda_3",
+    "kung_fu_panda",
+    "kung_fu_panda_2",
+    "thor_the_dark_world",
+    "django_unchained",
+    "fantastic_four",
+    "oz_the_great_and_powerful",
+    "doctor_strange"
   ]
 }

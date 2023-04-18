@@ -109,5 +109,32 @@
       "rating": "7",
       "text": "----------------------------------7.3/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "atlantis_the_lost_empire",
+    "smurfs_the_lost_village",
+    "over_the_hedge",
+    "who_framed_roger_rabbit",
+    "peter_rabbit",
+    "minions_the_rise_of_gru",
+    "dumbo",
+    "rango",
+    "zootopia",
+    "ice_age",
+    "home_on_the_range",
+    "shaun_the_sheep_movie",
+    "madagascar",
+    "kung_fu_panda",
+    "the_lego_batman_movie",
+    "sinbad_legend_of_the_seven_seas",
+    "despicable_me_2",
+    "madagascar_escape_2_africa",
+    "ice_age_the_meltdown",
+    "puss_in_boots_the_last_wish",
+    "my_little_pony_the_movie",
+    "hotel_transylvania_2",
+    "cruella",
+    "the_call_of_the_wild",
+    "the_grinch"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Godfather part 2 just takes us on a tour of want the greatest movie of all time's sequel brings which is phenomenon do not miss it man I wish I was a gangster after watching this movie"
     }
+  ],
+  "recommendations": [
+    "the_godfather_part_iii",
+    "chinatown",
+    "creed",
+    "gladiator",
+    "kingdom_of_heaven",
+    "gangs_of_new_york",
+    "catch_me_if_you_can",
+    "insomnia",
+    "victor_frankenstein",
+    "the_last_of_the_mohicans",
+    "wall_street",
+    "the_devil_all_the_time",
+    "nocturnal_animals",
+    "american_gangster",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "casino",
+    "the_hurricane",
+    "body_of_lies",
+    "a_most_violent_year",
+    "darkest_hour",
+    "hell_or_high_water",
+    "close_encounters_of_the_third_kind",
+    "captain_america_the_winter_soldier",
+    "the_deer_hunter",
+    "conan_the_barbarian"
   ]
 }

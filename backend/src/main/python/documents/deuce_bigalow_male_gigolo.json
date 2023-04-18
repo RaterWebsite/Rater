@@ -92,5 +92,32 @@
       "rating": "8",
       "text": "I love this movie. When it first came out I never seen anything like it. It's so hilarious. The worst gigolo ever!"
     }
+  ],
+  "recommendations": [
+    "just_go_with_it",
+    "grown_ups",
+    "paul_blart_mall_cop",
+    "yes_man",
+    "ted",
+    "norbit",
+    "thunder_force",
+    "the_other_guys",
+    "what_happens_in_vegas",
+    "dirty_grandpa",
+    "a_million_ways_to_die_in_the_west",
+    "dodgeball_a_true_underdog_story",
+    "old_dogs",
+    "hot_tub_time_machine",
+    "dumb_and_dumber_to",
+    "get_hard",
+    "night_at_the_museum",
+    "dinner_for_schmucks",
+    "dumb_and_dumber",
+    "masterminds",
+    "30_minutes_or_less",
+    "good_luck_chuck",
+    "neighbors",
+    "just_friends",
+    "wild_hogs"
   ]
 }

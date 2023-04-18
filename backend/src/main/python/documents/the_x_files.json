@@ -90,5 +90,32 @@
       "rating": "7",
       "text": "Made to capitalise on the show not amazing but not terrible it's worth a watch."
     }
+  ],
+  "recommendations": [
+    "edge_of_tomorrow",
+    "the_x_files_i_want_to_believe",
+    "twelve_monkeys",
+    "serenity",
+    "looper",
+    "entourage",
+    "terminator_genisys",
+    "underworld_rise_of_the_lycans",
+    "thor_ragnarok",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "avengers_age_of_ultron",
+    "back_to_the_future_part_iii",
+    "john_carter",
+    "oblivion",
+    "star_trek_nemesis",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "ghostbusters_ii",
+    "underworld_awakening",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "glass",
+    "star_trek_insurrection",
+    "maze_runner_the_scorch_trials",
+    "the_a_team",
+    "mindhunters",
+    "back_to_the_future_part_ii"
   ]
 }

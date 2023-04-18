@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Thoroughly enjoyed it. Meryl Streep is wonderful to watch. Even my husband said he enjoyed it."
     }
+  ],
+  "recommendations": [
+    "as_good_as_it_gets",
+    "blue_jasmine",
+    "scent_of_a_woman",
+    "rain_man",
+    "still_alice",
+    "gifted",
+    "marriage_story",
+    "joy",
+    "hustlers",
+    "fatherhood",
+    "the_intern",
+    "what_women_want",
+    "silver_linings_playbook",
+    "american_hustle",
+    "the_edge_of_seventeen",
+    "morning_glory",
+    "leaving_las_vegas",
+    "revolutionary_road",
+    "the_judge",
+    "the_fighter",
+    "lady_bird",
+    "the_danish_girl",
+    "vicky_cristina_barcelona",
+    "the_descendants",
+    "blue_valentine"
   ]
 }

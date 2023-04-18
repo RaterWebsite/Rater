@@ -101,5 +101,32 @@
       "rating": "3",
       "text": "I movie that wants to be some sort of gross out rom-com but falls well short on both accounts, with it's recycled humour and lack of imagination."
     }
+  ],
+  "recommendations": [
+    "wedding_crashers",
+    "tammy",
+    "the_boss",
+    "forgetting_sarah_marshall",
+    "anger_management",
+    "wanderlust",
+    "dodgeball_a_true_underdog_story",
+    "due_date",
+    "like_a_boss",
+    "dirty_grandpa",
+    "date_night",
+    "trainwreck",
+    "get_hard",
+    "friends_with_benefits",
+    "sisters",
+    "just_friends",
+    "the_wedding_ringer",
+    "central_intelligence",
+    "the_proposal",
+    "tower_heist",
+    "masterminds",
+    "zoolander",
+    "that_awkward_moment",
+    "the_dilemma",
+    "the_heat"
   ]
 }

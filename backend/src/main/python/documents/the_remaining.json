@@ -69,5 +69,32 @@
       "rating": "10",
       "text": "Awesome movie i cried at the end! Russkie est? Go v konfu smotret. Ya cool pacan."
     }
+  ],
+  "recommendations": [
+    "exorcist_the_beginning",
+    "the_unborn",
+    "the_girl_with_all_the_gifts",
+    "splice",
+    "event_horizon",
+    "the_green_inferno",
+    "daybreakers",
+    "28_days_later",
+    "the_pyramid",
+    "the_mist",
+    "world_war_z",
+    "the_curse_of_la_llorona",
+    "noah",
+    "antebellum",
+    "apocalypto",
+    "the_exorcism_of_emily_rose",
+    "scary_stories_to_tell_in_the_dark",
+    "chernobyl_diaries",
+    "night_of_the_living_dead",
+    "eden_lake",
+    "the_purge_election_year",
+    "devil",
+    "priest",
+    "the_possession",
+    "sunshine"
   ]
 }

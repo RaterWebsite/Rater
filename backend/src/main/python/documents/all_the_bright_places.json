@@ -73,5 +73,32 @@
       "rating": "8",
       "text": "Heartbroken, emotional movie. And it's a good one. Not any typical teen movie, and it's exactly what I want."
     }
+  ],
+  "recommendations": [
+    "me_before_you",
+    "closer",
+    "the_fault_in_our_stars",
+    "the_book_of_henry",
+    "her",
+    "blue_valentine",
+    "collateral_beauty",
+    "manchester_by_the_sea",
+    "i_kill_giants",
+    "i_still_believe",
+    "secretary",
+    "i_can_only_imagine",
+    "the_book_thief",
+    "wonder",
+    "five_feet_apart",
+    "the_giver",
+    "the_glass_castle",
+    "into_the_wild",
+    "lost_in_translation",
+    "20th_century_women",
+    "the_road",
+    "every_day",
+    "miracles_from_heaven",
+    "the_hunt",
+    "to_the_bone"
   ]
 }

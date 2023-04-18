@@ -88,5 +88,32 @@
       "rating": "10",
       "text": "This film is just a classic, interesting characters and questionable fashion..what more could you want! The more you watch it the more things you notice too..\rGive it a watch!"
     }
+  ],
+  "recommendations": [
+    "the_cabin_in_the_woods",
+    "cursed",
+    "the_possession",
+    "wrong_turn",
+    "drag_me_to_hell",
+    "cabin_fever",
+    "saw",
+    "the_babysitter",
+    "underworld_evolution",
+    "malignant",
+    "annabelle",
+    "dead_silence",
+    "the_wolfman",
+    "friday_the_13th",
+    "see_no_evil",
+    "the_eye",
+    "the_return_of_the_living_dead",
+    "hostel",
+    "the_hills_have_eyes",
+    "wish_upon",
+    "the_texas_chain_saw_massacre",
+    "scream",
+    "the_babysitter_killer_queen",
+    "dark_skies",
+    "it_follows"
   ]
 }

@@ -98,5 +98,32 @@
       "rating": "5",
       "text": "Give Mark Wahlberg good credit, without him, Spenser Confidential would be less entertaining than it was. A very inferior action comedy compared to 21 Jump Street."
     }
+  ],
+  "recommendations": [
+    "logan_lucky",
+    "the_nice_guys",
+    "contraband",
+    "rocknrolla",
+    "the_italian_job",
+    "tag",
+    "jumanji_the_next_level",
+    "spy",
+    "keeping_up_with_the_joneses",
+    "2_guns",
+    "16_blocks",
+    "alex_cross",
+    "red_2",
+    "the_guardian",
+    "central_intelligence",
+    "this_means_war",
+    "knight_and_day",
+    "deadpool_2",
+    "red",
+    "lucky_number_slevin",
+    "the_spy_who_dumped_me",
+    "grudge_match",
+    "american_ultra",
+    "jack_reacher",
+    "red_notice"
   ]
 }

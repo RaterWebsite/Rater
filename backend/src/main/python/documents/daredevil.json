@@ -225,5 +225,32 @@
       "rating": "4",
       "text": "There are moments of undeniably zippy fun, but Daredevil suffers from indolent acting, incoherent pacing and a monotonous script that's weak compared to the average superhero movie standard."
     }
+  ],
+  "recommendations": [
+    "elektra",
+    "lawless",
+    "thor",
+    "fantastic_four",
+    "alex_cross",
+    "true_grit",
+    "jack_reacher",
+    "spider_man_homecoming",
+    "lucky_number_slevin",
+    "sin_city_a_dame_to_kill_for",
+    "iron_man",
+    "the_suicide_squad",
+    "the_nice_guys",
+    "the_amazing_spider_man",
+    "red_2",
+    "spenser_confidential",
+    "spider_man_far_from_home",
+    "inside_man",
+    "gangster_squad",
+    "the_karate_kid_part_iii",
+    "logan_lucky",
+    "the_italian_job",
+    "seven_psychopaths",
+    "true_lies",
+    "red"
   ]
 }

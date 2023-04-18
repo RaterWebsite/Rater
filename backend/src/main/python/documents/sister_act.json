@@ -45,5 +45,32 @@
       "rating": "7",
       "text": "It's very funny in parts very boring and wooden in others good attempt    ."
     }
+  ],
+  "recommendations": [
+    "horrible_bosses",
+    "wedding_crashers",
+    "last_vegas",
+    "my_spy",
+    "the_proposal",
+    "forgetting_sarah_marshall",
+    "role_models",
+    "just_go_with_it",
+    "spy",
+    "friends_with_benefits",
+    "due_date",
+    "masterminds",
+    "meet_the_parents",
+    "the_boss",
+    "tower_heist",
+    "just_friends",
+    "17_again",
+    "tammy",
+    "grudge_match",
+    "wanderlust",
+    "central_intelligence",
+    "dirty_grandpa",
+    "hitch",
+    "a_bad_moms_christmas",
+    "bad_santa"
   ]
 }

@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "A funny film with a very charming and entertaining protagonist, even if most of the plot points occurs due to the characters being dumb."
     }
+  ],
+  "recommendations": [
+    "mortdecai",
+    "johnny_english_reborn",
+    "police_academy",
+    "keeping_up_with_the_joneses",
+    "spy",
+    "jumanji_the_next_level",
+    "pineapple_express",
+    "pitch_perfect_2",
+    "deadpool_2",
+    "logan_lucky",
+    "the_family",
+    "chips",
+    "snatch",
+    "neighbors",
+    "blockers",
+    "central_intelligence",
+    "the_wedding_ringer",
+    "think_like_a_man_too",
+    "deadpool",
+    "dodgeball_a_true_underdog_story",
+    "paul",
+    "austin_powers_the_spy_who_shagged_me",
+    "burn_after_reading",
+    "the_gentlemen",
+    "the_happytime_murders"
   ]
 }

@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "----------------------------------7.4/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "klaus",
+    "cruella",
+    "pan",
+    "stardust",
+    "tron_legacy",
+    "oz_the_great_and_powerful",
+    "ghostbusters",
+    "over_the_moon",
+    "winnie_the_pooh_blood_and_honey",
+    "how_to_train_your_dragon",
+    "rio",
+    "togo",
+    "edward_scissorhands",
+    "ratatouille",
+    "sing_2",
+    "jingle_jangle_a_christmas_journey",
+    "the_princess_bride",
+    "the_tale_of_despereaux",
+    "how_to_train_your_dragon_2",
+    "zootopia",
+    "maleficent",
+    "minions_the_rise_of_gru",
+    "atlantis_the_lost_empire",
+    "dolittle",
+    "up"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "As usual, Boyle makes a fantastic two-thirds of a movie. Like everyone is saying, the last bit of the movie loses some cohesion. However, the film is just so beautiful it is hard to look away. There is some obvious borrowing from Solaris and Event Horizon but meh...I mean, we haven't had a good sci-fi movie in years. I'll take it."
     }
+  ],
+  "recommendations": [
+    "prometheus",
+    "annihilation",
+    "interstellar",
+    "captive_state",
+    "monsters",
+    "arrival",
+    "the_midnight_sky",
+    "gravity",
+    "jupiter_ascending",
+    "mortal_engines",
+    "lucy",
+    "color_out_of_space",
+    "the_day_after_tomorrow",
+    "event_horizon",
+    "alien_covenant",
+    "coherence",
+    "chaos_walking",
+    "mission_to_mars",
+    "the_tomorrow_war",
+    "the_core",
+    "the_girl_with_all_the_gifts",
+    "elysium",
+    "they_live",
+    "signs",
+    "a_quiet_place"
   ]
 }

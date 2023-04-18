@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Top Gun 2 delivers that 80s cheese you want with a striking coat of modern paint.  While I wasn\u2019t moved by the film\u2019s paint-by-number emotional subplots, they were in service of a well rounded story that pays off marvelously in its final stretch.  The last 30 minutes of this film are among the best stretches of any action film I\u2019ve seen.  It becomes a full on roller coaster that deserves to be seen in IMAX."
     }
+  ],
+  "recommendations": [
+    "top_gun",
+    "avengers_age_of_ultron",
+    "edge_of_tomorrow",
+    "black_widow",
+    "tron_legacy",
+    "alita_battle_angel",
+    "the_island",
+    "creed",
+    "terminator_2_judgment_day",
+    "thor_ragnarok",
+    "thor_the_dark_world",
+    "creed_ii",
+    "man_of_steel",
+    "captain_america_the_first_avenger",
+    "dredd",
+    "the_suicide_squad",
+    "super_8",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "rocky",
+    "the_hunger_games_catching_fire",
+    "the_adventures_of_tintin",
+    "the_terminator",
+    "scarface",
+    "eternals",
+    "kung_fu_panda_2"
   ]
 }

@@ -214,5 +214,32 @@
       "rating": "9",
       "text": "This movie is so well-crafted, the Fincher effect, a lot of details in every frame. This is one of the most interesting thriller."
     }
+  ],
+  "recommendations": [
+    "memento",
+    "split",
+    "the_hunger_games_catching_fire",
+    "the_machinist",
+    "nerve",
+    "donnie_darko",
+    "predestination",
+    "the_hunger_games_mockingjay_part_2",
+    "colossal",
+    "the_prestige",
+    "the_invisible_man",
+    "no_country_for_old_men",
+    "avengers_infinity_war",
+    "limitless",
+    "midnight_special",
+    "lucy",
+    "the_next_three_days",
+    "maze_runner_the_death_cure",
+    "the_hunger_games",
+    "source_code",
+    "tomb_raider",
+    "maze_runner_the_scorch_trials",
+    "cold_pursuit",
+    "enemy",
+    "fight_club"
   ]
 }

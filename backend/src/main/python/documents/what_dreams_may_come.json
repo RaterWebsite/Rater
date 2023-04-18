@@ -74,5 +74,32 @@
       "rating": "10",
       "text": "It tells the story of a love that is so strong which lasts even in the other universe. The story, actor's performances, directing and everything else were excellent."
     }
+  ],
+  "recommendations": [
+    "life_of_pi",
+    "upside_down",
+    "soul",
+    "the_fountain",
+    "her",
+    "perfume_the_story_of_a_murderer",
+    "the_lovely_bones",
+    "cloud_atlas",
+    "brokeback_mountain",
+    "soul_surfer",
+    "maleficent",
+    "hugo",
+    "the_bfg",
+    "the_road",
+    "titanic",
+    "i_still_believe",
+    "the_tree_of_life",
+    "roma",
+    "unbroken",
+    "babel",
+    "inception",
+    "the_curious_case_of_benjamin_button",
+    "risen",
+    "hotel_rwanda",
+    "avatar"
   ]
 }

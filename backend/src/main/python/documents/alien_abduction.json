@@ -66,5 +66,32 @@
       "rating": "6",
       "text": "i think, its normal film to watch, but the thing i can say that developers of the film worked hard on this film."
     }
+  ],
+  "recommendations": [
+    "always_watching_a_marble_hornets_story",
+    "event_horizon",
+    "monsters",
+    "antlers",
+    "the_ritual",
+    "the_descent",
+    "the_medium",
+    "the_pyramid",
+    "annabelle_creation",
+    "ghost_ship",
+    "scary_stories_to_tell_in_the_dark",
+    "it_follows",
+    "mission_to_mars",
+    "mirrors",
+    "the_blair_witch_project",
+    "the_mothman_prophecies",
+    "the_fourth_kind",
+    "alien_outpost",
+    "a_quiet_place",
+    "pitch_black",
+    "color_out_of_space",
+    "the_howling",
+    "europa_report",
+    "area_51",
+    "the_witch"
   ]
 }

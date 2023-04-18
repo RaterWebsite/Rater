@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Good special effects overall. Loved Cage. The dialogue was as bad as any Kung-fu theater mivie I have ever watched. Character development was virtually non-existent. But a fun movie overall if you don't go in expecting too much."
     }
+  ],
+  "recommendations": [
+    "ghost_rider_spirit_of_vengeance",
+    "catwoman",
+    "teenage_mutant_ninja_turtles",
+    "jumper",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "suicide_squad",
+    "the_legend_of_hercules",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_twilight_saga_eclipse",
+    "seventh_son",
+    "into_the_storm",
+    "i_am_number_four",
+    "van_helsing",
+    "immortals",
+    "transformers_revenge_of_the_fallen",
+    "the_meg",
+    "poseidon",
+    "legion",
+    "national_treasure_book_of_secrets",
+    "bloodshot",
+    "the_eye",
+    "the_twilight_saga_new_moon",
+    "mission_impossible_iii",
+    "underworld_evolution",
+    "dark_phoenix"
   ]
 }

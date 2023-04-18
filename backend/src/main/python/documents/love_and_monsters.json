@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Really enjoyed it - its a solid, enjoyable, fun movie. The most fun I have had watching netflix in a while. With a fantastic doggy actor!"
     }
+  ],
+  "recommendations": [
+    "incredibles_2",
+    "turbo",
+    "bumblebee",
+    "ant_man_and_the_wasp_quantumania",
+    "shazam",
+    "jack_the_giant_slayer",
+    "colossal",
+    "despicable_me_2",
+    "guardians_of_the_galaxy",
+    "the_good_dinosaur",
+    "free_guy",
+    "next_gen",
+    "super_8",
+    "race_to_witch_mountain",
+    "i_am_number_four",
+    "thor_ragnarok",
+    "shazam_fury_of_the_gods",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "penguins_of_madagascar",
+    "tomorrowland",
+    "hotel_transylvania_2",
+    "warm_bodies",
+    "the_croods",
+    "hotel_transylvania_3_summer_vacation",
+    "monsters_university"
   ]
 }

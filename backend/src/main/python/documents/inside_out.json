@@ -40,5 +40,32 @@
       "rating": "2",
       "text": "An example of how terrible one movie is and then a future movie named the same thing manages to overtop it like swallowing up a bad gumball with a great gumball. Apparently, Disney/Pixar can make a better Inside Out than WWE and that's total disappointment right there because both the company (WWE) and their crappy movies sucks that someone (I was thinking of a girl that's insanely huge) can eat up the entire arena in one swallow."
     }
+  ],
+  "recommendations": [
+    "teenage_mutant_ninja_turtles",
+    "dragonball_evolution",
+    "transformers_revenge_of_the_fallen",
+    "space_jam_a_new_legacy",
+    "the_legend_of_hercules",
+    "skyline",
+    "transformers_the_last_knight",
+    "battleship",
+    "into_the_storm",
+    "mortal_kombat_annihilation",
+    "dolittle",
+    "the_day_the_earth_stood_still",
+    "independence_day_resurgence",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_matrix_resurrections",
+    "poseidon",
+    "national_treasure_book_of_secrets",
+    "the_darkest_hour",
+    "war_of_the_worlds",
+    "transformers_age_of_extinction",
+    "suicide_squad",
+    "wonder_woman_1984",
+    "volcano",
+    "jurassic_world_dominion"
   ]
 }

@@ -41,5 +41,32 @@
       "rating": "10",
       "text": "Awesome movie that is filled with action and suspense... Where is part 2???????????"
     }
+  ],
+  "recommendations": [
+    "frozen",
+    "6_underground",
+    "transporter_2",
+    "crank",
+    "wanted",
+    "vantage_point",
+    "crank_high_voltage",
+    "polar",
+    "the_marine",
+    "lockout",
+    "doomsday",
+    "the_condemned",
+    "crawl",
+    "vanquish",
+    "into_the_storm",
+    "transformers_revenge_of_the_fallen",
+    "underworld_evolution",
+    "ghost_rider_spirit_of_vengeance",
+    "the_tax_collector",
+    "shadow_in_the_cloud",
+    "machete_kills",
+    "the_shallows",
+    "machete",
+    "furious_7",
+    "wonder_woman_1984"
   ]
 }

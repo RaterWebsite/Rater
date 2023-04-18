@@ -119,5 +119,32 @@
       "rating": "5",
       "text": "Astro Boy never takes off.\rThe movie is an interesting premise that is entertaining, but never really becomes great. It seems caught in a shell and just doesn't amount to anything, the first 15 minutes are equally eventful as the rest, and the movie becomes anti climatic. The morals in it are good, and the concept is somewhat thought provoking, but the finished product seems too forgettable."
     }
+  ],
+  "recommendations": [
+    "we_can_be_heroes",
+    "turbo",
+    "incredibles_2",
+    "despicable_me_3",
+    "the_angry_birds_movie",
+    "the_angry_birds_movie_2",
+    "real_steel",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_boss_baby_christmas_bonus",
+    "the_secret_life_of_pets",
+    "cloudy_with_a_chance_of_meatballs",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "penguins_of_madagascar",
+    "ice_age_continental_drift",
+    "the_good_dinosaur",
+    "the_tale_of_despereaux",
+    "love_and_monsters",
+    "bumblebee",
+    "the_spiderwick_chronicles",
+    "ice_age_the_meltdown",
+    "monster_house",
+    "the_croods",
+    "hotel_transylvania_2",
+    "the_smurfs",
+    "hotel_transylvania"
   ]
 }

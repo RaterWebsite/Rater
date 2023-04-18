@@ -225,5 +225,32 @@
       "rating": "3",
       "text": "I found this film boring for almost all of it. I really just did not like this one for some reason. It was just never for me. But you guys might like it but I don't. Harry Potter and the Half-Blood Prince 3.9/10"
     }
+  ],
+  "recommendations": [
+    "harry_potter_and_the_order_of_the_phoenix",
+    "harry_potter_and_the_goblet_of_fire",
+    "harry_potter_and_the_chamber_of_secrets",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "the_hunger_games_mockingjay_part_2",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_hunger_games_catching_fire",
+    "inferno",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "the_dark_knight_rises",
+    "the_hobbit_an_unexpected_journey",
+    "unbreakable",
+    "odd_thomas",
+    "doctor_sleep",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "alice_in_wonderland",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "fantastic_beasts_and_where_to_find_them",
+    "the_hunger_games",
+    "sin_city_a_dame_to_kill_for",
+    "the_lovely_bones",
+    "sherlock_holmes_a_game_of_shadows",
+    "the_golden_compass",
+    "the_karate_kid_part_iii",
+    "maze_runner_the_death_cure"
   ]
 }

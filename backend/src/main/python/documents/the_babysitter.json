@@ -165,5 +165,32 @@
       "rating": "7",
       "text": "Anchored by a very charming performance by Samara Weaving, the Babysitter provides 80 minutes of good time."
     }
+  ],
+  "recommendations": [
+    "goosebumps",
+    "zombieland",
+    "ready_or_not",
+    "shazam",
+    "disturbia",
+    "jumanji_welcome_to_the_jungle",
+    "ghostbusters",
+    "the_green_hornet",
+    "tusk",
+    "seven_psychopaths",
+    "hancock",
+    "i_am_number_four",
+    "deadpool_2",
+    "zombieland_double_tap",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "it",
+    "megamind",
+    "this_means_war",
+    "my_spy",
+    "baywatch",
+    "pitch_perfect_2",
+    "deadpool",
+    "minions",
+    "17_again",
+    "the_cobbler"
   ]
 }

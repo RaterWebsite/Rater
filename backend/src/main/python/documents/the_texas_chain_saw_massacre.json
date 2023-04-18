@@ -208,5 +208,32 @@
       "rating": "7",
       "text": "Solid, enjoyable horror movie. I don't have a whole lot to say about it but it's fun."
     }
+  ],
+  "recommendations": [
+    "it_follows",
+    "the_conjuring",
+    "the_ring",
+    "house_of_1000_corpses",
+    "the_witch",
+    "the_descent",
+    "the_babadook",
+    "malignant",
+    "scream",
+    "the_collection",
+    "the_texas_chainsaw_massacre",
+    "the_hills_have_eyes",
+    "insidious",
+    "saw",
+    "the_evil_dead",
+    "terrifier",
+    "the_collector",
+    "the_conjuring_2",
+    "the_possession",
+    "annabelle",
+    "hellraiser",
+    "the_strangers_prey_at_night",
+    "paranormal_activity",
+    "wrong_turn",
+    "the_cabin_in_the_woods"
   ]
 }

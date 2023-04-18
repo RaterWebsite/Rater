@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "I've watched it. I cannot unwatch it. What a shame. I wonder if Liman got the job by saying, \"The locations are all over the world. I've filmed all over the world (Bourne Identity). Give me the gig.\" What a hack."
     }
+  ],
+  "recommendations": [
+    "i_am_number_four",
+    "the_twilight_saga_eclipse",
+    "poseidon",
+    "the_old_guard",
+    "teenage_mutant_ninja_turtles",
+    "next",
+    "seventh_son",
+    "hercules",
+    "the_last_witch_hunter",
+    "into_the_storm",
+    "terminator_genisys",
+    "gemini_man",
+    "shazam_fury_of_the_gods",
+    "the_tax_collector",
+    "bloodshot",
+    "i_am_legend",
+    "suicide_squad",
+    "national_treasure_book_of_secrets",
+    "shadow_in_the_cloud",
+    "infinite",
+    "captain_marvel",
+    "hancock",
+    "gods_of_egypt",
+    "project_power",
+    "riddick"
   ]
 }

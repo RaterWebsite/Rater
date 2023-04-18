@@ -42,5 +42,32 @@
       "rating": "3",
       "text": "Ah Netflix. Just last week you released the fiasco called He's All That, and now you come out with this?At least Another Round was also added to the catalogue this week."
     }
+  ],
+  "recommendations": [
+    "house_of_gucci",
+    "goodfellas",
+    "the_aviator",
+    "no_reservations",
+    "the_disaster_artist",
+    "american_hustle",
+    "legend",
+    "cinderella_man",
+    "the_royal_tenenbaums",
+    "the_shawshank_redemption",
+    "the_irishman",
+    "hustlers",
+    "the_layover",
+    "lawless",
+    "million_dollar_baby",
+    "black_mass",
+    "the_second_best_exotic_marigold_hotel",
+    "logan_lucky",
+    "american_gangster",
+    "the_godfather",
+    "forrest_gump",
+    "casino",
+    "we_are_your_friends",
+    "true_grit",
+    "the_break_up"
   ]
 }

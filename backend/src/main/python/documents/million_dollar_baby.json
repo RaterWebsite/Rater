@@ -224,5 +224,32 @@
       "rating": "9",
       "text": "This movie is riveting. Definetly on the top list."
     }
+  ],
+  "recommendations": [
+    "changeling",
+    "mystic_river",
+    "raging_bull",
+    "gran_torino",
+    "the_fighter",
+    "joker",
+    "revolutionary_road",
+    "invictus",
+    "hustlers",
+    "cinderella_man",
+    "the_shawshank_redemption",
+    "the_guardian",
+    "the_departed",
+    "uncut_gems",
+    "scarface",
+    "a_beautiful_mind",
+    "the_irishman",
+    "public_enemies",
+    "the_disaster_artist",
+    "inside_man",
+    "rush",
+    "creed",
+    "eddie_the_eagle",
+    "the_godfather_part_iii",
+    "hereafter"
   ]
 }

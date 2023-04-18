@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "Una de las peliculas mas bonitas que se han creado en los ultimos a\u00f1os, muy bien realizada y con mucho mas mensaje que cualquier produccion de Disney"
     }
+  ],
+  "recommendations": [
+    "the_book_of_life",
+    "the_polar_express",
+    "zootopia",
+    "up",
+    "luca",
+    "atlantis_the_lost_empire",
+    "over_the_moon",
+    "ratatouille",
+    "onward",
+    "rio",
+    "soul",
+    "spirit_stallion_of_the_cimarron",
+    "a_christmas_carol",
+    "how_to_train_your_dragon",
+    "wolfwalkers",
+    "the_peanuts_movie",
+    "strange_magic",
+    "your_name",
+    "shaun_the_sheep_movie",
+    "tangled",
+    "winnie_the_pooh_blood_and_honey",
+    "trolls",
+    "the_incredibles",
+    "rio_2",
+    "the_croods"
   ]
 }

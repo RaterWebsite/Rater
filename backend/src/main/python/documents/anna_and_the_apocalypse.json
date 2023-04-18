@@ -82,5 +82,32 @@
       "rating": "8",
       "text": "A delightful hidden gem.  Anna and the Apocalypse elevates itself beyond a very simple story by becoming a wildly creative mix of genres with strong performances, fully realized characters, and catchy songs.  It's the sort of movie where everyone on screen looks like they're having a blast making it, and its sense of fun is as infectious as a zombie bite."
     }
+  ],
+  "recommendations": [
+    "the_return_of_the_living_dead",
+    "the_babysitter",
+    "the_mummy",
+    "ginger_snaps",
+    "peter_rabbit",
+    "the_guest",
+    "rango",
+    "krampus",
+    "gremlins",
+    "life_after_beth",
+    "ghostbusters",
+    "zombieland",
+    "ready_or_not",
+    "guardians_of_the_galaxy",
+    "indiana_jones_and_the_temple_of_doom",
+    "rio",
+    "the_cabin_in_the_woods",
+    "pitch_perfect_2",
+    "hotel_transylvania_3_summer_vacation",
+    "jack_the_giant_slayer",
+    "tron_legacy",
+    "copshop",
+    "from_dusk_till_dawn",
+    "puss_in_boots_the_last_wish",
+    "it_follows"
   ]
 }

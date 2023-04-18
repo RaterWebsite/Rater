@@ -166,5 +166,32 @@
       "rating": "9",
       "text": "If you love a gritty, gory, suspenseful horror movie the Green Inferno is for you. It lacks in certain areas like character building and the CGI isn't great, but I loved it."
     }
+  ],
+  "recommendations": [
+    "hostel",
+    "hostel_part_ii",
+    "cabin_fever",
+    "house_of_1000_corpses",
+    "the_hills_have_eyes",
+    "terrifier",
+    "clown",
+    "malignant",
+    "splice",
+    "texas_chainsaw_3d",
+    "the_curse_of_la_llorona",
+    "the_possession",
+    "chernobyl_diaries",
+    "the_host",
+    "the_collector",
+    "i_spit_on_your_grave_2",
+    "piranha_3dd",
+    "the_collection",
+    "unfriended",
+    "the_pyramid",
+    "crawl",
+    "doomsday",
+    "the_crazies",
+    "devil",
+    "the_texas_chainsaw_massacre_the_beginning"
   ]
 }

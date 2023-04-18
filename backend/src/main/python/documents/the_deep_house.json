@@ -48,5 +48,32 @@
       "rating": "2",
       "text": "Really boring movie. There was so much potential with this concept but it was hampered by a low budget, bad acting, and bad writing."
     }
+  ],
+  "recommendations": [
+    "the_possession_of_hannah_grace",
+    "project_power",
+    "shut_in",
+    "the_unholy",
+    "pacific_rim_uprising",
+    "the_eye",
+    "till_death",
+    "annabelle",
+    "ouija",
+    "antlers",
+    "old",
+    "into_the_storm",
+    "grudge",
+    "book_of_shadows_blair_witch_2",
+    "the_new_mutants",
+    "the_vault",
+    "the_curse_of_la_llorona",
+    "skyline",
+    "army_of_the_dead",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "mirrors",
+    "the_darkest_hour",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_happening",
+    "siren"
   ]
 }

@@ -63,5 +63,32 @@
       "rating": "5",
       "text": "\"Coyote Ugly\" \u00e9 interessante... e clich\u00e9. Mas, ainda assim, algumas li\u00e7\u00f5es podem ser retiradas deste filme.5/10"
     }
+  ],
+  "recommendations": [
+    "magic_mikes_last_dance",
+    "magic_mike_xxl",
+    "when_the_bough_breaks",
+    "fifty_shades_freed",
+    "step_up_2_the_streets",
+    "the_tourist",
+    "step_up_revolution",
+    "skyscraper",
+    "baywatch",
+    "showgirls",
+    "red_notice",
+    "never_back_down",
+    "red_riding_hood",
+    "four_brothers",
+    "slumdog_millionaire",
+    "limitless",
+    "savages",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "baby_driver",
+    "kick_ass",
+    "hanna",
+    "the_power_of_the_dog",
+    "the_shape_of_water",
+    "forever_my_girl",
+    "the_old_guard"
   ]
 }

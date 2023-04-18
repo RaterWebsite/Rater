@@ -219,5 +219,32 @@
       "rating": "10",
       "text": "This is the world bast animation movie series of Sony pictures animation. I am very thankful of Genndy tartakovsky for made this movie series. And after watch this movie series I want to be a animetar like Genndy tartakovsky."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_2",
+    "penguins_of_madagascar",
+    "incredibles_2",
+    "despicable_me_2",
+    "turbo",
+    "storks",
+    "the_croods",
+    "the_lego_ninjago_movie",
+    "the_lego_movie",
+    "the_lego_movie_2_the_second_part",
+    "guardians_of_the_galaxy",
+    "minions",
+    "flushed_away",
+    "madagascar",
+    "peter_rabbit",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "rio_2",
+    "hotel_transylvania",
+    "megamind",
+    "ice_age_the_meltdown",
+    "monsters_vs_aliens",
+    "the_secret_life_of_pets_2",
+    "jack_the_giant_slayer",
+    "meet_the_robinsons",
+    "puss_in_boots_the_last_wish"
   ]
 }

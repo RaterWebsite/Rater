@@ -209,5 +209,32 @@
       "rating": "6",
       "text": "A rather unnecessary sequel than comes across as an excuse to give Gordon Gecko another airing."
     }
+  ],
+  "recommendations": [
+    "the_little_things",
+    "widows",
+    "knives_out",
+    "burnt",
+    "the_godfather_part_iii",
+    "live_by_night",
+    "suburbicon",
+    "good_time",
+    "those_who_wish_me_dead",
+    "the_magnificent_seven",
+    "the_accountant",
+    "cold_pursuit",
+    "morgan",
+    "beyond_the_reach",
+    "chaos_walking",
+    "the_town",
+    "downsizing",
+    "donnie_brasco",
+    "t2_trainspotting",
+    "broken_city",
+    "hotel_artemis",
+    "creed_ii",
+    "the_gambler",
+    "the_gunman",
+    "lucky_number_slevin"
   ]
 }

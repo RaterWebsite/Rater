@@ -157,5 +157,32 @@
       "rating": "3",
       "text": "I've tried to give a movie a chance to see if It would be a good movie for me despite i was aware of the negative reception, i've shouldn't have do that. This movie it's incredible mean-spirted, frustranting and unfunny to watch, the only good things for me was the pig's fart scene and the various videogames references. Hands down the worst diary of a Wimpy kid movie in the series"
     }
+  ],
+  "recommendations": [
+    "the_smurfs",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "spy_kids_all_the_time_in_the_world",
+    "the_boss_baby_family_business",
+    "home_sweet_home_alone",
+    "yogi_bear",
+    "zookeeper",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "the_croods_a_new_age",
+    "minions",
+    "neighbors_2_sorority_rising",
+    "coming_2_america",
+    "night_at_the_museum",
+    "chicken_little",
+    "cloudy_with_a_chance_of_meatballs",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "marmaduke",
+    "space_jam_a_new_legacy",
+    "kangaroo_jack",
+    "hotel_transylvania_2",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "goosebumps",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_game_plan",
+    "free_birds"
   ]
 }

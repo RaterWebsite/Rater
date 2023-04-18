@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "After a bunch of critical failures following Bridesmaids, I though McCarthey's career was over. But after seeing her dramatic work in St. Vincent this year, and her returning to a great comedic role in Spy (for which she was nominated for a Golden Globe), it looks like she may go back to making good movies again"
     }
+  ],
+  "recommendations": [
+    "central_intelligence",
+    "the_spy_who_dumped_me",
+    "identity_thief",
+    "stuber",
+    "the_other_guys",
+    "this_means_war",
+    "the_heat",
+    "tower_heist",
+    "horrible_bosses_2",
+    "due_date",
+    "red_2",
+    "ride_along",
+    "chips",
+    "grudge_match",
+    "red",
+    "dodgeball_a_true_underdog_story",
+    "the_wedding_ringer",
+    "the_nice_guys",
+    "ride_along_2",
+    "deadpool_2",
+    "spenser_confidential",
+    "logan_lucky",
+    "paul_blart_mall_cop",
+    "forgetting_sarah_marshall",
+    "pineapple_express"
   ]
 }

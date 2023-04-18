@@ -79,5 +79,32 @@
       "rating": "5",
       "text": "Unnecessary. It's not bad, but we've seen the same formula twice already in more interesting versions."
     }
+  ],
+  "recommendations": [
+    "terminator_genisys",
+    "the_many_saints_of_newark",
+    "glass",
+    "elektra",
+    "avengers_age_of_ultron",
+    "bumblebee",
+    "the_suicide_squad",
+    "seventh_son",
+    "pan",
+    "kingsman_the_golden_circle",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "shazam_fury_of_the_gods",
+    "x_men_apocalypse",
+    "creed_ii",
+    "nobody",
+    "incredibles_2",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "the_karate_kid_part_ii",
+    "i_am_legend",
+    "rocky_v",
+    "jumper",
+    "thor_ragnarok",
+    "justice_league",
+    "ghostbusters_ii",
+    "oz_the_great_and_powerful"
   ]
 }

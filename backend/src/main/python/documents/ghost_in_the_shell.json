@@ -114,5 +114,32 @@
       "rating": "10",
       "text": "An incredible movie with a gripping story of sentience and struggle in the far future with plot and sabotage between government departments slowly revelling who the real villain actually is. Combined with consistently stunning and spectacular animation and design in all aspects this movie deserves a place on everybody's top 10 in the genre."
     }
+  ],
+  "recommendations": [
+    "isle_of_dogs",
+    "kubo_and_the_two_strings",
+    "blade_runner",
+    "loving_vincent",
+    "dinosaur",
+    "blade_runner_2049",
+    "alpha",
+    "dark_city",
+    "paprika",
+    "dawn_of_the_planet_of_the_apes",
+    "the_matrix",
+    "mandy",
+    "ex_machina",
+    "close_encounters_of_the_third_kind",
+    "wolfwalkers",
+    "gattaca",
+    "barry_lyndon",
+    "suspiria",
+    "the_ballad_of_buster_scruggs",
+    "crimson_peak",
+    "your_name",
+    "eyes_wide_shut",
+    "the_crow",
+    "hellboy_ii_the_golden_army",
+    "the_neon_demon"
   ]
 }

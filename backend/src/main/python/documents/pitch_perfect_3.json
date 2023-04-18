@@ -181,5 +181,32 @@
       "rating": "6",
       "text": "I was pretty impressed with how humorous the third Pitch Perfect was. Although I had second thoughts about going, the series finale was excellent. Although some of the sequences may have been cut, the film overall had excellent acting and music."
     }
+  ],
+  "recommendations": [
+    "pitch_perfect_2",
+    "the_lego_movie_2_the_second_part",
+    "tag",
+    "pitch_perfect",
+    "thor_love_and_thunder",
+    "deadpool_2",
+    "jumanji_the_next_level",
+    "shazam_fury_of_the_gods",
+    "zombieland_double_tap",
+    "baby_driver",
+    "baywatch",
+    "megamind",
+    "despicable_me_2",
+    "rocknrolla",
+    "minions",
+    "sherlock_gnomes",
+    "logan_lucky",
+    "happy_feet_two",
+    "hotel_transylvania_3_summer_vacation",
+    "storks",
+    "kingsman_the_golden_circle",
+    "dolittle",
+    "peter_rabbit",
+    "the_lego_movie",
+    "guardians_of_the_galaxy"
   ]
 }

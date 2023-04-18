@@ -225,5 +225,32 @@
       "rating": "2",
       "text": "A very poor movie. Incredibly boring in addition to being loathsome. It would be 0 out of 10 if not for Wendy Carlos' soundtrack."
     }
+  ],
+  "recommendations": [
+    "antichrist",
+    "apocalypto",
+    "titane",
+    "eyes_wide_shut",
+    "equilibrium",
+    "silence",
+    "zero_dark_thirty",
+    "dogville",
+    "risen",
+    "antebellum",
+    "the_lobster",
+    "mother",
+    "crash",
+    "donnie_darko",
+    "the_fountain",
+    "fear_and_loathing_in_las_vegas",
+    "fight_club",
+    "the_machinist",
+    "snowden",
+    "mainstream",
+    "12_angry_men",
+    "spree",
+    "dark_waters",
+    "perfume_the_story_of_a_murderer",
+    "the_master"
   ]
 }

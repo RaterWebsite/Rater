@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "10/10 ................................................................................................................................................"
     }
+  ],
+  "recommendations": [
+    "slugterra_return_of_the_elementals",
+    "the_jewel_of_the_nile",
+    "skater_girl",
+    "stardog_and_turbocat",
+    "the_virginity_hit",
+    "lady_and_the_tramp",
+    "cherry",
+    "stuart_little",
+    "crocodile_dundee",
+    "beverly_hills_chihuahua",
+    "bee_movie",
+    "12_hour_shift",
+    "overboard",
+    "the_many_adventures_of_winnie_the_pooh",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "beverly_hills_cop_iii",
+    "bride_wars",
+    "playmobil_the_movie",
+    "possession",
+    "double_impact",
+    "run_the_tide",
+    "monte_carlo",
+    "initiation",
+    "clifford_the_big_red_dog",
+    "tooth_fairy"
   ]
 }

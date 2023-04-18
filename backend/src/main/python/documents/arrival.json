@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "First time you watch it: 8/10.Second time: 10/10, hands down. A true masterpiece."
     }
+  ],
+  "recommendations": [
+    "annihilation",
+    "interstellar",
+    "coherence",
+    "sunshine",
+    "inception",
+    "the_martian",
+    "captive_state",
+    "avatar",
+    "donnie_darko",
+    "mortal_engines",
+    "lucy",
+    "chaos_walking",
+    "the_green_knight",
+    "source_code",
+    "cloud_atlas",
+    "i_am_mother",
+    "they_live",
+    "anon",
+    "contact",
+    "europa_report",
+    "moon",
+    "ex_machina",
+    "blade_runner_2049",
+    "what_happened_to_monday",
+    "the_13th_warrior"
   ]
 }

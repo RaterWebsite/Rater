@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "I liked this movie, even though the acting could have been better.  Darth Maul is a real badass, loved the Duel of the Fates. Compared to TFA it's a masterpiece."
     }
+  ],
+  "recommendations": [
+    "star_wars_episode_ii_attack_of_the_clones",
+    "300_rise_of_an_empire",
+    "avengers_age_of_ultron",
+    "transformers_the_last_knight",
+    "clash_of_the_titans",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "bumblebee",
+    "star_trek_into_darkness",
+    "star_trek",
+    "rogue_one_a_star_wars_story",
+    "hellboy_ii_the_golden_army",
+    "terminator_salvation",
+    "pacific_rim_uprising",
+    "thor_the_dark_world",
+    "star_trek_insurrection",
+    "rise_of_the_planet_of_the_apes",
+    "star_trek_the_motion_picture",
+    "king_arthur_legend_of_the_sword",
+    "star_trek_beyond",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_matrix_reloaded",
+    "pacific_rim",
+    "mortal_engines",
+    "kong_skull_island",
+    "jupiter_ascending"
   ]
 }

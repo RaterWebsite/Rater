@@ -117,5 +117,32 @@
       "rating": "3",
       "text": "War is a film with an unintelligible plot, very basic characters and not very abundant action scenes.In short, a disastrous film."
     }
+  ],
+  "recommendations": [
+    "safe",
+    "the_mechanic",
+    "salt",
+    "death_race",
+    "the_ice_road",
+    "london_has_fallen",
+    "furious_7",
+    "escape_plan",
+    "mission_impossible_ii",
+    "angel_has_fallen",
+    "the_commuter",
+    "jason_bourne",
+    "atomic_blonde",
+    "den_of_thieves",
+    "wrath_of_man",
+    "ninja_assassin",
+    "mechanic_resurrection",
+    "the_fate_of_the_furious",
+    "infinite",
+    "the_marine",
+    "xxx_return_of_xander_cage",
+    "wild_card",
+    "olympus_has_fallen",
+    "sabotage",
+    "the_last_stand"
   ]
 }

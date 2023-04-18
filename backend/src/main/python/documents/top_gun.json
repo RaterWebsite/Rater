@@ -190,5 +190,32 @@
       "rating": "3",
       "text": "It is ridiculous, how boring this piece of Moviehistory turned Out. Please kill me!"
     }
+  ],
+  "recommendations": [
+    "top_gun_maverick",
+    "creed_ii",
+    "hanna",
+    "avengers_age_of_ultron",
+    "gemini_man",
+    "the_island",
+    "the_magnificent_seven",
+    "king_arthur_legend_of_the_sword",
+    "troy",
+    "pearl_harbor",
+    "rocky",
+    "ford_v_ferrari",
+    "drive",
+    "mad_max_fury_road",
+    "black_widow",
+    "haywire",
+    "the_suicide_squad",
+    "boss_level",
+    "the_harder_they_fall",
+    "blade_of_the_47_ronin",
+    "the_equalizer_2",
+    "bumblebee",
+    "hercules",
+    "armageddon",
+    "thor_the_dark_world"
   ]
 }

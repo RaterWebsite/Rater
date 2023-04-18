@@ -75,5 +75,32 @@
       "rating": "5",
       "text": "A rather predictable and quite dull crime thriller. Even Washington & Jolie can't save this movie and it's lacklustre screenplay."
     }
+  ],
+  "recommendations": [
+    "outbreak",
+    "fracture",
+    "black_and_blue",
+    "the_rhythm_section",
+    "the_jackal",
+    "the_frozen_ground",
+    "the_numbers_station",
+    "basic_instinct",
+    "the_pelican_brief",
+    "breaking_in",
+    "colombiana",
+    "hotel_artemis",
+    "triple_9",
+    "secret_window",
+    "cold_pursuit",
+    "end_of_days",
+    "nightcrawler",
+    "alone",
+    "hollow_man",
+    "unhinged",
+    "the_little_things",
+    "killer_elite",
+    "the_lincoln_lawyer",
+    "those_who_wish_me_dead",
+    "the_peacemaker"
   ]
 }

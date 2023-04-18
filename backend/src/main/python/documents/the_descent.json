@@ -225,5 +225,32 @@
       "rating": "4",
       "text": "What a horrible movie. It was merely a bloodfest with no real plot and no outcome. There was no creation of fear. There were some mildly startling moments, but overall it was a yawn. The acting was horrible as well. Simply an unentertaining movie."
     }
+  ],
+  "recommendations": [
+    "it_follows",
+    "the_conjuring",
+    "annabelle",
+    "dark_skies",
+    "insidious",
+    "event_horizon",
+    "malignant",
+    "antlers",
+    "the_ritual",
+    "the_ring",
+    "the_possession",
+    "the_witch",
+    "mirrors",
+    "devil",
+    "the_woman_in_black",
+    "chernobyl_diaries",
+    "scary_stories_to_tell_in_the_dark",
+    "the_babadook",
+    "the_texas_chain_saw_massacre",
+    "the_conjuring_2",
+    "crawl",
+    "annabelle_creation",
+    "insidious_chapter_2",
+    "the_strangers_prey_at_night",
+    "terrifier"
   ]
 }

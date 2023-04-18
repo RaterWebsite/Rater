@@ -90,5 +90,32 @@
       "rating": "8",
       "text": "The Enemy of The State is a thrilling movie with Will Smith being a dramatic actor."
     }
+  ],
+  "recommendations": [
+    "nightcrawler",
+    "the_fugitive",
+    "sully",
+    "heat",
+    "apollo_13",
+    "triple_9",
+    "captain_phillips",
+    "sicario",
+    "the_score",
+    "man_on_fire",
+    "widows",
+    "american_made",
+    "donnie_brasco",
+    "breach",
+    "body_of_lies",
+    "public_enemies",
+    "hell_or_high_water",
+    "the_rock",
+    "casino",
+    "money_monster",
+    "insomnia",
+    "patriot_games",
+    "beirut",
+    "ford_v_ferrari",
+    "captain_america_the_winter_soldier"
   ]
 }

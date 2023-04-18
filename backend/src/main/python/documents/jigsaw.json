@@ -223,5 +223,32 @@
       "rating": "6",
       "text": "Well it isn't great BUT its pretty good, i didn't like the twist at the end but it's a saw movie and its a good saw movie well better then some latest movies. If you like saw movies watch it."
     }
+  ],
+  "recommendations": [
+    "saw_iv",
+    "saw_iii",
+    "saw_vi",
+    "spiral_from_the_book_of_saw",
+    "saw_ii",
+    "saw_3d",
+    "saw_v",
+    "saw",
+    "paranormal_activity_4",
+    "paranormal_activity_the_marked_ones",
+    "rings",
+    "the_collection",
+    "wish_upon",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "texas_chainsaw_3d",
+    "insidious_chapter_2",
+    "final_destination_2",
+    "unfriended_dark_web",
+    "the_grudge_2",
+    "scream_4",
+    "chernobyl_diaries",
+    "dark_skies",
+    "the_strangers_prey_at_night",
+    "the_new_mutants",
+    "malignant"
   ]
 }

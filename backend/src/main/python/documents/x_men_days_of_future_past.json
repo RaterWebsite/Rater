@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "X-Men: Days of Future Past is the best X-Men movie ever. It's big, original and has purpose. It clears the past mistakes of the franchise by promising us a brighter future. The broad cast is as good as they've always been. Unlike, this year's Godzilla, marketing of this movie promised a great movie and it matched its expectations."
     }
+  ],
+  "recommendations": [
+    "x_men_apocalypse",
+    "black_widow",
+    "man_of_steel",
+    "avengers_age_of_ultron",
+    "captain_america_the_first_avenger",
+    "looper",
+    "creed_ii",
+    "edge_of_tomorrow",
+    "super_8",
+    "the_hunger_games_catching_fire",
+    "wonder_woman",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "captain_america_the_winter_soldier",
+    "avengers_endgame",
+    "top_gun_maverick",
+    "twelve_monkeys",
+    "back_to_the_future_part_ii",
+    "the_magnificent_seven",
+    "the_13th_warrior",
+    "spider_man_far_from_home",
+    "thor_ragnarok",
+    "thor",
+    "maze_runner_the_death_cure",
+    "eternals",
+    "bumblebee"
   ]
 }

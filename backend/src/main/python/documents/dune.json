@@ -125,5 +125,32 @@
       "rating": "10",
       "text": "When Frank Herbert published Dune in 1965, it was considered unfilmable for a long time. In 1984, the young and highly talented David Lynch ventured into the film adaptation. The result was a real work of art and also a masterpiece. A flop at the box office, but over time, viewers noticed the ingenuity and high artistry of the movie. A real classic, fantastically made, it convinces with its high artistic standards. It's not for everyone. In my eyes, David Lynch is an underestimated (how can it also be in Hollywood) artistic genius. The Albert Einstein and Salvador Dali of cinematic art. Too bad he couldn't make a sequel. There are still many books by the great Frank Herbert waiting to be made into fantastic movies. BRAVO, BRAVO, BRAVO! AWESOME!"
     }
+  ],
+  "recommendations": [
+    "blade_runner_2049",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "moon",
+    "oblivion",
+    "close_encounters_of_the_third_kind",
+    "victor_frankenstein",
+    "ben_hur",
+    "the_great_gatsby",
+    "samson",
+    "the_green_knight",
+    "minority_report",
+    "kingdom_of_heaven",
+    "mortal_engines",
+    "jupiter_ascending",
+    "sin_city",
+    "king_arthur_legend_of_the_sword",
+    "blade_of_the_47_ronin",
+    "alice_through_the_looking_glass",
+    "reminiscence",
+    "murder_on_the_orient_express",
+    "interstellar",
+    "in_the_heart_of_the_sea",
+    "watchmen",
+    "inception"
   ]
 }

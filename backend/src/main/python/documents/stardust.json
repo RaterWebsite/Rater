@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "Delightful film. One that I can watch over and over again. And there are very few films that I can say that about."
     }
+  ],
+  "recommendations": [
+    "the_princess_bride",
+    "maleficent",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "onward",
+    "maleficent_mistress_of_evil",
+    "let_me_in",
+    "snow_white_and_the_huntsman",
+    "the_lake_house",
+    "alice_in_wonderland",
+    "ella_enchanted",
+    "alice_through_the_looking_glass",
+    "the_vow",
+    "tomorrowland",
+    "the_illusionist",
+    "red_riding_hood",
+    "ghostbusters",
+    "the_lucky_one",
+    "shazam",
+    "last_christmas",
+    "rise_of_the_guardians",
+    "cruella",
+    "super_8",
+    "ghostbusters_afterlife",
+    "pan",
+    "peter_pan"
   ]
 }

@@ -90,5 +90,32 @@
       "rating": "7",
       "text": "An interesting movie about faith and fundamentalism. i liked it because i agree with it. that is probably one's biggest reason to like the film. i also liked the characters and the science."
     }
+  ],
+  "recommendations": [
+    "gone_with_the_wind",
+    "risen",
+    "snowden",
+    "tolkien",
+    "free_state_of_jones",
+    "the_lovers",
+    "samson",
+    "men_of_honor",
+    "the_imitation_game",
+    "the_last_duel",
+    "the_last_samurai",
+    "the_pianist",
+    "the_reader",
+    "the_last_king_of_scotland",
+    "hostiles",
+    "seven_years_in_tibet",
+    "the_white_tiger",
+    "gattaca",
+    "dogville",
+    "darkest_hour",
+    "colette",
+    "upside_down",
+    "spotlight",
+    "blood_diamond",
+    "the_33"
   ]
 }

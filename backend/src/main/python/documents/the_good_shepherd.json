@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "The Good Sheppard is complex and fooregoes spy thriller techniques in order to accurately portray an organization embedded inScull and Bones and capable of anything, and destructive to the welfare of this country."
     }
+  ],
+  "recommendations": [
+    "hereafter",
+    "the_master",
+    "ex_machina",
+    "a_most_wanted_man",
+    "the_machinist",
+    "beirut",
+    "12_angry_men",
+    "the_rover",
+    "tinker_tailor_soldier_spy",
+    "the_social_network",
+    "her",
+    "manchester_by_the_sea",
+    "the_beguiled",
+    "no_country_for_old_men",
+    "predestination",
+    "the_last_duel",
+    "the_place_beyond_the_pines",
+    "tenet",
+    "crash",
+    "a_most_violent_year",
+    "sicario_day_of_the_soldado",
+    "first_man",
+    "the_devil_all_the_time",
+    "the_killing_of_a_sacred_deer",
+    "mark_felt_the_man_who_brought_down_the_white_house"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Funny, exciting, and shocking if you weren't already spoiled by someone. Avengers: Endgame does an amazing job of wrapping up 11 years of the Marvel Cinematic Universe. If you've been with the series all along, then you are guaranteed to cry at least 3 times during the movie, and use the bathroom right before you enter the theater!"
     }
+  ],
+  "recommendations": [
+    "avengers_infinity_war",
+    "black_widow",
+    "the_hunger_games_mockingjay_part_2",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "thor_ragnarok",
+    "avengers_age_of_ultron",
+    "man_of_steel",
+    "maze_runner_the_death_cure",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "thor_the_dark_world",
+    "x_men_days_of_future_past",
+    "top_gun_maverick",
+    "terminator_genisys",
+    "edge_of_tomorrow",
+    "glass",
+    "the_hunger_games_catching_fire",
+    "rocky_balboa",
+    "the_hunger_games_mockingjay_part_1",
+    "the_matrix_revolutions",
+    "unbroken",
+    "x_men_apocalypse",
+    "the_5th_wave",
+    "no_country_for_old_men",
+    "super_8",
+    "serenity"
   ]
 }

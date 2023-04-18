@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Philosophical popcorn that doesn't disrespect Philip K. Dick's story...too much. I enjoyed it but won't remember it except to say, \"that one movie where Matt Damon goes through doors.\""
     }
+  ],
+  "recommendations": [
+    "downsizing",
+    "limitless",
+    "colossal",
+    "the_butterfly_effect",
+    "paper_towns",
+    "tomorrowland",
+    "code_8",
+    "pay_it_forward",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "hereafter",
+    "chaos_walking",
+    "the_craft_legacy",
+    "lucy",
+    "chappie",
+    "vivarium",
+    "elysium",
+    "the_vow",
+    "her",
+    "contagion",
+    "predestination",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "nerve",
+    "soul_surfer",
+    "vanilla_sky",
+    "x_men_apocalypse"
   ]
 }

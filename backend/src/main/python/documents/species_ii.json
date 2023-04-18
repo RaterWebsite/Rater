@@ -58,5 +58,32 @@
       "rating": "0",
       "text": "This movie is STUPID! The ending left everything up in the air paving the way for a Species 3; thank God that never came about."
     }
+  ],
+  "recommendations": [
+    "the_predator",
+    "alien_resurrection",
+    "leatherface",
+    "blade_trinity",
+    "underworld",
+    "predators",
+    "the_green_inferno",
+    "hostel_part_ii",
+    "transformers_age_of_extinction",
+    "army_of_the_dead",
+    "jason_x",
+    "piranha_3dd",
+    "underworld_blood_wars",
+    "hellbound_hellraiser_ii",
+    "day_of_the_dead_bloodline",
+    "anaconda",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "blood_red_sky",
+    "predator_2",
+    "deep_blue_sea",
+    "daybreakers",
+    "30_days_of_night",
+    "doomsday",
+    "legion",
+    "dawn_of_the_dead"
   ]
 }

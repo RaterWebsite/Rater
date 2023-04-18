@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I really love the movie and never feel bored to watch many timesThe music, the story was amazingThe khan theme with the scene really touch my soul..."
     }
+  ],
+  "recommendations": [
+    "blood_diamond",
+    "the_shawshank_redemption",
+    "breakthrough",
+    "cinderella_man",
+    "a_beautiful_mind",
+    "revolutionary_road",
+    "american_history_x",
+    "hotel_rwanda",
+    "the_ultimate_gift",
+    "brokeback_mountain",
+    "the_upside",
+    "joker",
+    "the_blind_side",
+    "remember_the_titans",
+    "i_am_sam",
+    "eternal_sunshine_of_the_spotless_mind",
+    "woodlawn",
+    "i_can_only_imagine",
+    "3_idiots",
+    "eddie_the_eagle",
+    "the_social_network",
+    "manchester_by_the_sea",
+    "invictus",
+    "forrest_gump",
+    "eternals"
   ]
 }

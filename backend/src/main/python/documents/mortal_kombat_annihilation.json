@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "I completely understand liking this movie in Guilty pleasure kind of way (even though I don\u00b4t really like to use that word, you should be able to like what you like even if the rest of the world hates it) but it\u00b4s just not for me."
     }
+  ],
+  "recommendations": [
+    "the_legend_of_hercules",
+    "battleship",
+    "teenage_mutant_ninja_turtles",
+    "transformers_revenge_of_the_fallen",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "bloodshot",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_day_the_earth_stood_still",
+    "transporter_2",
+    "hitman_agent_47",
+    "the_matrix_resurrections",
+    "suicide_squad",
+    "dragonball_evolution",
+    "ghost_rider_spirit_of_vengeance",
+    "clash_of_the_titans",
+    "abduction",
+    "into_the_storm",
+    "volcano",
+    "gods_of_egypt",
+    "polar",
+    "spy_kids_3_d_game_over",
+    "pacific_rim_uprising",
+    "poseidon",
+    "transformers_the_last_knight",
+    "doom"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "The best Superman adaptation, period. It shows that Warner Brothers has always been the problem. When they even fired Richard Donnor. Who clearly knew how to use Superman."
     }
+  ],
+  "recommendations": [
+    "man_of_steel",
+    "captain_america_the_first_avenger",
+    "superman_returns",
+    "superman_ii",
+    "thor",
+    "the_amazing_spider_man",
+    "batman_v_superman_dawn_of_justice",
+    "thor_ragnarok",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "spider_man_far_from_home",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "bumblebee",
+    "spider_man_into_the_spider_verse",
+    "x_men_days_of_future_past",
+    "green_lantern",
+    "spider_man_3",
+    "x_men_apocalypse",
+    "rocky_balboa",
+    "seventh_son",
+    "the_karate_kid_part_iii",
+    "spider_man_homecoming",
+    "rise_of_the_planet_of_the_apes",
+    "terminator_genisys",
+    "back_to_the_future_part_ii",
+    "terminator_3_rise_of_the_machines"
   ]
 }

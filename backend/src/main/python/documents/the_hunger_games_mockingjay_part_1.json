@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "Nothing really important happened in this movie, except the climax. I left the theater with a feeling that I just watched a extended edition of the first act of the movie. If splitting Deathly Hallows and even Breaking Dawn into two parts was ultimately justified, here they didn't even try to make it satisfying."
     }
+  ],
+  "recommendations": [
+    "the_hunger_games_mockingjay_part_2",
+    "contagion",
+    "maze_runner_the_scorch_trials",
+    "limitless",
+    "the_maze_runner",
+    "next",
+    "maze_runner_the_death_cure",
+    "avengers_infinity_war",
+    "sanctum",
+    "the_new_mutants",
+    "bird_box",
+    "a_quiet_place_part_ii",
+    "the_hunger_games",
+    "vantage_point",
+    "what_happened_to_monday",
+    "the_power_of_the_dog",
+    "the_grey",
+    "x_men_apocalypse",
+    "tomb_raider",
+    "how_it_ends",
+    "the_butterfly_effect",
+    "the_tomorrow_war",
+    "terminator_genisys",
+    "code_8",
+    "chaos_walking"
   ]
 }

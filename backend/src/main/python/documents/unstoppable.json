@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "An amazing flick with lots of action and even some comedy. Recommended to everyone, young or old, this is a future legend... it's unstoppable!!!!!!!!!"
     }
+  ],
+  "recommendations": [
+    "the_commuter",
+    "premium_rush",
+    "triple_frontier",
+    "the_taking_of_pelham_1_2_3",
+    "safe_house",
+    "the_equalizer",
+    "the_equalizer_2",
+    "the_accountant",
+    "the_next_three_days",
+    "den_of_thieves",
+    "good_time",
+    "the_island",
+    "the_mechanic",
+    "angel_has_fallen",
+    "creed_ii",
+    "21_bridges",
+    "the_bank_job",
+    "run_all_night",
+    "a_walk_among_the_tombstones",
+    "jack_ryan_shadow_recruit",
+    "breach",
+    "skyscraper",
+    "the_guardian",
+    "contraband",
+    "wrath_of_man"
   ]
 }

@@ -160,5 +160,32 @@
       "rating": "6",
       "text": "The strongest aspect of this movie is it's soundtrack, which is excellent.Jackson's performance is captivating, but this outlandish story could of been better told in the hands of a more accomplished director."
     }
+  ],
+  "recommendations": [
+    "meet_joe_black",
+    "savages",
+    "hanna",
+    "magic_mikes_last_dance",
+    "snow_white_and_the_huntsman",
+    "chef",
+    "those_who_wish_me_dead",
+    "red_riding_hood",
+    "catwoman",
+    "jumper",
+    "hustlers",
+    "magic_mike_xxl",
+    "baby_driver",
+    "miami_vice",
+    "the_tourist",
+    "tusk",
+    "the_king_of_staten_island",
+    "limitless",
+    "into_the_blue",
+    "pan",
+    "there_will_be_blood",
+    "the_gambler",
+    "gone_baby_gone",
+    "footloose",
+    "split"
   ]
 }

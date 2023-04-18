@@ -50,5 +50,32 @@
       "rating": "10",
       "text": "this movie is underapreciated. I watched it twice and cried in both times. idk why people hate it"
     }
+  ],
+  "recommendations": [
+    "book_of_shadows_blair_witch_2",
+    "jeepers_creepers_reborn",
+    "blair_witch",
+    "the_grudge_2",
+    "rings",
+    "see_no_evil",
+    "the_ring_two",
+    "the_texas_chainsaw_massacre",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "the_grudge",
+    "the_omen",
+    "friday_the_13th",
+    "poltergeist",
+    "halloween_resurrection",
+    "halloween_the_curse_of_michael_myers",
+    "halloween_iii_season_of_the_witch",
+    "a_nightmare_on_elm_street",
+    "the_devil_inside",
+    "the_eye",
+    "the_amityville_horror",
+    "the_matrix_resurrections",
+    "the_host",
+    "the_bye_bye_man",
+    "ouija",
+    "a_haunted_house_2"
   ]
 }

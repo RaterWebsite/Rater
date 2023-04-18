@@ -208,5 +208,32 @@
       "rating": "6",
       "text": "Pretty funny movie. Two of the most funniest people around. The movie was just your average type comedy movie but worth to see it at least once."
     }
+  ],
+  "recommendations": [
+    "dodgeball_a_true_underdog_story",
+    "zoolander",
+    "masterminds",
+    "paul_blart_mall_cop",
+    "the_wedding_ringer",
+    "dirty_grandpa",
+    "step_brothers",
+    "ted",
+    "the_other_guys",
+    "thunder_force",
+    "forgetting_sarah_marshall",
+    "neighbors",
+    "wedding_crashers",
+    "identity_thief",
+    "the_hangover",
+    "hall_pass",
+    "zack_and_miri_make_a_porno",
+    "30_minutes_or_less",
+    "knocked_up",
+    "what_happens_in_vegas",
+    "spy",
+    "the_ridiculous_6",
+    "dinner_for_schmucks",
+    "central_intelligence",
+    "tower_heist"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Il film l'ho visto oggi con mio figlio di 7 anni eni suoi amici e genitori. Un gran bel film per bambini e adulti, Downey \u00e8 il solito carismatico attore che riesce ad intrattenerti con uno sguardo, film divertente, grandi risate, veloce, bellissime scenografie e cos\u00ec puro da farti sognare. Consigliatissimo"
     }
+  ],
+  "recommendations": [
+    "pan",
+    "the_tale_of_despereaux",
+    "thor_love_and_thunder",
+    "shazam_fury_of_the_gods",
+    "journey_to_the_center_of_the_earth",
+    "yogi_bear",
+    "the_lego_movie",
+    "teenage_mutant_ninja_turtles",
+    "jumper",
+    "minions",
+    "poseidon",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "monsters_vs_aliens",
+    "seventh_son",
+    "uglydolls",
+    "sherlock_gnomes",
+    "a_wrinkle_in_time",
+    "the_smurfs",
+    "megamind",
+    "free_birds",
+    "the_day_the_earth_stood_still",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "space_jam_a_new_legacy",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "guardians_of_the_galaxy"
   ]
 }

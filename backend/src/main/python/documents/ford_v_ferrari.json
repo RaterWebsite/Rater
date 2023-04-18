@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "The racing sequences are cool but much of the drama feels contrived. Bale is entertaining."
     }
+  ],
+  "recommendations": [
+    "rush",
+    "top_gun",
+    "hell_or_high_water",
+    "apollo_13",
+    "unstoppable",
+    "news_of_the_world",
+    "american_made",
+    "widows",
+    "the_place_beyond_the_pines",
+    "rocky",
+    "man_on_fire",
+    "the_finest_hours",
+    "heat",
+    "a_most_wanted_man",
+    "creed_ii",
+    "sully",
+    "good_time",
+    "a_most_violent_year",
+    "creed",
+    "flight",
+    "the_rover",
+    "the_infiltrator",
+    "the_irishman",
+    "the_equalizer_2",
+    "deepwater_horizon"
   ]
 }

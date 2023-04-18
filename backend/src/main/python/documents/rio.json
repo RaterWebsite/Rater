@@ -227,5 +227,32 @@
       "rating": "0",
       "text": "This is a charming movie where birds poke their heads off.    (hint don't Watch, sucks)"
     }
+  ],
+  "recommendations": [
+    "trolls",
+    "rio_2",
+    "strange_magic",
+    "the_croods",
+    "rango",
+    "over_the_moon",
+    "atlantis_the_lost_empire",
+    "shaun_the_sheep_movie",
+    "bolt",
+    "zootopia",
+    "klaus",
+    "winnie_the_pooh_blood_and_honey",
+    "how_to_train_your_dragon",
+    "tangled",
+    "sing_2",
+    "ratatouille",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "ice_age",
+    "the_book_of_life",
+    "moana",
+    "my_little_pony_the_movie",
+    "rise_of_the_guardians",
+    "home_on_the_range",
+    "ice_age_the_meltdown",
+    "puss_in_boots_the_last_wish"
   ]
 }

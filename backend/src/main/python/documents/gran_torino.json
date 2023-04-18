@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "This is one of the best movies I have seen in a long time."
     }
+  ],
+  "recommendations": [
+    "the_departed",
+    "the_guardian",
+    "mystic_river",
+    "changeling",
+    "abduction",
+    "eastern_promises",
+    "black_panther_wakanda_forever",
+    "million_dollar_baby",
+    "inside_man",
+    "gemini_man",
+    "lucky_number_slevin",
+    "seven_pounds",
+    "american_gangster",
+    "joker",
+    "there_will_be_blood",
+    "the_irishman",
+    "hancock",
+    "the_gambler",
+    "meet_joe_black",
+    "the_tax_collector",
+    "scarface",
+    "ben_hur",
+    "true_grit",
+    "the_gentlemen",
+    "captain_marvel"
   ]
 }

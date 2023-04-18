@@ -224,5 +224,32 @@
       "rating": "8",
       "text": "Sean William Scott and Paul Rudd come together and produce a comical-bromantic-based story. With their costars shining as bright as the main stars, the film presents a funny atmosphere with the typical satirical feel. A clever script/plot bounded together with a joyous and hysterical hold."
     }
+  ],
+  "recommendations": [
+    "horrible_bosses",
+    "meet_the_parents",
+    "get_smart",
+    "forgetting_sarah_marshall",
+    "central_intelligence",
+    "the_longest_yard",
+    "zack_and_miri_make_a_porno",
+    "spy",
+    "the_wedding_ringer",
+    "zoolander",
+    "dodgeball_a_true_underdog_story",
+    "the_pink_panther",
+    "50_first_dates",
+    "grudge_match",
+    "friends_with_benefits",
+    "the_break_up",
+    "anger_management",
+    "blockers",
+    "johnny_english",
+    "coming_to_america",
+    "wedding_crashers",
+    "my_spy",
+    "clueless",
+    "bachelorette",
+    "just_friends"
   ]
 }

@@ -228,5 +228,32 @@
       "rating": "9",
       "text": "Finest children's film (feels like a misnomer, honestly) I've seen since Toy Story 3. I took a date, and we laughed throughout the entire movie. This film is a pure joy. Technically masterful, comedically sharp, dazzlingly original. I'd go see it again in a heartbeat. Cannot recommend it highly enough!"
     }
+  ],
+  "recommendations": [
+    "free_birds",
+    "tmnt",
+    "ice_age_the_meltdown",
+    "guardians_of_the_galaxy",
+    "minions",
+    "minions_the_rise_of_gru",
+    "the_lego_movie_2_the_second_part",
+    "peter_rabbit",
+    "hotel_transylvania_2",
+    "the_angry_birds_movie",
+    "cloudy_with_a_chance_of_meatballs",
+    "the_spongebob_movie_sponge_out_of_water",
+    "the_croods",
+    "turbo",
+    "incredibles_2",
+    "storks",
+    "megamind",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "hotel_transylvania",
+    "shaun_the_sheep_movie",
+    "despicable_me_2",
+    "my_little_pony_the_movie",
+    "hotel_transylvania_3_summer_vacation",
+    "paranorman",
+    "ice_age_dawn_of_the_dinosaurs"
   ]
 }

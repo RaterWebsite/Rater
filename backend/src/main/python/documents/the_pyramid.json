@@ -88,5 +88,32 @@
       "rating": "5",
       "text": "Director Gregory Levasseur isn't able to make use of the claustrophobic sets in any way beyond what an average person with a smart phone can. He can't take the audience on a ride, the way good horror movies do."
     }
+  ],
+  "recommendations": [
+    "chernobyl_diaries",
+    "the_blair_witch_project",
+    "malignant",
+    "annabelle",
+    "event_horizon",
+    "the_curse_of_la_llorona",
+    "the_host",
+    "monsters",
+    "dark_skies",
+    "ouija",
+    "bird_box",
+    "insidious",
+    "midsommar",
+    "unfriended",
+    "the_strangers",
+    "the_devil_inside",
+    "blair_witch",
+    "the_medium",
+    "host",
+    "slender_man",
+    "unfriended_dark_web",
+    "countdown",
+    "devil",
+    "the_descent",
+    "paranormal_activity_the_ghost_dimension"
   ]
 }

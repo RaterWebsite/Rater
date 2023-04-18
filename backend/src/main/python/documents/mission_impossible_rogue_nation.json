@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Rogue Nation is totally the best in the Mission Impossible franchise. Much better than the preceder, Ghost Protocol. A lot of excitement, amazing action scenes, funny, thrilling, everything was perfect, the cast gives an incredible performance, I totally loved Rogue Nation, this film is the best action film of Tom Cruise so far."
     }
+  ],
+  "recommendations": [
+    "mission_impossible_ghost_protocol",
+    "mission_impossible",
+    "angel_has_fallen",
+    "spectre",
+    "the_bourne_legacy",
+    "quantum_of_solace",
+    "jack_ryan_shadow_recruit",
+    "the_commuter",
+    "the_bourne_ultimatum",
+    "creed_ii",
+    "mission_impossible_iii",
+    "the_equalizer",
+    "mission_impossible_ii",
+    "the_fate_of_the_furious",
+    "the_mechanic",
+    "sherlock_holmes_a_game_of_shadows",
+    "tomorrow_never_dies",
+    "mad_max",
+    "boss_level",
+    "maze_runner_the_death_cure",
+    "shooter",
+    "the_island",
+    "unstoppable",
+    "skyscraper",
+    "avengers_age_of_ultron"
   ]
 }

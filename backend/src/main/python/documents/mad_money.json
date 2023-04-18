@@ -38,5 +38,32 @@
       "rating": "6",
       "text": "Mad Money is harmless. Sure, Katie Holmes is awkward (I think they may have casted her precisely for that reason), but Diane Keaton and Queen Latifah create a fun environment to spend an hour and a half amidst."
     }
+  ],
+  "recommendations": [
+    "dogville",
+    "cloud_atlas",
+    "the_fountain",
+    "joker",
+    "the_social_network",
+    "fear_and_loathing_in_las_vegas",
+    "perfume_the_story_of_a_murderer",
+    "lost_in_translation",
+    "american_history_x",
+    "v_for_vendetta",
+    "a_clockwork_orange",
+    "the_shawshank_redemption",
+    "revolutionary_road",
+    "tolkien",
+    "antebellum",
+    "my_name_is_khan",
+    "overcomer",
+    "roma",
+    "gone_with_the_wind",
+    "a_beautiful_mind",
+    "the_monuments_men",
+    "12_angry_men",
+    "risen",
+    "the_lobster",
+    "amores_perros"
   ]
 }

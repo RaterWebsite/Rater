@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "I don't see why this movie got bad reviews! While the plot seemed to jump from one to another, the move was still amusing and entertaining. This movie made my summer!"
     }
+  ],
+  "recommendations": [
+    "deuce_bigalow_european_gigolo",
+    "movie_43",
+    "meet_the_spartans",
+    "grown_ups",
+    "miss_march",
+    "scary_movie_5",
+    "epic_movie",
+    "a_haunted_house",
+    "dumb_and_dumber_to",
+    "vampires_suck",
+    "the_hangover",
+    "the_watch",
+    "one_year_one_night",
+    "hot_tub_time_machine",
+    "pixels",
+    "the_ridiculous_6",
+    "sex_tape",
+    "couples_retreat",
+    "this_is_the_end",
+    "hubie_halloween",
+    "anchorman_2_the_legend_continues",
+    "norbit",
+    "thunder_force",
+    "30_minutes_or_less",
+    "dinner_for_schmucks"
   ]
 }

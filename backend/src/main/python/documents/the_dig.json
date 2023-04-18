@@ -129,5 +129,32 @@
       "rating": "6",
       "text": "An interesting story with good performances but the film definitely drags for a good portion of it."
     }
+  ],
+  "recommendations": [
+    "nocturnal_animals",
+    "motherless_brooklyn",
+    "the_electrical_life_of_louis_wain",
+    "kingdom_of_heaven",
+    "anna_karenina",
+    "dances_with_wolves",
+    "the_light_between_oceans",
+    "belfast",
+    "the_grand_budapest_hotel",
+    "the_hurricane",
+    "phantom_thread",
+    "tulip_fever",
+    "the_master",
+    "the_ballad_of_buster_scruggs",
+    "the_theory_of_everything",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "20th_century_women",
+    "jackie",
+    "carol",
+    "ex_machina",
+    "nomadland",
+    "the_last_duel",
+    "the_walk",
+    "the_godfather_part_ii",
+    "21_grams"
   ]
 }

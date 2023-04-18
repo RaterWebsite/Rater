@@ -207,5 +207,32 @@
       "rating": "8",
       "text": "A good movie that has been remembered unfairly for it's behind the scenes dramas. Worth seeing"
     }
+  ],
+  "recommendations": [
+    "a_most_wanted_man",
+    "arbitrage",
+    "black_mass",
+    "breach",
+    "catch_me_if_you_can",
+    "american_hustle",
+    "primal_fear",
+    "widows",
+    "state_of_play",
+    "casino",
+    "money_monster",
+    "steve_jobs",
+    "body_of_lies",
+    "american_gangster",
+    "legend",
+    "lawless",
+    "the_place_beyond_the_pines",
+    "wall_street",
+    "changeling",
+    "the_iceman",
+    "the_devil_all_the_time",
+    "donnie_brasco",
+    "man_on_fire",
+    "inside_man",
+    "the_judge"
   ]
 }

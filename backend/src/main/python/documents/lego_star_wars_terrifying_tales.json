@@ -38,5 +38,32 @@
       "rating": "7",
       "text": "Ca\u0142kiem zabawna i interesuj\u0105ca pozycja w klimatach haloweenowych dla m\u0142odszej widowni, z kilkoma skoczkami te\u017c dla starszych wyjadaczy. Przyjemnie si\u0119 ogl\u0105da\u0142o"
     }
+  ],
+  "recommendations": [
+    "rogue_one_a_star_wars_story",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "star_wars_the_clone_wars",
+    "star_wars_episode_ii_attack_of_the_clones",
+    "solo_a_star_wars_story",
+    "the_ballad_of_buster_scruggs",
+    "star_trek_the_motion_picture",
+    "star_wars_episode_i_the_phantom_menace",
+    "toy_story_4",
+    "star_trek",
+    "mad_max_beyond_thunderdome",
+    "star_trek_insurrection",
+    "toy_story_3",
+    "indiana_jones_and_the_temple_of_doom",
+    "kung_fu_panda_3",
+    "toy_story_2",
+    "back_to_the_future_part_iii",
+    "creepshow",
+    "star_trek_nemesis",
+    "war_dogs",
+    "robin_hood",
+    "raiders_of_the_lost_ark",
+    "star_trek_into_darkness",
+    "star_trek_beyond",
+    "the_princess_bride"
   ]
 }

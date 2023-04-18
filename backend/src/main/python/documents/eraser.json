@@ -47,5 +47,32 @@
       "rating": "7",
       "text": "A decent action flick, with a touch of cool tech, but overall, not much more than that."
     }
+  ],
+  "recommendations": [
+    "homefront",
+    "red_heat",
+    "the_incredible_hulk",
+    "die_another_day",
+    "bullet_to_the_head",
+    "the_legend_of_zorro",
+    "conan_the_destroyer",
+    "brick_mansions",
+    "parker",
+    "mechanic_resurrection",
+    "rocky_iii",
+    "gunpowder_milkshake",
+    "days_of_thunder",
+    "kate",
+    "vertical_limit",
+    "kickboxer",
+    "the_world_is_not_enough",
+    "daredevil",
+    "first_blood",
+    "extraction",
+    "terminator_3_rise_of_the_machines",
+    "shanghai_knights",
+    "rocky_ii",
+    "die_hard",
+    "speed_2_cruise_control"
   ]
 }

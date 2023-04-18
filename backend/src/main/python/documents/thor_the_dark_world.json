@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Thor 2 is easy to forget, with a predictable story and character not so charismatic. Sometimes can be a little bit boring, but have some good action scenes."
     }
+  ],
+  "recommendations": [
+    "avengers_age_of_ultron",
+    "thor_ragnarok",
+    "guardians_of_the_galaxy",
+    "indiana_jones_and_the_temple_of_doom",
+    "hercules",
+    "edge_of_tomorrow",
+    "the_suicide_squad",
+    "ant_man_and_the_wasp_quantumania",
+    "thor",
+    "the_a_team",
+    "poseidon",
+    "transformers_dark_of_the_moon",
+    "justice_league",
+    "bumblebee",
+    "jack_the_giant_slayer",
+    "shazam_fury_of_the_gods",
+    "kingsman_the_golden_circle",
+    "black_widow",
+    "the_three_musketeers",
+    "dredd",
+    "american_ultra",
+    "jungle_cruise",
+    "kung_fu_panda_2",
+    "sherlock_holmes_a_game_of_shadows",
+    "king_arthur_legend_of_the_sword"
   ]
 }

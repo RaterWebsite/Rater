@@ -224,5 +224,32 @@
       "rating": "7",
       "text": "A fantastically well executed movie, for what is at the end pretty much a lost boy going home story. Plenty of interesting elements throughout the movie make for an engaging, and at times very moving watch, but there seemed to be a central skeleton missing here, something to really make it defining."
     }
+  ],
+  "recommendations": [
+    "the_light_between_oceans",
+    "minari",
+    "call_me_by_your_name",
+    "the_glass_castle",
+    "the_florida_project",
+    "belfast",
+    "the_impossible",
+    "stand_by_me_doraemon_2",
+    "blue_valentine",
+    "carol",
+    "leave_no_trace",
+    "the_age_of_adaline",
+    "the_boy_who_harnessed_the_wind",
+    "a_monster_calls",
+    "nomadland",
+    "the_danish_girl",
+    "only_the_brave",
+    "marriage_story",
+    "gifted",
+    "legends_of_the_fall",
+    "manchester_by_the_sea",
+    "the_bridges_of_madison_county",
+    "the_lost_city_of_z",
+    "the_book_thief",
+    "the_descendants"
   ]
 }

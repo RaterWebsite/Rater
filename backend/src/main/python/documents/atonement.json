@@ -225,5 +225,32 @@
       "rating": "1",
       "text": "Quite possibly the most boring film ever made. Yes I admit it was shot beautifully but you can't just rely on that. It just dragged on for too long and there was no real story. It didn't feel like it was going anywhere at all. Way too over-rated. Don't get your hopes up."
     }
+  ],
+  "recommendations": [
+    "the_power_of_the_dog",
+    "hugo",
+    "the_illusionist",
+    "there_will_be_blood",
+    "tinker_tailor_soldier_spy",
+    "magnolia",
+    "the_irishman",
+    "perfume_the_story_of_a_murderer",
+    "changeling",
+    "ben_hur",
+    "shutter_island",
+    "roma",
+    "the_mountain_between_us",
+    "bad_times_at_the_el_royale",
+    "titanic",
+    "alice_through_the_looking_glass",
+    "the_green_knight",
+    "the_lucky_one",
+    "the_curious_case_of_benjamin_button",
+    "gone_girl",
+    "seven_pounds",
+    "the_lovely_bones",
+    "the_bfg",
+    "reminiscence",
+    "127_hours"
   ]
 }

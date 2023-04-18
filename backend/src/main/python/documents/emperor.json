@@ -62,5 +62,32 @@
       "rating": "4",
       "text": "I loved seeing the behind-the-scenes historical information brought to life. And the fact that Japans emperor was saved by the love of a Japanese girl for an American. How ironic. Excellent movie."
     }
+  ],
+  "recommendations": [
+    "letters_from_iwo_jima",
+    "free_state_of_jones",
+    "a_united_kingdom",
+    "american_sniper",
+    "seven_years_in_tibet",
+    "apocalypse_now",
+    "22_july",
+    "munich",
+    "the_pianist",
+    "race",
+    "the_lost_city_of_z",
+    "platoon",
+    "the_imitation_game",
+    "lone_survivor",
+    "the_mauritanian",
+    "snowden",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_hurt_locker",
+    "full_metal_jacket",
+    "the_33",
+    "gone_with_the_wind",
+    "patriots_day",
+    "green_zone",
+    "darkest_hour",
+    "valkyrie"
   ]
 }

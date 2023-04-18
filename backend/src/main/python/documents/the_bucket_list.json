@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "A genuinely good movie that doesn't deserve the flack it received at the time of release."
     }
+  ],
+  "recommendations": [
+    "confessions_of_a_shopaholic",
+    "seven_pounds",
+    "greenberg",
+    "minions_the_rise_of_gru",
+    "the_art_of_racing_in_the_rain",
+    "click",
+    "bridge_to_terabithia",
+    "pay_it_forward",
+    "how_to_be_single",
+    "funny_people",
+    "the_vow",
+    "17_again",
+    "the_family_man",
+    "3_idiots",
+    "chef",
+    "slumdog_millionaire",
+    "yes_man",
+    "the_blind_side",
+    "the_lake_house",
+    "passengers",
+    "there_will_be_blood",
+    "the_butterfly_effect",
+    "tomorrowland",
+    "the_adjustment_bureau",
+    "burn_after_reading"
   ]
 }

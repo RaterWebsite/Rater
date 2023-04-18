@@ -134,5 +134,32 @@
       "rating": "9",
       "text": "It's Jim Carrey, what else do I need to say? It's hilarious, though there are a few cringe parts."
     }
+  ],
+  "recommendations": [
+    "ace_ventura_pet_detective",
+    "johnny_english",
+    "dumb_and_dumber",
+    "get_smart",
+    "the_pink_panther",
+    "bean",
+    "dodgeball_a_true_underdog_story",
+    "scary_movie_3",
+    "the_wedding_ringer",
+    "the_dictator",
+    "the_three_stooges",
+    "step_brothers",
+    "the_longest_yard",
+    "austin_powers_international_man_of_mystery",
+    "johnny_english_reborn",
+    "tropic_thunder",
+    "yes_man",
+    "masterminds",
+    "zack_and_miri_make_a_porno",
+    "hot_fuzz",
+    "superhero_movie",
+    "forgetting_sarah_marshall",
+    "dumb_and_dumber_to",
+    "ted",
+    "nacho_libre"
   ]
 }

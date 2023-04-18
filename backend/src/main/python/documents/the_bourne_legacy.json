@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "Overall a decent action movie with a good cast. However it's that's really only where it excels, it's action. The story is interesting enough to keep you watching but with a pretty lacklustre ending, you won't be discussing this film for the story. You'll be talking about all the really well put together action scenes. Worth watching."
     }
+  ],
+  "recommendations": [
+    "jason_bourne",
+    "the_bourne_supremacy",
+    "maze_runner_the_death_cure",
+    "mission_impossible",
+    "the_bourne_ultimatum",
+    "maze_runner_the_scorch_trials",
+    "infinite",
+    "quantum_of_solace",
+    "wrath_of_man",
+    "mission_impossible_rogue_nation",
+    "the_commuter",
+    "mission_impossible_ii",
+    "the_mechanic",
+    "taken_3",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "angel_has_fallen",
+    "the_november_man",
+    "den_of_thieves",
+    "max_steel",
+    "21_bridges",
+    "furious_7",
+    "mile_22",
+    "the_ice_road",
+    "mission_impossible_ghost_protocol",
+    "the_equalizer"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "I feel as though I watched a different movie as everyone else in the theater. \"Up\" is kind of a ludicrous tale, one that I simply could not get into, and I never felt a connection with ANY of the characters. This does not even come close to movies like Wall-E, which are visually stunning and far out there... in a good way. I cannot possibly recommend this movie to anyone, as it was forgettable even to my son."
     }
+  ],
+  "recommendations": [
+    "onward",
+    "zootopia",
+    "the_incredibles",
+    "soul",
+    "shaun_the_sheep_movie",
+    "finding_dory",
+    "the_polar_express",
+    "klaus",
+    "how_to_train_your_dragon_2",
+    "ratatouille",
+    "your_name",
+    "the_croods",
+    "the_peanuts_movie",
+    "paranorman",
+    "meet_the_robinsons",
+    "finding_nemo",
+    "atlantis_the_lost_empire",
+    "the_lego_movie",
+    "my_little_pony_the_movie",
+    "toy_story_3",
+    "the_book_of_life",
+    "the_good_dinosaur",
+    "rise_of_the_guardians",
+    "rio",
+    "brave"
   ]
 }

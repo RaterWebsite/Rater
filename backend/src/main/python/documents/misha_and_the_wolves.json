@@ -27,5 +27,32 @@
       "rating": "6",
       "text": "What starts as an intriguing premise for a documentary quickly turns into a run of the mill, predictable fare. The lack of the main protaganist also leaves a big hole in this movie."
     }
+  ],
+  "recommendations": [
+    "marauders",
+    "prey",
+    "the_beach_house",
+    "how_it_ends",
+    "i_see_you",
+    "the_rental",
+    "sweet_girl",
+    "unknown",
+    "beyond_the_reach",
+    "the_hurricane_heist",
+    "unlocked",
+    "the_call",
+    "escape_room",
+    "the_cloverfield_paradox",
+    "the_voyeurs",
+    "i_still_know_what_you_did_last_summer",
+    "stowaway",
+    "grudge",
+    "identity",
+    "spectral",
+    "honest_thief",
+    "man_on_a_ledge",
+    "the_informer",
+    "the_good_liar",
+    "21_bridges"
   ]
 }

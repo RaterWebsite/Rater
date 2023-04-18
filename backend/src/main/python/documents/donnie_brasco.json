@@ -154,5 +154,32 @@
       "rating": "10",
       "text": "Absolutely amazing film.One of the best Mafia films ever made. Compelling throughout.Pacino masterpiece as Lefty."
     }
+  ],
+  "recommendations": [
+    "arbitrage",
+    "the_accountant",
+    "widows",
+    "man_on_fire",
+    "american_gangster",
+    "hell_or_high_water",
+    "the_place_beyond_the_pines",
+    "child_44",
+    "knives_out",
+    "breach",
+    "beirut",
+    "black_mass",
+    "the_infiltrator",
+    "a_most_wanted_man",
+    "the_lincoln_lawyer",
+    "the_devil_all_the_time",
+    "public_enemies",
+    "white_boy_rick",
+    "news_of_the_world",
+    "stillwater",
+    "body_of_lies",
+    "the_town",
+    "savages",
+    "hereafter",
+    "the_experiment"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "The Big Lebowski is the greatest comedy ever made. It's relentlessly funny no matter how many times you see it. The amount of quotes from this movie that have sneaked into my daily life is frankly absurd!"
     }
+  ],
+  "recommendations": [
+    "the_spongebob_squarepants_movie",
+    "minions_the_rise_of_gru",
+    "the_green_hornet",
+    "ghostbusters",
+    "zack_and_miri_make_a_porno",
+    "pitch_perfect_2",
+    "hot_fuzz",
+    "deadpool_2",
+    "pulp_fiction",
+    "pineapple_express",
+    "sonic_the_hedgehog",
+    "click",
+    "seven_psychopaths",
+    "thor_ragnarok",
+    "the_three_stooges",
+    "friends_with_benefits",
+    "deadpool",
+    "forgetting_sarah_marshall",
+    "this_is_the_end",
+    "the_princess_bride",
+    "zombieland_double_tap",
+    "johnny_english_reborn",
+    "the_lego_movie",
+    "thor_love_and_thunder",
+    "megamind"
   ]
 }

@@ -46,5 +46,32 @@
       "rating": "2",
       "text": "If you're in the mood for a good laugh, give this slopfest a try. My favorite character is Max...see if you agree."
     }
+  ],
+  "recommendations": [
+    "true_lies",
+    "kingsman_the_secret_service",
+    "die_hard",
+    "last_action_hero",
+    "captain_america_the_first_avenger",
+    "hostage",
+    "the_suicide_squad",
+    "rush",
+    "sherlock_holmes_a_game_of_shadows",
+    "the_mummy",
+    "the_forbidden_kingdom",
+    "daredevil",
+    "spenser_confidential",
+    "the_rundown",
+    "grudge_match",
+    "black_widow",
+    "the_losers",
+    "the_incredible_hulk",
+    "thor",
+    "behind_enemy_lines",
+    "red",
+    "first_blood",
+    "fantastic_four",
+    "knight_and_day",
+    "the_fifth_element"
   ]
 }

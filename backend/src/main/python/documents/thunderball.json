@@ -110,5 +110,32 @@
       "rating": "9",
       "text": "Fun absurdity is what describes Thunderball as a movie. The plot and climax is ridiculous, but still is fun to watch and enjoyable after all these years due to being the least sexist and racist of the Sean Connery Bond movies along with From Russia With Love."
     }
+  ],
+  "recommendations": [
+    "skyfall",
+    "tomorrow_never_dies",
+    "diamonds_are_forever",
+    "spectre",
+    "you_only_live_twice",
+    "casino_royale",
+    "the_world_is_not_enough",
+    "no_time_to_die",
+    "quantum_of_solace",
+    "the_man_with_the_golden_gun",
+    "die_another_day",
+    "the_spy_who_loved_me",
+    "mission_impossible_rogue_nation",
+    "for_your_eyes_only",
+    "from_russia_with_love",
+    "octopussy",
+    "jack_reacher_never_go_back",
+    "killer_elite",
+    "xxx",
+    "mission_impossible_ghost_protocol",
+    "mad_max",
+    "taken_3",
+    "captain_america_civil_war",
+    "the_bourne_legacy",
+    "angel_has_fallen"
   ]
 }

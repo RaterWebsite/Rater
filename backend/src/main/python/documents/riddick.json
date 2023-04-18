@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This is hands down, the best action movie of the last 3 years, and the best movie Vin Diesel has ever made. Sometimes I wonder what these so called \"professional\" movie critics are smoking. Even my wife who hates these movies was thoroughly entertained from beginning to end. Absolutely fantastic movie, and a brilliant addition to the Riddick story."
     }
+  ],
+  "recommendations": [
+    "the_last_witch_hunter",
+    "pandorum",
+    "poseidon",
+    "surrogates",
+    "i_am_number_four",
+    "the_meg",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "independence_day_resurgence",
+    "the_tomorrow_war",
+    "avengers_age_of_ultron",
+    "hercules",
+    "bloodshot",
+    "guardians_of_the_galaxy",
+    "transformers_the_last_knight",
+    "pacific_rim_uprising",
+    "the_new_mutants",
+    "maze_runner_the_scorch_trials",
+    "underworld_awakening",
+    "i_am_legend",
+    "teenage_mutant_ninja_turtles",
+    "the_darkest_hour",
+    "jumper",
+    "serenity",
+    "underworld_blood_wars",
+    "terminator_genisys"
   ]
 }

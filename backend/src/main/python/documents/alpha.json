@@ -149,5 +149,32 @@
       "rating": "3",
       "text": "The dog was cute, the rest of the movie felt like what you would get if Joe Rogan wrote the story about how man domesticated dogs."
     }
+  ],
+  "recommendations": [
+    "kubo_and_the_two_strings",
+    "a_monster_calls",
+    "you_were_never_really_here",
+    "first_man",
+    "okja",
+    "in_the_heart_of_the_sea",
+    "the_road",
+    "how_to_train_your_dragon_the_hidden_world",
+    "the_water_horse",
+    "the_rover",
+    "the_ballad_of_buster_scruggs",
+    "the_good_dinosaur",
+    "ex_machina",
+    "the_iron_giant",
+    "your_name",
+    "the_light_between_oceans",
+    "smallfoot",
+    "a_ghost_story",
+    "under_the_skin",
+    "isle_of_dogs",
+    "the_killing_of_a_sacred_deer",
+    "midnight_special",
+    "dawn_of_the_planet_of_the_apes",
+    "the_boy_who_harnessed_the_wind",
+    "hugo"
   ]
 }

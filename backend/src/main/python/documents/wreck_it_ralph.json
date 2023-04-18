@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "This movie was a fantastic depiction of the lives and coalescence of many nostalgic video games dating back as far as 1981 (Qix), and as recent as today (Sonic, Bowser, etc.). This makes the film recognizable to the rounded ages of four to forty, given times of development. Go see it."
     }
+  ],
+  "recommendations": [
+    "the_angry_birds_movie",
+    "sonic_the_hedgehog_2",
+    "the_lego_movie",
+    "sonic_the_hedgehog",
+    "prince_of_persia_the_sands_of_time",
+    "meet_the_robinsons",
+    "zootopia",
+    "my_little_pony_the_movie",
+    "tmnt",
+    "home_on_the_range",
+    "free_guy",
+    "atlantis_the_lost_empire",
+    "ralph_breaks_the_internet",
+    "the_peanuts_movie",
+    "ice_age_the_meltdown",
+    "shaun_the_sheep_movie",
+    "bolt",
+    "how_to_train_your_dragon_2",
+    "rio_2",
+    "spy_kids_3_d_game_over",
+    "jumanji_welcome_to_the_jungle",
+    "warcraft",
+    "rio",
+    "rango",
+    "incredibles_2"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "This is one of those movies where I wanted it to be on a grander stage since the story is very important to the overall war. All in all it was a good movie that engages you in the material guided by a great score."
     }
+  ],
+  "recommendations": [
+    "12_years_a_slave",
+    "just_mercy",
+    "the_last_king_of_scotland",
+    "the_pianist",
+    "spotlight",
+    "judas_and_the_black_messiah",
+    "darkest_hour",
+    "hidden_figures",
+    "patriots_day",
+    "the_mauritanian",
+    "snowden",
+    "the_post",
+    "the_last_duel",
+    "hacksaw_ridge",
+    "the_white_tiger",
+    "denial",
+    "gone_with_the_wind",
+    "only_the_brave",
+    "free_state_of_jones",
+    "race",
+    "the_reader",
+    "empire_of_the_sun",
+    "richard_jewell",
+    "legends_of_the_fall",
+    "the_danish_girl"
   ]
 }

@@ -170,5 +170,32 @@
       "rating": "10",
       "text": "Great, very underrated, movie. The music and visuals of this movie are fantastic. It's one that the special effects used have held up over time. It's over 23 years old now as of this writing and yet it still looks and sounds amazing. This is all before we even mention the story. Even without good visuals or sound the story could stand up on it's own. I think the story really captures the essence of Carl Sagan."
     }
+  ],
+  "recommendations": [
+    "arrival",
+    "interstellar",
+    "the_martian",
+    "upside_down",
+    "risen",
+    "avatar",
+    "the_giver",
+    "annihilation",
+    "donnie_darko",
+    "chaos_walking",
+    "the_adjustment_bureau",
+    "elysium",
+    "her",
+    "hereafter",
+    "mortal_engines",
+    "sunshine",
+    "cloud_atlas",
+    "the_13th_warrior",
+    "chappie",
+    "stargate",
+    "valkyrie",
+    "i_am_mother",
+    "vanilla_sky",
+    "the_butterfly_effect",
+    "lucy"
   ]
 }

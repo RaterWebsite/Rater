@@ -47,5 +47,32 @@
       "rating": "8",
       "text": "It was cute. Not the greatest movie I've ever seen but it really made me want to read the book again. Watching this I remembered how I felt reading the book the first time. I hadn't gotten that feeling in awhile."
     }
+  ],
+  "recommendations": [
+    "herbie_fully_loaded",
+    "vampire_academy",
+    "the_mortal_instruments_city_of_bones",
+    "hannah_montana_the_movie",
+    "diary_of_a_wimpy_kid_dog_days",
+    "the_croods_a_new_age",
+    "sex_and_the_city",
+    "christmas_with_the_kranks",
+    "ghosts_of_girlfriends_past",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "garfield_a_tail_of_two_kitties",
+    "bedtime_stories",
+    "entourage",
+    "the_cat_in_the_hat",
+    "alvin_and_the_chipmunks",
+    "the_kissing_booth_2",
+    "ghostbusters_afterlife",
+    "the_game_plan",
+    "the_spongebob_squarepants_movie",
+    "sonic_the_hedgehog",
+    "freaky_friday",
+    "17_again",
+    "the_peanuts_movie",
+    "after_we_collided",
+    "bridge_to_terabithia"
   ]
 }

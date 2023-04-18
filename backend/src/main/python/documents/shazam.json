@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Without spoiling anything I'd just say that the movie is simply amazing. Trailers barely show anything. You're in for many surprises. Action and comedy are well balanced and there are some horror moments too. Lots of heart. I had a big smile throughout the movie. Every character had their moment to shine."
     }
+  ],
+  "recommendations": [
+    "despicable_me_2",
+    "goosebumps",
+    "hotel_transylvania_2",
+    "megamind",
+    "incredibles_2",
+    "spies_in_disguise",
+    "thor_ragnarok",
+    "peter_rabbit",
+    "jumanji_welcome_to_the_jungle",
+    "guardians_of_the_galaxy",
+    "deadpool",
+    "the_babysitter",
+    "free_guy",
+    "shazam_fury_of_the_gods",
+    "deadpool_2",
+    "despicable_me",
+    "minions",
+    "the_croods",
+    "the_lego_movie",
+    "love_and_monsters",
+    "the_green_hornet",
+    "the_princess_bride",
+    "turbo",
+    "ice_age_the_meltdown",
+    "puss_in_boots_the_last_wish"
   ]
 }

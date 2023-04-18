@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This movie was awesome. I just watched it and enjoyed it. The storyline was good. Bill Murray did a great job acting in it. The special effects were cool. The characters were good. Ghostbusters is one of the best films of the 1980s and it is definitely worth watching. P.S. Ghostbusters >>>>>>>>>>>>>>>>>>>>>>>> Justin Bieber."
     }
+  ],
+  "recommendations": [
+    "thor_ragnarok",
+    "the_babysitter",
+    "minions_the_rise_of_gru",
+    "the_fifth_element",
+    "shazam",
+    "pan",
+    "oz_the_great_and_powerful",
+    "the_big_lebowski",
+    "deadpool_2",
+    "ghostbusters_ii",
+    "the_green_hornet",
+    "guardians_of_the_galaxy",
+    "pitch_perfect_2",
+    "beetlejuice",
+    "the_princess_bride",
+    "stardust",
+    "edge_of_tomorrow",
+    "the_lego_movie",
+    "the_mummy",
+    "the_suicide_squad",
+    "jumanji_welcome_to_the_jungle",
+    "aquaman",
+    "megamind",
+    "spies_in_disguise",
+    "over_the_hedge"
   ]
 }

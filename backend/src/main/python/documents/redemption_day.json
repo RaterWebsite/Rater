@@ -124,5 +124,32 @@
       "rating": "0",
       "text": "Filme merdique il ne repr\u00e9sente pas lalgerie juste pour donner une mauvaise image, je d\u00e9teste ce filme les algerien c des personnes bonne, pas comme vous les repr\u00e9sente"
     }
+  ],
+  "recommendations": [
+    "v_for_vendetta",
+    "songbird",
+    "all_eyez_on_me",
+    "facing_the_giants",
+    "equilibrium",
+    "woodlawn",
+    "ben_hur",
+    "pulp_fiction",
+    "the_shawshank_redemption",
+    "morbius",
+    "antebellum",
+    "the_social_network",
+    "my_name_is_khan",
+    "joker",
+    "they_live",
+    "jarhead",
+    "blade_of_the_47_ronin",
+    "starship_troopers",
+    "samson",
+    "blood_diamond",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "cloud_atlas",
+    "inglourious_basterds",
+    "black_panther_wakanda_forever",
+    "the_last_airbender"
   ]
 }

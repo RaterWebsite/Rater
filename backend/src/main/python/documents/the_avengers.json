@@ -58,5 +58,32 @@
       "rating": "3",
       "text": "The Avengers is not only a poor movie, it also makes one lose any interest one could have had for it after a short time. It is a train crash in almost any way a movie with a budget like this can be."
     }
+  ],
+  "recommendations": [
+    "serenity",
+    "superman_ii",
+    "the_last_airbender",
+    "pulp_fiction",
+    "john_carter",
+    "101_dalmatians",
+    "justice_league",
+    "ben_hur",
+    "black_panther_wakanda_forever",
+    "ghostbusters_afterlife",
+    "ghostbusters_ii",
+    "supergirl",
+    "green_lantern",
+    "percy_jackson_sea_of_monsters",
+    "the_fifth_element",
+    "thor_love_and_thunder",
+    "minions_the_rise_of_gru",
+    "indiana_jones_and_the_temple_of_doom",
+    "thor_ragnarok",
+    "superman_returns",
+    "aquaman",
+    "the_lego_ninjago_movie",
+    "the_thing",
+    "the_many_saints_of_newark",
+    "terminator_genisys"
   ]
 }

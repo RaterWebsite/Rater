@@ -41,5 +41,32 @@
       "rating": "10",
       "text": "Very clever thought out movie. So funny I can't help but like this movie. One is trying to make her fall in love in days, and the other one is trying to make him break up with her in 10 days."
     }
+  ],
+  "recommendations": [
+    "leap_year",
+    "friends_with_benefits",
+    "last_vegas",
+    "hitch",
+    "sleeping_with_other_people",
+    "the_break_up",
+    "50_first_dates",
+    "just_like_heaven",
+    "sisters",
+    "the_proposal",
+    "no_strings_attached",
+    "10_things_i_hate_about_you",
+    "that_awkward_moment",
+    "morning_glory",
+    "the_dilemma",
+    "the_wedding_ringer",
+    "just_go_with_it",
+    "the_boss",
+    "tammy",
+    "a_bad_moms_christmas",
+    "17_again",
+    "wanderlust",
+    "forgetting_sarah_marshall",
+    "the_five_year_engagement",
+    "meet_the_parents"
   ]
 }

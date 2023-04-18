@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "My personal favorite movie by Johnny Depp. This movie is basically a 3rd person view too the worlds greatest drug binge. A strung out and reporter and his psychotic lawyer travel too Las Vegas to cover a motorcycle race, but instead spend most of their time dropping every drug known too exist and wrecking more havoc than I did when I was an angry, stoned teenager. Worth the watch."
     }
+  ],
+  "recommendations": [
+    "vanilla_sky",
+    "fight_club",
+    "morbius",
+    "chappie",
+    "cloud_atlas",
+    "inherent_vice",
+    "v_for_vendetta",
+    "the_13th_warrior",
+    "antebellum",
+    "scarface",
+    "tomorrowland",
+    "perfume_the_story_of_a_murderer",
+    "risen",
+    "joker",
+    "they_live",
+    "t2_trainspotting",
+    "ready_player_one",
+    "inception",
+    "the_butterfly_effect",
+    "apocalypto",
+    "the_adjustment_bureau",
+    "the_social_network",
+    "speed_racer",
+    "all_eyez_on_me",
+    "equilibrium"
   ]
 }

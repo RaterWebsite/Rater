@@ -41,5 +41,32 @@
       "rating": "10",
       "text": "Every once in a long while you come across a movie with zero expectations and enjoy the heck out of it."
     }
+  ],
+  "recommendations": [
+    "anna",
+    "stillwater",
+    "hotel_artemis",
+    "son_of_a_gun",
+    "the_only_living_boy_in_new_york",
+    "six_days_seven_nights",
+    "thoroughbreds",
+    "a_simple_favor",
+    "prey",
+    "before_i_fall",
+    "the_age_of_adaline",
+    "beirut",
+    "white_boy_rick",
+    "beyond_the_reach",
+    "the_good_liar",
+    "news_of_the_world",
+    "the_rental",
+    "midnight_special",
+    "good_people",
+    "the_beguiled",
+    "the_nutcracker_and_the_four_realms",
+    "before_i_go_to_sleep",
+    "the_best_exotic_marigold_hotel",
+    "burnt",
+    "reminiscence"
   ]
 }

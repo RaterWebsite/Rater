@@ -220,5 +220,32 @@
       "rating": "0",
       "text": "Simply one of the worst movies I've ever seen. The clich\u00e9s abound so much that they saturate the film, like 3 kg of salt in half a glass of water."
     }
+  ],
+  "recommendations": [
+    "midway",
+    "pompeii",
+    "red_tails",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "king_arthur_legend_of_the_sword",
+    "armageddon",
+    "poseidon",
+    "the_magnificent_seven",
+    "london_has_fallen",
+    "transformers_the_last_knight",
+    "infinite",
+    "12_strong",
+    "immortals",
+    "top_gun",
+    "san_andreas",
+    "seventh_son",
+    "the_1517_to_paris",
+    "greyhound",
+    "300_rise_of_an_empire",
+    "mortal_engines",
+    "blackhat",
+    "unbroken",
+    "jarhead",
+    "transformers_dark_of_the_moon",
+    "king_kong"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Good movie. Probably the biggest film of the spiderman series. I don't hate it but I also don't like it. Please don't come at me for this."
     }
+  ],
+  "recommendations": [
+    "spider_man_3",
+    "x_men_apocalypse",
+    "the_amazing_spider_man",
+    "iron_man_3",
+    "man_of_steel",
+    "ant_man_and_the_wasp_quantumania",
+    "bumblebee",
+    "spider_man_far_from_home",
+    "spider_man_homecoming",
+    "batman_v_superman_dawn_of_justice",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "max_steel",
+    "captain_marvel",
+    "superman_returns",
+    "avengers_infinity_war",
+    "terminator_genisys",
+    "the_dark_knight_rises",
+    "wonder_woman",
+    "chaos_walking",
+    "no_country_for_old_men",
+    "incredibles_2",
+    "colossal",
+    "x_men_origins_wolverine",
+    "creed_ii"
   ]
 }

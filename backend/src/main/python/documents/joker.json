@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Wow, I have to say I left the theater not knowing what to think, and I mean that in the best way possible. Never have I seen a film blend both fantasy and reality together so well since Pink Floyd The Wall. Excellent work to the filmmakers and the amazing actors."
     }
+  ],
+  "recommendations": [
+    "revolutionary_road",
+    "the_shawshank_redemption",
+    "perfume_the_story_of_a_murderer",
+    "the_social_network",
+    "fight_club",
+    "mystic_river",
+    "hotel_rwanda",
+    "changeling",
+    "no_country_for_old_men",
+    "hereafter",
+    "blood_diamond",
+    "the_green_mile",
+    "inception",
+    "morbius",
+    "eternals",
+    "cloud_atlas",
+    "million_dollar_baby",
+    "12_angry_men",
+    "bringing_out_the_dead",
+    "a_beautiful_mind",
+    "american_history_x",
+    "roma",
+    "manchester_by_the_sea",
+    "scarface",
+    "there_will_be_blood"
   ]
 }

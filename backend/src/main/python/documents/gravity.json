@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Rating this a 10 just to balance out the negative reviews from the people who just don't get it. If any movie warrants this kind of fandom loyalty which I usually don't care for, its this movie."
     }
+  ],
+  "recommendations": [
+    "jupiter_ascending",
+    "sunshine",
+    "monsters",
+    "interstellar",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "eo",
+    "2001_a_space_odyssey",
+    "poseidon",
+    "independence_day_resurgence",
+    "transformers_the_last_knight",
+    "tenet",
+    "dunkirk",
+    "into_the_storm",
+    "the_mountain_between_us",
+    "the_day_after_tomorrow",
+    "9",
+    "the_grey",
+    "prometheus",
+    "the_green_knight",
+    "a_quiet_place_part_ii",
+    "the_midnight_sky",
+    "captive_state",
+    "color_out_of_space",
+    "chaos_walking",
+    "the_tomorrow_war"
   ]
 }

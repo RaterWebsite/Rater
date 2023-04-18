@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "The critics rate this as the third worst Bond film ever, but don't let these put your mood down on wanting to watch an action packed film. The action and stunts are fun to watch, as the film gets you hooked on Bond escaping the clutches of Christoph Waltz's men, protecting the brilliant Lea at the same time or chasing an important character who has the capability of executing a terrorist attack. The story has an interesting touch, one to still not let go of previous Craig Bond films, maybe the scripting could've needed a bit of work. Other than that, the actors were great, the action was awesome, and I highly recommend if you can, IMAX. Spectre may not be up there with Skyfall and Casino Royale, but sill not only better than the accident that was Quantum of Solace but around the middle pack of Bond films."
     }
+  ],
+  "recommendations": [
+    "quantum_of_solace",
+    "the_world_is_not_enough",
+    "no_time_to_die",
+    "casino_royale",
+    "tomorrow_never_dies",
+    "mission_impossible_rogue_nation",
+    "creed_ii",
+    "skyfall",
+    "for_your_eyes_only",
+    "die_another_day",
+    "mission_impossible",
+    "mission_impossible_ghost_protocol",
+    "boss_level",
+    "sherlock_holmes_a_game_of_shadows",
+    "mission_impossible_ii",
+    "ant_man_and_the_wasp_quantumania",
+    "the_bourne_legacy",
+    "thunderball",
+    "angel_has_fallen",
+    "the_magnificent_seven",
+    "spider_man_far_from_home",
+    "the_equalizer",
+    "avengers_age_of_ultron",
+    "the_bourne_supremacy",
+    "top_gun"
   ]
 }

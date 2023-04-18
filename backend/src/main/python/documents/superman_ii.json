@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "I'm giving this movie a 2 because I like the idea of it.  The actual implementation has much to be desired.  The special effects are awful in context with the times.  The fight scenes are laughable.  Watching equally strong (invincible) superbeings fight is much more boring than watching a regular street fight.  It always amazes me that Hollywood could never put together a great Superman movie. The original Superman movie was decent but fell apart in the second half.  This movie is dumb from start to finish."
     }
+  ],
+  "recommendations": [
+    "green_lantern",
+    "terminator_genisys",
+    "aquaman",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "venom_let_there_be_carnage",
+    "hercules",
+    "justice_league",
+    "superman",
+    "john_carter",
+    "edge_of_tomorrow",
+    "thor_ragnarok",
+    "terminator_3_rise_of_the_machines",
+    "batman_v_superman_dawn_of_justice",
+    "i_am_legend",
+    "percy_jackson_sea_of_monsters",
+    "avengers_age_of_ultron",
+    "black_panther_wakanda_forever",
+    "the_three_musketeers",
+    "captain_america_the_first_avenger",
+    "shazam_fury_of_the_gods",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "the_suicide_squad",
+    "hancock",
+    "underworld_rise_of_the_lycans",
+    "rise_of_the_planet_of_the_apes"
   ]
 }

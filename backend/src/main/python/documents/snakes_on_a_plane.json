@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "Put simply, this movie was exactly what i wanted it to be."
     }
+  ],
+  "recommendations": [
+    "doomsday",
+    "the_host",
+    "transformers_revenge_of_the_fallen",
+    "geostorm",
+    "national_treasure_book_of_secrets",
+    "machete_kills",
+    "jurassic_world",
+    "crank_high_voltage",
+    "transformers_age_of_extinction",
+    "shadow_in_the_cloud",
+    "skyline",
+    "war_of_the_worlds",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "the_meg",
+    "2012",
+    "teenage_mutant_ninja_turtles",
+    "red_dawn",
+    "battleship",
+    "district_9",
+    "frozen",
+    "the_bye_bye_man",
+    "legion",
+    "polar",
+    "transporter_2",
+    "ghost_rider_spirit_of_vengeance"
   ]
 }

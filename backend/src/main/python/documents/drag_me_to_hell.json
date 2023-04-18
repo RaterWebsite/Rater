@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "This movie seems kinda like a mocking spin on the traditional horror movies we are use to in this day and age. The parts that were meant to be scary were scary with a little twist of humour. It was very entertaining and didn't feel like a complete waste of my time. So if you want a slightly cheesy, scary, and kinda funny horror movie pick this up."
     }
+  ],
+  "recommendations": [
+    "cabin_fever",
+    "the_messengers",
+    "insidious",
+    "the_cabin_in_the_woods",
+    "malignant",
+    "the_host",
+    "the_hills_have_eyes",
+    "the_grudge",
+    "venom",
+    "ouija",
+    "scream_4",
+    "dead_silence",
+    "annabelle",
+    "the_bye_bye_man",
+    "countdown",
+    "the_possession",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "paranormal_activity",
+    "saw",
+    "friday_the_13th",
+    "hostel",
+    "hostel_part_ii",
+    "house_of_1000_corpses",
+    "the_collection",
+    "the_grudge_2"
   ]
 }

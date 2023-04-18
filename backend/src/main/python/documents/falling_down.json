@@ -162,5 +162,32 @@
       "rating": "10",
       "text": "It is a case study. It is a fast case study. People can go from sane to insane in a split second. Decisions are taken in a split second. This is like that. It was a gamble from Hollywood and I think it paid off pretty well."
     }
+  ],
+  "recommendations": [
+    "savages",
+    "promising_young_woman",
+    "no_country_for_old_men",
+    "no_escape",
+    "taken",
+    "cold_pursuit",
+    "crash",
+    "sas_red_notice",
+    "donnie_brasco",
+    "the_marksman",
+    "colossal",
+    "public_enemies",
+    "live_by_night",
+    "the_rite",
+    "law_abiding_citizen",
+    "the_machinist",
+    "boyz_n_the_hood",
+    "the_accountant",
+    "downsizing",
+    "jane_got_a_gun",
+    "the_hunt",
+    "up_in_the_air",
+    "hereafter",
+    "eden_lake",
+    "the_intern"
   ]
 }

@@ -82,5 +82,32 @@
       "rating": "7",
       "text": "It may be nothing new in Host, but it's presented in such an effective and entertaining way that this film has its own charm."
     }
+  ],
+  "recommendations": [
+    "unfriended",
+    "chernobyl_diaries",
+    "insidious",
+    "paranormal_activity_the_marked_ones",
+    "the_blair_witch_project",
+    "paranormal_activity",
+    "the_pyramid",
+    "paranormal_activity_4",
+    "paranormal_activity_2",
+    "malignant",
+    "the_host",
+    "the_medium",
+    "paranormal_activity_3",
+    "the_curse_of_la_llorona",
+    "countdown",
+    "midsommar",
+    "the_devil_inside",
+    "unfriended_dark_web",
+    "bird_box",
+    "the_possession",
+    "hereditary",
+    "dark_skies",
+    "blair_witch",
+    "cloverfield",
+    "the_haunting_in_connecticut"
   ]
 }

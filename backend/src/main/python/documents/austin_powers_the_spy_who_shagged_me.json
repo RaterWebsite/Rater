@@ -147,5 +147,32 @@
       "rating": "10",
       "text": "Austin Powers 2 is my personal favorite Austin Powers movie and it is filled with non stop laughs."
     }
+  ],
+  "recommendations": [
+    "austin_powers_in_goldmember",
+    "austin_powers_international_man_of_mystery",
+    "paul",
+    "ghostbusters_ii",
+    "deadpool_2",
+    "penguins_of_madagascar",
+    "johnny_english_strikes_again",
+    "thor_ragnarok",
+    "jumanji_the_next_level",
+    "madagascar_escape_2_africa",
+    "despicable_me_2",
+    "horrible_bosses_2",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "scary_movie_3",
+    "johnny_english_reborn",
+    "ted_2",
+    "minions",
+    "ace_ventura_when_nature_calls",
+    "the_hangover_part_iii",
+    "robots",
+    "megamind",
+    "zombieland_double_tap",
+    "jumanji_welcome_to_the_jungle",
+    "22_jump_street",
+    "deadpool"
   ]
 }

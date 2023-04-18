@@ -73,5 +73,32 @@
       "rating": "3",
       "text": "Such a boring movie. I don't see how for someone it is considered a, masterpiece!"
     }
+  ],
+  "recommendations": [
+    "crazy_rich_asians",
+    "20th_century_women",
+    "elle",
+    "unforgettable",
+    "trainspotting",
+    "secretary",
+    "cashback",
+    "shame",
+    "stoker",
+    "swallow",
+    "call_me_by_your_name",
+    "ingrid_goes_west",
+    "moonrise_kingdom",
+    "melancholia",
+    "the_florida_project",
+    "the_witches_of_eastwick",
+    "nomadland",
+    "antichrist",
+    "incendies",
+    "captain_fantastic",
+    "titane",
+    "disobedience",
+    "closer",
+    "thoroughbreds",
+    "freedom_writers"
   ]
 }

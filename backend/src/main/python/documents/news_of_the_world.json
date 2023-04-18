@@ -175,5 +175,32 @@
       "rating": "6",
       "text": "Tom Hanks is doing a great job here and the production design is great but the story isn't super interesting."
     }
+  ],
+  "recommendations": [
+    "hell_or_high_water",
+    "the_place_beyond_the_pines",
+    "a_most_violent_year",
+    "beirut",
+    "donnie_brasco",
+    "the_devil_all_the_time",
+    "the_accountant",
+    "creed_ii",
+    "reminiscence",
+    "hugo",
+    "the_hunger_games_catching_fire",
+    "white_boy_rick",
+    "the_finest_hours",
+    "american_made",
+    "the_terminal",
+    "allied",
+    "victor_frankenstein",
+    "eddie_the_eagle",
+    "the_harder_they_fall",
+    "a_most_wanted_man",
+    "american_gangster",
+    "widows",
+    "top_gun",
+    "rush",
+    "eternals"
   ]
 }

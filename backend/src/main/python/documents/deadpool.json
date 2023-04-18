@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I thought it was awesome, they didn't overdo it with jokes, and when they did make a joke it was at the right times, I loved every bit of it.\r.10/10\r ."
     }
+  ],
+  "recommendations": [
+    "deadpool_2",
+    "the_green_hornet",
+    "the_losers",
+    "guardians_of_the_galaxy",
+    "the_a_team",
+    "megamind",
+    "zombieland_double_tap",
+    "pineapple_express",
+    "peter_rabbit",
+    "shazam_fury_of_the_gods",
+    "shazam",
+    "minions",
+    "thor_love_and_thunder",
+    "thor_ragnarok",
+    "jumanji_the_next_level",
+    "american_ultra",
+    "the_suicide_squad",
+    "despicable_me_2",
+    "hercules",
+    "venom_let_there_be_carnage",
+    "this_means_war",
+    "jumanji_welcome_to_the_jungle",
+    "pitch_perfect_2",
+    "kingsman_the_secret_service",
+    "monsters_vs_aliens"
   ]
 }

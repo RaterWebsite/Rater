@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "This movie is driven by Gary Oldman's astonishing acting, he'll easyly win best actor this year. It's all about dialogues but it's pretty fast paced."
     }
+  ],
+  "recommendations": [
+    "the_post",
+    "the_deer_hunter",
+    "the_monuments_men",
+    "patriots_day",
+    "the_imitation_game",
+    "the_last_duel",
+    "the_last_king_of_scotland",
+    "lincoln",
+    "valkyrie",
+    "gone_with_the_wind",
+    "12_years_a_slave",
+    "argo",
+    "hacksaw_ridge",
+    "judas_and_the_black_messiah",
+    "spotlight",
+    "hidden_figures",
+    "hostiles",
+    "snowden",
+    "master_and_commander_the_far_side_of_the_world",
+    "cold_mountain",
+    "free_state_of_jones",
+    "the_last_samurai",
+    "alexander",
+    "empire_of_the_sun",
+    "the_eagle"
   ]
 }

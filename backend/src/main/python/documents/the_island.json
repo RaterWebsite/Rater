@@ -227,5 +227,32 @@
       "rating": "10",
       "text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%%%%%%%%%%%%%%%%%%%%%"
     }
+  ],
+  "recommendations": [
+    "edge_of_tomorrow",
+    "top_gun_maverick",
+    "mad_max_fury_road",
+    "top_gun",
+    "unstoppable",
+    "brick_mansions",
+    "transformers_dark_of_the_moon",
+    "skyscraper",
+    "the_terminator",
+    "transformers",
+    "angel_has_fallen",
+    "poseidon",
+    "san_andreas",
+    "gemini_man",
+    "avengers_age_of_ultron",
+    "the_magnificent_seven",
+    "blackhat",
+    "armageddon",
+    "the_bourne_ultimatum",
+    "the_guardian",
+    "bloodshot",
+    "jaws",
+    "thor_ragnarok",
+    "into_the_storm",
+    "infinite"
   ]
 }

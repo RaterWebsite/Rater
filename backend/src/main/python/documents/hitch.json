@@ -90,5 +90,32 @@
       "rating": "10",
       "text": "One of my favorite movies of all time again. Love this movie! I love movies that have a storyline that's not common in a lot of movies. Thus is also really hilarious."
     }
+  ],
+  "recommendations": [
+    "sleeping_with_other_people",
+    "friends_with_benefits",
+    "50_first_dates",
+    "central_intelligence",
+    "the_dilemma",
+    "that_awkward_moment",
+    "the_break_up",
+    "role_models",
+    "the_five_year_engagement",
+    "the_nice_guys",
+    "leap_year",
+    "forgetting_sarah_marshall",
+    "10_things_i_hate_about_you",
+    "bachelorette",
+    "horrible_bosses",
+    "blockers",
+    "meet_the_parents",
+    "how_to_lose_a_guy_in_10_days",
+    "no_strings_attached",
+    "last_vegas",
+    "clueless",
+    "zack_and_miri_make_a_porno",
+    "silver_linings_playbook",
+    "the_wedding_ringer",
+    "the_proposal"
   ]
 }

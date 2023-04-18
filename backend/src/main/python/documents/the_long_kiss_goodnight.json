@@ -63,5 +63,32 @@
       "rating": "8",
       "text": "A good action movie with a twist, the CIA assassin has amnesia.  One of the first action movies to have an inept sidekick to lighten the mood.  The banter between them is a real treat."
     }
+  ],
+  "recommendations": [
+    "the_rundown",
+    "kingsman_the_secret_service",
+    "last_action_hero",
+    "true_lies",
+    "american_ultra",
+    "spy",
+    "demolition_man",
+    "16_blocks",
+    "red_2",
+    "first_blood",
+    "seven_psychopaths",
+    "deadpool",
+    "copshop",
+    "blood_father",
+    "the_losers",
+    "street_kings",
+    "red",
+    "the_babysitter",
+    "bullet_to_the_head",
+    "the_italian_job",
+    "the_nice_guys",
+    "the_mummy",
+    "run_all_night",
+    "snatch",
+    "knight_and_day"
   ]
 }

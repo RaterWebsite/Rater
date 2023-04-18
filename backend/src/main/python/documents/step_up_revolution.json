@@ -90,5 +90,32 @@
       "rating": "5",
       "text": "Step Up Revolution is mildly entertaining, with a cliched love story that actually works, and with superb choreography, but I have seen it all before."
     }
+  ],
+  "recommendations": [
+    "step_up_all_in",
+    "step_up_2_the_streets",
+    "hanna",
+    "pan",
+    "baby_driver",
+    "haywire",
+    "miami_vice",
+    "magic_mike_xxl",
+    "rocknrolla",
+    "top_gun",
+    "step_up",
+    "project_power",
+    "bad_times_at_the_el_royale",
+    "gemini_man",
+    "san_andreas",
+    "mamma_mia_here_we_go_again",
+    "the_harder_they_fall",
+    "yesterday",
+    "triple_frontier",
+    "drive",
+    "we_are_your_friends",
+    "jumper",
+    "pitch_perfect_3",
+    "reminiscence",
+    "magic_mikes_last_dance"
   ]
 }

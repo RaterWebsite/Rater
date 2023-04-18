@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "I think one word could describe how I felt after watching this movie, and it is surprise! I was not expecting anything too fantastic when I sat down to watch it, but as it finished I found myself pleased and I even had some laughs along the way! The plot was more developed then I was expecting, which is probably the reason I enjoyed the movie so much. The characters develop well, and I really enjoyed this one, check it out sometime!"
     }
+  ],
+  "recommendations": [
+    "peter_rabbit",
+    "despicable_me_2",
+    "monsters_vs_aliens",
+    "minions",
+    "the_green_hornet",
+    "hotel_transylvania_2",
+    "the_lego_movie",
+    "shazam",
+    "hotel_transylvania",
+    "puss_in_boots_the_last_wish",
+    "shazam_fury_of_the_gods",
+    "storks",
+    "guardians_of_the_galaxy",
+    "deadpool",
+    "spies_in_disguise",
+    "captain_underpants_the_first_epic_movie",
+    "deadpool_2",
+    "barnyard",
+    "zombieland_double_tap",
+    "the_spongebob_movie_sponge_out_of_water",
+    "ice_age_the_meltdown",
+    "incredibles_2",
+    "turbo",
+    "alvin_and_the_chipmunks",
+    "the_croods"
   ]
 }

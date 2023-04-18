@@ -137,5 +137,32 @@
       "rating": "6",
       "text": "This movie is nothing more than  a \"too hard to die in the most secure airplane\" as Diehard movie is called in Greece well entertaining even with many goofs and errors"
     }
+  ],
+  "recommendations": [
+    "the_rock",
+    "greyhound",
+    "armageddon",
+    "mission_impossible_ghost_protocol",
+    "hunter_killer",
+    "shooter",
+    "mission_impossible_rogue_nation",
+    "lethal_weapon_2",
+    "12_strong",
+    "tomorrow_never_dies",
+    "jack_ryan_shadow_recruit",
+    "the_last_stand",
+    "broken_arrow",
+    "captain_america_the_winter_soldier",
+    "behind_enemy_lines",
+    "angel_has_fallen",
+    "patriot_games",
+    "demolition_man",
+    "mission_impossible",
+    "the_sum_of_all_fears",
+    "die_hard",
+    "heat",
+    "lethal_weapon_3",
+    "the_equalizer",
+    "the_peacemaker"
   ]
 }

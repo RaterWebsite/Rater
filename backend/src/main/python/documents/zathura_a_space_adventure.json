@@ -182,5 +182,32 @@
       "rating": "10",
       "text": "another amazing movie that was part of my childhood... i was very scared of the robot and the goats with many eyes"
     }
+  ],
+  "recommendations": [
+    "the_kid_who_would_be_king",
+    "super_8",
+    "the_croods",
+    "nanny_mcphee",
+    "shazam",
+    "incredibles_2",
+    "rio_2",
+    "ferdinand",
+    "tomorrowland",
+    "the_house_with_a_clock_in_its_walls",
+    "jack_the_giant_slayer",
+    "doctor_strange",
+    "pan",
+    "the_spiderwick_chronicles",
+    "bumblebee",
+    "race_to_witch_mountain",
+    "ghostbusters",
+    "thor",
+    "the_nutcracker_and_the_four_realms",
+    "oz_the_great_and_powerful",
+    "jungle_cruise",
+    "kung_fu_panda_3",
+    "spider_man_far_from_home",
+    "the_good_dinosaur",
+    "hotel_transylvania_3_summer_vacation"
   ]
 }

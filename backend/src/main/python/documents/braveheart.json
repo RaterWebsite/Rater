@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "Braveheart is a very nice tale of oppressed Scottish folk standing up to the tyrannical English. It works in all the right places and succeeds despite historical inaccuracies and slightly over-the-top sentimentality. Kudos for having bloody battle sequences that still shock a good 18 years after the film was made!"
     }
+  ],
+  "recommendations": [
+    "gladiator",
+    "hacksaw_ridge",
+    "the_last_samurai",
+    "master_and_commander_the_far_side_of_the_world",
+    "amores_perros",
+    "war_for_the_planet_of_the_apes",
+    "troy",
+    "blade_of_the_47_ronin",
+    "the_shawshank_redemption",
+    "eternals",
+    "inglourious_basterds",
+    "unbroken",
+    "top_gun_maverick",
+    "the_deer_hunter",
+    "scarface",
+    "american_history_x",
+    "black_widow",
+    "joker",
+    "empire_of_the_sun",
+    "titanic",
+    "the_patriot",
+    "alita_battle_angel",
+    "rocky",
+    "dredd",
+    "hugo"
   ]
 }

@@ -173,5 +173,32 @@
       "rating": "8",
       "text": "Hailee Steinfeld's best performance since her Oscar-nominated role in True Grit headlines a first-class coming of age story. Funny, real, and heartfelt, this dramady is like Freaks and Geeks set in the 2010s."
     }
+  ],
+  "recommendations": [
+    "me_and_earl_and_the_dying_girl",
+    "the_spectacular_now",
+    "lady_bird",
+    "instant_family",
+    "eddie_the_eagle",
+    "10_things_i_hate_about_you",
+    "moonrise_kingdom",
+    "the_big_sick",
+    "the_intern",
+    "the_perks_of_being_a_wallflower",
+    "midnight_sun",
+    "the_king_of_staten_island",
+    "silver_linings_playbook",
+    "sleeping_with_other_people",
+    "the_fault_in_our_stars",
+    "the_upside",
+    "gifted",
+    "me_before_you",
+    "blue_valentine",
+    "the_royal_tenenbaums",
+    "love_actually",
+    "fatherhood",
+    "christopher_robin",
+    "booksmart",
+    "scent_of_a_woman"
   ]
 }

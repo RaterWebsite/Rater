@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "Boring **** **** **** **** boring **** boring **** boring **** and **** **** **** ****"
     }
+  ],
+  "recommendations": [
+    "nine_days",
+    "the_lost_city_of_z",
+    "hotel_rwanda",
+    "the_florida_project",
+    "the_tree_of_life",
+    "12_years_a_slave",
+    "melancholia",
+    "20th_century_women",
+    "hidden_figures",
+    "the_boy_who_harnessed_the_wind",
+    "manchester_by_the_sea",
+    "call_me_by_your_name",
+    "the_light_between_oceans",
+    "first_man",
+    "a_hidden_life",
+    "sin_nombre",
+    "first_they_killed_my_father",
+    "into_the_wild",
+    "snowden",
+    "minari",
+    "leave_no_trace",
+    "frantz",
+    "the_master",
+    "the_fountain",
+    "the_book_thief"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "I absolutely love this movie. It brings Wraith, Deadpool, Blob, and Gambit to life. What more can you ask for? This has some dull plot transitions, but otherwise, it's an outstanding film that certainly hits home to the comic fans."
     }
+  ],
+  "recommendations": [
+    "x_men_apocalypse",
+    "terminator_salvation",
+    "iron_man_3",
+    "max_steel",
+    "elektra",
+    "the_old_guard",
+    "pompeii",
+    "ant_man_and_the_wasp_quantumania",
+    "suicide_squad",
+    "infinite",
+    "men_in_black_international",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "kingsman_the_golden_circle",
+    "captain_marvel",
+    "jolt",
+    "mile_22",
+    "immortals",
+    "terminator_dark_fate",
+    "those_who_wish_me_dead",
+    "the_ice_road",
+    "spider_man_3",
+    "transformers_the_last_knight",
+    "iron_man_2",
+    "the_magnificent_seven",
+    "after_earth"
   ]
 }

@@ -94,5 +94,32 @@
       "rating": "10",
       "text": "\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"."
     }
+  ],
+  "recommendations": [
+    "hercules",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_three_musketeers",
+    "thor_the_dark_world",
+    "the_last_witch_hunter",
+    "the_terminator",
+    "dredd",
+    "last_action_hero",
+    "avengers_age_of_ultron",
+    "terminator_2_judgment_day",
+    "thor",
+    "thor_ragnarok",
+    "jungle_cruise",
+    "the_fifth_element",
+    "king_arthur_legend_of_the_sword",
+    "captain_america_the_first_avenger",
+    "the_mummy",
+    "highlander",
+    "the_league_of_extraordinary_gentlemen",
+    "edge_of_tomorrow",
+    "guardians_of_the_galaxy",
+    "underworld_awakening",
+    "the_forbidden_kingdom",
+    "bloodshot",
+    "riddick"
   ]
 }

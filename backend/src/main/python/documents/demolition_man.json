@@ -106,5 +106,32 @@
       "rating": "9",
       "text": "This movie is a TON of fun. If you are looking for a great 90s action movie, then look no further."
     }
+  ],
+  "recommendations": [
+    "shooter",
+    "true_lies",
+    "angel_has_fallen",
+    "gangster_squad",
+    "2_guns",
+    "red",
+    "the_equalizer",
+    "from_paris_with_love",
+    "copshop",
+    "the_last_stand",
+    "the_losers",
+    "jack_ryan_shadow_recruit",
+    "american_ultra",
+    "red_2",
+    "boss_level",
+    "the_mechanic",
+    "last_action_hero",
+    "iron_man",
+    "white_house_down",
+    "escape_plan",
+    "skyscraper",
+    "mission_impossible_ghost_protocol",
+    "kingsman_the_secret_service",
+    "die_hard",
+    "iron_man_2"
   ]
 }

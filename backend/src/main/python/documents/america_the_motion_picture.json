@@ -82,5 +82,32 @@
       "rating": "10",
       "text": "I was forced to create an account just to try and balance the user score of this movie. I really liked it, I mean, I get it's not for everyone but I find it really round, I was laughing my ass off all the time. People criticize it's contant absurd humor but that it's what I find so appealing about it, this movie it's nothing without it and that's fine, it really does it's job well."
     }
+  ],
+  "recommendations": [
+    "the_dictator",
+    "sausage_party",
+    "ted_2",
+    "anchorman_2_the_legend_continues",
+    "peter_rabbit",
+    "free_birds",
+    "the_happytime_murders",
+    "the_lego_movie",
+    "the_spongebob_movie_sponge_out_of_water",
+    "flushed_away",
+    "megamind",
+    "this_is_the_end",
+    "the_interview",
+    "pineapple_express",
+    "johnny_english_reborn",
+    "guardians_of_the_galaxy",
+    "hot_tub_time_machine",
+    "captain_underpants_the_first_epic_movie",
+    "jackass_presents_bad_grandpa",
+    "hot_fuzz",
+    "teen_titans_go_to_the_movies",
+    "jexi",
+    "the_men_who_stare_at_goats",
+    "zoolander_2",
+    "storks"
   ]
 }

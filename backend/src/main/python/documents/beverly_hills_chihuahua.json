@@ -155,5 +155,32 @@
       "rating": "10",
       "text": "Best movie that i have seen in two years, so many good jokes and very good acting."
     }
+  ],
+  "recommendations": [
+    "alvin_and_the_chipmunks_the_road_chip",
+    "marmaduke",
+    "zookeeper",
+    "the_game_plan",
+    "chicken_little",
+    "clifford_the_big_red_dog",
+    "the_smurfs",
+    "old_dogs",
+    "cloudy_with_a_chance_of_meatballs",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "garfield_a_tail_of_two_kitties",
+    "playmobil_the_movie",
+    "the_boss_baby_family_business",
+    "ice_age_dawn_of_the_dinosaurs",
+    "spy_kids_all_the_time_in_the_world",
+    "the_croods_a_new_age",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "hannah_montana_the_movie",
+    "the_angry_birds_movie",
+    "the_cat_in_the_hat",
+    "alvin_and_the_chipmunks",
+    "g_force",
+    "the_change_up",
+    "rim_of_the_world",
+    "diary_of_a_wimpy_kid_dog_days"
   ]
 }

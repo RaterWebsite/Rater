@@ -186,5 +186,32 @@
       "rating": "3",
       "text": "Adam Sandler continues to prove that he's only really good in more serious films."
     }
+  ],
+  "recommendations": [
+    "grown_ups",
+    "little_fockers",
+    "sandy_wexler",
+    "the_watch",
+    "dumb_and_dumber_to",
+    "the_longest_yard",
+    "this_is_the_end",
+    "the_ridiculous_6",
+    "zoolander_2",
+    "zack_and_miri_make_a_porno",
+    "horrible_bosses_2",
+    "thunder_force",
+    "tropic_thunder",
+    "blended",
+    "couples_retreat",
+    "hot_tub_time_machine",
+    "norbit",
+    "30_minutes_or_less",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "trainwreck",
+    "dinner_for_schmucks",
+    "just_go_with_it",
+    "pixels",
+    "the_wedding_ringer",
+    "bedtime_stories"
   ]
 }

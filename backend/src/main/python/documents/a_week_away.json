@@ -71,5 +71,32 @@
       "rating": "10",
       "text": "I love this movie!! Idk why it\u2019s rated so low :(It\u2019s so funny and has great music The actors play their parts so well"
     }
+  ],
+  "recommendations": [
+    "mamma_mia",
+    "high_school_musical_3_senior_year",
+    "sing_2",
+    "jingle_jangle_a_christmas_journey",
+    "hairspray",
+    "the_greatest_showman",
+    "mamma_mia_here_we_go_again",
+    "cats",
+    "grease",
+    "trolls_world_tour",
+    "trolls",
+    "sing_street",
+    "vivo",
+    "17_again",
+    "pitch_perfect",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "hannah_montana_the_movie",
+    "deck_the_halls",
+    "a_cinderella_story",
+    "burlesque",
+    "almost_famous",
+    "into_the_woods",
+    "we_are_your_friends",
+    "fred_claus",
+    "yesterday"
   ]
 }

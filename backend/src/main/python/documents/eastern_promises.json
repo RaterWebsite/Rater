@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Again the critics are out to lunch. While the film was an interesting look at the Russian Mafia - it seems to wallow in it's own violence that at times seems pointless. Watchable, but not particularly well done."
     }
+  ],
+  "recommendations": [
+    "red_sparrow",
+    "a_history_of_violence",
+    "savages",
+    "the_departed",
+    "inglourious_basterds",
+    "hanna",
+    "the_equalizer_2",
+    "drive",
+    "no_country_for_old_men",
+    "what_happened_to_monday",
+    "taken",
+    "fifty_shades_darker",
+    "gran_torino",
+    "blade_of_the_47_ronin",
+    "repo_men",
+    "the_purge_election_year",
+    "blackhat",
+    "sicario_day_of_the_soldado",
+    "miami_vice",
+    "pompeii",
+    "the_counselor",
+    "a_walk_among_the_tombstones",
+    "bone_tomahawk",
+    "gemini_man",
+    "the_experiment"
   ]
 }

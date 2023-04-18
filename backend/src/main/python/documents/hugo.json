@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "Nice, cute, Hugo is a nice film and a bit tedious and um, hilarious in itself. Its too long though and it was extended. Though its good it won a few Oscars, though its kind of odd"
     }
+  ],
+  "recommendations": [
+    "inception",
+    "roma",
+    "cloud_atlas",
+    "the_green_knight",
+    "the_bfg",
+    "the_american",
+    "tenet",
+    "no_country_for_old_men",
+    "bad_times_at_the_el_royale",
+    "the_power_of_the_dog",
+    "drive",
+    "super_8",
+    "tomorrowland",
+    "enemy",
+    "a_cure_for_wellness",
+    "eternals",
+    "the_curious_case_of_benjamin_button",
+    "hereafter",
+    "alice_through_the_looking_glass",
+    "perfume_the_story_of_a_murderer",
+    "blade_of_the_47_ronin",
+    "titanic",
+    "lost_in_translation",
+    "interstellar",
+    "the_social_network"
   ]
 }

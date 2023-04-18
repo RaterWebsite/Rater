@@ -53,5 +53,32 @@
       "rating": "4",
       "text": "Supernova, although it is a Sci-Fi thriller, is mediocre as a film. There is absolutely nothing here that you want to praise the film for. It's just a B-level thriller that has no suspense. A dull main antagonist and predictable ending. You can recommend for viewing only the most ardent fans of the genre"
     }
+  ],
+  "recommendations": [
+    "independence_day_resurgence",
+    "the_darkest_hour",
+    "pacific_rim_uprising",
+    "jupiter_ascending",
+    "monsters",
+    "the_matrix_resurrections",
+    "transformers_the_last_knight",
+    "into_the_storm",
+    "poseidon",
+    "geostorm",
+    "battleship",
+    "riddick",
+    "bloodshot",
+    "the_tomorrow_war",
+    "the_new_mutants",
+    "volcano",
+    "rampage",
+    "mad_max_fury_road",
+    "battle_los_angeles",
+    "clash_of_the_titans",
+    "gravity",
+    "pandorum",
+    "the_cloverfield_paradox",
+    "world_war_z",
+    "underworld_blood_wars"
   ]
 }

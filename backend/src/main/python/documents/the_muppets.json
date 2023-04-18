@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Before I watched this movie, I was expecting something like \"The Smurfs\" or \"Garfield\" you know, movies that I can mock and throw in 3's and 4's into my reviews. \"The Muppets\" are pretty much in the same structure with both humans and muppets on screen with a cheesy 1950's musical look. But the core of the movie, where like \"Toy Story 3\" the muppets realized they aren't the star anymore, is actually entertaining with plausible laughs and recalls sad memories of the old age muppet shows."
     }
+  ],
+  "recommendations": [
+    "elf",
+    "the_spongebob_squarepants_movie",
+    "enchanted",
+    "winnie_the_pooh_blood_and_honey",
+    "deck_the_halls",
+    "the_peanuts_movie",
+    "tangled",
+    "ghostbusters_afterlife",
+    "sing_2",
+    "hannah_montana_the_movie",
+    "sonic_the_hedgehog",
+    "the_grinch",
+    "paddington",
+    "over_the_hedge",
+    "american_pie_2",
+    "blended",
+    "arthur_christmas",
+    "the_christmas_chronicles",
+    "minions_the_rise_of_gru",
+    "puss_in_boots_the_last_wish",
+    "ice_age_the_meltdown",
+    "christmas_with_the_kranks",
+    "mamma_mia",
+    "alvin_and_the_chipmunks",
+    "bedtime_stories"
   ]
 }

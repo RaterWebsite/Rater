@@ -154,5 +154,32 @@
       "rating": "7",
       "text": "very simple movie nothing innovative but it is good even with a clich\u00e9 ending that everyone already knew what was going to happen.EVEN BEING THE WAY I TOLD THIS MOVIE, IT STILL GUARANTEES YOU GOOD HOURS OF ENTERTAINMENT"
     }
+  ],
+  "recommendations": [
+    "gone_girl",
+    "eo",
+    "now_you_see_me",
+    "pompeii",
+    "what_happened_to_monday",
+    "poseidon",
+    "the_power_of_the_dog",
+    "next",
+    "the_maze_runner",
+    "chaos_walking",
+    "wonder_woman_1984",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "gravity",
+    "the_hunger_games_mockingjay_part_1",
+    "the_loft",
+    "seven_pounds",
+    "sanctum",
+    "the_grey",
+    "bad_times_at_the_el_royale",
+    "project_power",
+    "shutter_island",
+    "bird_box",
+    "the_new_mutants",
+    "the_snowman",
+    "contagion"
   ]
 }

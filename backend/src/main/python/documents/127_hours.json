@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "127 Hours 7/10........................................................................................................................................"
     }
+  ],
+  "recommendations": [
+    "the_grey",
+    "no_country_for_old_men",
+    "you_were_never_really_here",
+    "the_rover",
+    "first_man",
+    "a_history_of_violence",
+    "everest",
+    "the_walk",
+    "good_time",
+    "hugo",
+    "enemy",
+    "the_perfect_storm",
+    "the_american",
+    "in_the_heart_of_the_sea",
+    "hereafter",
+    "a_ghost_story",
+    "the_place_beyond_the_pines",
+    "bad_times_at_the_el_royale",
+    "the_good_shepherd",
+    "the_beguiled",
+    "the_power_of_the_dog",
+    "dunkirk",
+    "the_finest_hours",
+    "the_master",
+    "interstellar"
   ]
 }

@@ -191,5 +191,32 @@
       "rating": "6",
       "text": "Eh, don't hate it, but don't love it either. I just have mixed feelings to this."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania",
+    "monsters_vs_aliens",
+    "megamind",
+    "yogi_bear",
+    "minions",
+    "wonder_park",
+    "uglydolls",
+    "turbo",
+    "the_smurfs",
+    "zookeeper",
+    "hotel_transylvania_2",
+    "barnyard",
+    "dolittle",
+    "free_birds",
+    "escape_from_planet_earth",
+    "alvin_and_the_chipmunks",
+    "the_tale_of_despereaux",
+    "peter_rabbit",
+    "the_croods",
+    "cloudy_with_a_chance_of_meatballs",
+    "planet_51",
+    "captain_underpants_the_first_epic_movie",
+    "monster_house",
+    "the_angry_birds_movie",
+    "spies_in_disguise"
   ]
 }

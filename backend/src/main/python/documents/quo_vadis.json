@@ -38,5 +38,32 @@
       "rating": "10",
       "text": "Trololololololololololololololololololololololololololololololololololololololololololololololololol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
     }
+  ],
+  "recommendations": [
+    "walk_the_line",
+    "respect",
+    "hairspray",
+    "burlesque",
+    "forrest_gump",
+    "almost_famous",
+    "flag_day",
+    "mamma_mia",
+    "pretty_woman",
+    "house_of_gucci",
+    "cinderella_man",
+    "a_beautiful_day_in_the_neighborhood",
+    "maid_in_manhattan",
+    "moulin_rouge",
+    "cats",
+    "la_la_land",
+    "brokeback_mountain",
+    "letters_to_juliet",
+    "my_name_is_khan",
+    "a_beautiful_mind",
+    "rocketman",
+    "justin_bieber_our_world",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "the_family_man",
+    "memoirs_of_a_geisha"
   ]
 }

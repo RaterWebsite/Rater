@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "It's great entertainment! for younger kids and adults. go see it!"
     }
+  ],
+  "recommendations": [
+    "alice_in_wonderland",
+    "dumbo",
+    "dark_shadows",
+    "edward_scissorhands",
+    "beetlejuice",
+    "the_witches",
+    "frankenweenie",
+    "a_christmas_carol",
+    "corpse_bride",
+    "cruella",
+    "101_dalmatians",
+    "the_grinch",
+    "pan",
+    "oz_the_great_and_powerful",
+    "alice_through_the_looking_glass",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "doctor_sleep",
+    "inkheart",
+    "sin_city_a_dame_to_kill_for",
+    "the_flintstones",
+    "how_the_grinch_stole_christmas",
+    "ghostbusters_ii",
+    "the_lego_movie_2_the_second_part",
+    "ghostbusters",
+    "paddington_2"
   ]
 }

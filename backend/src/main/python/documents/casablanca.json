@@ -197,5 +197,32 @@
       "rating": "3",
       "text": "what a movie see gloriousenhancement.com how on earth do I get over it so soon"
     }
+  ],
+  "recommendations": [
+    "amadeus",
+    "youth",
+    "eternal_sunshine_of_the_spotless_mind",
+    "la_la_land",
+    "the_great_gatsby",
+    "titanic",
+    "whiplash",
+    "the_english_patient",
+    "yesterday",
+    "hugo",
+    "the_shawshank_redemption",
+    "eternals",
+    "eddie_the_eagle",
+    "magnolia",
+    "cinderella_man",
+    "braveheart",
+    "almost_famous",
+    "the_sound_of_music",
+    "annette",
+    "bohemian_rhapsody",
+    "marie_antoinette",
+    "belfast",
+    "the_longest_ride",
+    "rocky",
+    "amores_perros"
   ]
 }

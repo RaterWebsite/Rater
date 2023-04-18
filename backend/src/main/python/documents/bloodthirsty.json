@@ -28,5 +28,32 @@
       "rating": "6",
       "text": "I saw so many movies in this one: Black Swan, the witches of Eastwick, even Jennifer's body for a second. It was good but nothing original. The songs gave it exrra points."
     }
+  ],
+  "recommendations": [
+    "curse_of_chucky",
+    "halloween_h20_20_years_later",
+    "mary_poppins_returns",
+    "a_nightmare_on_elm_street",
+    "bride_of_chucky",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "hairspray",
+    "halloween_4_the_return_of_michael_myers",
+    "cult_of_chucky",
+    "cats",
+    "jaws_2",
+    "saw_v",
+    "the_jungle_book_2",
+    "carrie",
+    "seed_of_chucky",
+    "the_grinch",
+    "the_santa_clause_2",
+    "the_santa_clause_3_the_escape_clause",
+    "the_spongebob_movie_sponge_on_the_run",
+    "into_the_woods",
+    "friday_the_13th_part_iii",
+    "grease",
+    "the_nightmare_before_christmas",
+    "hannah_montana_the_movie",
+    "friday_the_13th_part_2"
   ]
 }

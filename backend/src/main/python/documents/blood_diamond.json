@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "DiCaprio is great, the movie is over preachy."
     }
+  ],
+  "recommendations": [
+    "hotel_rwanda",
+    "my_name_is_khan",
+    "revolutionary_road",
+    "the_good_shepherd",
+    "samson",
+    "joker",
+    "chappie",
+    "manchester_by_the_sea",
+    "alexander",
+    "spotlight",
+    "the_devil_all_the_time",
+    "hostiles",
+    "hereafter",
+    "risen",
+    "the_social_network",
+    "invictus",
+    "eternals",
+    "equilibrium",
+    "eastern_promises",
+    "12_angry_men",
+    "american_history_x",
+    "breakthrough",
+    "a_most_violent_year",
+    "boyz_n_the_hood",
+    "body_of_lies"
   ]
 }

@@ -59,5 +59,32 @@
       "rating": "3",
       "text": "I thought a movie with Bruce Willis can't be that bad. Well I got proved wrong."
     }
+  ],
+  "recommendations": [
+    "knight_and_day",
+    "paul_blart_mall_cop",
+    "jack_reacher_never_go_back",
+    "red",
+    "jack_reacher",
+    "tower_heist",
+    "the_hangover_part_iii",
+    "ride_along_2",
+    "central_intelligence",
+    "little_fockers",
+    "spy",
+    "due_date",
+    "night_at_the_museum_secret_of_the_tomb",
+    "16_blocks",
+    "bad_boys_for_life",
+    "venom_let_there_be_carnage",
+    "mission_impossible_iii",
+    "red_2",
+    "chips",
+    "tusk",
+    "snitch",
+    "ride_along",
+    "angel_has_fallen",
+    "my_spy",
+    "spenser_confidential"
   ]
 }

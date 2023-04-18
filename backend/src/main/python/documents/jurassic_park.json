@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Classic. The movie of my childhood. As then, now produces incredible impression. Now I'll know what to do, if I meet a tyrannosaur. Thanks to Dr. Grant :D"
     }
+  ],
+  "recommendations": [
+    "jaws",
+    "godzilla_king_of_the_monsters",
+    "independence_day",
+    "the_matrix",
+    "transformers",
+    "doctor_strange",
+    "pacific_rim",
+    "rise_of_the_planet_of_the_apes",
+    "the_island",
+    "the_adventures_of_tintin",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_hobbit_an_unexpected_journey",
+    "spider_man_into_the_spider_verse",
+    "armageddon",
+    "top_gun_maverick",
+    "super_8",
+    "mad_max_fury_road",
+    "terminator_2_judgment_day",
+    "aliens",
+    "pitch_black",
+    "the_bfg",
+    "close_encounters_of_the_third_kind",
+    "edge_of_tomorrow",
+    "mortal_engines",
+    "avengers_age_of_ultron"
   ]
 }

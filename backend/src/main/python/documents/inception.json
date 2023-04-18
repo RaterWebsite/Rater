@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Inception never fails to deliver its great premise through the stylish narrative, the emotionally captivating characters, and, most of all, the extraordinarily stunning visuals."
     }
+  ],
+  "recommendations": [
+    "tomorrowland",
+    "hugo",
+    "the_green_knight",
+    "blade_runner_2049",
+    "arrival",
+    "tenet",
+    "enemy",
+    "vanilla_sky",
+    "interstellar",
+    "cloud_atlas",
+    "sucker_punch",
+    "the_13th_warrior",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "oblivion",
+    "jupiter_ascending",
+    "the_hunger_games_catching_fire",
+    "the_bfg",
+    "the_prestige",
+    "mortal_engines",
+    "super_8",
+    "they_live",
+    "moon",
+    "coherence",
+    "9",
+    "what_happened_to_monday"
   ]
 }

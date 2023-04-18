@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Bit of a snore with beautiful cinematography but bland characters and a rote story."
     }
+  ],
+  "recommendations": [
+    "the_eagle",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_last_duel",
+    "allied",
+    "wind_river",
+    "the_deer_hunter",
+    "patriots_day",
+    "valkyrie",
+    "blood_diamond",
+    "lone_survivor",
+    "hotel_rwanda",
+    "12_strong",
+    "free_state_of_jones",
+    "master_and_commander_the_far_side_of_the_world",
+    "the_good_shepherd",
+    "beirut",
+    "unbroken",
+    "the_lost_city_of_z",
+    "only_the_brave",
+    "12_years_a_slave",
+    "everest",
+    "zero_dark_thirty",
+    "sin_nombre",
+    "deepwater_horizon",
+    "no_country_for_old_men"
   ]
 }

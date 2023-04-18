@@ -98,5 +98,32 @@
       "rating": "5",
       "text": "The Plot Is Not Interesting, The Music Is Bad. There Is No Good Actors In This Movie. Even Vin Diesel Acting Sucks.The Editing Is So Bad.The Only Good Thing About This Movie Is The Fight Scenes.The Plot Is Rushed."
     }
+  ],
+  "recommendations": [
+    "my_spy",
+    "couples_retreat",
+    "30_minutes_or_less",
+    "night_at_the_museum",
+    "the_green_hornet",
+    "thunder_force",
+    "pitch_perfect_2",
+    "this_means_war",
+    "little_fockers",
+    "kangaroo_jack",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "hubie_halloween",
+    "bad_teacher",
+    "second_act",
+    "the_watch",
+    "ride_along",
+    "the_game_plan",
+    "17_again",
+    "the_war_with_grandpa",
+    "baywatch",
+    "identity_thief",
+    "bedtime_stories",
+    "megamind",
+    "horrible_bosses_2",
+    "night_at_the_museum_battle_of_the_smithsonian"
   ]
 }

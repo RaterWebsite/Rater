@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "A severely misguided film with a terrible plot, terrible dialogue, flat characters, no development, and I'm all just a loud and mediocre mess that will literally bore you to death. Nicolas Cage's performance has never been worse. This movie was 50x as bad as the first which I believe was an ok film, but I honestly think the purpose of this movie was to make a quick buck."
     }
+  ],
+  "recommendations": [
+    "ghost_rider",
+    "the_eye",
+    "teenage_mutant_ninja_turtles",
+    "slender_man",
+    "the_legend_of_hercules",
+    "suicide_squad",
+    "transformers_the_last_knight",
+    "into_the_storm",
+    "immortals",
+    "transformers_revenge_of_the_fallen",
+    "legion",
+    "transformers_age_of_extinction",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "skyline",
+    "polar",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "battleship",
+    "underworld_blood_wars",
+    "wonder_woman_1984",
+    "volcano",
+    "army_of_the_dead",
+    "the_meg",
+    "the_bye_bye_man",
+    "shadow_in_the_cloud"
   ]
 }

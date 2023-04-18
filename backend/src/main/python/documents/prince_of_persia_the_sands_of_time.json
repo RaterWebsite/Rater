@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "MediocreThis adaptation of Ubisoft\u2019s successful Prince Of Persia franchise tries too hard to be the next Pirates Of The Caribbean."
     }
+  ],
+  "recommendations": [
+    "lara_croft_tomb_raider",
+    "hercules",
+    "resident_evil_damnation",
+    "i_am_number_four",
+    "the_last_witch_hunter",
+    "jumanji_welcome_to_the_jungle",
+    "uncharted",
+    "mortal_kombat",
+    "sonic_the_hedgehog_2",
+    "free_guy",
+    "tomb_raider",
+    "edge_of_tomorrow",
+    "hitman",
+    "doom",
+    "john_carter",
+    "jack_the_giant_slayer",
+    "the_three_musketeers",
+    "the_a_team",
+    "underworld_rise_of_the_lycans",
+    "hancock",
+    "guardians_of_the_galaxy",
+    "avengers_age_of_ultron",
+    "tron_legacy",
+    "silent_hill",
+    "thor_ragnarok"
   ]
 }

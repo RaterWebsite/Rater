@@ -198,5 +198,32 @@
       "rating": "5",
       "text": "This movie felt barely watchable but it didn't convince me. It didn't make me want to watch it again but I should probabily give it a second chance."
     }
+  ],
+  "recommendations": [
+    "what_lies_beneath",
+    "hotel_artemis",
+    "wind_river",
+    "nightcrawler",
+    "the_mothman_prophecies",
+    "the_autopsy_of_jane_doe",
+    "prisoners",
+    "the_rental",
+    "10_cloverfield_lane",
+    "the_night_house",
+    "the_call",
+    "midnight_special",
+    "everest",
+    "beirut",
+    "good_time",
+    "you_were_never_really_here",
+    "the_woman_in_the_window",
+    "widows",
+    "the_skeleton_key",
+    "last_night_in_soho",
+    "before_i_go_to_sleep",
+    "the_next_three_days",
+    "stoker",
+    "the_invisible_man",
+    "sicario"
   ]
 }

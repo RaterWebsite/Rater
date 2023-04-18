@@ -45,5 +45,32 @@
       "rating": "1",
       "text": "I really like these actors, but this is just a really bad movie.  The main plot was sad and the secondary plot was disturbing.  John Corbett played a jerk who never should have been taken back by his wife."
     }
+  ],
+  "recommendations": [
+    "drunk_parents",
+    "anger_management",
+    "horrible_bosses_2",
+    "like_a_boss",
+    "tammy",
+    "wedding_crashers",
+    "identity_thief",
+    "tower_heist",
+    "ride_along",
+    "the_wedding_ringer",
+    "30_minutes_or_less",
+    "the_heat",
+    "stuber",
+    "masterminds",
+    "get_hard",
+    "zoolander",
+    "the_watch",
+    "central_intelligence",
+    "forgetting_sarah_marshall",
+    "little_fockers",
+    "that_awkward_moment",
+    "dodgeball_a_true_underdog_story",
+    "get_smart",
+    "zoolander_2",
+    "date_night"
   ]
 }

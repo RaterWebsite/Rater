@@ -155,5 +155,32 @@
       "rating": "8",
       "text": "Overall an interesting title. I really liked the plot, the splitted personality explanation wasn't too obvious at the beginning. The final plot twist added some special spice to the story and made it memorable. The acting performance of Edward Norton was incredible!"
     }
+  ],
+  "recommendations": [
+    "insomnia",
+    "arbitrage",
+    "all_the_money_in_the_world",
+    "breach",
+    "money_monster",
+    "state_of_play",
+    "the_devil_all_the_time",
+    "catch_me_if_you_can",
+    "widows",
+    "a_most_wanted_man",
+    "prisoners",
+    "morgan",
+    "changeling",
+    "along_came_a_spider",
+    "knives_out",
+    "from_hell",
+    "the_usual_suspects",
+    "black_mass",
+    "inside_man",
+    "the_iceman",
+    "mystic_river",
+    "donnie_brasco",
+    "conspiracy_theory",
+    "the_fugitive",
+    "the_next_three_days"
   ]
 }

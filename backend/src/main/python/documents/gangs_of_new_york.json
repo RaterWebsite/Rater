@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Scorcese in his best form, spellbinding performances by Day Lewis and Liam Neeson"
     }
+  ],
+  "recommendations": [
+    "american_gangster",
+    "the_godfather_part_ii",
+    "donnie_brasco",
+    "the_godfather_part_iii",
+    "news_of_the_world",
+    "hell_or_high_water",
+    "a_most_violent_year",
+    "lawless",
+    "black_mass",
+    "darkest_hour",
+    "public_enemies",
+    "wall_street",
+    "nightcrawler",
+    "creed",
+    "the_eagle",
+    "casino",
+    "body_of_lies",
+    "the_last_duel",
+    "man_on_fire",
+    "captain_america_the_winter_soldier",
+    "bonnie_and_clyde",
+    "the_hurricane",
+    "raging_bull",
+    "widows",
+    "live_by_night"
   ]
 }

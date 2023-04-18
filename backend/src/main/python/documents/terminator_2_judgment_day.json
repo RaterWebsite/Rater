@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "The only James Cameron movie I believe truly deserves a perfect score of 10. A classic that will be remembered by ages, but unfortunately, is in the shadows of Cameron's big and overrated movies like Titanic and Avatar."
     }
+  ],
+  "recommendations": [
+    "the_terminator",
+    "top_gun_maverick",
+    "hulk",
+    "the_scorpion_king",
+    "rise_of_the_planet_of_the_apes",
+    "edge_of_tomorrow",
+    "terminator_3_rise_of_the_machines",
+    "avengers_age_of_ultron",
+    "the_fifth_element",
+    "thor_the_dark_world",
+    "indiana_jones_and_the_temple_of_doom",
+    "predator",
+    "war_for_the_planet_of_the_apes",
+    "looper",
+    "alita_battle_angel",
+    "thor",
+    "x_men_days_of_future_past",
+    "transformers_dark_of_the_moon",
+    "dredd",
+    "robocop",
+    "black_widow",
+    "last_action_hero",
+    "captain_america_the_first_avenger",
+    "the_matrix",
+    "upgrade"
   ]
 }

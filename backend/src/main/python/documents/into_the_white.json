@@ -46,5 +46,32 @@
       "rating": "7",
       "text": "I quite enjoyed this film. It's inspired by a true story and it's mostly driven by the story's very realistic characters and the actors did a good job."
     }
+  ],
+  "recommendations": [
+    "unbroken",
+    "red_tails",
+    "jarhead",
+    "the_1517_to_paris",
+    "titanic",
+    "12_strong",
+    "the_13th_warrior",
+    "midway",
+    "300",
+    "pearl_harbor",
+    "soul_surfer",
+    "woodlawn",
+    "three_kings",
+    "valkyrie",
+    "blade_of_the_47_ronin",
+    "risen",
+    "red_dawn",
+    "v_for_vendetta",
+    "lone_survivor",
+    "pay_it_forward",
+    "apocalypto",
+    "blood_diamond",
+    "hereafter",
+    "ben_hur",
+    "the_hurt_locker"
   ]
 }

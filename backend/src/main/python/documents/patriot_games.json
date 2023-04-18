@@ -55,5 +55,32 @@
       "rating": "8",
       "text": "Entertaining 2nd entry in to the Jack Ryan franchise and well made.Less geo-politics, more big action than Red October."
     }
+  ],
+  "recommendations": [
+    "spy_game",
+    "triple_9",
+    "the_sum_of_all_fears",
+    "mission_impossible",
+    "survivor",
+    "tomorrow_never_dies",
+    "outbreak",
+    "jack_ryan_shadow_recruit",
+    "enemy_of_the_state",
+    "the_score",
+    "captain_america_the_winter_soldier",
+    "mission_impossible_rogue_nation",
+    "body_of_lies",
+    "heat",
+    "spectre",
+    "the_hunt_for_red_october",
+    "shooter",
+    "the_gunman",
+    "lethal_weapon_2",
+    "beirut",
+    "the_equalizer",
+    "the_league_of_extraordinary_gentlemen",
+    "mission_impossible_ghost_protocol",
+    "the_fugitive",
+    "the_equalizer_2"
   ]
 }

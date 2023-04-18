@@ -121,5 +121,32 @@
       "rating": "10",
       "text": "The movie is the best movie . I Love the funny Gags and the Comedy Horror consept."
     }
+  ],
+  "recommendations": [
+    "scary_movie_5",
+    "drag_me_to_hell",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "a_haunted_house",
+    "the_babysitter_killer_queen",
+    "vampires_suck",
+    "the_host",
+    "meet_the_spartans",
+    "scary_movie_2",
+    "scary_movie_4",
+    "grown_ups_2",
+    "movie_43",
+    "the_bye_bye_man",
+    "the_hangover_part_ii",
+    "rings",
+    "deuce_bigalow_european_gigolo",
+    "scream_4",
+    "one_year_one_night",
+    "hot_tub_time_machine",
+    "the_messengers",
+    "cabin_fever",
+    "show_dogs",
+    "epic_movie",
+    "fifty_shades_of_black",
+    "the_three_stooges"
   ]
 }

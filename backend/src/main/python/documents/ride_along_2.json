@@ -149,5 +149,32 @@
       "rating": "8",
       "text": "Very funny movie. Kevin Hart is so hilarious. It's almost like watching the movie Friday but with cops."
     }
+  ],
+  "recommendations": [
+    "ride_along",
+    "cop_out",
+    "the_other_guys",
+    "tower_heist",
+    "horrible_bosses_2",
+    "spy",
+    "the_longest_yard",
+    "stuber",
+    "central_intelligence",
+    "22_jump_street",
+    "30_minutes_or_less",
+    "paul_blart_mall_cop",
+    "identity_thief",
+    "get_smart",
+    "dodgeball_a_true_underdog_story",
+    "the_wedding_ringer",
+    "thunder_force",
+    "masterminds",
+    "horrible_bosses",
+    "this_means_war",
+    "get_hard",
+    "rush_hour_3",
+    "chips",
+    "date_night",
+    "little_fockers"
   ]
 }

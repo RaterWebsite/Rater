@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I love this movie over 5 years now. I've seen a lot of movies since that time and none of it will ever compare to this masterpiece. Al Pacino is the best gangster ever! It did changed my ideology. Just a few movies could do that and that is one of them!"
     }
+  ],
+  "recommendations": [
+    "goodfellas",
+    "the_shawshank_redemption",
+    "once_upon_a_time_in_america",
+    "cinderella_man",
+    "gladiator",
+    "braveheart",
+    "the_last_of_the_mohicans",
+    "raging_bull",
+    "chinatown",
+    "the_godfather_part_ii",
+    "tombstone",
+    "my_name_is_khan",
+    "casablanca",
+    "lincoln",
+    "django_unchained",
+    "bohemian_rhapsody",
+    "forrest_gump",
+    "scarface",
+    "amores_perros",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "joker",
+    "the_green_mile",
+    "rush",
+    "amadeus",
+    "a_beautiful_mind"
   ]
 }

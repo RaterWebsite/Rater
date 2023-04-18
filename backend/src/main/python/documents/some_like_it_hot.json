@@ -99,5 +99,32 @@
       "rating": "10",
       "text": "This was thoroughly entertaining and well done start to finish. Honestly no notes. Felt like a fresh take on a style of movie that has been done a lot, but it was definitely the originator I think."
     }
+  ],
+  "recommendations": [
+    "role_models",
+    "george_of_the_jungle",
+    "horrible_bosses",
+    "grudge_match",
+    "pitch_perfect",
+    "meet_the_parents",
+    "the_royal_tenenbaums",
+    "the_nice_guys",
+    "the_pink_panther",
+    "maverick",
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "music_and_lyrics",
+    "forgetting_sarah_marshall",
+    "get_smart",
+    "in_bruges",
+    "friends_with_benefits",
+    "fargo",
+    "jerry_maguire",
+    "notting_hill",
+    "hitch",
+    "spy",
+    "the_longest_yard",
+    "coming_to_america",
+    "central_intelligence",
+    "anger_management"
   ]
 }

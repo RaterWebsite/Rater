@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "never watched Jackie Chan films that much but i think its his first serious film"
     }
+  ],
+  "recommendations": [
+    "true_lies",
+    "the_equalizer",
+    "the_bourne_ultimatum",
+    "shooter",
+    "heat",
+    "haywire",
+    "gangster_squad",
+    "john_wick_chapter_3_parabellum",
+    "the_equalizer_2",
+    "safe",
+    "the_bourne_supremacy",
+    "mission_impossible_ghost_protocol",
+    "the_mechanic",
+    "john_wick_chapter_2",
+    "demolition_man",
+    "copshop",
+    "die_hard",
+    "den_of_thieves",
+    "last_action_hero",
+    "kate",
+    "the_bourne_identity",
+    "sherlock_holmes_a_game_of_shadows",
+    "mission_impossible_rogue_nation",
+    "first_blood",
+    "top_gun"
   ]
 }

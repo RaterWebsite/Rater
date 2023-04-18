@@ -162,5 +162,32 @@
       "rating": "7",
       "text": "It\u2019s a fun and entertaining kids movie. One of the better ones you can watch."
     }
+  ],
+  "recommendations": [
+    "the_tale_of_despereaux",
+    "the_house_with_a_clock_in_its_walls",
+    "coraline",
+    "the_kid_who_would_be_king",
+    "nightbooks",
+    "monster_house",
+    "it",
+    "rise_of_the_guardians",
+    "incredibles_2",
+    "it_chapter_two",
+    "goosebumps",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "super_8",
+    "paranorman",
+    "astro_boy",
+    "nanny_mcphee",
+    "9",
+    "alice_through_the_looking_glass",
+    "where_the_wild_things_are",
+    "zathura_a_space_adventure",
+    "the_hunger_games",
+    "maleficent",
+    "the_croods",
+    "meet_the_robinsons",
+    "inkheart"
   ]
 }

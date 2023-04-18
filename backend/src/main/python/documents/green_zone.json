@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "Simply the best movie of the year. The best war/ political thriller of the decade."
     }
+  ],
+  "recommendations": [
+    "the_hurt_locker",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "zero_dark_thirty",
+    "the_kingdom",
+    "valkyrie",
+    "jarhead",
+    "lord_of_war",
+    "red_tails",
+    "12_strong",
+    "the_monuments_men",
+    "equilibrium",
+    "snowden",
+    "argo",
+    "the_1517_to_paris",
+    "patriots_day",
+    "source_code",
+    "lone_survivor",
+    "closed_circuit",
+    "elysium",
+    "american_sniper",
+    "the_purge_election_year",
+    "blackhat",
+    "london_has_fallen",
+    "greyhound",
+    "pearl_harbor"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "4",
       "text": "Too-safe adaptation of the book. No mistery, no suspense...Hanks and Tatou just ridiculous."
     }
+  ],
+  "recommendations": [
+    "the_mortal_instruments_city_of_bones",
+    "eragon",
+    "vampire_academy",
+    "the_golden_compass",
+    "inferno",
+    "v_for_vendetta",
+    "dreamcatcher",
+    "ready_player_one",
+    "the_hunger_games",
+    "the_chronicles_of_narnia_prince_caspian",
+    "artemis_fowl",
+    "warcraft",
+    "john_carter",
+    "it_chapter_two",
+    "the_butterfly_effect",
+    "the_giver",
+    "percy_jackson_sea_of_monsters",
+    "tinker_tailor_soldier_spy",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "divergent",
+    "green_lantern",
+    "the_book_of_eli",
+    "cloud_atlas",
+    "city_of_ember",
+    "bright"
   ]
 }

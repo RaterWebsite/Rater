@@ -173,5 +173,32 @@
       "rating": "10",
       "text": "The Best Movie of all Time.Hitchcock the best.James Stwart and everyone is great."
     }
+  ],
+  "recommendations": [
+    "north_by_northwest",
+    "chinatown",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_grand_budapest_hotel",
+    "nocturnal_animals",
+    "insomnia",
+    "catch_me_if_you_can",
+    "motherless_brooklyn",
+    "butch_cassidy_and_the_sundance_kid",
+    "last_night_in_soho",
+    "the_sting",
+    "casino",
+    "the_last_of_the_mohicans",
+    "the_godfather_part_ii",
+    "murder_on_the_orient_express",
+    "casablanca",
+    "the_french_dispatch",
+    "phantom_thread",
+    "zodiac",
+    "the_untouchables",
+    "the_walk",
+    "primal_fear",
+    "rush",
+    "once_upon_a_time_in_america",
+    "hell_or_high_water"
   ]
 }

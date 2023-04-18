@@ -100,5 +100,32 @@
       "rating": "8",
       "text": "This movie breaks the molds for this kind of Indian movies, to be the greatest for get nominated to the Academy Awards."
     }
+  ],
+  "recommendations": [
+    "the_boy_who_harnessed_the_wind",
+    "hidden_figures",
+    "a_united_kingdom",
+    "the_imitation_game",
+    "green_book",
+    "the_33",
+    "race",
+    "just_mercy",
+    "judas_and_the_black_messiah",
+    "nomadland",
+    "american_pastoral",
+    "dark_waters",
+    "leave_no_trace",
+    "the_hate_u_give",
+    "12_years_a_slave",
+    "snowden",
+    "legends_of_the_fall",
+    "a_bronx_tale",
+    "only_the_brave",
+    "minari",
+    "the_mauritanian",
+    "free_state_of_jones",
+    "the_reader",
+    "the_lost_city_of_z",
+    "disobedience"
   ]
 }

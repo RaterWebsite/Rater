@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "It brings nothing new to the table (and it doesn't try to do), but this is a thoroughly enjoyable, well-executed old-fashioned swashbuckler that's, surprisingly, a lot richer than most of the numerous adaptations of Dumas's masterpiece.(7.5/10)"
     }
+  ],
+  "recommendations": [
+    "victor_frankenstein",
+    "odd_thomas",
+    "eternals",
+    "looper",
+    "harry_potter_and_the_chamber_of_secrets",
+    "the_hunger_games_catching_fire",
+    "murder_on_the_orient_express",
+    "conan_the_barbarian",
+    "inkheart",
+    "the_girl_with_the_dragon_tattoo",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "alita_battle_angel",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "the_devil_all_the_time",
+    "let_me_in",
+    "sin_city",
+    "dredd",
+    "the_prestige",
+    "the_lovely_bones",
+    "harry_potter_and_the_order_of_the_phoenix",
+    "maleficent_mistress_of_evil",
+    "alice_in_wonderland",
+    "catch_me_if_you_can",
+    "doctor_sleep",
+    "fantastic_beasts_the_crimes_of_grindelwald"
   ]
 }

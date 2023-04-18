@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "It's one of the most shocking films in the series but it's also the lightest. That's beceause are about eternal romance of vampires at play"
     }
+  ],
+  "recommendations": [
+    "the_twilight_saga_eclipse",
+    "the_twilight_saga_new_moon",
+    "i_am_number_four",
+    "underworld_blood_wars",
+    "percy_jackson_sea_of_monsters",
+    "the_new_mutants",
+    "underworld_awakening",
+    "terminator_genisys",
+    "the_chronicles_of_narnia_prince_caspian",
+    "maze_runner_the_scorch_trials",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "next",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "i_am_legend",
+    "the_hobbit_the_desolation_of_smaug",
+    "batman_v_superman_dawn_of_justice",
+    "the_maze_runner",
+    "underworld_evolution",
+    "teenage_mutant_ninja_turtles",
+    "riddick",
+    "jigsaw",
+    "underworld_rise_of_the_lycans",
+    "transformers_dark_of_the_moon"
   ]
 }

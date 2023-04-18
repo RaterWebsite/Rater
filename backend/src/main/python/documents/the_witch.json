@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Horror cinematography as it should always be. Eerie music and beautiful dark photography, excellent acting, omission of too much splatter, all combine to create a phobic atmosphere and a paradigm in horror cinema."
     }
+  ],
+  "recommendations": [
+    "it_follows",
+    "the_conjuring",
+    "the_babadook",
+    "the_ritual",
+    "the_lodge",
+    "the_woman_in_black",
+    "the_descent",
+    "antlers",
+    "the_ring",
+    "the_conjuring_2",
+    "the_possession",
+    "scary_stories_to_tell_in_the_dark",
+    "the_texas_chain_saw_massacre",
+    "demon_slayer_kimetsu_no_yaiba_to_the_swordsmith_village_",
+    "ouija_origin_of_evil",
+    "you_should_have_left",
+    "oculus",
+    "dark_skies",
+    "the_blair_witch_project",
+    "us",
+    "the_exorcism_of_emily_rose",
+    "insidious",
+    "annabelle_creation",
+    "the_haunting_in_connecticut",
+    "it"
   ]
 }

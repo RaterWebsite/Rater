@@ -185,5 +185,32 @@
       "rating": "8",
       "text": "I love horror movies. The more blood, guts, gore and torture there can be the better. This movie has it all."
     }
+  ],
+  "recommendations": [
+    "vacancy",
+    "terrifier",
+    "house_of_1000_corpses",
+    "the_ring",
+    "wrong_turn",
+    "scream_2",
+    "hell_fest",
+    "p2",
+    "scream",
+    "the_collection",
+    "the_strangers_prey_at_night",
+    "the_crazies",
+    "clown",
+    "the_texas_chain_saw_massacre",
+    "the_boy",
+    "texas_chainsaw_3d",
+    "hostel_part_ii",
+    "the_green_inferno",
+    "malignant",
+    "the_hills_have_eyes",
+    "hostel",
+    "it_follows",
+    "sinister_2",
+    "the_conjuring",
+    "saw"
   ]
 }

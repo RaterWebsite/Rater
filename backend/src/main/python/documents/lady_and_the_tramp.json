@@ -62,5 +62,32 @@
       "rating": "10",
       "text": "One of my all-time favorite movies from my childhood. It is such a classic."
     }
+  ],
+  "recommendations": [
+    "labyrinth",
+    "the_aristocats",
+    "the_hunchback_of_notre_dame",
+    "the_little_mermaid",
+    "enchanted",
+    "aladdin",
+    "snow_white_and_the_seven_dwarfs",
+    "the_fox_and_the_hound",
+    "tarzan",
+    "finding_nemo",
+    "tangled",
+    "a_street_cat_named_bob",
+    "letters_to_juliet",
+    "sing",
+    "dirty_dancing",
+    "mary_poppins",
+    "brother_bear",
+    "the_princess_and_the_frog",
+    "toy_story_2",
+    "brave",
+    "winnie_the_pooh_blood_and_honey",
+    "mulan",
+    "pocahontas",
+    "the_many_adventures_of_winnie_the_pooh",
+    "moana"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "Not nearly as good as it is made out to be. I recently rewatched goodfellas and found it over long and discovered the film has no actual story but simply it's goal is to portray life as a gangster as realistically as possible."
     }
+  ],
+  "recommendations": [
+    "the_godfather",
+    "raging_bull",
+    "rush",
+    "scarface",
+    "cinderella_man",
+    "django_unchained",
+    "the_shawshank_redemption",
+    "casino",
+    "catch_me_if_you_can",
+    "american_gangster",
+    "creed",
+    "braveheart",
+    "gladiator",
+    "true_grit",
+    "the_last_of_the_mohicans",
+    "chinatown",
+    "million_dollar_baby",
+    "mystic_river",
+    "forrest_gump",
+    "top_gun_maverick",
+    "the_disaster_artist",
+    "changeling",
+    "eddie_the_eagle",
+    "legend",
+    "pulp_fiction"
   ]
 }

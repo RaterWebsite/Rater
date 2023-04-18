@@ -122,5 +122,32 @@
       "rating": "8",
       "text": "Que buena pel\u00edcula, por que me gustan los clich\u00e9s Con esta no chillo jijiji"
     }
+  ],
+  "recommendations": [
+    "big",
+    "young_adult",
+    "home_again",
+    "the_spectacular_now",
+    "endless_love",
+    "book_club",
+    "17_again",
+    "midnight_sun",
+    "the_intern",
+    "last_vegas",
+    "you_again",
+    "moonrise_kingdom",
+    "life_as_we_know_it",
+    "we_bought_a_zoo",
+    "something_borrowed",
+    "the_first_time",
+    "nanny_mcphee",
+    "the_perks_of_being_a_wallflower",
+    "10_things_i_hate_about_you",
+    "lady_bird",
+    "dora_and_the_lost_city_of_gold",
+    "chef",
+    "the_holiday",
+    "booksmart",
+    "the_edge_of_seventeen"
   ]
 }

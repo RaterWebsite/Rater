@@ -74,5 +74,32 @@
       "rating": "0",
       "text": "It amazes me how Disney decides to make things worse and ruin one of their best movies in years."
     }
+  ],
+  "recommendations": [
+    "101_dalmatians",
+    "charlie_and_the_chocolate_factory",
+    "dumbo",
+    "treasure_planet",
+    "atlantis_the_lost_empire",
+    "home_on_the_range",
+    "the_grinch",
+    "scoob",
+    "smurfs_the_lost_village",
+    "return_to_never_land",
+    "meet_the_robinsons",
+    "the_witches",
+    "my_little_pony_the_movie",
+    "percy_jackson_sea_of_monsters",
+    "a_christmas_carol",
+    "superman_ii",
+    "tmnt",
+    "ferdinand",
+    "ghostbusters_ii",
+    "winnie_the_pooh_blood_and_honey",
+    "mowgli_legend_of_the_jungle",
+    "rio_2",
+    "rock_dog_2_rock_around_the_park",
+    "monsters_university",
+    "the_avengers"
   ]
 }

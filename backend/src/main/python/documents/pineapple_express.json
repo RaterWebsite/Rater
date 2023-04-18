@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "It was a pretty funny movie but it lost it's edge over time. They could have shortened it about 30 minutes and it would have been awesome."
     }
+  ],
+  "recommendations": [
+    "this_is_the_end",
+    "deadpool_2",
+    "deadpool",
+    "ted_2",
+    "identity_thief",
+    "the_wedding_ringer",
+    "hot_fuzz",
+    "neighbors",
+    "forgetting_sarah_marshall",
+    "mortdecai",
+    "thor_love_and_thunder",
+    "keeping_up_with_the_joneses",
+    "baywatch",
+    "dinner_for_schmucks",
+    "a_million_ways_to_die_in_the_west",
+    "anchorman_2_the_legend_continues",
+    "pitch_perfect_2",
+    "the_happytime_murders",
+    "step_brothers",
+    "the_five_year_engagement",
+    "spy",
+    "rough_night",
+    "jackass_presents_bad_grandpa",
+    "johnny_english_reborn",
+    "seven_psychopaths"
   ]
 }

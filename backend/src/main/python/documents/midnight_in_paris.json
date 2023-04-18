@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Next to Annie Hall and Manhattan, Midnight in Paris is Allen's most original and enchanting film. The cast is perfect, as is the setting, tone, and tunes of the 20s."
     }
+  ],
+  "recommendations": [
+    "vicky_cristina_barcelona",
+    "wonder_wheel",
+    "the_royal_tenenbaums",
+    "match_point",
+    "notting_hill",
+    "american_hustle",
+    "charade",
+    "blue_jasmine",
+    "me_and_earl_and_the_dying_girl",
+    "fading_gigolo",
+    "eddie_the_eagle",
+    "the_upside",
+    "the_grand_budapest_hotel",
+    "the_second_best_exotic_marigold_hotel",
+    "the_longest_ride",
+    "inherent_vice",
+    "morning_glory",
+    "10_things_i_hate_about_you",
+    "eternal_sunshine_of_the_spotless_mind",
+    "big_eyes",
+    "yesterday",
+    "the_terminal",
+    "what_women_want",
+    "lucky_number_slevin",
+    "logan_lucky"
   ]
 }

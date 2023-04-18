@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "amazing film best film of 1985. it you have not see this film where have you been living in a rock. a amazing classic a must watch for anyone anywhere."
     }
+  ],
+  "recommendations": [
+    "back_to_the_future_part_ii",
+    "the_kid_who_would_be_king",
+    "groundhog_day",
+    "fantastic_beasts_and_where_to_find_them",
+    "back_to_the_future_part_iii",
+    "x_men_days_of_future_past",
+    "the_second_best_exotic_marigold_hotel",
+    "downton_abbey",
+    "moonrise_kingdom",
+    "spider_man_far_from_home",
+    "christopher_robin",
+    "finding_dory",
+    "super_8",
+    "zathura_a_space_adventure",
+    "the_nutcracker_and_the_four_realms",
+    "contact",
+    "toy_story_3",
+    "the_adjustment_bureau",
+    "the_terminal",
+    "black_widow",
+    "t2_trainspotting",
+    "about_time",
+    "the_martian",
+    "looper",
+    "big"
   ]
 }

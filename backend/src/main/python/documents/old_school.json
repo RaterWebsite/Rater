@@ -140,5 +140,32 @@
       "rating": "7",
       "text": "This was the first movie I ever seen with Will Ferrell in it. I thought it was hilarious. The movie ain't really that good, but it's so funny that it doesn't really matter."
     }
+  ],
+  "recommendations": [
+    "neighbors",
+    "step_brothers",
+    "ted",
+    "jackass_presents_bad_grandpa",
+    "grown_ups",
+    "the_hangover",
+    "the_watch",
+    "night_at_the_museum",
+    "american_pie",
+    "eurotrip",
+    "superbad",
+    "hot_tub_time_machine",
+    "the_wedding_ringer",
+    "the_three_stooges",
+    "just_friends",
+    "this_is_the_end",
+    "zoolander",
+    "the_other_guys",
+    "knocked_up",
+    "ted_2",
+    "30_minutes_or_less",
+    "dodgeball_a_true_underdog_story",
+    "jexi",
+    "21_jump_street",
+    "nacho_libre"
   ]
 }

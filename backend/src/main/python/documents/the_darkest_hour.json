@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "I had high expectation and the movie turns out to be one lame ass movie.The special effects were good and the story was original but the movie was bad executed and the acting was far from good."
     }
+  ],
+  "recommendations": [
+    "skyline",
+    "pandorum",
+    "into_the_storm",
+    "the_tomorrow_war",
+    "independence_day_resurgence",
+    "geostorm",
+    "war_of_the_worlds",
+    "monsters",
+    "battleship",
+    "the_matrix_resurrections",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "pacific_rim_uprising",
+    "riddick",
+    "2012",
+    "transformers_the_last_knight",
+    "the_predator",
+    "red_dawn",
+    "the_new_mutants",
+    "gods_of_egypt",
+    "volcano",
+    "teenage_mutant_ninja_turtles",
+    "the_cloverfield_paradox",
+    "underworld_blood_wars",
+    "shadow_in_the_cloud",
+    "transformers_revenge_of_the_fallen"
   ]
 }

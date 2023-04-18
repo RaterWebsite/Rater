@@ -158,5 +158,32 @@
       "rating": "5",
       "text": "Not a terrible movie, just so so. There are some good moments, but they're far and few between."
     }
+  ],
+  "recommendations": [
+    "jumper",
+    "terminator_genisys",
+    "hancock",
+    "poseidon",
+    "i_am_number_four",
+    "seven_pounds",
+    "now_you_see_me",
+    "the_twilight_saga_eclipse",
+    "the_tax_collector",
+    "man_on_a_ledge",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "glass",
+    "the_new_mutants",
+    "limitless",
+    "shut_in",
+    "shadow_in_the_cloud",
+    "awake",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "vantage_point",
+    "dark_phoenix",
+    "old",
+    "the_hunger_games_mockingjay_part_1",
+    "the_old_guard",
+    "the_guardian",
+    "bird_box"
   ]
 }

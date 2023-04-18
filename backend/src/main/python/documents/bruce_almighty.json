@@ -137,5 +137,32 @@
       "rating": "10",
       "text": "This will always be one of my top 10 favourite movies of all times. It has 2 legendary actors in it (Jim Carrey and Morgan Freeman) and one legendary actress, (Jennifer Aniston). You can't go wrong with that. Stories great and it's absolutely hilarious."
     }
+  ],
+  "recommendations": [
+    "liar_liar",
+    "ace_ventura_pet_detective",
+    "the_pink_panther",
+    "the_mask",
+    "ace_ventura_when_nature_calls",
+    "dodgeball_a_true_underdog_story",
+    "the_boss",
+    "austin_powers_international_man_of_mystery",
+    "yes_man",
+    "due_date",
+    "wanderlust",
+    "role_models",
+    "how_the_grinch_stole_christmas",
+    "little_nicky",
+    "evan_almighty",
+    "anger_management",
+    "zack_and_miri_make_a_porno",
+    "central_intelligence",
+    "zoolander",
+    "arthur",
+    "sandy_wexler",
+    "masterminds",
+    "grudge_match",
+    "forgetting_sarah_marshall",
+    "bean"
   ]
 }

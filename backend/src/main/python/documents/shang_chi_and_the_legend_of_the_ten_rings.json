@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Best Marvel movie I have ever seen! The fights is amazing.  I really like Tony Leung, he is not evil, just wanna save his wife."
     }
+  ],
+  "recommendations": [
+    "kung_fu_panda_3",
+    "rocky",
+    "the_forbidden_kingdom",
+    "kung_fu_panda_2",
+    "top_gun_maverick",
+    "how_to_train_your_dragon",
+    "alita_battle_angel",
+    "the_fifth_element",
+    "tron_legacy",
+    "fearless",
+    "the_adventures_of_tintin",
+    "dredd",
+    "avengers_age_of_ultron",
+    "eternals",
+    "thor_the_dark_world",
+    "the_three_musketeers",
+    "indiana_jones_and_the_temple_of_doom",
+    "doctor_strange",
+    "kung_fu_panda",
+    "black_widow",
+    "the_suicide_squad",
+    "how_to_train_your_dragon_2",
+    "the_mummy",
+    "top_gun",
+    "highlander"
   ]
 }

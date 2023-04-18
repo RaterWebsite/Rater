@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "\"Ice Age\" is generally original, and while it is able to entertain, its story is generally packed with so many plots that it can get carried away. Characters are interesting, but not outstandingly executed, and some can give solid laughs to audiences. It treads similarity to \"Shrek\" and \"Monsters Inc.\", but doesn't exceed their qualities, yet is able to pull off an enjoyable film to kids, more than to adults."
     }
+  ],
+  "recommendations": [
+    "bolt",
+    "the_croods",
+    "puss_in_boots_the_last_wish",
+    "ice_age_the_meltdown",
+    "hotel_transylvania",
+    "robots",
+    "over_the_hedge",
+    "despicable_me",
+    "shaun_the_sheep_movie",
+    "madagascar",
+    "storks",
+    "rise_of_the_guardians",
+    "paddington",
+    "peter_rabbit",
+    "hotel_transylvania_2",
+    "rio",
+    "ferdinand",
+    "megamind",
+    "captain_underpants_the_first_epic_movie",
+    "spies_in_disguise",
+    "meet_the_robinsons",
+    "despicable_me_2",
+    "rango",
+    "madagascar_escape_2_africa",
+    "zootopia"
   ]
 }

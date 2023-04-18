@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Ich fand den Film sehr gut. Ich hab ihn sofort als er rauskam im Kino geschaut und es nicht bereut. Ich mag den Film sehr und werde ihn mir sicher auf DVD kaufen!"
     }
+  ],
+  "recommendations": [
+    "batman_begins",
+    "the_dark_knight",
+    "batman_returns",
+    "the_dark_knight_rises",
+    "batman",
+    "batman_forever",
+    "the_suicide_squad",
+    "man_of_steel",
+    "superman_returns",
+    "thor",
+    "the_incredible_hulk",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_amazing_spider_man",
+    "sherlock_holmes_a_game_of_shadows",
+    "spider_man",
+    "hulk",
+    "spider_man_far_from_home",
+    "captain_america_the_first_avenger",
+    "daredevil",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "the_lego_batman_movie",
+    "the_fifth_element",
+    "the_karate_kid_part_iii",
+    "sin_city_a_dame_to_kill_for",
+    "dark_shadows"
   ]
 }

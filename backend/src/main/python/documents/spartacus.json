@@ -63,5 +63,32 @@
       "rating": "10",
       "text": "Es emocionante, \u00e9pica y emotiva, es una de las mejores pel\u00edculas de la historia."
     }
+  ],
+  "recommendations": [
+    "kingdom_of_heaven",
+    "darkest_hour",
+    "gone_with_the_wind",
+    "blade_runner",
+    "the_last_of_the_mohicans",
+    "the_godfather_part_ii",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "once_upon_a_time_in_america",
+    "the_last_samurai",
+    "gladiator",
+    "dances_with_wolves",
+    "motherless_brooklyn",
+    "cold_mountain",
+    "chinatown",
+    "1917",
+    "the_great_escape",
+    "the_dig",
+    "the_french_dispatch",
+    "amadeus",
+    "the_hunt_for_red_october",
+    "the_monuments_men",
+    "empire_of_the_sun",
+    "the_man_in_the_iron_mask",
+    "the_deer_hunter",
+    "close_encounters_of_the_third_kind"
   ]
 }

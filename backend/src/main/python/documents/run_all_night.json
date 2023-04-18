@@ -210,5 +210,32 @@
       "rating": "10",
       "text": "\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25a0\u2664\u25a0\u2664\u25a0\u2664\u25a0\u2664\u25a0\u2664\u25a0\u2664\u25a0\u2664\u25a0\u2664$&$&$&$&$&$&$&$&$&$&$&$&$&$&+.+.+.+.+.+.+.+.+.+.+.+.+.+"
     }
+  ],
+  "recommendations": [
+    "a_walk_among_the_tombstones",
+    "the_mechanic",
+    "the_equalizer",
+    "the_commuter",
+    "angel_has_fallen",
+    "street_kings",
+    "nobody",
+    "wrath_of_man",
+    "3_days_to_kill",
+    "contraband",
+    "safe_house",
+    "the_equalizer_2",
+    "parker",
+    "16_blocks",
+    "mechanic_resurrection",
+    "the_accountant",
+    "the_italian_job",
+    "wild_card",
+    "taken",
+    "21_bridges",
+    "homefront",
+    "miami_vice",
+    "premium_rush",
+    "rocknrolla",
+    "creed_ii"
   ]
 }

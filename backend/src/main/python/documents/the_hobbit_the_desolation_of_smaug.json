@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "i loved this movie in many ways 1 the design of smaug 2 in the theaters the fire looked really cool. its much better then the first one. smaug is a big heat for the Movie"
     }
+  ],
+  "recommendations": [
+    "the_chronicles_of_narnia_prince_caspian",
+    "the_hobbit_an_unexpected_journey",
+    "percy_jackson_sea_of_monsters",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "maze_runner_the_scorch_trials",
+    "the_golden_compass",
+    "king_arthur_legend_of_the_sword",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "inferno",
+    "the_maze_runner",
+    "king_kong",
+    "the_mortal_instruments_city_of_bones",
+    "maze_runner_the_death_cure",
+    "the_twilight_saga_new_moon",
+    "the_twilight_saga_eclipse",
+    "batman_v_superman_dawn_of_justice",
+    "seventh_son",
+    "poseidon",
+    "avengers_age_of_ultron",
+    "the_hunger_games",
+    "i_am_legend",
+    "ready_player_one",
+    "eragon",
+    "the_hunger_games_mockingjay_part_1"
   ]
 }

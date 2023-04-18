@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Una pel\u00edcula de mafiosos m\u00e1s basada en la amistad que en el poder en s\u00ed, aunque este tema se mantiene fuerte en toda la pel\u00edcula. Es larga, y por momentos te perd\u00e9s, pero la fuerza de la historia y el final, la hacen una pel\u00edcula merecedora de una alta nota"
     }
+  ],
+  "recommendations": [
+    "magnolia",
+    "there_will_be_blood",
+    "changeling",
+    "inherent_vice",
+    "hugo",
+    "the_place_beyond_the_pines",
+    "meet_joe_black",
+    "good_time",
+    "american_gangster",
+    "rush",
+    "bad_times_at_the_el_royale",
+    "drive",
+    "atonement",
+    "tenet",
+    "uncut_gems",
+    "gran_torino",
+    "american_hustle",
+    "true_grit",
+    "youth",
+    "a_most_wanted_man",
+    "black_panther_wakanda_forever",
+    "the_curious_case_of_benjamin_button",
+    "the_power_of_the_dog",
+    "widows",
+    "the_departed"
   ]
 }

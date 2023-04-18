@@ -33,5 +33,32 @@
       "rating": "6",
       "text": "Aunque tiene una historia muy simple, no es tan mala como dicen y se puede disfrutar."
     }
+  ],
+  "recommendations": [
+    "greta",
+    "prey",
+    "evil_eye",
+    "the_manor",
+    "the_space_between_us",
+    "the_rhythm_section",
+    "lady_macbeth",
+    "deep_impact",
+    "the_way_back",
+    "the_craft",
+    "the_water_man",
+    "flightplan",
+    "monte_carlo",
+    "the_marksman",
+    "no_escape",
+    "land",
+    "the_age_of_adaline",
+    "everest",
+    "the_autopsy_of_jane_doe",
+    "hotel_artemis",
+    "tracers",
+    "identity",
+    "panic_room",
+    "the_lost_city_of_z",
+    "cast_away"
   ]
 }

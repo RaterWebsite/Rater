@@ -88,5 +88,32 @@
       "rating": "6",
       "text": "Interesting film with a strong cast.  At the crux of it is an unadorned view of both teenagers and adults trying to figure out sexuality.  Some of them are misguided, and most make mistakes."
     }
+  ],
+  "recommendations": [
+    "captain_fantastic",
+    "freedom_writers",
+    "the_hunt",
+    "the_hate_u_give",
+    "ingrid_goes_west",
+    "the_perks_of_being_a_wallflower",
+    "elle",
+    "dead_poets_society",
+    "the_reader",
+    "afternoon_delight",
+    "young_adult",
+    "the_help",
+    "heaven_is_for_real",
+    "promising_young_woman",
+    "up_in_the_air",
+    "disobedience",
+    "the_descendants",
+    "into_the_wild",
+    "don_jon",
+    "closer",
+    "wonder",
+    "joe_bell",
+    "just_mercy",
+    "the_pursuit_of_happyness",
+    "collateral_beauty"
   ]
 }

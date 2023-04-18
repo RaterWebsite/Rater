@@ -33,5 +33,32 @@
       "rating": "5",
       "text": "Though not nearly as memorable as its predecessor, it's still a fun adaptation of some creative Stephen King short stories (particularly The Raft). When I saw it during its theatrical run, my parents got offended and made us leave about halfway through. So it was years later as an adult that I revisited it, and although it wasn't very scary, it had a few great lines and memorable scenes. \"Thanks for the ride, lady!\""
     }
+  ],
+  "recommendations": [
+    "a_christmas_carol",
+    "the_tale_of_despereaux",
+    "the_jungle_book_2",
+    "the_chronicles_of_narnia_prince_caspian",
+    "batman_the_killing_joke",
+    "madagascar",
+    "the_grinch",
+    "peter_pan",
+    "dumbo",
+    "creepshow",
+    "return_to_never_land",
+    "ferdinand",
+    "shaun_the_sheep_movie",
+    "ghostbusters_ii",
+    "the_hobbit_an_unexpected_journey",
+    "pet_sematary",
+    "winnie_the_pooh_blood_and_honey",
+    "the_princess_bride",
+    "mary_poppins_returns",
+    "monster_house",
+    "kung_fu_panda_2",
+    "carrie",
+    "meet_the_robinsons",
+    "kung_fu_panda",
+    "hotel_transylvania_3_summer_vacation"
   ]
 }

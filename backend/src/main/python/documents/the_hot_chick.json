@@ -93,5 +93,32 @@
       "rating": "2",
       "text": "Come on, Rob Schinder is at it again yet with another disappointing performance"
     }
+  ],
+  "recommendations": [
+    "good_luck_chuck",
+    "mean_girls",
+    "the_change_up",
+    "just_go_with_it",
+    "bad_santa",
+    "ted",
+    "grown_ups",
+    "superbad",
+    "just_friends",
+    "second_act",
+    "what_happens_in_vegas",
+    "beverly_hills_chihuahua",
+    "the_wrong_missy",
+    "dirty_grandpa",
+    "the_proposal",
+    "the_ugly_truth",
+    "hot_tub_time_machine",
+    "the_game_plan",
+    "old_dogs",
+    "bad_teacher",
+    "deuce_bigalow_male_gigolo",
+    "not_another_teen_movie",
+    "zookeeper",
+    "my_spy",
+    "norbit"
   ]
 }

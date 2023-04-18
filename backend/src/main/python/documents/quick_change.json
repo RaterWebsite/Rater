@@ -29,5 +29,32 @@
       "rating": "7",
       "text": "Plot contrivances and conveniences may plague \"Quick Change's\" logic, but overall, Bill Murray's (co) directorial debut delivers the witty one-liners and goofy gags in impressive stride."
     }
+  ],
+  "recommendations": [
+    "drunk_parents",
+    "brothers_by_blood",
+    "sleepwalkers",
+    "cliffhanger",
+    "precious_cargo",
+    "welcome_home",
+    "the_informer",
+    "spy_game",
+    "old_henry",
+    "happily",
+    "trading_places",
+    "jackie_brown",
+    "baby_on_board",
+    "survivor",
+    "the_bourne_supremacy",
+    "the_messenger_the_story_of_joan_of_arc",
+    "in_bruges",
+    "mission_impossible_ii",
+    "keeping_up_with_the_joneses",
+    "the_heat",
+    "the_thomas_crown_affair",
+    "grand_isle",
+    "feel_the_beat",
+    "no_sudden_move",
+    "mission_impossible"
   ]
 }

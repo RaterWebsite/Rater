@@ -130,5 +130,32 @@
       "rating": "7",
       "text": "The graphics, of course, are far from the best, and the editing in fights is strange for me. But overall a cast film. Interesting story and generally good characters. There are no unambiguously good or bad things, and that's great. In general, you can see."
     }
+  ],
+  "recommendations": [
+    "the_eagle",
+    "anthropoid",
+    "300_rise_of_an_empire",
+    "enemy_at_the_gates",
+    "the_great_wall",
+    "hellboy_ii_the_golden_army",
+    "troy",
+    "midway",
+    "bone_tomahawk",
+    "sicario_day_of_the_soldado",
+    "master_and_commander_the_far_side_of_the_world",
+    "12_strong",
+    "conan_the_barbarian",
+    "reign_of_fire",
+    "mortal_engines",
+    "total_recall",
+    "abraham_lincoln_vampire_hunter",
+    "blade_of_the_47_ronin",
+    "kingdom_of_heaven",
+    "upgrade",
+    "red_tails",
+    "hellboy",
+    "samson",
+    "the_monuments_men",
+    "the_magnificent_seven"
   ]
 }

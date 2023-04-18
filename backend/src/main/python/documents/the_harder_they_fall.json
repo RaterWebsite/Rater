@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "Loved it! Cinematic excellence! Watched it a few times with different people and got something great each time!"
     }
+  ],
+  "recommendations": [
+    "bone_tomahawk",
+    "top_gun",
+    "the_magnificent_seven",
+    "indiana_jones_and_the_temple_of_doom",
+    "bad_times_at_the_el_royale",
+    "the_fifth_element",
+    "true_grit",
+    "news_of_the_world",
+    "hell_or_high_water",
+    "backdraft",
+    "jackie_brown",
+    "triple_frontier",
+    "rocknrolla",
+    "blade_of_the_47_ronin",
+    "blackhat",
+    "the_three_musketeers",
+    "copshop",
+    "rush",
+    "drive",
+    "the_equalizer_2",
+    "avengers_age_of_ultron",
+    "hanna",
+    "django_unchained",
+    "king_arthur_legend_of_the_sword",
+    "lawless"
   ]
 }

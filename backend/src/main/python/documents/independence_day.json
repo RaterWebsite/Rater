@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "The first act builds up nicely, like in a classic John Carpenter movie, all the actors are well cast, the effects are good, there's some humor, but after the major disaster porn strikes, there's not much more to see, except patriotic Americans who love their president too much. Still, maybe the best film by Hollywood's garbage man No.1 Roland Emmerich. 6/10"
     }
+  ],
+  "recommendations": [
+    "battle_los_angeles",
+    "armageddon",
+    "pacific_rim",
+    "the_great_wall",
+    "the_day_after_tomorrow",
+    "mortal_engines",
+    "elysium",
+    "sunshine",
+    "pitch_black",
+    "reign_of_fire",
+    "aliens",
+    "star_trek_insurrection",
+    "twister",
+    "stargate",
+    "independence_day_resurgence",
+    "avatar",
+    "red_tails",
+    "star_trek_first_contact",
+    "the_last_days_on_mars",
+    "godzilla_king_of_the_monsters",
+    "species",
+    "geostorm",
+    "star_trek_v_the_final_frontier",
+    "300_rise_of_an_empire",
+    "the_core"
   ]
 }

@@ -113,5 +113,32 @@
       "rating": "7",
       "text": "The Ice Road is good if you don\u2019t expect a typical Liam Neeson performance. It won\u2019t be anyone\u2019s favorite action film, but I wouldn\u2019t throw it in the trash pile."
     }
+  ],
+  "recommendations": [
+    "infinite",
+    "the_mechanic",
+    "the_commuter",
+    "salt",
+    "skyscraper",
+    "angel_has_fallen",
+    "honest_thief",
+    "escape_plan",
+    "bloodshot",
+    "wild_card",
+    "wrath_of_man",
+    "lockout",
+    "mechanic_resurrection",
+    "transporter_3",
+    "mile_22",
+    "xxx_return_of_xander_cage",
+    "jolt",
+    "london_has_fallen",
+    "the_transporter_refueled",
+    "sabotage",
+    "the_equalizer",
+    "furious_7",
+    "triple_frontier",
+    "taken_3",
+    "the_fate_of_the_furious"
   ]
 }

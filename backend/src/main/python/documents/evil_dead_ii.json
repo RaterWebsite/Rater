@@ -218,5 +218,32 @@
       "rating": "6",
       "text": "Evil Dead 2  is an Okay in the inside, But this movie is very overrated the comedy is hit or miss and the direction from Raimi is meh, if you don't agree on me watch army of darkness insted."
     }
+  ],
+  "recommendations": [
+    "army_of_darkness",
+    "the_evil_dead",
+    "the_return_of_the_living_dead",
+    "hellraiser",
+    "scream_4",
+    "scream_2",
+    "the_cabin_in_the_woods",
+    "cabin_fever",
+    "shaun_of_the_dead",
+    "scream",
+    "scream_3",
+    "wrong_turn",
+    "the_conjuring_2",
+    "sinister_2",
+    "zombieland",
+    "malignant",
+    "the_amityville_horror",
+    "insidious_chapter_2",
+    "the_possession",
+    "the_texas_chainsaw_massacre",
+    "poltergeist",
+    "clown",
+    "drag_me_to_hell",
+    "the_texas_chain_saw_massacre",
+    "the_babadook"
   ]
 }

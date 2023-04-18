@@ -50,5 +50,32 @@
       "rating": "9",
       "text": "Funny, delightful, witty, thought-provoking, and aware of everything it's up to. The Sting is a stylish crime film that is for everyone. And, of course, Redford and Newman shine. It's just a bit convoluted in the first 20 minutes. Watch it ASAP, you follow? (9/10)"
     }
+  ],
+  "recommendations": [
+    "the_grand_budapest_hotel",
+    "the_french_dispatch",
+    "chinatown",
+    "motherless_brooklyn",
+    "the_harder_they_fall",
+    "the_great_gatsby",
+    "reservoir_dogs",
+    "murder_on_the_orient_express",
+    "kingdom_of_heaven",
+    "dune",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "bone_tomahawk",
+    "last_night_in_soho",
+    "jackie_brown",
+    "rear_window",
+    "close_encounters_of_the_third_kind",
+    "casino",
+    "body_of_lies",
+    "nocturnal_animals",
+    "amadeus",
+    "victor_frankenstein",
+    "the_fifth_element",
+    "hell_or_high_water",
+    "the_last_of_the_mohicans",
+    "true_grit"
   ]
 }

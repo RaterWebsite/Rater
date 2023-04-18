@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Wow, this movie sucked. I liked Transformers 1 and 3 quite a bit and I was expecting to like this one. For a start the run time is atleast 20 minutes too long for a Transformers movie, the humans are really weak, even worse than Sam. This movie was written by the guy who wrote TF 2 in 2009 and it shows. The writing is **** dredfull.\r3/10 only because some of the action was pretty cool."
     }
+  ],
+  "recommendations": [
+    "transformers_the_last_knight",
+    "war_of_the_worlds",
+    "battleship",
+    "the_predator",
+    "teenage_mutant_ninja_turtles",
+    "skyline",
+    "jurassic_world_fallen_kingdom",
+    "wonder_woman_1984",
+    "transformers_revenge_of_the_fallen",
+    "shadow_in_the_cloud",
+    "doomsday",
+    "jurassic_world_dominion",
+    "geostorm",
+    "underworld_blood_wars",
+    "jurassic_world",
+    "ghost_rider_spirit_of_vengeance",
+    "legion",
+    "terminator_dark_fate",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "max_steel",
+    "wanted",
+    "infinite",
+    "terminator_salvation",
+    "the_darkest_hour",
+    "army_of_the_dead"
   ]
 }

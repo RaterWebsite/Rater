@@ -186,5 +186,32 @@
       "rating": "10",
       "text": "dope movie realy sad talks about life bra  best ever cant wait next  one yeah"
     }
+  ],
+  "recommendations": [
+    "the_town",
+    "safe_house",
+    "live_by_night",
+    "those_who_wish_me_dead",
+    "the_taking_of_pelham_1_2_3",
+    "the_next_three_days",
+    "3_days_to_kill",
+    "the_accountant",
+    "killer_elite",
+    "taken",
+    "angel_has_fallen",
+    "run_all_night",
+    "no_escape",
+    "the_equalizer",
+    "the_commuter",
+    "homefront",
+    "man_on_fire",
+    "savages",
+    "the_mechanic",
+    "nobody",
+    "the_guardian",
+    "unstoppable",
+    "parker",
+    "gone_baby_gone",
+    "unhinged"
   ]
 }

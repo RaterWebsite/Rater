@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "It's a witty and intense movie, with some of the most stylish sequences ever seen."
     }
+  ],
+  "recommendations": [
+    "jackie_brown",
+    "django_unchained",
+    "pulp_fiction",
+    "inglourious_basterds",
+    "snatch",
+    "from_dusk_till_dawn",
+    "the_fifth_element",
+    "inherent_vice",
+    "bone_tomahawk",
+    "drive",
+    "the_gentlemen",
+    "sin_city",
+    "dredd",
+    "the_harder_they_fall",
+    "moon",
+    "the_suicide_squad",
+    "lucky_number_slevin",
+    "king_arthur_legend_of_the_sword",
+    "the_three_musketeers",
+    "the_departed",
+    "rocknrolla",
+    "the_wolf_of_snow_hollow",
+    "copshop",
+    "desperado",
+    "fargo"
   ]
 }

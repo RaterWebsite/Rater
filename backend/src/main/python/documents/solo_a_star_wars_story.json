@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "So for some reason my review got deleted and my account login changed. Again this movie sucked. Save your money."
     }
+  ],
+  "recommendations": [
+    "rogue_one_a_star_wars_story",
+    "star_wars_the_clone_wars",
+    "star_trek_nemesis",
+    "captain_america_the_first_avenger",
+    "john_carter",
+    "superman_ii",
+    "star_trek_insurrection",
+    "terminator_genisys",
+    "thor_ragnarok",
+    "red_dawn",
+    "avengers_endgame",
+    "star_trek_beyond",
+    "edge_of_tomorrow",
+    "star_trek",
+    "star_wars_episode_ii_attack_of_the_clones",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "terminator_3_rise_of_the_machines",
+    "black_widow",
+    "hercules",
+    "the_scorpion_king",
+    "man_of_steel",
+    "three_kings",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_a_team",
+    "x_men_apocalypse"
   ]
 }

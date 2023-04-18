@@ -143,5 +143,32 @@
       "rating": "1",
       "text": "this movie is atrocious! one of the creepiest movies of 2015! inside out is way better animated movie from 2015 than this movie!"
     }
+  ],
+  "recommendations": [
+    "trolls",
+    "rio",
+    "over_the_moon",
+    "spirit_stallion_of_the_cimarron",
+    "frozen_ii",
+    "moana",
+    "rio_2",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "my_little_pony_the_movie",
+    "the_book_of_life",
+    "vivo",
+    "zootopia",
+    "sing_2",
+    "atlantis_the_lost_empire",
+    "the_lego_movie_2_the_second_part",
+    "klaus",
+    "the_croods",
+    "ratatouille",
+    "trolls_world_tour",
+    "home_on_the_range",
+    "paranorman",
+    "rango",
+    "winnie_the_pooh_blood_and_honey",
+    "rock_dog_2_rock_around_the_park",
+    "the_peanuts_movie"
   ]
 }

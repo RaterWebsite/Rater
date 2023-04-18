@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "A sequel that is done right. A fantastic film that gives the viewers what they want."
     }
+  ],
+  "recommendations": [
+    "scream_4",
+    "scream_3",
+    "sinister_2",
+    "insidious_chapter_3",
+    "insidious_chapter_2",
+    "the_collector",
+    "halloween_ii",
+    "scream",
+    "final_destination",
+    "insidious_the_last_key",
+    "wrong_turn",
+    "hellbound_hellraiser_ii",
+    "happy_death_day_2u",
+    "the_texas_chainsaw_massacre",
+    "malignant",
+    "final_destination_2",
+    "the_ring",
+    "vacancy",
+    "ouija_origin_of_evil",
+    "the_amityville_horror",
+    "halloween_iii_season_of_the_witch",
+    "the_strangers_prey_at_night",
+    "annabelle",
+    "the_grudge_2",
+    "texas_chainsaw_3d"
   ]
 }

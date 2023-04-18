@@ -130,5 +130,32 @@
       "rating": "6",
       "text": "Si no fuera por el plot ser\u00eda una pel\u00edcula m\u00e1s de un domingo en el sof\u00e1 de tu casa."
     }
+  ],
+  "recommendations": [
+    "den_of_thieves",
+    "the_commuter",
+    "the_mechanic",
+    "wrath_of_man",
+    "cellular",
+    "the_november_man",
+    "premium_rush",
+    "a_walk_among_the_tombstones",
+    "street_kings",
+    "shooter",
+    "seeking_justice",
+    "unlocked",
+    "run_all_night",
+    "escape_plan",
+    "2_guns",
+    "the_call",
+    "honest_thief",
+    "unstoppable",
+    "man_on_a_ledge",
+    "the_bank_job",
+    "the_equalizer",
+    "contraband",
+    "the_ice_road",
+    "angel_has_fallen",
+    "the_bourne_legacy"
   ]
 }

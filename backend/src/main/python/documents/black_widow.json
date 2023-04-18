@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "This movie won't blow any minds, but it is a good action movie with some nice set pieces and some quite fun moments. I suspect most of the bad reviews are spurred by the fact it's a female-centric movie. Forums are filled with salty self appointed victims crying woke. But there isn't an agenda here. Just a standard (smaller scale) MCU movie. It's not citizen kane but it's a fun popcorn flick."
     }
+  ],
+  "recommendations": [
+    "captain_america_the_first_avenger",
+    "x_men_days_of_future_past",
+    "avengers_age_of_ultron",
+    "eternals",
+    "man_of_steel",
+    "thor_the_dark_world",
+    "thor",
+    "top_gun_maverick",
+    "edge_of_tomorrow",
+    "avengers_endgame",
+    "thor_ragnarok",
+    "black_panther_wakanda_forever",
+    "dredd",
+    "the_hunger_games_catching_fire",
+    "creed_ii",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "spider_man_far_from_home",
+    "looper",
+    "indiana_jones_and_the_temple_of_doom",
+    "creed",
+    "the_suicide_squad",
+    "super_8",
+    "the_guardian",
+    "top_gun",
+    "the_magnificent_seven"
   ]
 }

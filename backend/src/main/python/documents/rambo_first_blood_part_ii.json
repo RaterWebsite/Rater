@@ -79,5 +79,32 @@
       "rating": "10",
       "text": "i liked it more than the first since the helicopter fight was pretty fun not gonna lie"
     }
+  ],
+  "recommendations": [
+    "underworld_awakening",
+    "rambo_last_blood",
+    "underworld_blood_wars",
+    "transformers_dark_of_the_moon",
+    "the_mechanic",
+    "bloodshot",
+    "the_expendables",
+    "underworld_evolution",
+    "underworld",
+    "safe",
+    "the_marine",
+    "first_blood",
+    "avengers_age_of_ultron",
+    "hercules",
+    "war",
+    "quantum_of_solace",
+    "predator_2",
+    "escape_plan",
+    "ninja_assassin",
+    "death_race",
+    "predator",
+    "iron_man_2",
+    "london_has_fallen",
+    "riddick",
+    "live_free_or_die_hard"
   ]
 }

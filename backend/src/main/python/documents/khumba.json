@@ -38,5 +38,32 @@
       "rating": "7",
       "text": "The movie's plot is interesting, and the voice acting is good.It falls a little off,just a smudge, evan though it is meh, there still is some good parts."
     }
+  ],
+  "recommendations": [
+    "the_willoughbys",
+    "zootopia",
+    "rise_of_the_guardians",
+    "paranorman",
+    "the_peanuts_movie",
+    "enchanted",
+    "meet_the_robinsons",
+    "the_star",
+    "the_land_before_time",
+    "flipped",
+    "bolt",
+    "godmothered",
+    "coraline",
+    "cloudy_with_a_chance_of_meatballs",
+    "onward",
+    "hotel_transylvania",
+    "paddington",
+    "up",
+    "over_the_hedge",
+    "the_duff",
+    "klaus",
+    "rio",
+    "despicable_me",
+    "tangled",
+    "winnie_the_pooh_blood_and_honey"
   ]
 }

@@ -215,5 +215,32 @@
       "rating": "2",
       "text": "I hate this movie so much. It has too much potty humor especially when it comes to the villains name. If it weren't for it being a little violently funny or the cast I would give this a 0."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_2",
+    "hotel_transylvania",
+    "peter_rabbit",
+    "megamind",
+    "the_lego_movie",
+    "puss_in_boots_the_last_wish",
+    "cloudy_with_a_chance_of_meatballs",
+    "ice_age_the_meltdown",
+    "teen_titans_go_to_the_movies",
+    "alvin_and_the_chipmunks",
+    "storks",
+    "minions",
+    "over_the_hedge",
+    "the_angry_birds_movie",
+    "despicable_me_2",
+    "barnyard",
+    "the_spongebob_movie_sponge_out_of_water",
+    "shaun_the_sheep_movie",
+    "penguins_of_madagascar",
+    "spies_in_disguise",
+    "the_spongebob_squarepants_movie",
+    "goosebumps",
+    "monsters_vs_aliens",
+    "chicken_little",
+    "yogi_bear"
   ]
 }

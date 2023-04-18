@@ -78,5 +78,32 @@
       "rating": "3",
       "text": "While the action is appropriately over-the-top, the film isn't melodramatic, light, or hilarious enough to satisfy the campiness its title and premise promises. 3.5/10"
     }
+  ],
+  "recommendations": [
+    "the_transporter_refueled",
+    "the_ice_road",
+    "escape_plan",
+    "san_andreas",
+    "skyscraper",
+    "the_commuter",
+    "taken_3",
+    "london_has_fallen",
+    "salt",
+    "den_of_thieves",
+    "infinite",
+    "the_fate_of_the_furious",
+    "lockout",
+    "the_mechanic",
+    "premium_rush",
+    "hunter_killer",
+    "seeking_justice",
+    "angel_has_fallen",
+    "21_bridges",
+    "geostorm",
+    "mechanic_resurrection",
+    "white_house_down",
+    "mile_22",
+    "rampage",
+    "death_race"
   ]
 }

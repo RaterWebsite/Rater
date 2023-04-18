@@ -167,5 +167,32 @@
       "rating": "9",
       "text": "A hilarious comedy with a supernatural twists. Reese and Mark are perfectly matched in the movie."
     }
+  ],
+  "recommendations": [
+    "friends_with_benefits",
+    "leap_year",
+    "life_as_we_know_it",
+    "wanderlust",
+    "last_vegas",
+    "morning_glory",
+    "little_miss_sunshine",
+    "due_date",
+    "10_things_i_hate_about_you",
+    "the_holiday",
+    "sisters",
+    "17_again",
+    "forgetting_sarah_marshall",
+    "blockers",
+    "silver_linings_playbook",
+    "no_strings_attached",
+    "the_dilemma",
+    "the_break_up",
+    "sleeping_with_other_people",
+    "me_and_earl_and_the_dying_girl",
+    "how_to_lose_a_guy_in_10_days",
+    "chef",
+    "you_again",
+    "the_nice_guys",
+    "groundhog_day"
   ]
 }

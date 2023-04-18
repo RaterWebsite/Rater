@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "The film had potential to be a great dark vigilante revenge thriller, but it's shot down by uneven pacing and a story that displays more explosion than it does emotion."
     }
+  ],
+  "recommendations": [
+    "cold_pursuit",
+    "punisher_war_zone",
+    "savages",
+    "taken",
+    "iron_man_3",
+    "death_wish",
+    "spider_man_3",
+    "kingsman_the_golden_circle",
+    "sin_city_a_dame_to_kill_for",
+    "nobody",
+    "x_men_apocalypse",
+    "daredevil",
+    "ant_man_and_the_wasp_quantumania",
+    "four_brothers",
+    "jack_reacher",
+    "the_equalizer",
+    "creed_ii",
+    "jack_reacher_never_go_back",
+    "the_marksman",
+    "angel_has_fallen",
+    "3_days_to_kill",
+    "iron_man",
+    "no_escape",
+    "spider_man_no_way_home",
+    "repo_men"
   ]
 }

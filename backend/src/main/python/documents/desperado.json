@@ -178,5 +178,32 @@
       "rating": "7",
       "text": "This movie is decent but flys away due to it's mission impossible weapons. But badass."
     }
+  ],
+  "recommendations": [
+    "kate",
+    "the_marine",
+    "bloodshot",
+    "haywire",
+    "wrath_of_man",
+    "hercules",
+    "kingsman_the_golden_circle",
+    "shooter",
+    "6_underground",
+    "copshop",
+    "the_expendables_3",
+    "gunpowder_milkshake",
+    "american_ultra",
+    "from_dusk_till_dawn",
+    "gangster_squad",
+    "the_expendables",
+    "rocknrolla",
+    "the_mechanic",
+    "mission_impossible_ii",
+    "the_suicide_squad",
+    "miami_vice",
+    "boss_level",
+    "the_losers",
+    "brick_mansions",
+    "the_expendables_2"
   ]
 }

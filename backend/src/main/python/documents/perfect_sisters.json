@@ -50,5 +50,32 @@
       "rating": "6",
       "text": "While the real story is very interesting, the movie wasn't. The acting was below average, even for a low budget movie, the direction and cinematography was very amateurish and the soundtrack felt very forced. Although the movie was entertaining, you'd be better off reading about the real story, rather than watching this movie."
     }
+  ],
+  "recommendations": [
+    "fifty_shades_darker",
+    "the_curious_case_of_benjamin_button",
+    "eastern_promises",
+    "gone_girl",
+    "brimstone",
+    "what_happened_to_monday",
+    "the_counselor",
+    "boyhood",
+    "a_wrinkle_in_time",
+    "there_will_be_blood",
+    "a_history_of_violence",
+    "the_mountain_between_us",
+    "the_girl_next_door",
+    "red_sparrow",
+    "code_8",
+    "the_fault_in_our_stars",
+    "the_departed",
+    "the_gambler",
+    "the_loft",
+    "the_power_of_the_dog",
+    "the_snowman",
+    "pompeii",
+    "contagion",
+    "alice_through_the_looking_glass",
+    "the_twilight_saga_breaking_dawn_part_1"
   ]
 }

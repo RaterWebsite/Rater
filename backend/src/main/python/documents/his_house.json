@@ -113,5 +113,32 @@
       "rating": "8",
       "text": "I had never seen a movie who make me close my eyes and turn on the lights, until I watched this."
     }
+  ],
+  "recommendations": [
+    "lights_out",
+    "the_conjuring",
+    "the_conjuring_2",
+    "scary_stories_to_tell_in_the_dark",
+    "before_i_wake",
+    "oculus",
+    "the_autopsy_of_jane_doe",
+    "winchester",
+    "ouija_origin_of_evil",
+    "the_witch",
+    "annabelle_creation",
+    "the_ritual",
+    "the_night_house",
+    "annabelle_comes_home",
+    "the_lodge",
+    "the_prodigy",
+    "the_woman_in_black",
+    "it_follows",
+    "the_haunting_in_connecticut",
+    "us",
+    "insidious_chapter_3",
+    "you_should_have_left",
+    "the_boy",
+    "the_forest",
+    "a_cure_for_wellness"
   ]
 }

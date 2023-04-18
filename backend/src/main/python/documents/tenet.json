@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "The idea of the movie seemed nice enough but the movie itself turned out to be terrible. I do not understand all the good reviews. In my opinion it is just another boring action movie. The story is unnecessary confusing and hectic. The dialogues and the characters are flat. After watching the movie you do not even remember the names of the characters because you simply do not care. Some of the visuals and effects are nice but the amount of explosions can not hide the bad storytelling. Overall, in my opinion the movie was not worth the money. Best about the cinema visit was the popcorn."
     }
+  ],
+  "recommendations": [
+    "the_prestige",
+    "what_happened_to_monday",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "inception",
+    "bad_times_at_the_el_royale",
+    "sicario_day_of_the_soldado",
+    "project_power",
+    "now_you_see_me",
+    "tinker_tailor_soldier_spy",
+    "the_counselor",
+    "the_gambler",
+    "the_equalizer_2",
+    "avengers_age_of_ultron",
+    "blackhat",
+    "interstellar",
+    "shutter_island",
+    "drive",
+    "inherent_vice",
+    "hugo",
+    "the_accountant",
+    "good_time",
+    "nerve",
+    "chaos_walking",
+    "predestination",
+    "gone_girl"
   ]
 }

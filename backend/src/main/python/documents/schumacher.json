@@ -44,5 +44,32 @@
       "rating": "10",
       "text": "Why did they make a documentary on a shoemaker and his family who drives around his car in circles. All in all, 10 out of 10, would recommend."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_transformania",
+    "bad_boys_for_life",
+    "lost_in_space",
+    "el_camino_a_breaking_bad_movie",
+    "rocky_v",
+    "rocky_iv",
+    "venom_let_there_be_carnage",
+    "terminator_genisys",
+    "the_guardian",
+    "the_karate_kid_part_iii",
+    "bright",
+    "the_many_saints_of_newark",
+    "the_tax_collector",
+    "entourage",
+    "the_a_team",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "cars_3",
+    "the_6th_day",
+    "the_spongebob_movie_sponge_on_the_run",
+    "national_treasure_book_of_secrets",
+    "underworld_rise_of_the_lycans",
+    "i_am_number_four",
+    "nobody",
+    "taken_2",
+    "the_twilight_saga_new_moon"
   ]
 }

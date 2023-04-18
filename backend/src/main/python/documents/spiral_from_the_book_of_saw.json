@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Definitely one of the better movies in the Saw Franchise the acting is pretty good but over-dramatic at times"
     }
+  ],
+  "recommendations": [
+    "saw_vi",
+    "jigsaw",
+    "saw_ii",
+    "saw_3d",
+    "saw_iii",
+    "saw_iv",
+    "vacancy",
+    "paranormal_activity_the_marked_ones",
+    "saw_v",
+    "paranormal_activity_4",
+    "the_new_mutants",
+    "texas_chainsaw_3d",
+    "unfriended_dark_web",
+    "tusk",
+    "insidious_chapter_2",
+    "brightburn",
+    "happy_death_day_2u",
+    "i_am_number_four",
+    "wish_upon",
+    "disturbia",
+    "paranormal_activity_3",
+    "countdown",
+    "final_destination_3",
+    "the_ring_two",
+    "rings"
   ]
 }

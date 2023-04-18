@@ -224,5 +224,32 @@
       "rating": "5",
       "text": "The same old story."
     }
+  ],
+  "recommendations": [
+    "american_pie_2",
+    "american_pie",
+    "coming_2_america",
+    "a_million_ways_to_die_in_the_west",
+    "the_three_stooges",
+    "neighbors_2_sorority_rising",
+    "the_happytime_murders",
+    "the_simpsons_movie",
+    "21_jump_street",
+    "ted_2",
+    "teen_titans_go_to_the_movies",
+    "good_boys",
+    "bad_santa_2",
+    "neighbors",
+    "blended",
+    "the_hangover_part_ii",
+    "think_like_a_man_too",
+    "knocked_up",
+    "night_at_the_museum",
+    "friday",
+    "american_wedding",
+    "step_brothers",
+    "ted",
+    "anchorman_2_the_legend_continues",
+    "superbad"
   ]
 }

@@ -61,5 +61,32 @@
       "rating": "6",
       "text": "Smart and cute story somewhere in  the UK actually filmed in Scotland and Romania. Cheesy dialogues but the plot works OK with lots of fun and some action Best of all of course is the terrific play of Vanessa in two roles"
     }
+  ],
+  "recommendations": [
+    "alice_through_the_looking_glass",
+    "the_secret_life_of_pets_2",
+    "terminal",
+    "maleficent",
+    "fifty_shades_darker",
+    "thor_love_and_thunder",
+    "a_wrinkle_in_time",
+    "pan",
+    "frozen_ii",
+    "last_christmas",
+    "cruella",
+    "incredibles_2",
+    "black_panther_wakanda_forever",
+    "a_christmas_prince",
+    "bumblebee",
+    "the_nutcracker_and_the_four_realms",
+    "shazam_fury_of_the_gods",
+    "turbo",
+    "tenet",
+    "the_lego_movie_2_the_second_part",
+    "palm_springs",
+    "now_you_see_me_2",
+    "maleficent_mistress_of_evil",
+    "gone_girl",
+    "snow_white_and_the_huntsman"
   ]
 }

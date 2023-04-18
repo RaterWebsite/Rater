@@ -115,5 +115,32 @@
       "rating": "10",
       "text": "Favorite Holiday movie! I watch this every year with my family. It never gets old."
     }
+  ],
+  "recommendations": [
+    "the_christmas_chronicles",
+    "arthur_christmas",
+    "the_santa_clause_2",
+    "elf",
+    "how_the_grinch_stole_christmas",
+    "the_muppets",
+    "fred_claus",
+    "deck_the_halls",
+    "the_night_before",
+    "christmas_with_the_kranks",
+    "the_nightmare_before_christmas",
+    "the_parent_trap",
+    "a_cinderella_story",
+    "beetlejuice",
+    "happiest_season",
+    "enchanted",
+    "the_grinch",
+    "freaky_friday",
+    "hocus_pocus",
+    "paddington",
+    "stuart_little_2",
+    "american_pie_2",
+    "ella_enchanted",
+    "the_spongebob_squarepants_movie",
+    "home_alone_2_lost_in_new_york"
   ]
 }

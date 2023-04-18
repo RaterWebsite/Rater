@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "This movie was cheap,lazily written, terrible graphics were tossed in and I gave it a 2 -a 2 for pity-if i was mean i would give it -46 but i can not rate it that bAd. SO DO NOT GET THE DVD"
     }
+  ],
+  "recommendations": [
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "chicken_little",
+    "hotel_transylvania",
+    "uglydolls",
+    "ice_age_the_meltdown",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_spongebob_movie_sponge_out_of_water",
+    "marmaduke",
+    "peter_rabbit",
+    "the_smurfs",
+    "yogi_bear",
+    "the_boss_baby_family_business",
+    "hotel_transylvania_2",
+    "herbie_fully_loaded",
+    "captain_underpants_the_first_epic_movie",
+    "megamind",
+    "barnyard",
+    "the_lego_movie",
+    "bedtime_stories",
+    "monsters_vs_aliens",
+    "minions",
+    "the_tale_of_despereaux",
+    "free_birds",
+    "cloudy_with_a_chance_of_meatballs"
   ]
 }

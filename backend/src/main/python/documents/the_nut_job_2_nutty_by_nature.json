@@ -63,5 +63,32 @@
       "rating": "8",
       "text": "Inspiring enough,Might as well be good. I am trying to be honest to my audience."
     }
+  ],
+  "recommendations": [
+    "ghostbusters_ii",
+    "national_treasure_book_of_secrets",
+    "dragonball_evolution",
+    "bright",
+    "home_sweet_home_alone",
+    "the_new_mutants",
+    "percy_jackson_sea_of_monsters",
+    "superman_ii",
+    "space_jam_a_new_legacy",
+    "hotel_transylvania_transformania",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "terminator_genisys",
+    "the_witches",
+    "the_matrix_resurrections",
+    "teenage_mutant_ninja_turtles",
+    "incredibles_2",
+    "saw_vi",
+    "poltergeist",
+    "planes",
+    "red_dawn",
+    "yogi_bear",
+    "venom_let_there_be_carnage",
+    "ice_age_collision_course",
+    "free_birds"
   ]
 }

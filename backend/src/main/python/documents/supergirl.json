@@ -59,5 +59,32 @@
       "rating": "5",
       "text": "Classic movie that gets a lot of stick but is actually a fun fantasy superhero film of its time. One of the first female led films and along with its campy storyline actually makes this film enjoyable."
     }
+  ],
+  "recommendations": [
+    "superman_ii",
+    "journey_to_the_center_of_the_earth",
+    "minions_the_rise_of_gru",
+    "aquaman",
+    "pixels",
+    "kangaroo_jack",
+    "pulp_fiction",
+    "101_dalmatians",
+    "the_day_the_earth_stood_still",
+    "meet_the_spartans",
+    "the_avengers",
+    "thor_love_and_thunder",
+    "dragonball_evolution",
+    "venom_let_there_be_carnage",
+    "scary_movie_4",
+    "around_the_world_in_80_days",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "guardians_of_the_galaxy",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "dolittle",
+    "justice_league",
+    "oz_the_great_and_powerful",
+    "volcano",
+    "the_three_musketeers",
+    "hercules"
   ]
 }

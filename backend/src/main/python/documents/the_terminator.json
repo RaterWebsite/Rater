@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "One of the great sci-fi adventure films to date. This one is actually a little creepier than T2. Schawrzenegger has some funny lines. I'll be back!"
     }
+  ],
+  "recommendations": [
+    "terminator_2_judgment_day",
+    "the_fifth_element",
+    "edge_of_tomorrow",
+    "avengers_age_of_ultron",
+    "looper",
+    "hulk",
+    "indiana_jones_and_the_temple_of_doom",
+    "thor_the_dark_world",
+    "the_scorpion_king",
+    "upgrade",
+    "hercules",
+    "the_last_witch_hunter",
+    "transformers_dark_of_the_moon",
+    "the_island",
+    "oblivion",
+    "rise_of_the_planet_of_the_apes",
+    "terminator_3_rise_of_the_machines",
+    "the_three_musketeers",
+    "top_gun_maverick",
+    "last_action_hero",
+    "transformers",
+    "bloodshot",
+    "the_suicide_squad",
+    "gemini_man",
+    "moon"
   ]
 }

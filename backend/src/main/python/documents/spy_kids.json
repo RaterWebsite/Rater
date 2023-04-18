@@ -151,5 +151,32 @@
       "rating": "7",
       "text": "\"Spy Kids\" is an enjoyable, action-packed movie that would especially appeal to kids, but could please anyone watching it."
     }
+  ],
+  "recommendations": [
+    "jumanji_welcome_to_the_jungle",
+    "monster_house",
+    "hotel_transylvania_2",
+    "puss_in_boots_the_last_wish",
+    "hotel_transylvania",
+    "alvin_and_the_chipmunks",
+    "shazam",
+    "spies_in_disguise",
+    "ice_age_the_meltdown",
+    "ice_age_continental_drift",
+    "the_karate_kid",
+    "despicable_me_2",
+    "megamind",
+    "goosebumps",
+    "herbie_fully_loaded",
+    "the_angry_birds_movie",
+    "diary_of_a_wimpy_kid_dog_days",
+    "peter_rabbit",
+    "spy_kids_all_the_time_in_the_world",
+    "ice_age_dawn_of_the_dinosaurs",
+    "captain_underpants_the_first_epic_movie",
+    "zathura_a_space_adventure",
+    "jack_the_giant_slayer",
+    "rise_of_the_guardians",
+    "night_at_the_museum_battle_of_the_smithsonian"
   ]
 }

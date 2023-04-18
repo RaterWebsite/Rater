@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Una pel\u00edcula que te saca muchas sonrisas pero no tiene acci\u00f3n tratandose de superhero\u00e9s. Fantasma es una buena villana pero los traficantes son puro relleno. Es una m\u00e1s del mont\u00f3n de Marvel."
     }
+  ],
+  "recommendations": [
+    "kingsman_the_golden_circle",
+    "avengers_age_of_ultron",
+    "x_men_apocalypse",
+    "bumblebee",
+    "incredibles_2",
+    "thor_the_dark_world",
+    "thor_ragnarok",
+    "wonder_woman",
+    "shazam_fury_of_the_gods",
+    "guardians_of_the_galaxy",
+    "iron_man_2",
+    "skyscraper",
+    "american_ultra",
+    "cold_pursuit",
+    "thor",
+    "war_dogs",
+    "creed_ii",
+    "race_to_witch_mountain",
+    "poseidon",
+    "taken",
+    "spider_man_3",
+    "the_equalizer_2",
+    "love_and_monsters",
+    "the_suicide_squad",
+    "avengers_infinity_war"
   ]
 }

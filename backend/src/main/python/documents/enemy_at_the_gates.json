@@ -130,5 +130,32 @@
       "rating": "4",
       "text": "Bad movie. Bad propaganda. That's all I've got to say, so keep the whole stack with you chief."
     }
+  ],
+  "recommendations": [
+    "the_patriot",
+    "black_hawk_down",
+    "we_were_soldiers",
+    "the_eagle",
+    "centurion",
+    "12_strong",
+    "troy",
+    "hacksaw_ridge",
+    "platoon",
+    "full_metal_jacket",
+    "the_deer_hunter",
+    "captain_america_the_winter_soldier",
+    "red_tails",
+    "the_last_samurai",
+    "midway",
+    "master_and_commander_the_far_side_of_the_world",
+    "anthropoid",
+    "captain_america_civil_war",
+    "the_sum_of_all_fears",
+    "gladiator",
+    "pearl_harbor",
+    "hostiles",
+    "conan_the_barbarian",
+    "the_monuments_men",
+    "allied"
   ]
 }

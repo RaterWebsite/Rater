@@ -63,5 +63,32 @@
       "rating": "5",
       "text": "It's a good attempt at a 50s/60s sci fi monster flick in a modern setting enjoyable in parts."
     }
+  ],
+  "recommendations": [
+    "drag_me_to_hell",
+    "scary_movie",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "scary_movie_4",
+    "ginger_snaps",
+    "vampires_suck",
+    "scary_movie_5",
+    "a_haunted_house",
+    "monsters_vs_aliens",
+    "scary_movie_2",
+    "not_another_teen_movie",
+    "superhero_movie",
+    "scooby_doo_2_monsters_unleashed",
+    "zombieland",
+    "friday_the_13th",
+    "jason_x",
+    "army_of_darkness",
+    "the_host",
+    "epic_movie",
+    "scary_movie_3",
+    "piranha_3dd",
+    "meet_the_spartans",
+    "transformers_revenge_of_the_fallen",
+    "hot_fuzz",
+    "cursed"
   ]
 }

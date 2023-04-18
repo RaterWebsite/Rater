@@ -224,5 +224,32 @@
       "rating": "9",
       "text": "An all-around fun film which doesn't bore all of time or go overboard on the comedy. The jokes are correctly deployed while leaving room for what films are meant to do: Tell stories."
     }
+  ],
+  "recommendations": [
+    "hustlers",
+    "we_bought_a_zoo",
+    "the_king_of_staten_island",
+    "the_intern",
+    "moonrise_kingdom",
+    "silver_linings_playbook",
+    "burnt",
+    "instant_family",
+    "eddie_the_eagle",
+    "morning_glory",
+    "logan_lucky",
+    "uncut_gems",
+    "black_snake_moan",
+    "groundhog_day",
+    "17_again",
+    "wanderlust",
+    "palm_springs",
+    "yesterday",
+    "3_idiots",
+    "the_upside",
+    "little_miss_sunshine",
+    "going_in_style",
+    "friends_with_benefits",
+    "inherent_vice",
+    "midnight_sun"
   ]
 }

@@ -142,5 +142,32 @@
       "rating": "10",
       "text": "The second best movie by Cartoon Saloon which showed us how good of a movie they can create. The symbolism of the movie is great and the music is the second best of the Irish Mythology Trilogy behind Wolfwalkers. Deserved the Academy Award in 2014."
     }
+  ],
+  "recommendations": [
+    "luca",
+    "wolfwalkers",
+    "your_name",
+    "the_lion_king",
+    "kubo_and_the_two_strings",
+    "the_little_prince",
+    "bambi",
+    "anastasia",
+    "moana",
+    "finding_nemo",
+    "the_book_of_life",
+    "over_the_moon",
+    "the_prince_of_egypt",
+    "cinderella",
+    "soul",
+    "the_polar_express",
+    "the_princess_and_the_frog",
+    "spirit_stallion_of_the_cimarron",
+    "klaus",
+    "fantasia",
+    "isle_of_dogs",
+    "pocahontas",
+    "brave",
+    "paprika",
+    "dinosaur"
   ]
 }

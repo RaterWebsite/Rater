@@ -206,5 +206,32 @@
       "rating": "10",
       "text": "Excellent movie, a true Quentin Tarantino film at heart. Not his best screenplay but definitely one of the best."
     }
+  ],
+  "recommendations": [
+    "casino",
+    "the_fugitive",
+    "the_untouchables",
+    "conspiracy_theory",
+    "insomnia",
+    "spy_game",
+    "blood_father",
+    "ransom",
+    "django_unchained",
+    "arbitrage",
+    "true_lies",
+    "basic_instinct",
+    "heat",
+    "north_by_northwest",
+    "catch_me_if_you_can",
+    "daredevil",
+    "primal_fear",
+    "donnie_brasco",
+    "unforgiven",
+    "charade",
+    "jackie_brown",
+    "all_the_money_in_the_world",
+    "hell_or_high_water",
+    "the_lincoln_lawyer",
+    "lawless"
   ]
 }

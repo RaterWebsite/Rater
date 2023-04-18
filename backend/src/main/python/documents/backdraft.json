@@ -79,5 +79,32 @@
       "rating": "8",
       "text": "Some cheesy moments at times, I think maybe the soundtrack decisions weren't the best, but overall a very well shot and we'll acted movie. I feel it is a very underrated movie."
     }
+  ],
+  "recommendations": [
+    "murder_on_the_orient_express",
+    "lawless",
+    "true_grit",
+    "rush",
+    "troy",
+    "triple_frontier",
+    "oz_the_great_and_powerful",
+    "the_harder_they_fall",
+    "american_gangster",
+    "body_of_lies",
+    "legend",
+    "casino",
+    "the_suicide_squad",
+    "the_three_musketeers",
+    "all_the_money_in_the_world",
+    "american_hustle",
+    "the_untouchables",
+    "the_devil_all_the_time",
+    "fantastic_four",
+    "jackie_brown",
+    "the_paperboy",
+    "the_aviator",
+    "breach",
+    "the_equalizer_2",
+    "the_place_beyond_the_pines"
   ]
 }

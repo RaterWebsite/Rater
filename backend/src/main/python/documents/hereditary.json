@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "Awful movie, the only horror element is the possibility of losing 2 hours of your life by watching this movie. I hate jump scares, but even the worst jump scare movies have something happen. Nothing happens in this movie. It was so boring that I was thinking of sleeping or walking out. In our cinema the only reaction to the movie was laughter at how terrible it was. Worst movie I've have ever seen in a cinema. Wish I could get my money and time back."
     }
+  ],
+  "recommendations": [
+    "the_happening",
+    "shut_in",
+    "the_devil_inside",
+    "midsommar",
+    "the_mist",
+    "annabelle",
+    "bird_box",
+    "chernobyl_diaries",
+    "malignant",
+    "paranormal_activity_4",
+    "the_strangers",
+    "ouija",
+    "insidious",
+    "house_at_the_end_of_the_street",
+    "dark_skies",
+    "old",
+    "countdown",
+    "knowing",
+    "summer_of_84",
+    "slender_man",
+    "devil",
+    "the_grudge_2",
+    "the_eye",
+    "insidious_chapter_2",
+    "the_host"
   ]
 }

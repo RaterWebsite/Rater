@@ -138,5 +138,32 @@
       "rating": "5",
       "text": "Not nearly as good as the original, but watchable with a pack of popcorn. The action is thrilling. However, the acting and plot are not too great. Overall, worth it."
     }
+  ],
+  "recommendations": [
+    "jack_reacher_never_go_back",
+    "mission_impossible_iii",
+    "mechanic_resurrection",
+    "the_taking_of_pelham_1_2_3",
+    "safe_house",
+    "the_transporter_refueled",
+    "jack_reacher",
+    "the_ice_road",
+    "brick_mansions",
+    "jason_bourne",
+    "vehicle_19",
+    "angel_has_fallen",
+    "those_who_wish_me_dead",
+    "con_air",
+    "need_for_speed",
+    "taken_3",
+    "xxx_return_of_xander_cage",
+    "cellular",
+    "killer_elite",
+    "the_expendables_3",
+    "san_andreas",
+    "mile_22",
+    "unhinged",
+    "the_last_stand",
+    "knight_and_day"
   ]
 }

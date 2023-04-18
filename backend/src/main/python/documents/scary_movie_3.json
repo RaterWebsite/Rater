@@ -204,5 +204,32 @@
       "rating": "9",
       "text": "favourite film as a 7 year old and it still is now... im high rn lol but srsly i love this film ever since i was7"
     }
+  ],
+  "recommendations": [
+    "scary_movie_4",
+    "scary_movie_2",
+    "scary_movie",
+    "superhero_movie",
+    "hot_fuzz",
+    "a_haunted_house",
+    "the_three_stooges",
+    "the_dictator",
+    "the_watch",
+    "johnny_english_reborn",
+    "22_jump_street",
+    "30_minutes_or_less",
+    "anchorman_2_the_legend_continues",
+    "this_is_the_end",
+    "one_year_one_night",
+    "nacho_libre",
+    "zoolander_2",
+    "tropic_thunder",
+    "the_wedding_ringer",
+    "hot_tub_time_machine",
+    "ace_ventura_when_nature_calls",
+    "identity_thief",
+    "dumb_and_dumber_to",
+    "dumb_and_dumber",
+    "jackass_presents_bad_grandpa"
   ]
 }

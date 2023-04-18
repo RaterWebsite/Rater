@@ -197,5 +197,32 @@
       "rating": "9",
       "text": "\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0\u2299\u25a0"
     }
+  ],
+  "recommendations": [
+    "silver_linings_playbook",
+    "sleepless_in_seattle",
+    "the_perks_of_being_a_wallflower",
+    "juno",
+    "young_adult",
+    "gone_baby_gone",
+    "the_intern",
+    "the_first_time",
+    "something_borrowed",
+    "promising_young_woman",
+    "about_a_boy",
+    "don_jon",
+    "magic_mikes_last_dance",
+    "midnight_sun",
+    "black_snake_moan",
+    "we_bought_a_zoo",
+    "bride_wars",
+    "good_on_paper",
+    "locked_down",
+    "the_holiday",
+    "the_descendants",
+    "blue_valentine",
+    "legally_blonde",
+    "the_hustle",
+    "the_spectacular_now"
   ]
 }

@@ -86,5 +86,32 @@
       "rating": "10",
       "text": "Zajebisty... Totalnie nie czaj\u0119 sk\u0105d tylko 48 pkt .. kogo\u015b nie\u017ale posra\u0142o... Ale kto co lubi."
     }
+  ],
+  "recommendations": [
+    "lone_survivor",
+    "constantine",
+    "deep_impact",
+    "noah",
+    "greenland",
+    "lord_of_war",
+    "exodus_gods_and_kings",
+    "captain_america_civil_war",
+    "the_grey",
+    "fury",
+    "12_strong",
+    "greyhound",
+    "wonder_woman",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "olympus_has_fallen",
+    "avengers_infinity_war",
+    "armageddon",
+    "machine_gun_preacher",
+    "elysium",
+    "deepwater_horizon",
+    "the_marksman",
+    "no_escape",
+    "pearl_harbor",
+    "hellboy_ii_the_golden_army",
+    "the_road"
   ]
 }

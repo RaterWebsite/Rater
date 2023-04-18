@@ -201,5 +201,32 @@
       "rating": "10",
       "text": "Mukemmeldi resmen bayildim. Puanim 10/10"
     }
+  ],
+  "recommendations": [
+    "the_road",
+    "the_florida_project",
+    "alpha",
+    "i_kill_giants",
+    "bambi",
+    "the_impossible",
+    "the_age_of_adaline",
+    "stand_by_me_doraemon_2",
+    "the_boy_who_harnessed_the_wind",
+    "the_hunt",
+    "20th_century_women",
+    "leave_no_trace",
+    "the_book_thief",
+    "brave",
+    "kubo_and_the_two_strings",
+    "the_water_horse",
+    "her",
+    "five_feet_apart",
+    "lion",
+    "call_me_by_your_name",
+    "the_book_of_henry",
+    "thoroughbreds",
+    "captain_fantastic",
+    "midnight_special",
+    "me_before_you"
   ]
 }

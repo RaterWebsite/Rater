@@ -228,5 +228,32 @@
       "rating": "7",
       "text": "I like the idea of a alien planet that is set in the 50s and a human from our time comes"
     }
+  ],
+  "recommendations": [
+    "escape_from_planet_earth",
+    "free_birds",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_smurfs",
+    "monsters_vs_aliens",
+    "the_lego_movie",
+    "hotel_transylvania",
+    "yogi_bear",
+    "wonder_park",
+    "uglydolls",
+    "ice_age_dawn_of_the_dinosaurs",
+    "chicken_little",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "ice_age_the_meltdown",
+    "ice_age_collision_course",
+    "smurfs_the_lost_village",
+    "minions",
+    "the_angry_birds_movie",
+    "tmnt",
+    "the_nut_job",
+    "turbo",
+    "transformers_revenge_of_the_fallen",
+    "the_wild",
+    "the_tale_of_despereaux",
+    "teen_titans_go_to_the_movies"
   ]
 }

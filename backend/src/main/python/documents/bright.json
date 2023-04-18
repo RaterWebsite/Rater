@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Loved it Critics are just hate fantasy, get over yourselves already! It was fresh, it was engaging and left me wanting more."
     }
+  ],
+  "recommendations": [
+    "the_a_team",
+    "i_am_number_four",
+    "tomorrowland",
+    "pandorum",
+    "gamer",
+    "terminator_genisys",
+    "eagle_eye",
+    "gods_of_egypt",
+    "riddick",
+    "hancock",
+    "surrogates",
+    "national_treasure_book_of_secrets",
+    "morbius",
+    "jumper",
+    "red_dawn",
+    "the_book_of_eli",
+    "the_purge_election_year",
+    "glass",
+    "edge_of_tomorrow",
+    "the_tax_collector",
+    "the_tomorrow_war",
+    "chappie",
+    "guardians_of_the_galaxy",
+    "poseidon",
+    "hercules"
   ]
 }

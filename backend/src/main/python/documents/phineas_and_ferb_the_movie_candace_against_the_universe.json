@@ -64,5 +64,32 @@
       "rating": "8",
       "text": "Phineas and Ferb the Movie: Candace Against the Universe being the second feature film in the series, is an epic comic adventure that will fill fans of the animated series with nostalgia."
     }
+  ],
+  "recommendations": [
+    "sonic_the_hedgehog_2",
+    "ghostbusters_afterlife",
+    "the_spongebob_squarepants_movie",
+    "entourage",
+    "teen_titans_go_to_the_movies",
+    "sonic_the_hedgehog",
+    "the_spongebob_movie_sponge_out_of_water",
+    "tmnt",
+    "my_little_pony_the_movie",
+    "minions_the_rise_of_gru",
+    "john_carter",
+    "zombieland_double_tap",
+    "the_mummy",
+    "superman_ii",
+    "sing_2",
+    "national_treasure",
+    "the_lego_movie",
+    "sinbad_legend_of_the_seven_seas",
+    "puss_in_boots_the_last_wish",
+    "atlantis_the_lost_empire",
+    "the_big_lebowski",
+    "alvin_and_the_chipmunks",
+    "venom_let_there_be_carnage",
+    "peter_rabbit",
+    "scoob"
   ]
 }

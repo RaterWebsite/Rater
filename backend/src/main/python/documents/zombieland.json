@@ -225,5 +225,32 @@
       "rating": "3",
       "text": "The perfect film for the 12 to 16 year old male who has no social life and no girl friend.This just happens to be a character in the film as well. Even for a zombie movie this seems pitifly stupid.Does Woody Harrelson have any decent films to his credit besides No Country For old Men?"
     }
+  ],
+  "recommendations": [
+    "shaun_of_the_dead",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "the_babysitter",
+    "hot_fuzz",
+    "army_of_darkness",
+    "zombieland_double_tap",
+    "cabin_fever",
+    "cooties",
+    "deadpool_2",
+    "baywatch",
+    "deadpool",
+    "22_jump_street",
+    "crank",
+    "piranha_3dd",
+    "scream_4",
+    "minions",
+    "scary_movie_2",
+    "the_hangover_part_ii",
+    "guardians_of_the_galaxy",
+    "scary_movie_4",
+    "this_is_the_end",
+    "the_happytime_murders",
+    "paul",
+    "ready_or_not",
+    "thor_ragnarok"
   ]
 }

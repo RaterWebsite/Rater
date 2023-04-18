@@ -79,5 +79,32 @@
       "rating": "7",
       "text": "----------------------------------7.2/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "puss_in_boots_the_last_wish",
+    "bolt",
+    "spies_in_disguise",
+    "ice_age",
+    "the_secret_life_of_pets",
+    "despicable_me",
+    "rise_of_the_guardians",
+    "robots",
+    "hotel_transylvania_2",
+    "the_croods",
+    "madagascar",
+    "paddington",
+    "madagascar_escape_2_africa",
+    "despicable_me_2",
+    "rio_2",
+    "rango",
+    "ice_age_the_meltdown",
+    "meet_the_robinsons",
+    "rio",
+    "hotel_transylvania_3_summer_vacation",
+    "hotel_transylvania",
+    "shazam",
+    "over_the_hedge",
+    "the_peanuts_movie",
+    "the_secret_life_of_pets_2"
   ]
 }

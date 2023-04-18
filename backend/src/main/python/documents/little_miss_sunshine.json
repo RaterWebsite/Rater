@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "This movie made me laugh so hard that my sides ached. On top of that, it had something to say about what it really means to be a winner. This movie is a winner!"
     }
+  ],
+  "recommendations": [
+    "instant_family",
+    "the_big_sick",
+    "sisters",
+    "silver_linings_playbook",
+    "blockers",
+    "wanderlust",
+    "neighbors",
+    "palm_springs",
+    "life_as_we_know_it",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "chef",
+    "the_family",
+    "the_king_of_staten_island",
+    "click",
+    "me_and_earl_and_the_dying_girl",
+    "the_intern",
+    "good_boys",
+    "the_40_year_old_virgin",
+    "groundhog_day",
+    "sextuplets",
+    "knocked_up",
+    "juno",
+    "up_in_the_air",
+    "friends_with_benefits",
+    "we_bought_a_zoo"
   ]
 }

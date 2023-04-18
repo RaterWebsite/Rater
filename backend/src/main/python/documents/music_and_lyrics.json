@@ -174,5 +174,32 @@
       "rating": "10",
       "text": "Just love this film. It make me smile and feel happy and I love the music too. Well acted by a good cast."
     }
+  ],
+  "recommendations": [
+    "friends_with_benefits",
+    "pitch_perfect",
+    "50_first_dates",
+    "clueless",
+    "10_things_i_hate_about_you",
+    "leap_year",
+    "forgetting_sarah_marshall",
+    "grease",
+    "notting_hill",
+    "pitch_perfect_2",
+    "just_like_heaven",
+    "blockers",
+    "blended",
+    "the_break_up",
+    "hitch",
+    "yesterday",
+    "mamma_mia_here_we_go_again",
+    "burlesque",
+    "sisters",
+    "17_again",
+    "role_models",
+    "george_of_the_jungle",
+    "delivery_man",
+    "last_vegas",
+    "work_it"
   ]
 }

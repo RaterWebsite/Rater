@@ -123,5 +123,32 @@
       "rating": "6",
       "text": "This movie is one of the most cringe movies i have ever seen the jokes are directed towards 6 year old but im sure even them would not find the jokes funny. The only thing i liked about the movie is the im blue song that played and the graphics"
     }
+  ],
+  "recommendations": [
+    "antz",
+    "rio_2",
+    "shark_tale",
+    "my_little_pony_the_movie",
+    "the_lego_movie",
+    "ferdinand",
+    "atlantis_the_lost_empire",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "the_lego_movie_2_the_second_part",
+    "ratatouille",
+    "the_croods",
+    "rango",
+    "ice_age_the_meltdown",
+    "rock_dog_2_rock_around_the_park",
+    "dumbo",
+    "shaun_the_sheep_movie",
+    "the_good_dinosaur",
+    "tmnt",
+    "the_boxtrolls",
+    "planet_51",
+    "home_on_the_range",
+    "zootopia",
+    "meet_the_robinsons",
+    "madagascar_escape_2_africa",
+    "frozen_ii"
   ]
 }

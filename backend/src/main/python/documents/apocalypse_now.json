@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Classic anti war movie, that focus on the destroyed psychos of the soldiers. Sometimes the scenes are too long, but some are legendary. There are many top and famous actors also (did you recognize Laurence Fishborne?)."
     }
+  ],
+  "recommendations": [
+    "full_metal_jacket",
+    "das_boot",
+    "the_thin_red_line",
+    "empire_of_the_sun",
+    "1917",
+    "hacksaw_ridge",
+    "the_deer_hunter",
+    "dunkirk",
+    "lone_survivor",
+    "unbroken",
+    "hostiles",
+    "letters_from_iwo_jima",
+    "the_pianist",
+    "free_state_of_jones",
+    "the_lost_city_of_z",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "master_and_commander_the_far_side_of_the_world",
+    "deepwater_horizon",
+    "the_hurt_locker",
+    "fury",
+    "valkyrie",
+    "red_tails",
+    "patriots_day",
+    "platoon",
+    "darkest_hour"
   ]
 }

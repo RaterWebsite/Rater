@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "It's a departure from Guy Ritchie's usual style as it's played more straight forward and serious, but it's a solid action-packed revenge story. It's just a premise we've been over-saturated with recently."
     }
+  ],
+  "recommendations": [
+    "den_of_thieves",
+    "triple_frontier",
+    "the_mechanic",
+    "seeking_justice",
+    "rocknrolla",
+    "the_equalizer_2",
+    "the_commuter",
+    "the_bank_job",
+    "contraband",
+    "the_equalizer",
+    "the_ice_road",
+    "a_walk_among_the_tombstones",
+    "21_bridges",
+    "bloodshot",
+    "run_all_night",
+    "copshop",
+    "mission_impossible_ii",
+    "haywire",
+    "safe",
+    "the_bourne_supremacy",
+    "escape_plan",
+    "man_on_a_ledge",
+    "street_kings",
+    "kate",
+    "wild_card"
   ]
 }

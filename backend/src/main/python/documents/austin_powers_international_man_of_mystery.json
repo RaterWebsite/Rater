@@ -174,5 +174,32 @@
       "rating": "10",
       "text": "One of the best parody movies ever definitely the peak of Mike Myers career."
     }
+  ],
+  "recommendations": [
+    "austin_powers_the_spy_who_shagged_me",
+    "ace_ventura_when_nature_calls",
+    "hot_shots_part_deux",
+    "paul",
+    "austin_powers_in_goldmember",
+    "johnny_english_strikes_again",
+    "dodgeball_a_true_underdog_story",
+    "men_in_black",
+    "mars_attacks",
+    "pineapple_express",
+    "due_date",
+    "deadpool_2",
+    "spy",
+    "police_academy",
+    "bean",
+    "ted_2",
+    "friday",
+    "scary_movie_3",
+    "step_brothers",
+    "madagascar_escape_2_africa",
+    "deadpool",
+    "neighbors",
+    "monty_python_and_the_holy_grail",
+    "masterminds",
+    "evolution"
   ]
 }

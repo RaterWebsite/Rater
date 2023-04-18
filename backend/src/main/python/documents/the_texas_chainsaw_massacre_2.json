@@ -65,5 +65,32 @@
       "rating": "9",
       "text": "Well, this was better than the first one. I don't know what to think about the fact that I enjoyed this movie. It's the craziest **** More to it than that though, but still."
     }
+  ],
+  "recommendations": [
+    "the_texas_chainsaw_massacre",
+    "the_return_of_the_living_dead",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "wrong_turn",
+    "i_still_know_what_you_did_last_summer",
+    "army_of_darkness",
+    "fright_night",
+    "evil_dead_ii",
+    "goosebumps_2_haunted_halloween",
+    "halloween_ii",
+    "zombieland",
+    "scream_2",
+    "poltergeist",
+    "final_destination",
+    "scream_4",
+    "hell_fest",
+    "the_amityville_horror",
+    "friday_the_13th",
+    "the_omen",
+    "werewolves_within",
+    "a_nightmare_on_elm_street",
+    "predator_2",
+    "halloween_h20_20_years_later",
+    "piranha_3dd",
+    "jaws_2"
   ]
 }

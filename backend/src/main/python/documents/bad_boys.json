@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "It is nice, but it doesn\u00b4t have the crazyness i expected from Michael Bay."
     }
+  ],
+  "recommendations": [
+    "beverly_hills_cop",
+    "the_last_stand",
+    "red",
+    "lethal_weapon",
+    "bad_boys_ii",
+    "white_house_down",
+    "spy",
+    "lethal_weapon_4",
+    "cellular",
+    "2_guns",
+    "once_upon_a_time_in_venice",
+    "jack_reacher_never_go_back",
+    "knight_and_day",
+    "chips",
+    "from_paris_with_love",
+    "due_date",
+    "paul_blart_mall_cop",
+    "3_days_to_kill",
+    "tower_heist",
+    "beverly_hills_cop_ii",
+    "demolition_man",
+    "the_nice_guys",
+    "killer_elite",
+    "angel_has_fallen",
+    "the_boss"
   ]
 }

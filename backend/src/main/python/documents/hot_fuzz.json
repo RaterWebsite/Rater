@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Hey those of you that gave it low ratings. Go watch the George Lopez show for your canned laughs. The movie was phenomenal. Of course the kitsch and the plot are all tongue in cheek as Point Break was a node of inspiration for some scenes. There hasn't been a movie this funny in awhile and if you've already seen the mediocre Blades of Glory, go see something a little smarter."
     }
+  ],
+  "recommendations": [
+    "22_jump_street",
+    "30_minutes_or_less",
+    "scary_movie_4",
+    "the_dictator",
+    "johnny_english_reborn",
+    "scary_movie_2",
+    "this_is_the_end",
+    "scary_movie_3",
+    "the_watch",
+    "zombieland",
+    "pineapple_express",
+    "jackass_presents_bad_grandpa",
+    "the_other_guys",
+    "identity_thief",
+    "deadpool_2",
+    "anchorman_2_the_legend_continues",
+    "hot_tub_time_machine",
+    "rush_hour_3",
+    "one_year_one_night",
+    "the_three_stooges",
+    "a_haunted_house",
+    "ted_2",
+    "nacho_libre",
+    "zombieland_double_tap",
+    "the_hangover"
   ]
 }

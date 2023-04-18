@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Just a great movie! It's a very welcomed comeback to star wars, after the childish Phantom Menace. I think it is probably my favourite of the new trilogy because Revenge of the sith is a lot darker (not that it's a bad thing but I like it when the clones are on the Republic's side.)"
     }
+  ],
+  "recommendations": [
+    "star_wars_episode_i_the_phantom_menace",
+    "rogue_one_a_star_wars_story",
+    "terminator_3_rise_of_the_machines",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "troy",
+    "star_trek_nemesis",
+    "transformers_dark_of_the_moon",
+    "pearl_harbor",
+    "rise_of_the_planet_of_the_apes",
+    "clash_of_the_titans",
+    "thor",
+    "hulk",
+    "avengers_age_of_ultron",
+    "star_trek",
+    "hercules",
+    "thor_the_dark_world",
+    "star_trek_insurrection",
+    "superman_returns",
+    "solo_a_star_wars_story",
+    "terminator_2_judgment_day",
+    "x_men_apocalypse",
+    "the_terminator",
+    "300_rise_of_an_empire",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "rocky_iv"
   ]
 }

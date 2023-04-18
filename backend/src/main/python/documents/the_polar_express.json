@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "This Movie successfully captures the wonder and magic of Christmas. I don't care if it promotes false truths. Most who hate this movie have forgotten what it was like to spend Christmas as a child and can therefore not connect with this movie. While it is simplistic in its plot and has excessively busy visuals, it doesn't take anything away from its spirit. My only complaint would have to be the elves that are introduced at the end of the film... Creepy."
     }
+  ],
+  "recommendations": [
+    "klaus",
+    "finding_nemo",
+    "up",
+    "soul",
+    "onward",
+    "luca",
+    "the_good_dinosaur",
+    "moana",
+    "the_land_before_time",
+    "where_the_wild_things_are",
+    "brave",
+    "over_the_moon",
+    "coraline",
+    "finding_dory",
+    "ratatouille",
+    "the_star",
+    "the_book_of_life",
+    "spirit_stallion_of_the_cimarron",
+    "the_peanuts_movie",
+    "your_name",
+    "trolls",
+    "zootopia",
+    "the_croods",
+    "toy_story_3",
+    "christopher_robin"
   ]
 }

@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "Surprisingly a pretty good movie. With some funny comedy as well. The Rock basically becomes the tooth fairy as a punishment for not believing in anything."
     }
+  ],
+  "recommendations": [
+    "godmothered",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "the_boss_baby_christmas_bonus",
+    "little_monsters",
+    "sky_high",
+    "dora_and_the_lost_city_of_gold",
+    "beverly_hills_chihuahua",
+    "you_again",
+    "astro_boy",
+    "cloudy_with_a_chance_of_meatballs",
+    "labyrinth",
+    "despicable_me_3",
+    "the_game_plan",
+    "we_bought_a_zoo",
+    "nanny_mcphee",
+    "zookeeper",
+    "the_house_with_a_clock_in_its_walls",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "the_smurfs",
+    "fred_claus",
+    "red_riding_hood",
+    "shark_tale",
+    "monte_carlo",
+    "happy_feet",
+    "the_secret_life_of_pets"
   ]
 }

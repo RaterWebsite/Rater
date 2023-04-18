@@ -182,5 +182,32 @@
       "rating": "1",
       "text": "A weird failure from Kevin smith.  Usually a fairly good action actor Bruce Willis fails miserably and Tracy Morgan fails even worse then that.  In a movie that fails in every possible way it can."
     }
+  ],
+  "recommendations": [
+    "ride_along_2",
+    "ride_along",
+    "horrible_bosses_2",
+    "paul_blart_mall_cop",
+    "the_ridiculous_6",
+    "the_other_guys",
+    "get_hard",
+    "zoolander",
+    "thunder_force",
+    "dumb_and_dumber_to",
+    "30_minutes_or_less",
+    "dirty_grandpa",
+    "norbit",
+    "the_longest_yard",
+    "the_wrong_missy",
+    "grown_ups",
+    "dodgeball_a_true_underdog_story",
+    "masterminds",
+    "dinner_for_schmucks",
+    "hubie_halloween",
+    "the_wedding_ringer",
+    "zack_and_miri_make_a_porno",
+    "identity_thief",
+    "the_watch",
+    "tropic_thunder"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Excellent family movie.  Original story and great animation."
     }
+  ],
+  "recommendations": [
+    "finding_nemo",
+    "toy_story_3",
+    "how_to_train_your_dragon",
+    "bolt",
+    "tangled",
+    "toy_story_2",
+    "atlantis_the_lost_empire",
+    "shaun_the_sheep_movie",
+    "aladdin",
+    "antz",
+    "treasure_planet",
+    "the_incredibles",
+    "moana",
+    "the_princess_and_the_frog",
+    "smurfs_the_lost_village",
+    "how_to_train_your_dragon_2",
+    "big_hero_6",
+    "klaus",
+    "the_peanuts_movie",
+    "rio",
+    "rio_2",
+    "winnie_the_pooh_blood_and_honey",
+    "meet_the_robinsons",
+    "ratatouille",
+    "onward"
   ]
 }

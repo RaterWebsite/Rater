@@ -209,5 +209,32 @@
       "rating": "8",
       "text": "a very good film for such a low budget. wish there was more info about what happened before the world or maybe I forgot."
     }
+  ],
+  "recommendations": [
+    "what_happened_to_monday",
+    "coherence",
+    "captive_state",
+    "arrival",
+    "ex_machina",
+    "signs",
+    "cube",
+    "annihilation",
+    "the_fly",
+    "chaos_walking",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "sunshine",
+    "midnight_special",
+    "interstellar",
+    "anon",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "color_out_of_space",
+    "colossal",
+    "moon",
+    "elysium",
+    "oblivion",
+    "nerve",
+    "9",
+    "lucy",
+    "tenet"
   ]
 }

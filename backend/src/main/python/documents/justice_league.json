@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "Very bad CGI. Very bad plot. Heroes don't have any chemistry between them. Terrible action sequences. Very bad not interesting villain. Worst DCEU movie."
     }
+  ],
+  "recommendations": [
+    "avengers_age_of_ultron",
+    "black_panther_wakanda_forever",
+    "batman_v_superman_dawn_of_justice",
+    "hercules",
+    "shazam_fury_of_the_gods",
+    "guardians_of_the_galaxy",
+    "thor_the_dark_world",
+    "aquaman",
+    "bloodshot",
+    "poseidon",
+    "thor_ragnarok",
+    "thor_love_and_thunder",
+    "kingsman_the_golden_circle",
+    "x_men_apocalypse",
+    "terminator_genisys",
+    "the_last_airbender",
+    "pacific_rim_uprising",
+    "riddick",
+    "serenity",
+    "independence_day_resurgence",
+    "the_a_team",
+    "suicide_squad",
+    "the_suicide_squad",
+    "bumblebee",
+    "pirates_of_the_caribbean_on_stranger_tides"
   ]
 }

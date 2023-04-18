@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "Very FunMinority Report is a very well done film by Steven Spielberg and a much needed one after how disappointing A.I. was."
     }
+  ],
+  "recommendations": [
+    "upgrade",
+    "looper",
+    "moon",
+    "oblivion",
+    "reminiscence",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "zodiac",
+    "the_equalizer_2",
+    "cube",
+    "sicario_day_of_the_soldado",
+    "blackhat",
+    "mission_impossible",
+    "twelve_monkeys",
+    "what_happened_to_monday",
+    "sherlock_holmes",
+    "the_invasion",
+    "the_hunger_games_catching_fire",
+    "coherence",
+    "captive_state",
+    "inception",
+    "the_accountant",
+    "the_prestige",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "midnight_special",
+    "arrival"
   ]
 }

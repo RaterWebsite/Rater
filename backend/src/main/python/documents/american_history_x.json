@@ -224,5 +224,32 @@
       "rating": "4",
       "text": "A mess of a film that attempts some kind of message but fails dismally. Just like \"The Green Mile\" and \"Once Were Warriors\" before it, the film tries so hard to get a reaction from the audience that it ends up feeling forced and exhausting."
     }
+  ],
+  "recommendations": [
+    "hotel_rwanda",
+    "joker",
+    "my_name_is_khan",
+    "12_years_a_slave",
+    "blood_diamond",
+    "brokeback_mountain",
+    "12_angry_men",
+    "braveheart",
+    "revolutionary_road",
+    "a_beautiful_mind",
+    "the_help",
+    "hereafter",
+    "manchester_by_the_sea",
+    "hacksaw_ridge",
+    "empire_of_the_sun",
+    "perfume_the_story_of_a_murderer",
+    "the_social_network",
+    "jojo_rabbit",
+    "spotlight",
+    "roma",
+    "the_last_king_of_scotland",
+    "black_swan",
+    "raging_bull",
+    "fight_club",
+    "the_shawshank_redemption"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "La perfeccion hecha pel\u00edcula, la mejor de la saga y una de las mejores peliculas de todos los tiempos"
     }
+  ],
+  "recommendations": [
+    "rambo_last_blood",
+    "the_terminator",
+    "terminator_2_judgment_day",
+    "the_expendables_2",
+    "rambo_first_blood_part_ii",
+    "godzilla_king_of_the_monsters",
+    "the_scorpion_king",
+    "predators",
+    "edge_of_tomorrow",
+    "transformers",
+    "battle_los_angeles",
+    "transformers_dark_of_the_moon",
+    "mad_max_fury_road",
+    "the_expendables",
+    "hercules",
+    "jaws",
+    "predator_2",
+    "underworld_awakening",
+    "robocop",
+    "the_mummy",
+    "the_expendables_3",
+    "riddick",
+    "underworld",
+    "kong_skull_island",
+    "guardians_of_the_galaxy"
   ]
 }

@@ -137,5 +137,32 @@
       "rating": "10",
       "text": "This is a real rom-com! Hilarious dialogue, amazing cast, an adorable couple, and lots of trendy fashion! Isla Fisher and Hugh Dancy are both very talented."
     }
+  ],
+  "recommendations": [
+    "thunder_force",
+    "the_bucket_list",
+    "couples_retreat",
+    "good_luck_chuck",
+    "the_change_up",
+    "just_go_with_it",
+    "what_happens_in_vegas",
+    "evan_almighty",
+    "no_strings_attached",
+    "trainwreck",
+    "second_act",
+    "the_perfect_date",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "17_again",
+    "old_dogs",
+    "the_game_plan",
+    "coming_2_america",
+    "my_spy",
+    "pixels",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "knocked_up",
+    "the_green_hornet",
+    "zookeeper",
+    "zack_and_miri_make_a_porno"
   ]
 }

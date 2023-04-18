@@ -228,5 +228,32 @@
       "rating": "4",
       "text": "The movie attempted to be clever, and failed at it miserably. Bradley Cooper did his very best to shed a little comedic light on this overall very dark movie."
     }
+  ],
+  "recommendations": [
+    "the_losers",
+    "guardians_of_the_galaxy",
+    "venom_let_there_be_carnage",
+    "deadpool_2",
+    "the_green_hornet",
+    "hancock",
+    "kingsman_the_golden_circle",
+    "hercules",
+    "poseidon",
+    "thor_ragnarok",
+    "bright",
+    "edge_of_tomorrow",
+    "deadpool",
+    "terminator_genisys",
+    "zombieland_double_tap",
+    "i_am_number_four",
+    "avengers_age_of_ultron",
+    "national_treasure_book_of_secrets",
+    "bloodshot",
+    "eagle_eye",
+    "skyscraper",
+    "shazam_fury_of_the_gods",
+    "furious_7",
+    "thor_the_dark_world",
+    "the_guardian"
   ]
 }

@@ -78,5 +78,32 @@
       "rating": "8",
       "text": "Clever story, great writing and simply brilliant performance from the two main actors. I love this movie"
     }
+  ],
+  "recommendations": [
+    "casino",
+    "the_untouchables",
+    "the_score",
+    "heat",
+    "the_hunt_for_red_october",
+    "body_of_lies",
+    "triple_9",
+    "the_gunman",
+    "the_fugitive",
+    "patriot_games",
+    "conspiracy_theory",
+    "a_most_wanted_man",
+    "mission_impossible",
+    "survivor",
+    "no_sudden_move",
+    "all_the_money_in_the_world",
+    "insomnia",
+    "son_of_a_gun",
+    "breach",
+    "widows",
+    "jack_ryan_shadow_recruit",
+    "money_monster",
+    "sherlock_holmes_a_game_of_shadows",
+    "backdraft",
+    "state_of_play"
   ]
 }

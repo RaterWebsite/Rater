@@ -57,5 +57,32 @@
       "rating": "3",
       "text": "A tremendous lack of respect for the name and legacy of Bruce Lee, and it's not because it harms his work, but because it's going to be associated with him."
     }
+  ],
+  "recommendations": [
+    "kickboxer",
+    "captain_america_civil_war",
+    "the_foreigner",
+    "creed_ii",
+    "the_league_of_extraordinary_gentlemen",
+    "fearless",
+    "john_wick_chapter_2",
+    "captain_america_the_winter_soldier",
+    "the_equalizer",
+    "abraham_lincoln_vampire_hunter",
+    "the_eagle",
+    "hulk",
+    "12_strong",
+    "the_running_man",
+    "300_rise_of_an_empire",
+    "the_great_wall",
+    "hellboy_ii_the_golden_army",
+    "the_legend_of_zorro",
+    "troy",
+    "mission_impossible_rogue_nation",
+    "shooter",
+    "white_house_down",
+    "jack_ryan_shadow_recruit",
+    "safe",
+    "tomorrow_never_dies"
   ]
 }

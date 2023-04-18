@@ -142,5 +142,32 @@
       "rating": "10",
       "text": "The perfect end to the perfect trilogy Austin Powers goldmember isn't as good as the last 2 but none the less is a comedic masterpiece like the last 2."
     }
+  ],
+  "recommendations": [
+    "austin_powers_the_spy_who_shagged_me",
+    "the_longest_yard",
+    "austin_powers_international_man_of_mystery",
+    "grudge_match",
+    "horrible_bosses_2",
+    "spy",
+    "deadpool_2",
+    "scary_movie_3",
+    "ace_ventura_when_nature_calls",
+    "jumanji_the_next_level",
+    "hot_shots_part_deux",
+    "venom_let_there_be_carnage",
+    "johnny_english_reborn",
+    "the_pink_panther",
+    "ghostbusters_ii",
+    "22_jump_street",
+    "little_fockers",
+    "ride_along_2",
+    "jumanji_welcome_to_the_jungle",
+    "horrible_bosses",
+    "thor_ragnarok",
+    "ace_ventura_pet_detective",
+    "pitch_perfect_2",
+    "the_hangover_part_iii",
+    "get_smart"
   ]
 }

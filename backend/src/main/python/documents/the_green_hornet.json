@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Can I just say I love this movie? Because I freaking loved this movie!! Well, it needs to be 150 characters, so I need to say more. The action rocked, it was hilarious, the 3d was cool, and the acting was great! This is a great popcorn movie with some surprising depth that I can't wait to watch again!"
     }
+  ],
+  "recommendations": [
+    "the_a_team",
+    "deadpool_2",
+    "megamind",
+    "deadpool",
+    "this_means_war",
+    "shazam_fury_of_the_gods",
+    "venom_let_there_be_carnage",
+    "the_losers",
+    "zombieland_double_tap",
+    "hancock",
+    "thor_love_and_thunder",
+    "minions",
+    "pitch_perfect_2",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "peter_rabbit",
+    "jumanji_welcome_to_the_jungle",
+    "hercules",
+    "shazam",
+    "guardians_of_the_galaxy",
+    "pixels",
+    "minions_the_rise_of_gru",
+    "the_pacifier",
+    "jumanji_the_next_level",
+    "green_lantern",
+    "the_babysitter"
   ]
 }

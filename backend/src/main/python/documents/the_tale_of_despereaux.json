@@ -126,5 +126,32 @@
       "rating": "5",
       "text": "Impeccable computer effect, but the who movie needs a better story as a backbone. The characters are rather stereotyped as most of them are given protagonist/ antagonist- face."
     }
+  ],
+  "recommendations": [
+    "dolittle",
+    "wonder_park",
+    "hotel_transylvania_2",
+    "chicken_little",
+    "the_lego_movie",
+    "hotel_transylvania",
+    "alvin_and_the_chipmunks",
+    "ice_age_the_meltdown",
+    "ferdinand",
+    "free_birds",
+    "incredibles_2",
+    "meet_the_robinsons",
+    "the_smurfs",
+    "peter_rabbit",
+    "monster_house",
+    "the_spiderwick_chronicles",
+    "the_secret_life_of_pets_2",
+    "storks",
+    "the_croods",
+    "uglydolls",
+    "minions",
+    "captain_underpants_the_first_epic_movie",
+    "frozen_ii",
+    "rio_2",
+    "turbo"
   ]
 }

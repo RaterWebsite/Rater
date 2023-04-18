@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "This movie and it's premise have been made before. One of the movies that this movie rips off is called Fright Night. Oh, sorry, this ones a serial killer and the other one was a vampire that killed people. Are we really running out of ideas as a culture? How sad. Hey, I have an idea... how about a movie with teenagers getting killed in a cabin out in the woods? Later."
     }
+  ],
+  "recommendations": [
+    "vacancy",
+    "house_at_the_end_of_the_street",
+    "a_perfect_getaway",
+    "devil",
+    "dark_skies",
+    "insidious_chapter_2",
+    "dead_silence",
+    "p2",
+    "malignant",
+    "the_babysitter",
+    "countdown",
+    "man_on_a_ledge",
+    "i_am_number_four",
+    "happy_death_day_2u",
+    "happy_death_day",
+    "ready_or_not",
+    "contraband",
+    "final_destination",
+    "insidious",
+    "shut_in",
+    "the_possession",
+    "i_know_what_you_did_last_summer",
+    "wrong_turn",
+    "the_strangers_prey_at_night",
+    "chernobyl_diaries"
   ]
 }

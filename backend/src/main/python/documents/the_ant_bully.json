@@ -144,5 +144,32 @@
       "rating": "8",
       "text": "This movie is so awesome, I am inside someone's stomach, this is an adventure of awesomeness"
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania",
+    "the_angry_birds_movie",
+    "ice_age_the_meltdown",
+    "marmaduke",
+    "despicable_me",
+    "spies_in_disguise",
+    "astro_boy",
+    "penguins_of_madagascar",
+    "the_angry_birds_movie_2",
+    "monster_house",
+    "the_secret_life_of_pets",
+    "the_smurfs",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "clifford_the_big_red_dog",
+    "the_croods",
+    "bolt",
+    "hotel_transylvania_2",
+    "ice_age_dawn_of_the_dinosaurs",
+    "antz",
+    "igor",
+    "shark_tale",
+    "flushed_away",
+    "cloudy_with_a_chance_of_meatballs",
+    "yogi_bear",
+    "rio_2"
   ]
 }

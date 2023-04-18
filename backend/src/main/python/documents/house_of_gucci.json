@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Best movie I've watched this year, just amazing the connection between Lady Gaga and Adam Driver, she deserves the Oscar!!"
     }
+  ],
+  "recommendations": [
+    "the_aviator",
+    "american_hustle",
+    "cinderella_man",
+    "hustlers",
+    "no_reservations",
+    "the_parent_trap",
+    "changeling",
+    "hairspray",
+    "true_grit",
+    "goodfellas",
+    "walk_the_line",
+    "crazy_heart",
+    "the_irishman",
+    "begin_again",
+    "legend",
+    "mystic_river",
+    "we_are_your_friends",
+    "the_boy_next_door",
+    "lawless",
+    "ghostbusters",
+    "black_mass",
+    "trouble_with_the_curve",
+    "million_dollar_baby",
+    "the_disaster_artist",
+    "the_shawshank_redemption"
   ]
 }

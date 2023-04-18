@@ -57,5 +57,32 @@
       "rating": "10",
       "text": "Loved this film.  Michael Caine is exceptional as the drunken curmudgeon and broken artist.  There's a nice depth to this film that encourages the viewer to think a little deeper, that combined with an exceptional script that regularly injects the perfect amount of wit and humour into the situation makes for a really enjoyable watch!"
     }
+  ],
+  "recommendations": [
+    "edward_scissorhands",
+    "eternal_sunshine_of_the_spotless_mind",
+    "seven_psychopaths",
+    "the_king_of_staten_island",
+    "inherent_vice",
+    "mystic_river",
+    "the_royal_tenenbaums",
+    "the_prestige",
+    "meet_joe_black",
+    "delivery_man",
+    "in_bruges",
+    "lucky_number_slevin",
+    "changeling",
+    "the_disaster_artist",
+    "hancock",
+    "the_departed",
+    "just_before_i_go",
+    "logan_lucky",
+    "the_illusionist",
+    "twelve_monkeys",
+    "thor_love_and_thunder",
+    "greenberg",
+    "magnolia",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_break_up"
   ]
 }

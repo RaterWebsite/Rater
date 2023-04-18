@@ -117,5 +117,32 @@
       "rating": "7",
       "text": "I will never forgive 9/11, but I can't believe that it was done in a law-abiding country. Jodi Foster is still amazing."
     }
+  ],
+  "recommendations": [
+    "just_mercy",
+    "spotlight",
+    "snowden",
+    "patriots_day",
+    "richard_jewell",
+    "the_post",
+    "the_imitation_game",
+    "dark_waters",
+    "judas_and_the_black_messiah",
+    "the_reader",
+    "race",
+    "the_last_king_of_scotland",
+    "hidden_figures",
+    "12_years_a_slave",
+    "free_state_of_jones",
+    "zero_dark_thirty",
+    "hotel_rwanda",
+    "valkyrie",
+    "dallas_buyers_club",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "munich",
+    "darkest_hour",
+    "miss_sloane",
+    "the_hunt",
+    "the_white_tiger"
   ]
 }

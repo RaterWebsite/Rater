@@ -126,5 +126,32 @@
       "rating": "4",
       "text": "An action movie made purely for the brightness of its star who is trying to give his career a new air in a genre that personally does not go for him.Not a total waste, but nothing remarkable either."
     }
+  ],
+  "recommendations": [
+    "jack_ryan_shadow_recruit",
+    "widows",
+    "the_equalizer_2",
+    "the_equalizer",
+    "broken_city",
+    "the_accountant",
+    "triple_9",
+    "collide",
+    "3_days_to_kill",
+    "american_assassin",
+    "triple_frontier",
+    "inside_man",
+    "a_most_wanted_man",
+    "the_commuter",
+    "body_of_lies",
+    "gangster_squad",
+    "beyond_the_reach",
+    "no_sudden_move",
+    "taken",
+    "2_guns",
+    "survivor",
+    "knives_out",
+    "beirut",
+    "killer_elite",
+    "elektra"
   ]
 }

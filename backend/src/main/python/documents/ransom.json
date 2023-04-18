@@ -113,5 +113,32 @@
       "rating": "10",
       "text": "Mr. Howard has made Ransom in the same clean, swift, logical style that sent his \"Apollo 13\" into orbit, resulting in a spellbinding crime tale that delivers surprises right down to the wire."
     }
+  ],
+  "recommendations": [
+    "fracture",
+    "the_lincoln_lawyer",
+    "the_fugitive",
+    "insomnia",
+    "primal_fear",
+    "money_monster",
+    "true_romance",
+    "arbitrage",
+    "conspiracy_theory",
+    "from_hell",
+    "state_of_play",
+    "spy_game",
+    "triple_9",
+    "the_iceman",
+    "blood_father",
+    "the_judge",
+    "training_day",
+    "inside_man",
+    "all_the_money_in_the_world",
+    "a_few_good_men",
+    "the_score",
+    "street_kings",
+    "son_of_a_gun",
+    "outbreak",
+    "the_quick_and_the_dead"
   ]
 }

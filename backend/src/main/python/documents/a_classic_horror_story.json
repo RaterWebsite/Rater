@@ -53,5 +53,32 @@
       "rating": "1",
       "text": "This movie is ugly in the true sense of the word and has nothing to save it. Boring, repetitive and with an ending as stupid as few. The acting is good but otherwise the film does not entertain, it is obvious and bored. Many central elements in the film seem to be randomly placed there with no real logical sense just to carry on the plot which is itself senseless."
     }
+  ],
+  "recommendations": [
+    "malignant",
+    "annabelle",
+    "final_destination",
+    "dark_skies",
+    "it_follows",
+    "chernobyl_diaries",
+    "insidious",
+    "sinister_2",
+    "summer_of_84",
+    "the_boy",
+    "house_of_1000_corpses",
+    "eli",
+    "the_mist",
+    "the_descent",
+    "brahms_the_boy_ii",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "insidious_the_last_key",
+    "the_grudge_2",
+    "insidious_chapter_2",
+    "countdown",
+    "mirrors",
+    "the_ritual",
+    "the_pyramid",
+    "the_ring",
+    "us"
   ]
 }

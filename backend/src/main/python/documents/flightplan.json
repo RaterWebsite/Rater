@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Edge of your seat thriller - brilliant!!!"
     }
+  ],
+  "recommendations": [
+    "those_who_wish_me_dead",
+    "the_unforgivable",
+    "contagion",
+    "unhinged",
+    "no_escape",
+    "man_on_a_ledge",
+    "perfect_stranger",
+    "the_next_three_days",
+    "the_call",
+    "stowaway",
+    "gone_baby_gone",
+    "the_little_things",
+    "law_abiding_citizen",
+    "the_loft",
+    "i_see_you",
+    "awake",
+    "escape_room",
+    "the_purge",
+    "taken",
+    "limitless",
+    "the_commuter",
+    "3_days_to_kill",
+    "reasonable_doubt",
+    "knock_at_the_cabin",
+    "split"
   ]
 }

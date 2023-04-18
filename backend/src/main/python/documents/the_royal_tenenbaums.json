@@ -221,5 +221,32 @@
       "rating": "4",
       "text": "4.2It\u2019s an alright movie in the grand scheme of things, but I can\u2019t not stand the main romance of the film, they had no chemistry and were annoying. It is still certainty worth your time."
     }
+  ],
+  "recommendations": [
+    "paddington_2",
+    "fargo",
+    "eddie_the_eagle",
+    "eternal_sunshine_of_the_spotless_mind",
+    "the_king_of_staten_island",
+    "in_bruges",
+    "the_upside",
+    "me_and_earl_and_the_dying_girl",
+    "american_hustle",
+    "edward_scissorhands",
+    "ghostbusters",
+    "midnight_in_paris",
+    "the_secret_life_of_walter_mitty",
+    "notting_hill",
+    "the_disaster_artist",
+    "the_grand_budapest_hotel",
+    "the_edge_of_seventeen",
+    "sleeping_with_other_people",
+    "beetlejuice",
+    "catch_me_if_you_can",
+    "while_you_were_sleeping",
+    "the_addams_family",
+    "morning_glory",
+    "seven_psychopaths",
+    "vicky_cristina_barcelona"
   ]
 }

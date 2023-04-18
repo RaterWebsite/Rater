@@ -40,5 +40,32 @@
       "rating": "9",
       "text": "No one makes visual poetry better than Claire Denis. This movie has same slow pacing and gorgeous photography as Beau Travail, but with an even more elusive plot and even less dialogue. Give yourself over to it and you'll be rewarded with ecstacy."
     }
+  ],
+  "recommendations": [
+    "the_neon_demon",
+    "barry_lyndon",
+    "you_were_never_really_here",
+    "the_green_knight",
+    "ex_machina",
+    "roma",
+    "in_fabric",
+    "the_master",
+    "the_killing_of_a_sacred_deer",
+    "antichrist",
+    "blade_runner_2049",
+    "amulet",
+    "eyes_wide_shut",
+    "the_world_to_come",
+    "annette",
+    "mandy",
+    "high_life",
+    "titane",
+    "melancholia",
+    "2001_a_space_odyssey",
+    "under_the_skin",
+    "the_favourite",
+    "ghost_in_the_shell",
+    "loving_vincent",
+    "the_guilty"
   ]
 }

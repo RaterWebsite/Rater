@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "The Equalizer is a decent film, nothing amazing , Training Day, American Gangster, Man on Fire, Malcolm X, The Hurricane. Remember the Titans,  Best Denzel Washington Movies"
     }
+  ],
+  "recommendations": [
+    "the_mechanic",
+    "the_equalizer_2",
+    "shooter",
+    "run_all_night",
+    "angel_has_fallen",
+    "the_commuter",
+    "jack_ryan_shadow_recruit",
+    "taken",
+    "a_walk_among_the_tombstones",
+    "the_accountant",
+    "wrath_of_man",
+    "3_days_to_kill",
+    "safe_house",
+    "american_assassin",
+    "gangster_squad",
+    "infinite",
+    "man_on_fire",
+    "triple_frontier",
+    "the_ice_road",
+    "creed_ii",
+    "nobody",
+    "john_wick",
+    "safe",
+    "skyscraper",
+    "2_guns"
   ]
 }

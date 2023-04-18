@@ -74,5 +74,32 @@
       "rating": "6",
       "text": "OTT sequel with visions, ridiculous back stories and a glorious dedication to the inside of the creeper's van that possibly is responsible for more deaths than anything else in the film."
     }
+  ],
+  "recommendations": [
+    "the_wolfman",
+    "the_thing",
+    "the_darkest_hour",
+    "book_of_shadows_blair_witch_2",
+    "the_matrix_resurrections",
+    "the_eye",
+    "gods_of_egypt",
+    "independence_day_resurgence",
+    "poltergeist",
+    "clash_of_the_titans",
+    "annabelle",
+    "the_mist",
+    "malignant",
+    "pandorum",
+    "skyline",
+    "the_day_the_earth_stood_still",
+    "into_the_storm",
+    "the_happening",
+    "the_cloverfield_paradox",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "event_horizon",
+    "i_am_legend",
+    "see_no_evil",
+    "the_meg"
   ]
 }

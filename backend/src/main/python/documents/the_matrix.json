@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Watching this in 2021 for a 1999 the special effects still impress me, and the cast and plot is the state of art"
     }
+  ],
+  "recommendations": [
+    "blade_runner_2049",
+    "they_live",
+    "mortal_engines",
+    "upgrade",
+    "equilibrium",
+    "inception",
+    "stargate",
+    "the_matrix_reloaded",
+    "avatar",
+    "arrival",
+    "jupiter_ascending",
+    "hardcore_henry",
+    "the_great_wall",
+    "robocop",
+    "the_matrix_revolutions",
+    "master_and_commander_the_far_side_of_the_world",
+    "the_13th_warrior",
+    "moon",
+    "minority_report",
+    "oblivion",
+    "battle_los_angeles",
+    "europa_report",
+    "the_terminator",
+    "sunshine",
+    "conan_the_barbarian"
   ]
 }

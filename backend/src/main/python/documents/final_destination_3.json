@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I thought it was clever and really quite amusing. My date was scared silly - and loved it."
     }
+  ],
+  "recommendations": [
+    "final_destination_5",
+    "final_destination_2",
+    "final_destination",
+    "the_final_destination",
+    "happy_death_day",
+    "friday_the_13th_part_2",
+    "the_strangers_prey_at_night",
+    "paranormal_activity_the_marked_ones",
+    "47_meters_down",
+    "saw_iii",
+    "would_you_rather",
+    "happy_death_day_2u",
+    "28_weeks_later",
+    "saw_3d",
+    "jigsaw",
+    "brightburn",
+    "frozen",
+    "texas_chainsaw_3d",
+    "spiral_from_the_book_of_saw",
+    "paranormal_activity_2",
+    "countdown",
+    "maze_runner_the_death_cure",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "vacancy",
+    "taken_2"
   ]
 }

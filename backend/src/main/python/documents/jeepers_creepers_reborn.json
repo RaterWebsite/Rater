@@ -70,5 +70,32 @@
       "rating": "0",
       "text": "awful. the first 2 movies were ok for what they were, everything since then hasn't been worth watching. this is by far the worst looking and written movie in the series."
     }
+  ],
+  "recommendations": [
+    "see_no_evil",
+    "friday_the_13th",
+    "jason_x",
+    "rings",
+    "the_legend_of_hercules",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_darkest_hour",
+    "mortal_kombat_annihilation",
+    "jeepers_creepers_3",
+    "skyline",
+    "the_day_the_earth_stood_still",
+    "the_matrix_resurrections",
+    "halloween_resurrection",
+    "dragonball_evolution",
+    "ghost_rider_spirit_of_vengeance",
+    "book_of_shadows_blair_witch_2",
+    "scary_movie_5",
+    "piranha_3dd",
+    "the_eye",
+    "red_dawn",
+    "meet_the_spartans",
+    "slender_man",
+    "vampires_suck",
+    "the_bye_bye_man",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull"
   ]
 }

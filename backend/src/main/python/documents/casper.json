@@ -62,5 +62,32 @@
       "rating": "6",
       "text": "----------------------------------6.0/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "nanny_mcphee",
+    "hook",
+    "zathura_a_space_adventure",
+    "over_the_moon",
+    "christopher_robin",
+    "the_kid_who_would_be_king",
+    "finding_nemo",
+    "the_second_best_exotic_marigold_hotel",
+    "finding_dory",
+    "cruella",
+    "ghostbusters",
+    "winnie_the_pooh_blood_and_honey",
+    "ferdinand",
+    "rio_2",
+    "peter_pan",
+    "the_incredibles",
+    "rock_dog_2_rock_around_the_park",
+    "highlander",
+    "paddington_2",
+    "charm_city_kings",
+    "bolt",
+    "a_beautiful_day_in_the_neighborhood",
+    "moonrise_kingdom",
+    "who_framed_roger_rabbit",
+    "rise_of_the_guardians"
   ]
 }

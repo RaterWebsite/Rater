@@ -78,5 +78,32 @@
       "rating": "8",
       "text": "Well acted movie that shows there's more to war than just action scenes, it affects both sexes and all people in different ways. We start with parachuters on a mission unprepared for what they must do and what simple relationships will do to them. You never know what will strengthen you as a human and as a soldier."
     }
+  ],
+  "recommendations": [
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "allied",
+    "12_strong",
+    "centurion",
+    "deepwater_horizon",
+    "dunkirk",
+    "sicario_day_of_the_soldado",
+    "1917",
+    "the_outpost",
+    "the_eagle",
+    "lone_survivor",
+    "greyhound",
+    "red_tails",
+    "zero_dark_thirty",
+    "master_and_commander_the_far_side_of_the_world",
+    "patriots_day",
+    "hostiles",
+    "the_great_escape",
+    "first_man",
+    "das_boot",
+    "the_deer_hunter",
+    "the_sum_of_all_fears",
+    "everest",
+    "the_1517_to_paris",
+    "mortal_engines"
   ]
 }

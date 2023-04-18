@@ -86,5 +86,32 @@
       "rating": "5",
       "text": "Dull. A movie that had so much potential but in the end is an empty, boring suspense/mystery."
     }
+  ],
+  "recommendations": [
+    "searching",
+    "donnie_darko",
+    "20th_century_women",
+    "the_good_shepherd",
+    "the_guilty",
+    "the_card_counter",
+    "first_man",
+    "snowden",
+    "the_secret_scripture",
+    "tulip_fever",
+    "the_book_thief",
+    "the_killing_of_a_sacred_deer",
+    "thoroughbreds",
+    "the_beguiled",
+    "you_were_never_really_here",
+    "nocturnal_animals",
+    "elle",
+    "hereafter",
+    "the_master",
+    "the_king",
+    "melancholia",
+    "predestination",
+    "the_last_duel",
+    "ex_machina",
+    "the_machinist"
   ]
 }

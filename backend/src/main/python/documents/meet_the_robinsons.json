@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "this movie is awesome and amazing! i rate this movie a 9/10! the 2nd movie of walt disney animation studios on CGI"
     }
+  ],
+  "recommendations": [
+    "atlantis_the_lost_empire",
+    "the_croods",
+    "hotel_transylvania",
+    "ice_age_the_meltdown",
+    "zootopia",
+    "the_lego_movie",
+    "my_little_pony_the_movie",
+    "rise_of_the_guardians",
+    "rio_2",
+    "hotel_transylvania_2",
+    "home_on_the_range",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "bolt",
+    "ferdinand",
+    "shaun_the_sheep_movie",
+    "turbo",
+    "paranorman",
+    "despicable_me_2",
+    "ice_age_continental_drift",
+    "the_peanuts_movie",
+    "storks",
+    "puss_in_boots_the_last_wish",
+    "hotel_transylvania_3_summer_vacation",
+    "monsters_university",
+    "incredibles_2"
   ]
 }

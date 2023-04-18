@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "One of the better western movies I've seen and it's not afraid to show the brutal nature of colonial settler life. Solid performances by all the actors involved, you almost get lulled into a false sense of security by their grit and proficiency until the last 30 minutes or so."
     }
+  ],
+  "recommendations": [
+    "the_harder_they_fall",
+    "blackhat",
+    "the_magnificent_seven",
+    "cube",
+    "the_fly",
+    "body_of_lies",
+    "upgrade",
+    "blade_of_the_47_ronin",
+    "drive",
+    "the_equalizer_2",
+    "color_out_of_space",
+    "bad_times_at_the_el_royale",
+    "us",
+    "the_invasion",
+    "eastern_promises",
+    "a_most_violent_year",
+    "reminiscence",
+    "no_sudden_move",
+    "a_walk_among_the_tombstones",
+    "they_live",
+    "django_unchained",
+    "the_terminator",
+    "hell_or_high_water",
+    "indiana_jones_and_the_temple_of_doom",
+    "moon"
   ]
 }

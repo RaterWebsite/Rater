@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "It's pure brilliance."
     }
+  ],
+  "recommendations": [
+    "jurassic_world",
+    "open_season",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "mars_needs_moms",
+    "the_angry_birds_movie_2",
+    "the_craft",
+    "playmobil_the_movie",
+    "beverly_hills_chihuahua",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "sky_high",
+    "old_dogs",
+    "the_kissing_booth_3",
+    "something_borrowed",
+    "tooth_fairy",
+    "little_monsters",
+    "happy_feet",
+    "safer_at_home",
+    "cars_2",
+    "anacondas_the_hunt_for_the_blood_orchid",
+    "the_boss_baby_christmas_bonus",
+    "cars_3",
+    "meet_dave",
+    "the_game_plan",
+    "swiss_army_man",
+    "assault_on_wall_street"
   ]
 }

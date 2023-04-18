@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Best movie in the trilogy. It's quite rare to have a trilogy where the last part isn't the least likable or the one they shouldn't really have made. If you liked the other two episodes, then you're really going to love this one. Very watchable move. I'd go with an 8.5 if I could, but since that's not an option it's getting a rare enough 9."
     }
+  ],
+  "recommendations": [
+    "rise_of_the_planet_of_the_apes",
+    "gladiator",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "master_and_commander_the_far_side_of_the_world",
+    "braveheart",
+    "x_men_days_of_future_past",
+    "man_of_steel",
+    "blade_runner_2049",
+    "alita_battle_angel",
+    "black_widow",
+    "the_lord_of_the_rings_the_two_towers",
+    "doctor_strange",
+    "eternals",
+    "terminator_2_judgment_day",
+    "how_to_train_your_dragon_2",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_bfg",
+    "avengers_age_of_ultron",
+    "conan_the_barbarian",
+    "top_gun_maverick",
+    "maleficent_mistress_of_evil",
+    "troy",
+    "spider_man_into_the_spider_verse",
+    "the_hunger_games_catching_fire",
+    "the_lord_of_the_rings_the_fellowship_of_the_ring"
   ]
 }

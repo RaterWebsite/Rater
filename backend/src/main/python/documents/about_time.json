@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "About Time is a well crafted feel good movie. When the movie ends you will be smiling from ear to ear. I was very interested in Tim's trek through life with the ability to travel in time, but it is also not perfect. He still had to deal with hardships over his life. Its the perfect mix of romance comedy and drama. I really enjoyed Bill Nighy in the role of the father in the movie."
     }
+  ],
+  "recommendations": [
+    "me_before_you",
+    "the_age_of_adaline",
+    "five_feet_apart",
+    "the_notebook",
+    "the_big_sick",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "collateral_beauty",
+    "the_lake_house",
+    "blue_valentine",
+    "her",
+    "the_intern",
+    "endless_love",
+    "flipped",
+    "love_actually",
+    "into_the_wild",
+    "moonrise_kingdom",
+    "the_glass_castle",
+    "the_perks_of_being_a_wallflower",
+    "groundhog_day",
+    "the_fault_in_our_stars",
+    "christopher_robin",
+    "paper_towns",
+    "3_idiots",
+    "brokeback_mountain",
+    "the_secret_life_of_walter_mitty"
   ]
 }

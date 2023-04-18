@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Could have been a 10 except for the camera work, which was some of the worst I've seen in years. It took away from a great movie."
     }
+  ],
+  "recommendations": [
+    "the_bourne_supremacy",
+    "the_bourne_legacy",
+    "john_wick_chapter_3_parabellum",
+    "den_of_thieves",
+    "mission_impossible",
+    "jason_bourne",
+    "mission_impossible_ghost_protocol",
+    "the_bourne_identity",
+    "quantum_of_solace",
+    "mission_impossible_rogue_nation",
+    "the_island",
+    "furious_7",
+    "john_wick_chapter_2",
+    "the_foreigner",
+    "the_mechanic",
+    "wrath_of_man",
+    "maze_runner_the_death_cure",
+    "avengers_age_of_ultron",
+    "sherlock_holmes_a_game_of_shadows",
+    "unstoppable",
+    "transporter_3",
+    "the_terminator",
+    "edge_of_tomorrow",
+    "the_fate_of_the_furious",
+    "the_commuter"
   ]
 }

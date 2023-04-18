@@ -36,5 +36,32 @@
       "rating": "8",
       "text": "The sound effects are good. The presentation is good. But, the story lacks some tightness. but yes, it is worth watching."
     }
+  ],
+  "recommendations": [
+    "42",
+    "fighting_with_my_family",
+    "samson",
+    "hell_or_high_water",
+    "news_of_the_world",
+    "freedom_writers",
+    "white_boy_rick",
+    "eddie_the_eagle",
+    "the_best_exotic_marigold_hotel",
+    "moneyball",
+    "a_family_man",
+    "straight_outta_compton",
+    "suburbicon",
+    "green_book",
+    "the_man_in_the_iron_mask",
+    "hidden_figures",
+    "victor_frankenstein",
+    "the_hurricane",
+    "the_kid_who_would_be_king",
+    "conan_the_barbarian",
+    "true_grit",
+    "the_last_of_the_mohicans",
+    "the_last_samurai",
+    "moxie",
+    "a_bronx_tale"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "It has a good premise, the action was pretty great, but for the most part it bores you to death with it's complicated plot."
     }
+  ],
+  "recommendations": [
+    "sherlock_holmes_a_game_of_shadows",
+    "lucky_number_slevin",
+    "the_accountant",
+    "inferno",
+    "looper",
+    "the_prestige",
+    "twelve_monkeys",
+    "minority_report",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_raven",
+    "odd_thomas",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "glass",
+    "inherent_vice",
+    "the_equalizer_2",
+    "tenet",
+    "morgan",
+    "knives_out",
+    "the_hunger_games_catching_fire",
+    "body_of_lies",
+    "ant_man_and_the_wasp_quantumania",
+    "three_kings",
+    "terminator_genisys",
+    "avengers_age_of_ultron",
+    "thor"
   ]
 }

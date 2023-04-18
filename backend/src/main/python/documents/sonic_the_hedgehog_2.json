@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "i love u david jenkins , objectivity out of 20.go **** ur mom in a backroom"
     }
+  ],
+  "recommendations": [
+    "sonic_the_hedgehog",
+    "minions_the_rise_of_gru",
+    "ghostbusters_afterlife",
+    "the_lego_movie",
+    "entourage",
+    "free_guy",
+    "the_spongebob_movie_sponge_out_of_water",
+    "tmnt",
+    "the_spongebob_squarepants_movie",
+    "my_little_pony_the_movie",
+    "jumanji_welcome_to_the_jungle",
+    "prince_of_persia_the_sands_of_time",
+    "deadpool_2",
+    "venom_let_there_be_carnage",
+    "the_a_team",
+    "megamind",
+    "the_green_hornet",
+    "the_angry_birds_movie",
+    "zombieland_double_tap",
+    "guardians_of_the_galaxy",
+    "deadpool",
+    "despicable_me_2",
+    "peter_rabbit",
+    "thor_ragnarok",
+    "hotel_transylvania_2"
   ]
 }

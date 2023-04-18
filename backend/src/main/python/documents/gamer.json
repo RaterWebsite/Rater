@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "Absolutely terrible."
     }
+  ],
+  "recommendations": [
+    "polar",
+    "crank_high_voltage",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "bright",
+    "gods_of_egypt",
+    "shadow_in_the_cloud",
+    "the_tax_collector",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "transformers_revenge_of_the_fallen",
+    "the_matrix_resurrections",
+    "the_book_of_eli",
+    "guns_akimbo",
+    "battleship",
+    "red_dawn",
+    "teenage_mutant_ninja_turtles",
+    "the_hateful_eight",
+    "riddick",
+    "bird_box",
+    "hardcore_henry",
+    "army_of_the_dead",
+    "the_a_team",
+    "eagle_eye",
+    "the_emoji_movie",
+    "hitman_agent_47",
+    "jumper"
   ]
 }

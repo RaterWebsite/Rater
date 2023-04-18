@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "That movie was by far an inspiring movie of how when you skip bad parts in life you tend to miss the good things in life as well. It was like the movie family man. It wasn"
     }
+  ],
+  "recommendations": [
+    "funny_people",
+    "blended",
+    "sandy_wexler",
+    "50_first_dates",
+    "the_break_up",
+    "yes_man",
+    "this_is_the_end",
+    "dinner_for_schmucks",
+    "zack_and_miri_make_a_porno",
+    "knocked_up",
+    "step_brothers",
+    "grown_ups",
+    "the_cobbler",
+    "ted_2",
+    "friends_with_benefits",
+    "jexi",
+    "neighbors",
+    "the_wedding_ringer",
+    "identity_thief",
+    "just_go_with_it",
+    "a_million_ways_to_die_in_the_west",
+    "wild_hogs",
+    "delivery_man",
+    "ted",
+    "forgetting_sarah_marshall"
   ]
 }

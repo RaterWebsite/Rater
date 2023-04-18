@@ -62,5 +62,32 @@
       "rating": "7",
       "text": "Its scary, Its terrifying and its sad. Especially that one scene with the mother and the kids. Some traumatizing ****"
     }
+  ],
+  "recommendations": [
+    "dominion_prequel_to_the_exorcist",
+    "hellboy_ii_the_golden_army",
+    "independence_day",
+    "critters",
+    "stargate",
+    "alien_covenant",
+    "star_trek_first_contact",
+    "pitch_black",
+    "pacific_rim",
+    "voyagers",
+    "godzilla_king_of_the_monsters",
+    "how_to_train_your_dragon_the_hidden_world",
+    "the_first_purge",
+    "reign_of_fire",
+    "deep_impact",
+    "escape_from_the_planet_of_the_apes",
+    "the_legend_of_la_llorona",
+    "constantine",
+    "300_rise_of_an_empire",
+    "dawn_of_the_planet_of_the_apes",
+    "aliens",
+    "the_girl_with_all_the_gifts",
+    "night_of_the_living_dead",
+    "28_days_later",
+    "avatar"
   ]
 }

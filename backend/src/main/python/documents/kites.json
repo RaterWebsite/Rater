@@ -46,5 +46,32 @@
       "rating": "9",
       "text": "Cool Movie.. Hrithik's Dance is amazing. Barbara acts the emotions brilliantly. Overall a satisfying experience."
     }
+  ],
+  "recommendations": [
+    "fantastic_four",
+    "oz_the_great_and_powerful",
+    "the_italian_job",
+    "bedazzled",
+    "the_paperboy",
+    "the_guest",
+    "the_ultimate_gift",
+    "backdraft",
+    "just_before_i_go",
+    "braven",
+    "triple_frontier",
+    "aquaman",
+    "the_usual_suspects",
+    "abduction",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_three_musketeers",
+    "passengers",
+    "the_aviator",
+    "the_illusionist",
+    "work_it",
+    "snow_white_and_the_huntsman",
+    "contraband",
+    "the_debt_collector",
+    "the_mummy",
+    "gemini_man"
   ]
 }

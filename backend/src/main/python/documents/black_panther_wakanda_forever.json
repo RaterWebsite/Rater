@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Phase 4 has been the most controversial and problematic of the MCU, but I think that this movie closes the phase quite well and I think that the majority will come out of the cinema satisfied."
     }
+  ],
+  "recommendations": [
+    "avengers_age_of_ultron",
+    "poseidon",
+    "justice_league",
+    "thor_love_and_thunder",
+    "x_men_apocalypse",
+    "captain_marvel",
+    "ben_hur",
+    "serenity",
+    "dark_phoenix",
+    "riddick",
+    "the_last_airbender",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "guardians_of_the_galaxy",
+    "aquaman",
+    "bumblebee",
+    "the_many_saints_of_newark",
+    "terminator_genisys",
+    "tomorrowland",
+    "thor_ragnarok",
+    "king_arthur_legend_of_the_sword",
+    "thor_the_dark_world",
+    "morbius",
+    "hercules",
+    "eternals",
+    "the_darkest_minds"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This movie has no plot and no message. just very funny actors who are good at making people laugh. Shame on the critics for losing touch with us."
     }
+  ],
+  "recommendations": [
+    "the_dictator",
+    "a_million_ways_to_die_in_the_west",
+    "yes_man",
+    "grown_ups",
+    "dinner_for_schmucks",
+    "evan_almighty",
+    "this_is_the_end",
+    "dumb_and_dumber",
+    "hot_tub_time_machine",
+    "one_year_one_night",
+    "tropic_thunder",
+    "the_interview",
+    "step_brothers",
+    "knocked_up",
+    "funny_people",
+    "the_40_year_old_virgin",
+    "21_jump_street",
+    "ted_2",
+    "click",
+    "neighbors",
+    "night_at_the_museum",
+    "nacho_libre",
+    "the_hangover",
+    "blended",
+    "jackass_presents_bad_grandpa"
   ]
 }

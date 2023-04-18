@@ -224,5 +224,32 @@
       "rating": "4",
       "text": "Whitaker was amazing in this...but the movie overall seems to be just another movie about Africa made for white people. After it was over I found no real point in the film"
     }
+  ],
+  "recommendations": [
+    "12_years_a_slave",
+    "spotlight",
+    "judas_and_the_black_messiah",
+    "hotel_rwanda",
+    "jackie",
+    "the_last_duel",
+    "just_mercy",
+    "the_imitation_game",
+    "hidden_figures",
+    "darkest_hour",
+    "the_hurricane",
+    "12_angry_men",
+    "blood_diamond",
+    "the_reader",
+    "legends_of_the_fall",
+    "the_impossible",
+    "a_beautiful_mind",
+    "the_devil_all_the_time",
+    "only_the_brave",
+    "the_danish_girl",
+    "hacksaw_ridge",
+    "patriots_day",
+    "cold_mountain",
+    "the_master",
+    "american_history_x"
   ]
 }

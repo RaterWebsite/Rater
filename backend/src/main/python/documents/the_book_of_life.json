@@ -180,5 +180,32 @@
       "rating": "10",
       "text": "I mean it such a good film and I think that Coco ant other excellent film took from this movie"
     }
+  ],
+  "recommendations": [
+    "klaus",
+    "over_the_moon",
+    "luca",
+    "soul",
+    "onward",
+    "spirit_stallion_of_the_cimarron",
+    "rio",
+    "ratatouille",
+    "how_to_train_your_dragon_2",
+    "your_name",
+    "the_incredibles",
+    "the_little_prince",
+    "kubo_and_the_two_strings",
+    "atlantis_the_lost_empire",
+    "wolfwalkers",
+    "strange_magic",
+    "how_to_train_your_dragon",
+    "cinderella",
+    "zootopia",
+    "moana",
+    "up",
+    "trolls",
+    "rio_2",
+    "paprika",
+    "raya_and_the_last_dragon"
   ]
 }

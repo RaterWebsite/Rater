@@ -91,5 +91,32 @@
       "rating": "3",
       "text": "Please let me kick the mouse. It's a very mediocre movie. It's not good or bad. It's Stewart Little."
     }
+  ],
+  "recommendations": [
+    "the_willoughbys",
+    "the_boss_baby_christmas_bonus",
+    "the_secret_life_of_pets",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "enchanted",
+    "coraline",
+    "brother_bear",
+    "ice_age_continental_drift",
+    "nanny_mcphee",
+    "the_star",
+    "clifford_the_big_red_dog",
+    "dora_and_the_lost_city_of_gold",
+    "arthur_christmas",
+    "meet_the_robinsons",
+    "the_land_before_time",
+    "rise_of_the_guardians",
+    "hotel_transylvania_2",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "stuart_little_2",
+    "the_peanuts_movie",
+    "christopher_robin",
+    "bolt",
+    "mars_needs_moms",
+    "despicable_me",
+    "astro_boy"
   ]
 }

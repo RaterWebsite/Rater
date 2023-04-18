@@ -127,5 +127,32 @@
       "rating": "7",
       "text": "----------------------------------7.0/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "christopher_robin",
+    "good_will_hunting",
+    "true_grit",
+    "eddie_the_eagle",
+    "the_flintstones",
+    "ghostbusters",
+    "paddington_2",
+    "catch_me_if_you_can",
+    "the_terminal",
+    "spider_man_homecoming",
+    "cinderella_man",
+    "the_kid_who_would_be_king",
+    "man_of_steel",
+    "a_beautiful_day_in_the_neighborhood",
+    "peter_pan",
+    "the_amazing_spider_man",
+    "the_king_of_staten_island",
+    "cruella",
+    "edward_scissorhands",
+    "thor",
+    "rush",
+    "oz_the_great_and_powerful",
+    "legend",
+    "the_royal_tenenbaums",
+    "pan"
   ]
 }

@@ -37,5 +37,32 @@
       "rating": "6",
       "text": "Arguably one of the better Christmas movies released this year and it's somewhat original - at least I never heard of such a story. However, the plot lacks consistency which could be overlooked. One thing though: Despite being a Christmas movie, it lacks the cheer and joyfulness aka what make Christmas, Christmas."
     }
+  ],
+  "recommendations": [
+    "the_jungle_book_2",
+    "the_grinch",
+    "scoob",
+    "poltergeist",
+    "ghostbusters_ii",
+    "smurfs_the_lost_village",
+    "home_on_the_range",
+    "secret_society_of_second_born_royals",
+    "the_omen",
+    "a_christmas_carol",
+    "the_thing",
+    "superman_ii",
+    "treasure_planet",
+    "101_dalmatians",
+    "the_avengers",
+    "minions_the_rise_of_gru",
+    "teen_titans_go_to_the_movies",
+    "the_star",
+    "dumbo",
+    "john_carter",
+    "how_the_grinch_stole_christmas",
+    "ghostbusters_afterlife",
+    "speed_racer",
+    "monsters_university",
+    "percy_jackson_sea_of_monsters"
   ]
 }

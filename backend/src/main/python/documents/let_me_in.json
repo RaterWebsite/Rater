@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "A sick, twisted, unusual love story with a dash of horror."
     }
+  ],
+  "recommendations": [
+    "maleficent",
+    "maleficent_mistress_of_evil",
+    "the_conjuring_the_devil_made_me_do_it",
+    "stardust",
+    "carrie",
+    "alice_through_the_looking_glass",
+    "the_witches",
+    "the_lovely_bones",
+    "the_fly",
+    "super_8",
+    "ouija_origin_of_evil",
+    "odd_thomas",
+    "victor_frankenstein",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_illusionist",
+    "doctor_strange",
+    "eternals",
+    "cruella",
+    "the_bfg",
+    "it",
+    "tomorrowland",
+    "alice_in_wonderland",
+    "pan",
+    "the_prestige",
+    "vanilla_sky"
   ]
 }

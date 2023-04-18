@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Visually stunning but that is about it. There is very little dialogue and you could honestly skip more than half the movie and not miss a beat. 2001 would have been much better as a short film than a feature."
     }
+  ],
+  "recommendations": [
+    "gravity",
+    "the_green_knight",
+    "blade_runner_2049",
+    "arrival",
+    "dunkirk",
+    "enemy",
+    "inception",
+    "moon",
+    "cloud_atlas",
+    "under_the_skin",
+    "interstellar",
+    "oblivion",
+    "sunshine",
+    "jupiter_ascending",
+    "hugo",
+    "coherence",
+    "europa_report",
+    "roma",
+    "avatar",
+    "beowulf",
+    "the_matrix_reloaded",
+    "the_matrix",
+    "they_live",
+    "9",
+    "anon"
   ]
 }

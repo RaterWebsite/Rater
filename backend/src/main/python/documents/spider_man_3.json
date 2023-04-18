@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "Compared to the other Spider Man movies, this is bad. The history isn't nice as the first movie's and it's way less enjoyable. The enemy: Venom, is the nicest thing of the movie...probably one of the only things nice in it."
     }
+  ],
+  "recommendations": [
+    "spider_man_no_way_home",
+    "iron_man_3",
+    "batman_v_superman_dawn_of_justice",
+    "x_men_apocalypse",
+    "iron_man_2",
+    "ant_man_and_the_wasp_quantumania",
+    "bumblebee",
+    "i_am_legend",
+    "max_steel",
+    "riddick",
+    "man_of_steel",
+    "jumper",
+    "terminator_genisys",
+    "teenage_mutant_ninja_turtles",
+    "i_am_number_four",
+    "kingsman_the_golden_circle",
+    "underworld_blood_wars",
+    "morbius",
+    "justice_league",
+    "king_arthur_legend_of_the_sword",
+    "avengers_age_of_ultron",
+    "surrogates",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "infinite",
+    "priest"
   ]
 }

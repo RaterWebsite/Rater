@@ -117,5 +117,32 @@
       "rating": "10",
       "text": "Simply the best film I have ever seen. Far far away in front of Star Wars, Jurassic Park, Lord of the rings or others Harry Potter. It have all what I want from a movie"
     }
+  ],
+  "recommendations": [
+    "american_wedding",
+    "ted",
+    "american_reunion",
+    "22_jump_street",
+    "the_three_stooges",
+    "zack_and_miri_make_a_porno",
+    "american_pie",
+    "blended",
+    "ted_2",
+    "the_spongebob_squarepants_movie",
+    "neighbors",
+    "just_friends",
+    "step_brothers",
+    "hot_tub_time_machine",
+    "night_at_the_museum",
+    "yes_man",
+    "21_jump_street",
+    "dumb_and_dumber_to",
+    "little_fockers",
+    "jackass_presents_bad_grandpa",
+    "dinner_for_schmucks",
+    "johnny_english_reborn",
+    "pitch_perfect_2",
+    "bad_santa",
+    "the_other_guys"
   ]
 }

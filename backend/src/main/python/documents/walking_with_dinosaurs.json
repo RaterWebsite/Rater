@@ -130,5 +130,32 @@
       "rating": "8",
       "text": "I remember the U.K. documentary miniseries and thought this would be a documentary film. Actually it was a family movie and it was fun to watch."
     }
+  ],
+  "recommendations": [
+    "the_smurfs",
+    "ice_age_dawn_of_the_dinosaurs",
+    "chicken_little",
+    "cloudy_with_a_chance_of_meatballs",
+    "the_boss_baby_family_business",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "uglydolls",
+    "alvin_and_the_chipmunks",
+    "hotel_transylvania",
+    "free_birds",
+    "spy_kids_all_the_time_in_the_world",
+    "the_croods_a_new_age",
+    "the_spongebob_movie_sponge_out_of_water",
+    "yogi_bear",
+    "ice_age_continental_drift",
+    "ice_age_the_meltdown",
+    "captain_underpants_the_first_epic_movie",
+    "the_lego_movie",
+    "the_angry_birds_movie",
+    "zookeeper",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "monster_house",
+    "marmaduke",
+    "minions",
+    "monsters_vs_aliens"
   ]
 }

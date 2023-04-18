@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "I'll admit it. I went into the theatre not expecting much from this film, and even then I was disappointed. As my mother and I left the theatre we didn't even talk about it. It just didn't have the same fun feeling that its prequels had. I wanted to like it, I tried to like it, but I couldn't."
     }
+  ],
+  "recommendations": [
+    "teenage_mutant_ninja_turtles",
+    "underworld_evolution",
+    "transformers_revenge_of_the_fallen",
+    "the_twilight_saga_eclipse",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "i_am_number_four",
+    "poseidon",
+    "the_twilight_saga_new_moon",
+    "red_dawn",
+    "the_darkest_hour",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "into_the_storm",
+    "national_treasure_book_of_secrets",
+    "bloodshot",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "gods_of_egypt",
+    "volcano",
+    "terminator_genisys",
+    "the_day_the_earth_stood_still",
+    "the_last_witch_hunter",
+    "the_legend_of_hercules",
+    "underworld_blood_wars",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "hercules",
+    "night_at_the_museum_battle_of_the_smithsonian"
   ]
 }

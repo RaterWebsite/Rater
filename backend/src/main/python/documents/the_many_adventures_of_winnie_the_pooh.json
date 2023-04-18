@@ -41,5 +41,32 @@
       "rating": "9",
       "text": "Delicious As HoneyThis film about Winnie The Pooh is definitely a satisfying one."
     }
+  ],
+  "recommendations": [
+    "the_aristocats",
+    "winnie_the_pooh_blood_and_honey",
+    "tangled",
+    "aladdin",
+    "the_fox_and_the_hound",
+    "toy_story",
+    "the_jungle_book",
+    "moana",
+    "the_princess_and_the_frog",
+    "the_sword_in_the_stone",
+    "the_grinch",
+    "rio",
+    "madagascar",
+    "home_on_the_range",
+    "trolls",
+    "the_peanuts_movie",
+    "brother_bear",
+    "bolt",
+    "looney_tunes_back_in_action",
+    "the_nightmare_before_christmas",
+    "strange_magic",
+    "enchanted",
+    "the_little_mermaid",
+    "shaun_the_sheep_movie",
+    "the_muppets"
   ]
 }

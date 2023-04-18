@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "WOW. The director to this fine, fine movie is a genius!! I like it how they put to instead of two. I was laughing before I ever had the pleasure to watch this movie! I went to the theaters my myself because I am lonely but I still had a good time! Fantastic!"
     }
+  ],
+  "recommendations": [
+    "hot_tub_time_machine",
+    "the_dictator",
+    "dumb_and_dumber",
+    "the_watch",
+    "the_three_stooges",
+    "one_year_one_night",
+    "the_hangover",
+    "grown_ups",
+    "a_haunted_house",
+    "anchorman_2_the_legend_continues",
+    "30_minutes_or_less",
+    "hubie_halloween",
+    "dinner_for_schmucks",
+    "deuce_bigalow_european_gigolo",
+    "ted_2",
+    "yes_man",
+    "grown_ups_2",
+    "this_is_the_end",
+    "tropic_thunder",
+    "jackass_presents_bad_grandpa",
+    "miss_march",
+    "nacho_libre",
+    "the_wrong_missy",
+    "movie_43",
+    "meet_the_spartans"
   ]
 }

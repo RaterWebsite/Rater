@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "i love this film so much. I used to watch it when i was little but i didn't really understand the meaning of this film. before, it was just a film which entertained me. now after i watched it, not only does it entertain me but also gives me a message. This film is truly the best film ever made, it's entertaining, friendly, funny and makes me feel like a new person. i rate this movie an 11."
     }
+  ],
+  "recommendations": [
+    "the_prince_of_egypt",
+    "anastasia",
+    "the_princess_and_the_frog",
+    "wolfwalkers",
+    "aladdin",
+    "moana",
+    "song_of_the_sea",
+    "treasure_planet",
+    "the_little_prince",
+    "spirit_stallion_of_the_cimarron",
+    "luca",
+    "finding_nemo",
+    "the_book_of_life",
+    "klaus",
+    "pocahontas",
+    "atlantis_the_lost_empire",
+    "tarzan",
+    "over_the_moon",
+    "the_sword_in_the_stone",
+    "tangled",
+    "cinderella",
+    "the_polar_express",
+    "your_name",
+    "the_jungle_book",
+    "a_christmas_carol"
   ]
 }

@@ -164,5 +164,32 @@
       "rating": "10",
       "text": "Brilliant movie and amazing idea. Perfect cast and the whole story. Deserves more"
     }
+  ],
+  "recommendations": [
+    "chaos_walking",
+    "the_darkest_minds",
+    "nerve",
+    "sicario_day_of_the_soldado",
+    "the_purge_election_year",
+    "contagion",
+    "elysium",
+    "i_am_mother",
+    "the_tomorrow_war",
+    "tenet",
+    "the_maze_runner",
+    "x_men_apocalypse",
+    "colossal",
+    "captive_state",
+    "repo_men",
+    "code_8",
+    "tomorrowland",
+    "the_butterfly_effect",
+    "brimstone",
+    "maze_runner_the_scorch_trials",
+    "surrogates",
+    "the_invasion",
+    "serenity",
+    "lucy",
+    "the_equalizer_2"
   ]
 }

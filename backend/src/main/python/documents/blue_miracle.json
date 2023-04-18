@@ -50,5 +50,32 @@
       "rating": "10",
       "text": "WONDERFUL MOVIE! It\u2019s a blessing to see actual GENUINE movies with great messages still being produced. 10/10 for me. I LOVED it."
     }
+  ],
+  "recommendations": [
+    "a_family_man",
+    "the_boy_who_harnessed_the_wind",
+    "legends_of_the_fall",
+    "captain_fantastic",
+    "charm_city_kings",
+    "chef",
+    "the_best_exotic_marigold_hotel",
+    "fighting_with_my_family",
+    "silver_linings_playbook",
+    "the_descendants",
+    "12_mighty_orphans",
+    "a_bronx_tale",
+    "white_boy_rick",
+    "gifted",
+    "crazy_rich_asians",
+    "young_adult",
+    "the_glass_castle",
+    "savages",
+    "brothers",
+    "up_in_the_air",
+    "blow",
+    "the_terminal",
+    "the_intern",
+    "minari",
+    "wonder"
   ]
 }

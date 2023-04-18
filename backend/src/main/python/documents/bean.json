@@ -82,5 +82,32 @@
       "rating": "7",
       "text": "When this was announced many including myself was sceptical but it's a good attempt for a tv show to movie adaption."
     }
+  ],
+  "recommendations": [
+    "ace_ventura_when_nature_calls",
+    "meet_the_parents",
+    "johnny_english",
+    "ace_ventura_pet_detective",
+    "johnny_english_reborn",
+    "the_wedding_ringer",
+    "american_pie_2",
+    "dodgeball_a_true_underdog_story",
+    "american_wedding",
+    "get_smart",
+    "role_models",
+    "scary_movie_3",
+    "the_longest_yard",
+    "the_spongebob_squarepants_movie",
+    "johnny_english_strikes_again",
+    "dumb_and_dumber",
+    "step_brothers",
+    "neighbors",
+    "the_pink_panther",
+    "zoolander",
+    "horrible_bosses",
+    "dinner_for_schmucks",
+    "hot_shots_part_deux",
+    "austin_powers_international_man_of_mystery",
+    "anger_management"
   ]
 }

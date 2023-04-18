@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I'm a simple man and loved this movie. Everything is so exaggerated that it becomes funny and interesting in a way."
     }
+  ],
+  "recommendations": [
+    "gamer",
+    "crank_high_voltage",
+    "underworld_evolution",
+    "the_tax_collector",
+    "shadow_in_the_cloud",
+    "army_of_the_dead",
+    "i_am_number_four",
+    "transformers_revenge_of_the_fallen",
+    "gods_of_egypt",
+    "the_marine",
+    "jumper",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_twilight_saga_eclipse",
+    "teenage_mutant_ninja_turtles",
+    "crank",
+    "underworld_blood_wars",
+    "ghost_rider_spirit_of_vengeance",
+    "eagle_eye",
+    "next",
+    "wanted",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_bye_bye_man",
+    "national_treasure_book_of_secrets",
+    "bloodshot",
+    "poseidon"
   ]
 }

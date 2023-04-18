@@ -105,5 +105,32 @@
       "rating": "10",
       "text": "I read the book and watched the movie in 6th grade and yet I still love the story. Great comfort movie"
     }
+  ],
+  "recommendations": [
+    "bridge_to_terabithia",
+    "the_notebook",
+    "paper_towns",
+    "where_the_wild_things_are",
+    "a_walk_to_remember",
+    "about_time",
+    "brokeback_mountain",
+    "endless_love",
+    "moonrise_kingdom",
+    "the_lake_house",
+    "if_i_stay",
+    "the_art_of_racing_in_the_rain",
+    "me_before_you",
+    "the_vow",
+    "coraline",
+    "the_last_naruto_the_movie",
+    "up",
+    "the_perks_of_being_a_wallflower",
+    "instant_family",
+    "wonder",
+    "five_feet_apart",
+    "the_spectacular_now",
+    "miracles_from_heaven",
+    "we_bought_a_zoo",
+    "the_adjustment_bureau"
   ]
 }

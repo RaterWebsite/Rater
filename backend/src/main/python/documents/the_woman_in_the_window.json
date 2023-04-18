@@ -163,5 +163,32 @@
       "rating": "4",
       "text": "One of the most disappointing movies of 2021. Good idea that's ruined by an awful script."
     }
+  ],
+  "recommendations": [
+    "bad_times_at_the_el_royale",
+    "a_simple_favor",
+    "before_i_go_to_sleep",
+    "the_beguiled",
+    "widows",
+    "good_time",
+    "the_machinist",
+    "the_invisible_man",
+    "broken_city",
+    "terminal",
+    "prisoners",
+    "the_raven",
+    "a_history_of_violence",
+    "gone_girl",
+    "reminiscence",
+    "the_snowman",
+    "a_cure_for_wellness",
+    "split",
+    "the_call",
+    "the_little_things",
+    "the_killing_of_a_sacred_deer",
+    "trance",
+    "knives_out",
+    "red_sparrow",
+    "last_night_in_soho"
   ]
 }

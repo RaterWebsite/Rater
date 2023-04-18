@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This movie is amazing. It has a believable conflict, the story is beautiful. You may get confused along the way, but if you can stick with it you will be surprised on how much you liked it. My favorite part was the ending it was very bitter-sweet."
     }
+  ],
+  "recommendations": [
+    "goodbye_christopher_robin",
+    "life_of_pi",
+    "onward",
+    "the_lovely_bones",
+    "the_little_prince",
+    "a_monster_calls",
+    "christopher_robin",
+    "stand_by_me_doraemon_2",
+    "soul",
+    "the_bfg",
+    "luca",
+    "call_me_by_your_name",
+    "eternal_sunshine_of_the_spotless_mind",
+    "upside_down",
+    "toy_story_3",
+    "finding_nemo",
+    "about_time",
+    "what_dreams_may_come",
+    "me_before_you",
+    "kubo_and_the_two_strings",
+    "your_name",
+    "up",
+    "ella_enchanted",
+    "chemical_hearts",
+    "moonrise_kingdom"
   ]
 }

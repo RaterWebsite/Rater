@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Patrick Bateman: [voiceover] When I get to Paul Allen's place, I use the keys I took from his pocket. There is a moment of sheer panic when I realize that Paul's apartment overlooks the park and is obviously more expensive than mine. I calm myself and move into the bedroom, where I find his suitcase and start to pack."
     }
+  ],
+  "recommendations": [
+    "the_favourite",
+    "a_clockwork_orange",
+    "trainspotting",
+    "django_unchained",
+    "blackkklansman",
+    "the_crow",
+    "constantine",
+    "straight_outta_compton",
+    "green_book",
+    "black_swan",
+    "eyes_wide_shut",
+    "in_fabric",
+    "fear_and_loathing_in_las_vegas",
+    "us",
+    "watchmen",
+    "total_recall",
+    "jojo_rabbit",
+    "pride_and_prejudice_and_zombies",
+    "the_gentlemen",
+    "stoker",
+    "the_cell",
+    "last_night_in_soho",
+    "the_raven",
+    "nightcrawler",
+    "titane"
   ]
 }

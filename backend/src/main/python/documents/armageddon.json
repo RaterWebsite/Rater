@@ -227,5 +227,32 @@
       "rating": "0",
       "text": "Almost makes you wish a meteor would hit the earth. If this is what the public wants, they deserve to die."
     }
+  ],
+  "recommendations": [
+    "skyscraper",
+    "independence_day",
+    "san_andreas",
+    "mad_max_fury_road",
+    "rampage",
+    "the_great_wall",
+    "angel_has_fallen",
+    "pearl_harbor",
+    "transformers_the_last_knight",
+    "geostorm",
+    "elysium",
+    "independence_day_resurgence",
+    "infinite",
+    "terminator_salvation",
+    "twister",
+    "the_magnificent_seven",
+    "mortal_engines",
+    "greyhound",
+    "london_has_fallen",
+    "poseidon",
+    "jonah_hex",
+    "battle_los_angeles",
+    "bumblebee",
+    "the_island",
+    "star_trek_into_darkness"
   ]
 }

@@ -44,5 +44,32 @@
       "rating": "0",
       "text": "this is awful, the actuation, the guidance. Everything is bad with this, i would never pay to see this movie"
     }
+  ],
+  "recommendations": [
+    "bad_teacher",
+    "the_dilemma",
+    "horrible_bosses",
+    "the_boy_next_door",
+    "the_proposal",
+    "my_spy",
+    "going_in_style",
+    "no_strings_attached",
+    "the_break_up",
+    "killers",
+    "parker",
+    "trouble_with_the_curve",
+    "jobs",
+    "just_go_with_it",
+    "last_vegas",
+    "orphan_first_kill",
+    "the_pacifier",
+    "17_again",
+    "jerry_maguire",
+    "second_act",
+    "freaky_friday",
+    "aquamarine",
+    "logan_lucky",
+    "tammy",
+    "the_longest_yard"
   ]
 }

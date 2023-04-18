@@ -118,5 +118,32 @@
       "rating": "7",
       "text": "La trama es entretenida y tiene momentos muy divertidos; la recomiendo mucho."
     }
+  ],
+  "recommendations": [
+    "young_adult",
+    "the_perks_of_being_a_wallflower",
+    "the_glass_castle",
+    "the_princess_diaries",
+    "wonder",
+    "endless_love",
+    "the_intern",
+    "me_before_you",
+    "the_big_sick",
+    "christopher_robin",
+    "about_time",
+    "gifted",
+    "big",
+    "sleepless_in_seattle",
+    "silver_linings_playbook",
+    "lady_bird",
+    "love_actually",
+    "cruel_intentions",
+    "life_as_we_know_it",
+    "the_descendants",
+    "home_again",
+    "the_age_of_adaline",
+    "fatherhood",
+    "instant_family",
+    "the_spectacular_now"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "It was a good movie, but it was extremely one-sided for Captain America and his team, plus the motivations for his and Iron Man's fight were completely absurd. The movie also makes Iron Man to be someone stupider than he really is."
     }
+  ],
+  "recommendations": [
+    "captain_america_the_winter_soldier",
+    "12_strong",
+    "wonder_woman",
+    "avengers_infinity_war",
+    "red_tails",
+    "x_men_apocalypse",
+    "ant_man_and_the_wasp_quantumania",
+    "greyhound",
+    "black_hawk_down",
+    "x_men_days_of_future_past",
+    "hellboy_ii_the_golden_army",
+    "creed_ii",
+    "rogue_one_a_star_wars_story",
+    "lord_of_war",
+    "valkyrie",
+    "black_widow",
+    "pearl_harbor",
+    "avengers_endgame",
+    "the_matrix_revolutions",
+    "no_country_for_old_men",
+    "the_magnificent_seven",
+    "man_of_steel",
+    "mission_impossible_rogue_nation",
+    "the_eagle",
+    "the_dark_knight_rises"
   ]
 }

@@ -229,5 +229,32 @@
       "rating": "8",
       "text": "\"Shrek 2\" is just a hilarious comedy hit, and while it feels somewhat similar to its original, new characters do shine  Puss in Boots as an example. It's formula to appeal to adults and children at the same time works, and while it may feel a tad too familiar to the first; it can still appeal to all ages."
     }
+  ],
+  "recommendations": [
+    "shrek_forever_after",
+    "shrek_the_third",
+    "shrek",
+    "enchanted",
+    "peter_rabbit_2_the_runaway",
+    "love_actually",
+    "christopher_robin",
+    "flipped",
+    "the_notebook",
+    "onward",
+    "justin_bieber_our_world",
+    "the_land_before_time",
+    "winnie_the_pooh_blood_and_honey",
+    "finding_nemo",
+    "the_secret_life_of_walter_mitty",
+    "about_time",
+    "labyrinth",
+    "up",
+    "the_polar_express",
+    "the_princess_diaries",
+    "a_street_cat_named_bob",
+    "aladdin",
+    "life_as_we_know_it",
+    "happiest_season",
+    "the_book_of_life"
   ]
 }

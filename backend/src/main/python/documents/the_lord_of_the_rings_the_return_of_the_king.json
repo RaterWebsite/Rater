@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A Flawless job by Peter Jackson. this movie has everything! Action, Adventure, Romance..etc. and the digital effects are amazing!! i had no idea they had the kind of equipment to make such amazing effects! and i see a lot of people complaining about the length of the movie. And i must agree the length of the movie is kinda long..running over 3 hours long. but its better than making 5-6 lotr..right? i think 3 lotr movies is the perfect sequel and this movie will be known for awhile.."
     }
+  ],
+  "recommendations": [
+    "the_lord_of_the_rings_the_two_towers",
+    "the_lord_of_the_rings_the_fellowship_of_the_ring",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "war_for_the_planet_of_the_apes",
+    "gladiator",
+    "the_hobbit_an_unexpected_journey",
+    "braveheart",
+    "top_gun_maverick",
+    "doctor_sleep",
+    "alita_battle_angel",
+    "avengers_endgame",
+    "the_green_mile",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "creed",
+    "the_bfg",
+    "master_and_commander_the_far_side_of_the_world",
+    "titanic",
+    "the_hunger_games_catching_fire",
+    "harry_potter_and_the_order_of_the_phoenix",
+    "the_lovely_bones",
+    "the_shawshank_redemption",
+    "close_encounters_of_the_third_kind",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "unbroken",
+    "harry_potter_and_the_half_blood_prince"
   ]
 }

@@ -109,5 +109,32 @@
       "rating": "10",
       "text": "A fantastic movie directed brilliantly with innovative style and techniques.  The acting of course is SB at her best. You will discover the movie with the actors a truly unique space don't perfectly all round."
     }
+  ],
+  "recommendations": [
+    "gone_baby_gone",
+    "stillwater",
+    "prisoners",
+    "before_i_go_to_sleep",
+    "those_who_wish_me_dead",
+    "gone_girl",
+    "flightplan",
+    "split",
+    "widows",
+    "the_accountant",
+    "the_little_things",
+    "the_next_three_days",
+    "the_curious_case_of_benjamin_button",
+    "contagion",
+    "uncut_gems",
+    "the_loft",
+    "promising_young_woman",
+    "man_on_a_ledge",
+    "a_history_of_violence",
+    "no_escape",
+    "law_abiding_citizen",
+    "the_woman_in_the_window",
+    "the_place_beyond_the_pines",
+    "the_descendants",
+    "the_voyeurs"
   ]
 }

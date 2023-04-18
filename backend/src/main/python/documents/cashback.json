@@ -94,5 +94,32 @@
       "rating": "9",
       "text": "Great movie, there is something to think about. I watched it with pleasure, not wasted time."
     }
+  ],
+  "recommendations": [
+    "lost_in_translation",
+    "her",
+    "five_feet_apart",
+    "me_before_you",
+    "moonrise_kingdom",
+    "closer",
+    "magic_mikes_last_dance",
+    "the_fault_in_our_stars",
+    "i_feel_pretty",
+    "the_notebook",
+    "how_to_be_single",
+    "the_big_sick",
+    "a_walk_to_remember",
+    "secretary",
+    "me_and_earl_and_the_dying_girl",
+    "black_swan",
+    "the_edge_of_seventeen",
+    "to_the_bone",
+    "brokeback_mountain",
+    "okja",
+    "jojo_rabbit",
+    "about_time",
+    "the_curious_case_of_benjamin_button",
+    "chappie",
+    "the_lobster"
   ]
 }

@@ -94,5 +94,32 @@
       "rating": "1",
       "text": "one of the worst animated movies from 2019 along with playmobil the movie! the animation is stupid! the characters are ugly!"
     }
+  ],
+  "recommendations": [
+    "alvin_and_the_chipmunks_chipwrecked",
+    "free_birds",
+    "the_smurfs",
+    "chicken_little",
+    "alvin_and_the_chipmunks",
+    "yogi_bear",
+    "the_lego_movie",
+    "the_cat_in_the_hat",
+    "wonder_park",
+    "the_boss_baby_family_business",
+    "the_spongebob_movie_sponge_out_of_water",
+    "dolittle",
+    "minions",
+    "cloudy_with_a_chance_of_meatballs",
+    "planet_51",
+    "the_nut_job",
+    "the_angry_birds_movie",
+    "the_tale_of_despereaux",
+    "hotel_transylvania",
+    "spy_kids_all_the_time_in_the_world",
+    "barnyard",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "teen_titans_go_to_the_movies",
+    "space_jam_a_new_legacy",
+    "the_emoji_movie"
   ]
 }

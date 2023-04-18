@@ -224,5 +224,32 @@
       "rating": "5",
       "text": "Definitely funny but a one time see for sure."
     }
+  ],
+  "recommendations": [
+    "the_interview",
+    "sausage_party",
+    "the_dictator",
+    "white_chicks",
+    "knocked_up",
+    "wild_hogs",
+    "idiocracy",
+    "the_happytime_murders",
+    "fifty_shades_of_black",
+    "evan_almighty",
+    "jackass_the_movie",
+    "good_boys",
+    "the_40_year_old_virgin",
+    "the_hangover",
+    "a_million_ways_to_die_in_the_west",
+    "another_gay_movie",
+    "a_haunted_house",
+    "the_ugly_truth",
+    "jackass_presents_bad_grandpa",
+    "the_men_who_stare_at_goats",
+    "hot_tub_time_machine",
+    "superbad",
+    "this_is_the_end",
+    "american_pie",
+    "nacho_libre"
   ]
 }

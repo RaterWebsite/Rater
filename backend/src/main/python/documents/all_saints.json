@@ -45,5 +45,32 @@
       "rating": "10",
       "text": "Esta pel\u00edcula es una experiencia inspiradora, tiene una buena trama y momentos que dan para reflexionar."
     }
+  ],
+  "recommendations": [
+    "overcomer",
+    "courageous",
+    "heaven_is_for_real",
+    "the_pursuit_of_happyness",
+    "i_still_believe",
+    "the_bucket_list",
+    "pay_it_forward",
+    "war_room",
+    "woodlawn",
+    "greenberg",
+    "the_shack",
+    "revolutionary_road",
+    "chappie",
+    "slumdog_millionaire",
+    "facing_the_giants",
+    "hereafter",
+    "collateral_beauty",
+    "invictus",
+    "3_idiots",
+    "the_butterfly_effect",
+    "son_of_god",
+    "the_adjustment_bureau",
+    "the_blind_side",
+    "her",
+    "mother"
   ]
 }

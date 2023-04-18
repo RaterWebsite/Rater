@@ -94,5 +94,32 @@
       "rating": "5",
       "text": "Mel Gibson is amazing in it but its also pretty boring maybe i am just not into mafia movies that much"
     }
+  ],
+  "recommendations": [
+    "gangster_squad",
+    "snatch",
+    "savages",
+    "the_gentlemen",
+    "a_walk_among_the_tombstones",
+    "the_equalizer",
+    "the_nice_guys",
+    "copshop",
+    "american_ultra",
+    "daredevil",
+    "iron_man",
+    "lucky_number_slevin",
+    "street_kings",
+    "nobody",
+    "rocknrolla",
+    "demolition_man",
+    "public_enemies",
+    "sin_city_a_dame_to_kill_for",
+    "cry_macho",
+    "gunpowder_milkshake",
+    "run_all_night",
+    "the_italian_job",
+    "free_fire",
+    "solace",
+    "hellboy"
   ]
 }

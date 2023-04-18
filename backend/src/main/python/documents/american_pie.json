@@ -209,5 +209,32 @@
       "rating": "8",
       "text": "There are only a few complaints mainly some of the main actors give a dull and lifeless performance Jason Biggs and Seann William Scott are the main highlight. Its a very very funny movie not only is it a comedy but you can connect with the characters even though they were most likely 30 years old playing high school kids, you do kinda feel like they are in high school. I say any like teenager can watch this and have a great time with it"
     }
+  ],
+  "recommendations": [
+    "eurotrip",
+    "old_school",
+    "step_brothers",
+    "not_another_teen_movie",
+    "knocked_up",
+    "ted",
+    "neighbors",
+    "superbad",
+    "american_reunion",
+    "jackass_presents_bad_grandpa",
+    "the_40_year_old_virgin",
+    "friday",
+    "american_pie_2",
+    "blended",
+    "good_boys",
+    "neighbors_2_sorority_rising",
+    "21_jump_street",
+    "grown_ups",
+    "hot_tub_time_machine",
+    "the_three_stooges",
+    "rough_night",
+    "night_at_the_museum",
+    "the_ugly_truth",
+    "the_dictator",
+    "bad_santa"
   ]
 }

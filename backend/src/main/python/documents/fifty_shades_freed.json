@@ -173,5 +173,32 @@
       "rating": "9",
       "text": "This is the third and final movie of the Fifty Shades of Grey trilogy. While the movie rapped up nicely. It again missed some key moments in the book that would have made this a great final movie. I felt that the movie was very rushed and missing something. Over all it was good and worth watching"
     }
+  ],
+  "recommendations": [
+    "fifty_shades_darker",
+    "fifty_shades_of_grey",
+    "unforgettable",
+    "the_wolf_of_wall_street",
+    "the_hunger_games_mockingjay_part_1",
+    "the_shape_of_water",
+    "the_power_of_the_dog",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "limitless",
+    "downsizing",
+    "the_lobster",
+    "sanctum",
+    "vivarium",
+    "magic_mikes_last_dance",
+    "slumdog_millionaire",
+    "children_of_men",
+    "the_adjustment_bureau",
+    "the_counselor",
+    "repo_men",
+    "next",
+    "nerve",
+    "t2_trainspotting",
+    "the_gambler",
+    "the_butterfly_effect",
+    "awake"
   ]
 }

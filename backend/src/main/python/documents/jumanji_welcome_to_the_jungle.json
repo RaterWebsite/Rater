@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Thoroughly enjoyable throughout its runtime, '\"Jumanji: Welcome to the Jungle\" is a welcome sequel to \"Jumanji\", and an entertaining, hilarious, and action-packed film in its own right."
     }
+  ],
+  "recommendations": [
+    "jumanji_the_next_level",
+    "free_guy",
+    "shazam",
+    "sonic_the_hedgehog",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "goosebumps",
+    "the_green_hornet",
+    "megamind",
+    "despicable_me_2",
+    "the_babysitter",
+    "deadpool_2",
+    "deadpool",
+    "prince_of_persia_the_sands_of_time",
+    "tag",
+    "sonic_the_hedgehog_2",
+    "hotel_transylvania_2",
+    "minions",
+    "peter_rabbit",
+    "ghostbusters_ii",
+    "night_at_the_museum_secret_of_the_tomb",
+    "venom_let_there_be_carnage",
+    "the_losers",
+    "thor_ragnarok",
+    "the_a_team",
+    "guardians_of_the_galaxy"
   ]
 }

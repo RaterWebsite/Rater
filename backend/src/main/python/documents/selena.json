@@ -46,5 +46,32 @@
       "rating": "8",
       "text": "Its a good representation in role performed by JLo in the history of the Texano Legend. Viva Selena!"
     }
+  ],
+  "recommendations": [
+    "cinderella_man",
+    "walk_the_line",
+    "respect",
+    "forrest_gump",
+    "the_godfather",
+    "house_of_gucci",
+    "king_richard",
+    "almost_famous",
+    "flag_day",
+    "the_shawshank_redemption",
+    "bohemian_rhapsody",
+    "the_parent_trap",
+    "raging_bull",
+    "goodfellas",
+    "afterlife_of_the_party",
+    "my_name_is_khan",
+    "la_la_land",
+    "mary_poppins_returns",
+    "hairspray",
+    "quo_vadis",
+    "casablanca",
+    "a_star_is_born",
+    "a_beautiful_mind",
+    "spencer",
+    "rocketman"
   ]
 }

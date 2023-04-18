@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "I thought this was a really entertaining, quirky and colourful movie. Don't understand the low scores here."
     }
+  ],
+  "recommendations": [
+    "alice_through_the_looking_glass",
+    "maleficent_mistress_of_evil",
+    "maleficent",
+    "corpse_bride",
+    "dark_shadows",
+    "doctor_sleep",
+    "stardust",
+    "cruella",
+    "sin_city_a_dame_to_kill_for",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "charlie_and_the_chocolate_factory",
+    "the_bfg",
+    "oz_the_great_and_powerful",
+    "the_prestige",
+    "pan",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_illusionist",
+    "dumbo",
+    "the_hobbit_an_unexpected_journey",
+    "inkheart",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "edward_scissorhands",
+    "doctor_strange",
+    "let_me_in",
+    "the_lovely_bones"
   ]
 }

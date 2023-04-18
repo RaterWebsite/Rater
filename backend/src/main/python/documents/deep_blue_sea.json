@@ -118,5 +118,32 @@
       "rating": "7",
       "text": "Meh.....................................................................I did this to space out the review because the movie is simply Meh."
     }
+  ],
+  "recommendations": [
+    "underworld",
+    "kong_skull_island",
+    "the_meg",
+    "transformers",
+    "predator_2",
+    "the_shallows",
+    "anacondas_the_hunt_for_the_blood_orchid",
+    "van_helsing",
+    "anaconda",
+    "the_predator",
+    "47_meters_down",
+    "godzilla_king_of_the_monsters",
+    "pacific_rim",
+    "ninja_assassin",
+    "species",
+    "rampage",
+    "ghost_rider_spirit_of_vengeance",
+    "predators",
+    "monster_hunter",
+    "transformers_dark_of_the_moon",
+    "jaws_2",
+    "doomsday",
+    "jack_the_giant_slayer",
+    "underworld_blood_wars",
+    "ghost_rider"
   ]
 }

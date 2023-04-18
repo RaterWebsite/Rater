@@ -44,5 +44,32 @@
       "rating": "10",
       "text": "Best movie of the year. Great performance by main character and the writing is phenomenal. The action scenes leave you wanting to hop on a bike even if you end up in a hospital ."
     }
+  ],
+  "recommendations": [
+    "fighting_with_my_family",
+    "the_glass_castle",
+    "the_florida_project",
+    "lady_bird",
+    "the_spectacular_now",
+    "the_best_exotic_marigold_hotel",
+    "captain_fantastic",
+    "gifted",
+    "young_adult",
+    "the_age_of_adaline",
+    "only_the_brave",
+    "boyz_n_the_hood",
+    "the_intern",
+    "stand_by_me_doraemon_2",
+    "scent_of_a_woman",
+    "a_bronx_tale",
+    "the_help",
+    "goodbye_christopher_robin",
+    "moonrise_kingdom",
+    "joy",
+    "a_hologram_for_the_king",
+    "christopher_robin",
+    "belfast",
+    "silver_linings_playbook",
+    "me_before_you"
   ]
 }

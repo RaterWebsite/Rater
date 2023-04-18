@@ -98,5 +98,32 @@
       "rating": "8",
       "text": "Kind of a fun adventure movie with a mix of disaster movie vibes which is a blast if you don\u2019t take it too seriously. Spader is entertaining as always and the score is pretty good too"
     }
+  ],
+  "recommendations": [
+    "mortal_engines",
+    "the_league_of_extraordinary_gentlemen",
+    "the_matrix",
+    "reign_of_fire",
+    "the_martian",
+    "arrival",
+    "independence_day",
+    "hellboy_ii_the_golden_army",
+    "sunshine",
+    "interstellar",
+    "avatar",
+    "total_recall",
+    "elysium",
+    "captain_america_the_winter_soldier",
+    "contact",
+    "annihilation",
+    "they_live",
+    "the_13th_warrior",
+    "lucy",
+    "upside_down",
+    "x_men_days_of_future_past",
+    "aliens",
+    "europa_report",
+    "minority_report",
+    "chaos_walking"
   ]
 }

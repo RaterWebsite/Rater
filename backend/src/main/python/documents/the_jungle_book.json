@@ -62,5 +62,32 @@
       "rating": "10",
       "text": "I'm aware nostalgia and bias plays a big part in my high rating, but I would give it a 9.5. It is immersive and magical from everything from the way the characters move, to the musical numbers, to the backgrounds."
     }
+  ],
+  "recommendations": [
+    "moana",
+    "pocahontas",
+    "the_lion_king",
+    "trolls",
+    "aladdin",
+    "the_princess_and_the_frog",
+    "the_road_to_el_dorado",
+    "the_prince_of_egypt",
+    "vivo",
+    "the_sword_in_the_stone",
+    "strange_magic",
+    "sing",
+    "spirit_stallion_of_the_cimarron",
+    "over_the_moon",
+    "anastasia",
+    "the_hunchback_of_notre_dame",
+    "winnie_the_pooh_blood_and_honey",
+    "tangled",
+    "cats",
+    "trolls_world_tour",
+    "rio_2",
+    "rio",
+    "the_grinch",
+    "ratatouille",
+    "brother_bear"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Great movie, but how in the hell can a man plan this out even though he's been dead for 3 movies now..."
     }
+  ],
+  "recommendations": [
+    "jigsaw",
+    "spiral_from_the_book_of_saw",
+    "saw_3d",
+    "saw_iv",
+    "saw_iii",
+    "saw_ii",
+    "saw_v",
+    "the_new_mutants",
+    "brightburn",
+    "rings",
+    "paranormal_activity_4",
+    "saw",
+    "maze_runner_the_scorch_trials",
+    "paranormal_activity_the_marked_ones",
+    "unfriended_dark_web",
+    "wish_upon",
+    "terminator_genisys",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "would_you_rather",
+    "i_am_number_four",
+    "i_am_legend",
+    "insidious_the_last_key",
+    "the_x_files_i_want_to_believe",
+    "the_final_destination",
+    "the_purge_election_year"
   ]
 }

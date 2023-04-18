@@ -51,5 +51,32 @@
       "rating": "10",
       "text": "the cast is pretty good the plot is a bit like terminator in fact this whole review was supposed to be the whole plot"
     }
+  ],
+  "recommendations": [
+    "hard_target",
+    "cobra",
+    "double_impact",
+    "the_last_boy_scout",
+    "kickboxer",
+    "red_heat",
+    "hard_to_kill",
+    "extraction",
+    "bullet_to_the_head",
+    "eraser",
+    "the_rundown",
+    "xxx",
+    "12_rounds",
+    "the_expendables",
+    "first_blood",
+    "the_expendables_2",
+    "triple_threat",
+    "black_water",
+    "blade_trinity",
+    "broken_arrow",
+    "anaconda",
+    "homefront",
+    "the_expendables_3",
+    "gunpowder_milkshake",
+    "the_last_stand"
   ]
 }

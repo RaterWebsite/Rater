@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Comedy of the year! The final reel's dialogue is the stuff of comedic genius. Problem is someone should have told the scriptwriter that it wasn't a comedy in the first place."
     }
+  ],
+  "recommendations": [
+    "2012",
+    "the_tomorrow_war",
+    "skyline",
+    "shadow_in_the_cloud",
+    "the_happening",
+    "war_of_the_worlds",
+    "wonder_woman_1984",
+    "geostorm",
+    "sanctum",
+    "legion",
+    "hereditary",
+    "bird_box",
+    "the_book_of_eli",
+    "wanted",
+    "the_devil_inside",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_new_mutants",
+    "how_it_ends",
+    "the_mist",
+    "shut_in",
+    "the_darkest_hour",
+    "battleship",
+    "transformers_the_last_knight",
+    "next",
+    "old"
   ]
 }

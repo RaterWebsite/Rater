@@ -162,5 +162,32 @@
       "rating": "3",
       "text": "This movie is mean-spirited and not fun.  It's based on some trading cards, and so it has a kind of retro fun factor, but it's just one of those things where Hollywood is going \"Isn't this SO cool?\" and it's really just not."
     }
+  ],
+  "recommendations": [
+    "evolution",
+    "paul",
+    "men_in_black",
+    "men_in_black_ii",
+    "wild_wild_west",
+    "thor_ragnarok",
+    "guardians_of_the_galaxy",
+    "johnny_english_strikes_again",
+    "austin_powers_the_spy_who_shagged_me",
+    "tremors",
+    "hellboy",
+    "the_gentlemen",
+    "snatch",
+    "mortdecai",
+    "madagascar_escape_2_africa",
+    "armageddon",
+    "austin_powers_international_man_of_mystery",
+    "the_league_of_extraordinary_gentlemen",
+    "red_2",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "indiana_jones_and_the_temple_of_doom",
+    "ant_man_and_the_wasp_quantumania",
+    "iron_sky",
+    "robots",
+    "werewolves_within"
   ]
 }

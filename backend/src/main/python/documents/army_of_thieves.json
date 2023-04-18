@@ -141,5 +141,32 @@
       "rating": "10",
       "text": "This was a fun movie. Including the cast unique personalities on screen. I think the director did a great job directing this movie."
     }
+  ],
+  "recommendations": [
+    "mindhunters",
+    "skyscraper",
+    "avengers_age_of_ultron",
+    "escape_plan",
+    "rocknrolla",
+    "riddick",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "ant_man_and_the_wasp_quantumania",
+    "the_equalizer_2",
+    "triple_frontier",
+    "kingsman_the_golden_circle",
+    "hancock",
+    "the_bank_job",
+    "maze_runner_the_scorch_trials",
+    "the_last_witch_hunter",
+    "the_magnificent_seven",
+    "the_a_team",
+    "the_purge_election_year",
+    "american_ultra",
+    "cold_pursuit",
+    "what_happened_to_monday",
+    "the_equalizer",
+    "london_has_fallen",
+    "poseidon",
+    "wrath_of_man"
   ]
 }

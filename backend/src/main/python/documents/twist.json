@@ -30,5 +30,32 @@
       "rating": "9",
       "text": "Subtle, gritty with excellent acting. I liked the low key but honest emotional story. Not Hollywood style - much better. Extraordinary considering the age of the writer/director."
     }
+  ],
+  "recommendations": [
+    "the_last_of_the_mohicans",
+    "the_french_dispatch",
+    "to_kill_a_mockingbird",
+    "gattaca",
+    "the_sting",
+    "once_upon_a_time_in_america",
+    "the_great_gatsby",
+    "the_grand_budapest_hotel",
+    "kingdom_of_heaven",
+    "the_electrical_life_of_louis_wain",
+    "amores_perros",
+    "the_professor_and_the_madman",
+    "boogie",
+    "chinatown",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "old_henry",
+    "big_eyes",
+    "catch_me_if_you_can",
+    "motherless_brooklyn",
+    "tolkien",
+    "amadeus",
+    "the_aviator",
+    "nocturnal_animals",
+    "youth",
+    "casino"
   ]
 }

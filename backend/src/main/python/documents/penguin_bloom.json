@@ -40,5 +40,32 @@
       "rating": "10",
       "text": "The best. Ella es impresionante, la m\u00fasica es un boom y la actuaci\u00f3n lo mejor."
     }
+  ],
+  "recommendations": [
+    "the_imitation_game",
+    "gone_with_the_wind",
+    "the_pianist",
+    "denial",
+    "a_united_kingdom",
+    "official_secrets",
+    "the_white_tiger",
+    "green_book",
+    "diego_maradona",
+    "empire_of_the_sun",
+    "minari",
+    "hidden_figures",
+    "american_pastoral",
+    "12_years_a_slave",
+    "belfast",
+    "just_mercy",
+    "snowden",
+    "nomadland",
+    "darkest_hour",
+    "bombshell",
+    "agora",
+    "gattaca",
+    "mainstream",
+    "spotlight",
+    "the_last_samurai"
   ]
 }

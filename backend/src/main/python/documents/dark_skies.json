@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "The cast is very good and they give a great performance. A much better movie than the reviews would suggest. I think this movie goes into an area that these types of movies rarely do. Very similar to modern horror stories that focus on the victims and their struggles."
     }
+  ],
+  "recommendations": [
+    "insidious_chapter_2",
+    "chernobyl_diaries",
+    "devil",
+    "the_possession",
+    "insidious",
+    "dead_silence",
+    "sinister_2",
+    "annabelle",
+    "malignant",
+    "countdown",
+    "happy_death_day_2u",
+    "the_curse_of_la_llorona",
+    "the_boy",
+    "the_strangers_prey_at_night",
+    "the_haunting_in_connecticut",
+    "you_should_have_left",
+    "insidious_chapter_3",
+    "the_descent",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_conjuring_the_devil_made_me_do_it",
+    "vacancy",
+    "pandorum",
+    "the_grudge",
+    "the_mist",
+    "shut_in"
   ]
 }

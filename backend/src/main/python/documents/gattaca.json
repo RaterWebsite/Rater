@@ -203,5 +203,32 @@
       "rating": "9",
       "text": "----------------------------------9.3/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "amores_perros",
+    "upside_down",
+    "life_of_pi",
+    "eternals",
+    "conan_the_barbarian",
+    "the_martian",
+    "the_last_of_the_mohicans",
+    "tolkien",
+    "blade_runner",
+    "the_name_of_the_rose",
+    "ex_machina",
+    "kingdom_of_heaven",
+    "moon",
+    "victor_frankenstein",
+    "close_encounters_of_the_third_kind",
+    "bicentennial_man",
+    "the_french_dispatch",
+    "chinatown",
+    "the_matrix",
+    "the_great_gatsby",
+    "the_social_network",
+    "gladiator",
+    "the_count_of_monte_cristo",
+    "nocturnal_animals",
+    "the_grand_budapest_hotel"
   ]
 }

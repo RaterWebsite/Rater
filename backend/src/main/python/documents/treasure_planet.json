@@ -216,5 +216,32 @@
       "rating": "10",
       "text": "Wonderful. So much underrated and too much overhated.Great soundtracks and awesome characters."
     }
+  ],
+  "recommendations": [
+    "atlantis_the_lost_empire",
+    "anastasia",
+    "the_lion_king",
+    "the_princess_and_the_frog",
+    "klaus",
+    "the_prince_of_egypt",
+    "how_to_train_your_dragon",
+    "dumbo",
+    "who_framed_roger_rabbit",
+    "my_little_pony_the_movie",
+    "smurfs_the_lost_village",
+    "moana",
+    "aladdin",
+    "home_on_the_range",
+    "toy_story",
+    "zootopia",
+    "spider_man_into_the_spider_verse",
+    "wolfwalkers",
+    "tangled",
+    "rio",
+    "how_to_train_your_dragon_2",
+    "the_sword_in_the_stone",
+    "rio_2",
+    "over_the_moon",
+    "big_hero_6"
   ]
 }

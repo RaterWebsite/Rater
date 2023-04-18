@@ -224,5 +224,32 @@
       "rating": "7",
       "text": "You'll be getting stoned....TODAY!!!!! Classic."
     }
+  ],
+  "recommendations": [
+    "nacho_libre",
+    "hot_tub_time_machine",
+    "the_dictator",
+    "a_haunted_house",
+    "dumb_and_dumber_to",
+    "meet_the_spartans",
+    "movie_43",
+    "dinner_for_schmucks",
+    "tropic_thunder",
+    "the_hangover",
+    "the_watch",
+    "this_is_the_end",
+    "white_chicks",
+    "deuce_bigalow_european_gigolo",
+    "30_minutes_or_less",
+    "anchorman_2_the_legend_continues",
+    "grown_ups",
+    "kangaroo_jack",
+    "miss_march",
+    "the_three_stooges",
+    "scary_movie_4",
+    "dumb_and_dumber",
+    "scary_movie_5",
+    "wild_hogs",
+    "jackass_presents_bad_grandpa"
   ]
 }

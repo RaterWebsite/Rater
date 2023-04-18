@@ -51,5 +51,32 @@
       "rating": "10",
       "text": "There's damn few movies that I can watch more than once. This is one. You actually can identify with the characters, more than one of the characters. (Considering that there are really only four main characters, 2 male and 2 female, you are really surprised when you identify with both characters of your gender)."
     }
+  ],
+  "recommendations": [
+    "the_best_exotic_marigold_hotel",
+    "the_intern",
+    "a_simple_favor",
+    "silver_linings_playbook",
+    "notting_hill",
+    "the_age_of_adaline",
+    "young_adult",
+    "while_you_were_sleeping",
+    "locked_down",
+    "charm_city_kings",
+    "a_hologram_for_the_king",
+    "the_longest_ride",
+    "five_feet_apart",
+    "cast_away",
+    "sleepless_in_seattle",
+    "only_the_brave",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "beirut",
+    "the_terminal",
+    "the_descendants",
+    "me_before_you",
+    "love_actually",
+    "the_second_best_exotic_marigold_hotel",
+    "crazy_rich_asians",
+    "burnt"
   ]
 }

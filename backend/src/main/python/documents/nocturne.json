@@ -51,5 +51,32 @@
       "rating": "0",
       "text": "This movie is bad. It's really bad. Was it supposed to be a joke? Is there a punchline I'm missing? Because this movie is atrocious."
     }
+  ],
+  "recommendations": [
+    "darkness_falls",
+    "the_woman_in_black_2_angel_of_death",
+    "mama",
+    "wish_upon",
+    "escape_room",
+    "the_house_with_a_clock_in_its_walls",
+    "1408",
+    "case_39",
+    "the_autopsy_of_jane_doe",
+    "blair_witch",
+    "the_haunting_in_connecticut",
+    "ouija_origin_of_evil",
+    "the_forest",
+    "carrie",
+    "the_curse_of_la_llorona",
+    "escape_room_tournament_of_champions",
+    "the_boy",
+    "the_strangers_prey_at_night",
+    "happy_death_day",
+    "stay_alive",
+    "paranormal_activity_the_marked_ones",
+    "you_should_have_left",
+    "annabelle_comes_home",
+    "the_last_house_on_the_left",
+    "brightburn"
   ]
 }

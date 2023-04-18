@@ -74,5 +74,32 @@
       "rating": "10",
       "text": "Es una pel\u00edcula de la cual ten\u00eda altas expectativas, si bien no me logr\u00f3 llegar un 100%, es muy buena, tengo que admitirlo"
     }
+  ],
+  "recommendations": [
+    "silver_linings_playbook",
+    "the_intern",
+    "blue_jasmine",
+    "marriage_story",
+    "sleepless_in_seattle",
+    "blue_valentine",
+    "the_descendants",
+    "up_in_the_air",
+    "closer",
+    "leaving_las_vegas",
+    "promising_young_woman",
+    "gone_baby_gone",
+    "five_feet_apart",
+    "as_good_as_it_gets",
+    "a_simple_favor",
+    "manchester_by_the_sea",
+    "little_miss_sunshine",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "the_big_sick",
+    "me_before_you",
+    "cruel_intentions",
+    "cast_away",
+    "stillwater",
+    "the_perks_of_being_a_wallflower",
+    "burnt"
   ]
 }

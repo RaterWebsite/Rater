@@ -94,5 +94,32 @@
       "rating": "9",
       "text": "brilliant story,beautiful ending,interesting script and good performances from the actors"
     }
+  ],
+  "recommendations": [
+    "the_curious_case_of_benjamin_button",
+    "there_will_be_blood",
+    "magnolia",
+    "the_king_of_staten_island",
+    "greenberg",
+    "snow_white_and_the_huntsman",
+    "seven_pounds",
+    "revolutionary_road",
+    "the_irishman",
+    "mystic_river",
+    "black_snake_moan",
+    "her",
+    "the_gambler",
+    "hereafter",
+    "the_illusionist",
+    "black_panther_wakanda_forever",
+    "the_fault_in_our_stars",
+    "inherent_vice",
+    "the_lucky_one",
+    "destination_wedding",
+    "the_prestige",
+    "hustlers",
+    "the_power_of_the_dog",
+    "captain_marvel",
+    "changeling"
   ]
 }

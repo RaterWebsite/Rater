@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Quite possibly the creepiest, most well written movie ever. There are so many creepy moments and Jack Nicholson was an amazing actor few actors could top his performance in this."
     }
+  ],
+  "recommendations": [
+    "the_babadook",
+    "the_conjuring_2",
+    "jaws",
+    "the_conjuring",
+    "the_black_phone",
+    "the_sixth_sense",
+    "candyman",
+    "hellraiser",
+    "it_follows",
+    "the_guest",
+    "doctor_sleep",
+    "the_evil_dead",
+    "the_cabin_in_the_woods",
+    "evil_dead_ii",
+    "it",
+    "the_witch",
+    "the_fly",
+    "the_conjuring_the_devil_made_me_do_it",
+    "insidious_chapter_3",
+    "from_dusk_till_dawn",
+    "scream",
+    "the_woman_in_black",
+    "the_others",
+    "django_unchained",
+    "sleepy_hollow"
   ]
 }

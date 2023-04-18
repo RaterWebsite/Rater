@@ -113,5 +113,32 @@
       "rating": "10",
       "text": "007 made by Alfred Hitchcock if he ever made one. A thrilling ride that keeps you on the edge until the final."
     }
+  ],
+  "recommendations": [
+    "rear_window",
+    "chinatown",
+    "butch_cassidy_and_the_sundance_kid",
+    "motherless_brooklyn",
+    "insomnia",
+    "casino",
+    "the_untouchables",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_grand_budapest_hotel",
+    "the_sting",
+    "true_romance",
+    "the_score",
+    "catch_me_if_you_can",
+    "spy_game",
+    "nocturnal_animals",
+    "charade",
+    "heat",
+    "the_hunt_for_red_october",
+    "the_fugitive",
+    "jackie_brown",
+    "last_night_in_soho",
+    "conspiracy_theory",
+    "django_unchained",
+    "unforgiven",
+    "hell_or_high_water"
   ]
 }

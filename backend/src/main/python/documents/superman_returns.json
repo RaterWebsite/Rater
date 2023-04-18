@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "N\u00e3o sou contra esse filme por\u00e9m n\u00e3o  grande coisa"
     }
+  ],
+  "recommendations": [
+    "man_of_steel",
+    "thor",
+    "superman",
+    "batman_v_superman_dawn_of_justice",
+    "terminator_3_rise_of_the_machines",
+    "justice_league",
+    "hulk",
+    "x_men_apocalypse",
+    "rise_of_the_planet_of_the_apes",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_dark_knight_rises",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "terminator_genisys",
+    "superman_ii",
+    "bumblebee",
+    "thor_ragnarok",
+    "captain_america_the_first_avenger",
+    "avengers_age_of_ultron",
+    "the_karate_kid_part_iii",
+    "elektra",
+    "thor_the_dark_world",
+    "spider_man_3",
+    "spider_man_no_way_home",
+    "the_amazing_spider_man",
+    "x_men_days_of_future_past"
   ]
 }

@@ -124,5 +124,32 @@
       "rating": "10",
       "text": "This movie was amazing!   Discovered on Netflix, loved the universe!!   Wish they made it a tv series, so there could be more stories explored."
     }
+  ],
+  "recommendations": [
+    "limitless",
+    "contagion",
+    "elysium",
+    "what_happened_to_monday",
+    "the_tomorrow_war",
+    "repo_men",
+    "eo",
+    "x_men_apocalypse",
+    "the_darkest_minds",
+    "in_time",
+    "the_purge_election_year",
+    "jumper",
+    "the_new_mutants",
+    "infinite",
+    "shadow_in_the_cloud",
+    "sanctum",
+    "lucy",
+    "project_power",
+    "after_earth",
+    "colossal",
+    "chaos_walking",
+    "brimstone",
+    "the_adjustment_bureau",
+    "surrogates",
+    "pompeii"
   ]
 }

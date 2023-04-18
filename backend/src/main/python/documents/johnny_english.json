@@ -102,5 +102,32 @@
       "rating": "9",
       "text": "It is an entertaining movie. The jokes are good. The cinematography is great the music is great."
     }
+  ],
+  "recommendations": [
+    "johnny_english_reborn",
+    "ace_ventura_when_nature_calls",
+    "get_smart",
+    "meet_the_parents",
+    "dumb_and_dumber",
+    "the_wedding_ringer",
+    "step_brothers",
+    "bean",
+    "zoolander",
+    "dodgeball_a_true_underdog_story",
+    "the_longest_yard",
+    "masterminds",
+    "get_hard",
+    "role_models",
+    "american_wedding",
+    "the_dictator",
+    "the_watch",
+    "ted",
+    "forgetting_sarah_marshall",
+    "scary_movie_3",
+    "old_school",
+    "30_minutes_or_less",
+    "zack_and_miri_make_a_porno",
+    "hot_fuzz",
+    "dinner_for_schmucks"
   ]
 }

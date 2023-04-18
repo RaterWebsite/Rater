@@ -73,5 +73,32 @@
       "rating": "4",
       "text": ""
     }
+  ],
+  "recommendations": [
+    "free_birds",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "planet_51",
+    "hotel_transylvania_3_summer_vacation",
+    "the_lego_movie",
+    "escape_from_planet_earth",
+    "minions",
+    "the_lego_ninjago_movie",
+    "tmnt",
+    "flushed_away",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_spongebob_movie_sponge_out_of_water",
+    "the_smurfs",
+    "hotel_transylvania_2",
+    "the_boss_baby_family_business",
+    "storks",
+    "the_lego_movie_2_the_second_part",
+    "turbo",
+    "peter_rabbit",
+    "paranorman",
+    "teen_titans_go_to_the_movies",
+    "the_croods",
+    "meet_the_robinsons",
+    "hotel_transylvania",
+    "despicable_me_2"
   ]
 }

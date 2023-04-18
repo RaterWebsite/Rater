@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "Muy buena pel\u00edcula, pero no tiene lo suficiente para estar dentro de mis mejores, ni menos para ser la mejor seg\u00fan un popular data base (imdb).  En uan sola palabra  BUENA."
     }
+  ],
+  "recommendations": [
+    "joker",
+    "my_name_is_khan",
+    "ben_hur",
+    "the_green_mile",
+    "eternals",
+    "cinderella_man",
+    "revolutionary_road",
+    "bohemian_rhapsody",
+    "perfume_the_story_of_a_murderer",
+    "scarface",
+    "magnolia",
+    "the_social_network",
+    "braveheart",
+    "black_panther_wakanda_forever",
+    "a_beautiful_mind",
+    "eternal_sunshine_of_the_spotless_mind",
+    "cloud_atlas",
+    "mystic_river",
+    "changeling",
+    "goodfellas",
+    "million_dollar_baby",
+    "titanic",
+    "alexander",
+    "the_godfather",
+    "casablanca"
   ]
 }

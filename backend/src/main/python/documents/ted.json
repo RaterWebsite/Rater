@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Mark Wahlberg, Mila Kunis and Seth Mcfarlane, great combination    ."
     }
+  ],
+  "recommendations": [
+    "step_brothers",
+    "grown_ups",
+    "ted_2",
+    "jackass_presents_bad_grandpa",
+    "neighbors",
+    "knocked_up",
+    "the_hangover",
+    "dinner_for_schmucks",
+    "hot_tub_time_machine",
+    "old_school",
+    "this_is_the_end",
+    "yes_man",
+    "neighbors_2_sorority_rising",
+    "superbad",
+    "masterminds",
+    "night_at_the_museum",
+    "jexi",
+    "the_change_up",
+    "a_million_ways_to_die_in_the_west",
+    "good_luck_chuck",
+    "zoolander",
+    "dodgeball_a_true_underdog_story",
+    "the_dictator",
+    "little_fockers",
+    "30_minutes_or_less"
   ]
 }

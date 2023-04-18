@@ -200,5 +200,32 @@
       "rating": "6",
       "text": "Allied is an at times gripping WWII thriller, quite beautifully shot and ably acted even despite the faults in the script and plot. It is therefore a good agent movie, but not a very good one."
     }
+  ],
+  "recommendations": [
+    "the_beguiled",
+    "beirut",
+    "the_last_duel",
+    "no_country_for_old_men",
+    "the_aftermath",
+    "sicario_day_of_the_soldado",
+    "anthropoid",
+    "hostiles",
+    "wind_river",
+    "valkyrie",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "child_44",
+    "the_good_shepherd",
+    "the_eagle",
+    "widows",
+    "prisoners",
+    "a_most_violent_year",
+    "everest",
+    "flight",
+    "hereafter",
+    "patriots_day",
+    "the_rover",
+    "the_experiment",
+    "jane_got_a_gun",
+    "news_of_the_world"
   ]
 }

@@ -106,5 +106,32 @@
       "rating": "4",
       "text": "Using your phone turns you into a zombie but a group of \"normals\" are walking up North to do...something."
     }
+  ],
+  "recommendations": [
+    "dreamcatcher",
+    "the_mist",
+    "ghost_rider_spirit_of_vengeance",
+    "the_thing",
+    "i_am_legend",
+    "the_day_the_earth_stood_still",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "hellbound_hellraiser_ii",
+    "halloween_iii_season_of_the_witch",
+    "book_of_shadows_blair_witch_2",
+    "eragon",
+    "see_no_evil",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "from_dusk_till_dawn",
+    "the_grudge_2",
+    "world_war_z",
+    "percy_jackson_sea_of_monsters",
+    "the_twilight_saga_eclipse",
+    "army_of_the_dead",
+    "van_helsing",
+    "the_happening",
+    "the_amityville_horror",
+    "jonah_hex",
+    "poltergeist",
+    "suicide_squad"
   ]
 }

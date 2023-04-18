@@ -110,5 +110,32 @@
       "rating": "2",
       "text": "Terrible movie just terrible!Acting, action, camera work, dialogue and storytelling are beyond ****"
     }
+  ],
+  "recommendations": [
+    "the_untouchables",
+    "casino",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "catch_me_if_you_can",
+    "rush",
+    "the_harder_they_fall",
+    "true_grit",
+    "the_last_of_the_mohicans",
+    "lawless",
+    "unforgiven",
+    "hell_or_high_water",
+    "ford_v_ferrari",
+    "django_unchained",
+    "the_grand_budapest_hotel",
+    "rear_window",
+    "chinatown",
+    "north_by_northwest",
+    "legend",
+    "rocky",
+    "notting_hill",
+    "crazy_heart",
+    "the_aviator",
+    "backdraft",
+    "news_of_the_world",
+    "american_hustle"
   ]
 }

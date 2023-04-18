@@ -202,5 +202,32 @@
       "rating": "9",
       "text": "One of 2007's most underrated movies.A fantastic political thriller that builds character  development as a key component to it's suspense.Chris Cooper is fantastic in the lead role."
     }
+  ],
+  "recommendations": [
+    "a_most_wanted_man",
+    "the_infiltrator",
+    "the_accountant",
+    "widows",
+    "the_next_three_days",
+    "inside_man",
+    "all_the_money_in_the_world",
+    "body_of_lies",
+    "knives_out",
+    "good_time",
+    "changeling",
+    "arbitrage",
+    "money_monster",
+    "donnie_brasco",
+    "man_on_fire",
+    "state_of_play",
+    "american_gangster",
+    "the_little_things",
+    "triple_9",
+    "primal_fear",
+    "unstoppable",
+    "prisoners",
+    "zodiac",
+    "lucky_number_slevin",
+    "the_equalizer_2"
   ]
 }

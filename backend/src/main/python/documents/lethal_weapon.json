@@ -120,5 +120,32 @@
       "rating": "7",
       "text": "bel film divertente Mel Gibson e Danny Glover bravissimi come sempre.Richard Donner un maestro"
     }
+  ],
+  "recommendations": [
+    "lethal_weapon_3",
+    "true_lies",
+    "the_rock",
+    "lethal_weapon_4",
+    "killer_elite",
+    "lethal_weapon_2",
+    "tomorrow_never_dies",
+    "bad_boys",
+    "red",
+    "dirty_harry",
+    "demolition_man",
+    "training_day",
+    "black_and_blue",
+    "the_fugitive",
+    "shooter",
+    "gangster_squad",
+    "2_guns",
+    "iron_man",
+    "homefront",
+    "the_man_with_the_golden_gun",
+    "heat",
+    "the_jackal",
+    "mad_max",
+    "from_paris_with_love",
+    "red_2"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "5",
       "text": "A pretty haunting film but also very boring lots of the time. The script seem rushed and seem to miss making a scene a lot more scary then it could have been."
     }
+  ],
+  "recommendations": [
+    "poltergeist",
+    "wrong_turn",
+    "annabelle",
+    "the_thing",
+    "antlers",
+    "the_omen",
+    "clash_of_the_titans",
+    "the_texas_chainsaw_massacre",
+    "jeepers_creepers_3",
+    "i_am_legend",
+    "the_eye",
+    "van_helsing",
+    "the_last_witch_hunter",
+    "malignant",
+    "the_conjuring_the_devil_made_me_do_it",
+    "the_amityville_horror",
+    "underworld",
+    "insidious_chapter_2",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_possession",
+    "the_invasion",
+    "the_grudge_2",
+    "into_the_storm",
+    "underworld_evolution",
+    "it_follows"
   ]
 }

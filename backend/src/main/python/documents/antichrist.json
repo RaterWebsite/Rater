@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "For better or for worse, (probably) there shall never be another film like Antichrist."
     }
+  ],
+  "recommendations": [
+    "titane",
+    "under_the_skin",
+    "a_clockwork_orange",
+    "dogville",
+    "the_killing_of_a_sacred_deer",
+    "eyes_wide_shut",
+    "you_were_never_really_here",
+    "the_green_knight",
+    "mother",
+    "the_fountain",
+    "perfume_the_story_of_a_murderer",
+    "the_neon_demon",
+    "apocalypto",
+    "sleeping_beauty",
+    "a_ghost_story",
+    "the_lobster",
+    "enemy",
+    "the_machinist",
+    "roma",
+    "black_swan",
+    "us",
+    "the_tree_of_life",
+    "the_master",
+    "a_history_of_violence",
+    "babel"
   ]
 }

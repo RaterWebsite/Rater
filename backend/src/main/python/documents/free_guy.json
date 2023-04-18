@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Okay, it's a good and fun movie. You need to get past the part where the developers sold their code to the \"villain\" and then spend the rest of the movie trying to prove that he built his new game off of their AI illegally. It doesn't make sense, but just go with it. otherwise it's a fun movie with a few minor holes here and there, but hey, it's a movie. Just go with it. PS. The love interest at the end is unbelievable and also completely unnecessary but hey, whatever I guess."
     }
+  ],
+  "recommendations": [
+    "jumanji_welcome_to_the_jungle",
+    "sonic_the_hedgehog_2",
+    "shazam",
+    "sonic_the_hedgehog",
+    "the_lego_movie",
+    "minions_the_rise_of_gru",
+    "the_green_hornet",
+    "prince_of_persia_the_sands_of_time",
+    "megamind",
+    "tag",
+    "deadpool_2",
+    "the_a_team",
+    "guardians_of_the_galaxy",
+    "thor_ragnarok",
+    "despicable_me_2",
+    "minions",
+    "jumanji_the_next_level",
+    "love_and_monsters",
+    "incredibles_2",
+    "hancock",
+    "cloudy_with_a_chance_of_meatballs",
+    "tomorrowland",
+    "pixels",
+    "bright",
+    "my_spy"
   ]
 }

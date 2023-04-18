@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "If more movies were as good as the Incredibles Two, the world would be a lot more super."
     }
+  ],
+  "recommendations": [
+    "turbo",
+    "bumblebee",
+    "despicable_me_2",
+    "minions",
+    "hotel_transylvania_2",
+    "the_lego_movie_2_the_second_part",
+    "the_lego_movie",
+    "penguins_of_madagascar",
+    "hotel_transylvania_3_summer_vacation",
+    "ant_man_and_the_wasp_quantumania",
+    "shazam_fury_of_the_gods",
+    "guardians_of_the_galaxy",
+    "the_secret_life_of_pets_2",
+    "avengers_age_of_ultron",
+    "shazam",
+    "the_croods",
+    "terminator_genisys",
+    "kingsman_the_golden_circle",
+    "despicable_me_3",
+    "love_and_monsters",
+    "teenage_mutant_ninja_turtles",
+    "super_8",
+    "tomorrowland",
+    "the_lego_ninjago_movie",
+    "jack_the_giant_slayer"
   ]
 }

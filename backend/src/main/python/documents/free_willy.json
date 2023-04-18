@@ -74,5 +74,32 @@
       "rating": "7",
       "text": "The boy loves the whale. What are friends for? Great movie as a whole. A family movie."
     }
+  ],
+  "recommendations": [
+    "forrest_gump",
+    "togo",
+    "the_princess_bride",
+    "hook",
+    "hannah_montana_the_movie",
+    "rocky_balboa",
+    "spider_man_homecoming",
+    "the_parent_trap",
+    "enchanted",
+    "we_bought_a_zoo",
+    "the_spongebob_squarepants_movie",
+    "happiest_season",
+    "sonic_the_hedgehog",
+    "ghostbusters_afterlife",
+    "a_cinderella_story",
+    "the_amazing_spider_man_2",
+    "warrior",
+    "christopher_robin",
+    "elf",
+    "good_will_hunting",
+    "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+    "edward_scissorhands",
+    "the_amazing_spider_man",
+    "the_family_man",
+    "onward"
   ]
 }

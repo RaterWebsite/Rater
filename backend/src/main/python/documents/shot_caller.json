@@ -94,5 +94,32 @@
       "rating": "9",
       "text": "Great movie. Had never heard of it before I watched. Reminds me a bit of Shawshank - as a witty prison movie. Knew Coster-Waldau from GoT and he did a fantastic job. Could be a tad slow at times but you never feel disconnected. I recommend this movie to anyone who likes a good Drama/Thriller."
     }
+  ],
+  "recommendations": [
+    "no_escape",
+    "the_marksman",
+    "law_abiding_citizen",
+    "contagion",
+    "the_next_three_days",
+    "taken",
+    "promising_young_woman",
+    "savages",
+    "assault_on_wall_street",
+    "no_country_for_old_men",
+    "flight",
+    "cold_pursuit",
+    "prisoners",
+    "live_by_night",
+    "limitless",
+    "snitch",
+    "donnie_brasco",
+    "the_purge_anarchy",
+    "run_hide_fight",
+    "hereafter",
+    "gone_baby_gone",
+    "3_days_to_kill",
+    "the_accountant",
+    "falling_down",
+    "death_wish"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "National Treasure is the ultimate adventure movie. There are lots of hilarious scenes with hilarious dialogue, and the suspenseful ending balances it out. I love the historical connections---History is my best class, I always get an A--- although the facts are somewhat stretched, it turns out to be a great mystery.  Nicholas Cage is brilliant as Ben and Diane Kruger is a great choice for her supporting role, I loved the chemistry between Ben and Abigail!\rAlso whoever wrote the score is a musical genius!"
     }
+  ],
+  "recommendations": [
+    "bright",
+    "john_carter",
+    "the_a_team",
+    "tomorrowland",
+    "edge_of_tomorrow",
+    "minions_the_rise_of_gru",
+    "hancock",
+    "the_mummy",
+    "twelve_monkeys",
+    "the_lego_movie",
+    "prince_of_persia_the_sands_of_time",
+    "guardians_of_the_galaxy",
+    "national_treasure_book_of_secrets",
+    "thor_ragnarok",
+    "serenity",
+    "speed_racer",
+    "journey_to_the_center_of_the_earth",
+    "morbius",
+    "hercules",
+    "i_am_number_four",
+    "eagle_eye",
+    "oblivion",
+    "dredd",
+    "rambo_last_blood",
+    "gods_of_egypt"
   ]
 }

@@ -166,5 +166,32 @@
       "rating": "5",
       "text": "Such a predictable, bland movie.The cast of characters is decent enough, but the story is so weak that this comes acoss as a bunch of ideas thrown around to make this movie without anything pulling it all together."
     }
+  ],
+  "recommendations": [
+    "goosebumps",
+    "monster_house",
+    "it",
+    "nightbooks",
+    "goosebumps_2_haunted_halloween",
+    "ouija_origin_of_evil",
+    "annabelle_comes_home",
+    "the_spiderwick_chronicles",
+    "incredibles_2",
+    "the_kid_who_would_be_king",
+    "hotel_transylvania_2",
+    "krampus",
+    "shazam",
+    "gremlins",
+    "the_babysitter",
+    "nanny_mcphee",
+    "red_riding_hood",
+    "turbo",
+    "mama",
+    "insidious_chapter_3",
+    "the_croods",
+    "brightburn",
+    "bumblebee",
+    "dora_and_the_lost_city_of_gold",
+    "it_chapter_two"
   ]
 }

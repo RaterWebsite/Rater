@@ -227,5 +227,32 @@
       "rating": "3",
       "text": "Just nothing felt right about this movie. The plot felt shallower than a 20 minute SD episode. Forte was a terrible Shaggy, none of the characters felt like they were written by someone that's ever seen an episode. I barely got a smile out of a couple side jokes. Never laughed once. The live action movies were far better. If you need something fast paced to keep the kids entertained I guess it's OK, but it's not Scooby Doo."
     }
+  ],
+  "recommendations": [
+    "scooby_doo",
+    "penguins_of_madagascar",
+    "teen_titans_go_to_the_movies",
+    "ice_age_the_meltdown",
+    "hotel_transylvania_3_summer_vacation",
+    "hotel_transylvania_2",
+    "tmnt",
+    "the_lego_ninjago_movie",
+    "despicable_me_2",
+    "scooby_doo_2_monsters_unleashed",
+    "ghostbusters_ii",
+    "the_angry_birds_movie",
+    "home_on_the_range",
+    "ice_age_collision_course",
+    "the_lego_movie",
+    "minions",
+    "ice_age_continental_drift",
+    "the_lego_movie_2_the_second_part",
+    "the_grinch",
+    "monsters_university",
+    "rio_2",
+    "free_birds",
+    "the_secret_life_of_pets_2",
+    "the_smurfs",
+    "my_little_pony_the_movie"
   ]
 }

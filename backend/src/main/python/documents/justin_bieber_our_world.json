@@ -49,5 +49,32 @@
       "rating": "10",
       "text": "I loooooove this documentary omg that's amazing i'm crying this is the best"
     }
+  ],
+  "recommendations": [
+    "the_bucket_list",
+    "brokeback_mountain",
+    "the_family_man",
+    "hannah_montana_the_movie",
+    "my_life_in_ruins",
+    "flipped",
+    "the_notebook",
+    "a_walk_to_remember",
+    "almost_famous",
+    "forrest_gump",
+    "bridge_to_terabithia",
+    "remember_the_titans",
+    "the_art_of_racing_in_the_rain",
+    "togo",
+    "the_vow",
+    "one_direction_this_is_us",
+    "the_lake_house",
+    "sex_and_the_city",
+    "shrek_the_third",
+    "eternal_sunshine_of_the_spotless_mind",
+    "woodlawn",
+    "soul_surfer",
+    "if_i_stay",
+    "passengers",
+    "ghostbusters_afterlife"
   ]
 }

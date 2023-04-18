@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "This was just a fun, light movie that I really liked watching."
     }
+  ],
+  "recommendations": [
+    "megamind",
+    "minions",
+    "peter_rabbit",
+    "hotel_transylvania",
+    "the_spongebob_movie_sponge_out_of_water",
+    "guardians_of_the_galaxy",
+    "the_lego_movie",
+    "the_nut_job",
+    "wonder_park",
+    "free_birds",
+    "escape_from_planet_earth",
+    "ice_age_dawn_of_the_dinosaurs",
+    "hotel_transylvania_2",
+    "despicable_me_2",
+    "hotel_transylvania_3_summer_vacation",
+    "alvin_and_the_chipmunks",
+    "barnyard",
+    "zombieland_double_tap",
+    "shazam_fury_of_the_gods",
+    "goosebumps",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "planet_51",
+    "transformers_revenge_of_the_fallen",
+    "yogi_bear",
+    "dolittle"
   ]
 }

@@ -229,5 +229,32 @@
       "rating": "8",
       "text": "It really should have been the finally, the movie climaxed everything. Spongebob and Patrick are great characters that can do great things and I really want to be a Goofy Goober."
     }
+  ],
+  "recommendations": [
+    "puss_in_boots_the_last_wish",
+    "the_spongebob_movie_sponge_out_of_water",
+    "sonic_the_hedgehog",
+    "peter_rabbit",
+    "megamind",
+    "minions_the_rise_of_gru",
+    "despicable_me_2",
+    "over_the_hedge",
+    "sonic_the_hedgehog_2",
+    "teen_titans_go_to_the_movies",
+    "captain_underpants_the_first_epic_movie",
+    "ice_age_the_meltdown",
+    "the_big_lebowski",
+    "the_lego_movie",
+    "hotel_transylvania_2",
+    "shazam",
+    "the_princess_bride",
+    "bedtime_stories",
+    "alvin_and_the_chipmunks",
+    "barnyard",
+    "ghostbusters_afterlife",
+    "shaun_the_sheep_movie",
+    "paddington",
+    "hotel_transylvania",
+    "ice_age_dawn_of_the_dinosaurs"
   ]
 }

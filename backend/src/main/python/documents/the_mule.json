@@ -30,5 +30,32 @@
       "rating": "6",
       "text": "You know this is a typical Clint Eastwood movie, with a lot of human drama. What I didn't understand was, that the DEA had such an effort only to catch the driver (?!). This doesnt' make sense in any way if you catch only a 90 years old driver instead of the whole cartel. wtf"
     }
+  ],
+  "recommendations": [
+    "cry_macho",
+    "in_a_valley_of_violence",
+    "from_paris_with_love",
+    "once_upon_a_time_in_venice",
+    "colombiana",
+    "the_november_man",
+    "the_last_stand",
+    "cars_2",
+    "need_for_speed",
+    "the_rhythm_section",
+    "skyfall",
+    "the_marksman",
+    "king_of_thieves",
+    "dirty_harry",
+    "unhinged",
+    "cars_3",
+    "olympus_has_fallen",
+    "cellular",
+    "white_house_down",
+    "death_wish",
+    "falling_down",
+    "escape_plan",
+    "the_punisher",
+    "no_escape",
+    "3_days_to_kill"
   ]
 }

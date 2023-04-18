@@ -92,5 +92,32 @@
       "rating": "7",
       "text": "This was a fun and inoffensive feel-good flick. Herbie's antics were never boring or annoying, and Lindsay Lohan in 2005 was beautiful."
     }
+  ],
+  "recommendations": [
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "alvin_and_the_chipmunks",
+    "spy_kids_all_the_time_in_the_world",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_smurfs",
+    "yogi_bear",
+    "chicken_little",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "marmaduke",
+    "the_croods_a_new_age",
+    "garfield_a_tail_of_two_kitties",
+    "the_karate_kid",
+    "the_game_plan",
+    "tmnt",
+    "hannah_montana_the_movie",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "bedtime_stories",
+    "the_duff",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "minions_the_rise_of_gru",
+    "hotel_transylvania",
+    "uglydolls",
+    "minions",
+    "diary_of_a_wimpy_kid_dog_days",
+    "ice_age_the_meltdown"
   ]
 }

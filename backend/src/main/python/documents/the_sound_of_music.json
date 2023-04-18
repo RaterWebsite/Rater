@@ -75,5 +75,32 @@
       "rating": "10",
       "text": "This movie is just as good as Marry Poppins it\u2019s one of the best musical movie I\u2019ve ever seen"
     }
+  ],
+  "recommendations": [
+    "bohemian_rhapsody",
+    "in_the_heights",
+    "the_greatest_showman",
+    "chicago",
+    "begin_again",
+    "amadeus",
+    "la_la_land",
+    "moulin_rouge",
+    "annette",
+    "jingle_jangle_a_christmas_journey",
+    "rocketman",
+    "yesterday",
+    "casablanca",
+    "the_great_gatsby",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "marie_antoinette",
+    "a_star_is_born",
+    "almost_famous",
+    "cats",
+    "whiplash",
+    "youth",
+    "mamma_mia_here_we_go_again",
+    "over_the_moon",
+    "music",
+    "spirit_stallion_of_the_cimarron"
   ]
 }

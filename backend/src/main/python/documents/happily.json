@@ -34,5 +34,32 @@
       "rating": "5",
       "text": "Weird movie, not sure if not rating it too high, but it was exciting at first and unpredictable. Ending was a bit dumb tho and not satisfying."
     }
+  ],
+  "recommendations": [
+    "life_after_beth",
+    "the_wolf_of_snow_hollow",
+    "keeping_up_with_the_joneses",
+    "ready_or_not",
+    "american_ultra",
+    "wrath_of_man",
+    "hot_fuzz",
+    "rocknrolla",
+    "zombieland_double_tap",
+    "final_destination",
+    "the_guest",
+    "den_of_thieves",
+    "the_five_year_engagement",
+    "in_bruges",
+    "summer_of_84",
+    "jackie_brown",
+    "fear_of_rain",
+    "pitch_perfect_3",
+    "copshop",
+    "sleepless",
+    "anna_and_the_apocalypse",
+    "disturbia",
+    "kingsman_the_secret_service",
+    "pitch_perfect_2",
+    "the_bank_job"
   ]
 }

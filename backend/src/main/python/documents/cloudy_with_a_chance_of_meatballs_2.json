@@ -202,5 +202,32 @@
       "rating": "6",
       "text": "Flint Lockwood now works at The Live Corp Company for his idol Chester V. But he's forced to leave his post when he learns that his most infamous machine is still operational, and is churning out menacing food-animal hybrids. (6)"
     }
+  ],
+  "recommendations": [
+    "the_lego_movie",
+    "cloudy_with_a_chance_of_meatballs",
+    "turbo",
+    "free_birds",
+    "hotel_transylvania",
+    "the_angry_birds_movie",
+    "hotel_transylvania_2",
+    "the_croods",
+    "shaun_the_sheep_movie",
+    "penguins_of_madagascar",
+    "escape_from_planet_earth",
+    "storks",
+    "meet_the_robinsons",
+    "planet_51",
+    "hotel_transylvania_3_summer_vacation",
+    "antz",
+    "ice_age_the_meltdown",
+    "the_smurfs",
+    "smurfs_the_lost_village",
+    "the_angry_birds_movie_2",
+    "incredibles_2",
+    "the_lego_movie_2_the_second_part",
+    "ralph_breaks_the_internet",
+    "rio_2",
+    "minions"
   ]
 }

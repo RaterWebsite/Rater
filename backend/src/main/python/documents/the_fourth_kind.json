@@ -126,5 +126,32 @@
       "rating": "2",
       "text": "The technical aspects were brilliant. Creatively some bits are very creepy but it is very fake and unengaging."
     }
+  ],
+  "recommendations": [
+    "the_blair_witch_project",
+    "the_pyramid",
+    "chernobyl_diaries",
+    "monsters",
+    "exorcist_the_beginning",
+    "event_horizon",
+    "the_medium",
+    "gamer",
+    "sunshine",
+    "they_live",
+    "sanctum",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "host",
+    "world_war_z",
+    "pandorum",
+    "all_eyez_on_me",
+    "paranormal_activity_the_ghost_dimension",
+    "unfriended_dark_web",
+    "apocalypto",
+    "the_cloverfield_paradox",
+    "the_matrix_resurrections",
+    "color_out_of_space",
+    "annihilation",
+    "the_conjuring_the_devil_made_me_do_it",
+    "a_quiet_place"
   ]
 }

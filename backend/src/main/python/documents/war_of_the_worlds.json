@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "I think it's not such a good movie, and it should be nominee to the razzies."
     }
+  ],
+  "recommendations": [
+    "skyline",
+    "jurassic_world_fallen_kingdom",
+    "the_tomorrow_war",
+    "geostorm",
+    "2012",
+    "transformers_age_of_extinction",
+    "the_darkest_hour",
+    "transformers_the_last_knight",
+    "knowing",
+    "battleship",
+    "the_predator",
+    "jurassic_world_dominion",
+    "sanctum",
+    "into_the_storm",
+    "legion",
+    "underworld_blood_wars",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "independence_day_resurgence",
+    "teenage_mutant_ninja_turtles",
+    "volcano",
+    "prometheus",
+    "district_9",
+    "shadow_in_the_cloud",
+    "pandorum",
+    "the_new_mutants"
   ]
 }

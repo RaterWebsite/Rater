@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "I can't believe no one understands this movie. The critics scored it high for a reason; this movie needs to be taken seriously for anyone to see the intelligence behind all the slap-stick humor."
     }
+  ],
+  "recommendations": [
+    "drag_me_to_hell",
+    "chernobyl_diaries",
+    "malignant",
+    "the_pyramid",
+    "splice",
+    "2012",
+    "ouija",
+    "countdown",
+    "cabin_fever",
+    "the_messengers",
+    "pandorum",
+    "the_bye_bye_man",
+    "the_curse_of_la_llorona",
+    "bird_box",
+    "hereditary",
+    "the_mist",
+    "midsommar",
+    "unfriended",
+    "the_devil_inside",
+    "slender_man",
+    "piranha_3dd",
+    "transformers_revenge_of_the_fallen",
+    "insidious",
+    "geostorm",
+    "the_darkest_hour"
   ]
 }

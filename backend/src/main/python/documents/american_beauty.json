@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "This movie is incredible. It will change your life in an undescribable way. Everything from the opening sequence to the last 5 minutes will leave you in awe."
     }
+  ],
+  "recommendations": [
+    "carol",
+    "belfast",
+    "spencer",
+    "the_danish_girl",
+    "minari",
+    "legends_of_the_fall",
+    "jackie",
+    "call_me_by_your_name",
+    "nomadland",
+    "20th_century_women",
+    "melancholia",
+    "phantom_thread",
+    "the_father",
+    "dances_with_wolves",
+    "finding_neverland",
+    "the_light_between_oceans",
+    "hidden_figures",
+    "joy",
+    "green_book",
+    "youth",
+    "marriage_story",
+    "the_bridges_of_madison_county",
+    "12_years_a_slave",
+    "the_last_king_of_scotland",
+    "blue_valentine"
   ]
 }

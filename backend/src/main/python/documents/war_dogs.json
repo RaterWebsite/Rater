@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A+ *************************************************************************"
     }
+  ],
+  "recommendations": [
+    "ant_man_and_the_wasp_quantumania",
+    "three_kings",
+    "no_country_for_old_men",
+    "the_men_who_stare_at_goats",
+    "colossal",
+    "american_ultra",
+    "savages",
+    "cold_pursuit",
+    "the_accountant",
+    "the_family",
+    "lucky_number_slevin",
+    "thor_ragnarok",
+    "free_fire",
+    "avengers_infinity_war",
+    "the_big_short",
+    "tag",
+    "the_gentlemen",
+    "limitless",
+    "kingsman_the_golden_circle",
+    "bumblebee",
+    "downsizing",
+    "the_king_of_staten_island",
+    "burn_after_reading",
+    "the_equalizer_2",
+    "inherent_vice"
   ]
 }

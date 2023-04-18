@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "such an amazing movie! i enjoyed it. It's Ridley Scott's best effort in many years"
     }
+  ],
+  "recommendations": [
+    "allied",
+    "the_good_shepherd",
+    "hostiles",
+    "the_monuments_men",
+    "the_last_king_of_scotland",
+    "the_experiment",
+    "nocturnal_animals",
+    "the_book_thief",
+    "valkyrie",
+    "no_country_for_old_men",
+    "alexander",
+    "the_eagle",
+    "hereafter",
+    "first_man",
+    "the_1517_to_paris",
+    "legends_of_the_fall",
+    "12_angry_men",
+    "hidden_figures",
+    "spotlight",
+    "darkest_hour",
+    "patriots_day",
+    "hacksaw_ridge",
+    "only_the_brave",
+    "child_44",
+    "the_reader"
   ]
 }

@@ -55,5 +55,32 @@
       "rating": "10",
       "text": "dope movie after this one the rock in the others sucks  I only like this one"
     }
+  ],
+  "recommendations": [
+    "no_escape",
+    "unhinged",
+    "those_who_wish_me_dead",
+    "savages",
+    "snitch",
+    "colombiana",
+    "the_last_stand",
+    "3_days_to_kill",
+    "the_town",
+    "free_fire",
+    "taken",
+    "knock_at_the_cabin",
+    "cellular",
+    "the_marksman",
+    "falling_down",
+    "machete",
+    "wild_card",
+    "magic_mikes_last_dance",
+    "honest_thief",
+    "white_house_down",
+    "cold_pursuit",
+    "live_by_night",
+    "guns_akimbo",
+    "siberia",
+    "from_paris_with_love"
   ]
 }

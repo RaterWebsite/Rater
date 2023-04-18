@@ -84,5 +84,32 @@
       "rating": "8",
       "text": "Great movie! Too many informations to connect in the plot. Though, the ending could be better."
     }
+  ],
+  "recommendations": [
+    "man_on_a_ledge",
+    "gone_girl",
+    "a_perfect_getaway",
+    "perfect_stranger",
+    "now_you_see_me",
+    "awake",
+    "21",
+    "shut_in",
+    "house_at_the_end_of_the_street",
+    "next",
+    "lucky_number_slevin",
+    "the_number_23",
+    "limitless",
+    "the_good_liar",
+    "split",
+    "till_death",
+    "old",
+    "the_old_guard",
+    "shutter_island",
+    "what_happened_to_monday",
+    "seven_pounds",
+    "hancock",
+    "broken_city",
+    "code_8",
+    "jumper"
   ]
 }

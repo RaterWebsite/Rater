@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I liked this movie very much. The critics, again, are wrong. It reminds me of a mix of Avatar, The Fith Element and Guardians of the Galaxy. Absolutely worth it, a Must See."
     }
+  ],
+  "recommendations": [
+    "jupiter_ascending",
+    "oblivion",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "serenity",
+    "mortal_engines",
+    "blade_of_the_47_ronin",
+    "avengers_age_of_ultron",
+    "independence_day_resurgence",
+    "the_three_musketeers",
+    "pacific_rim_uprising",
+    "clash_of_the_titans",
+    "project_power",
+    "9",
+    "the_last_witch_hunter",
+    "moon",
+    "rise_of_the_planet_of_the_apes",
+    "blade_runner_2049",
+    "poseidon",
+    "guardians_of_the_galaxy",
+    "gravity",
+    "chaos_walking",
+    "thor_the_dark_world",
+    "color_out_of_space",
+    "captive_state",
+    "what_happened_to_monday"
   ]
 }

@@ -59,5 +59,32 @@
       "rating": "8",
       "text": "Change Of HeartAfter a bit of looking back, I now think that Return To Neverland is pretty good."
     }
+  ],
+  "recommendations": [
+    "rio_2",
+    "dumbo",
+    "hotel_transylvania_3_summer_vacation",
+    "the_secret_life_of_pets_2",
+    "frozen_ii",
+    "mowgli_legend_of_the_jungle",
+    "batman_the_killing_joke",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "maleficent_mistress_of_evil",
+    "percy_jackson_sea_of_monsters",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "scoob",
+    "monsters_university",
+    "smurfs_the_lost_village",
+    "incredibles_2",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "happy_feet_two",
+    "the_lego_movie_2_the_second_part",
+    "toy_story_4",
+    "the_tale_of_despereaux",
+    "corpse_bride",
+    "ghostbusters_ii",
+    "meet_the_robinsons",
+    "bumblebee",
+    "the_witcher_nightmare_of_the_wolf"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "Although some of the writing in this is way off, the cast is good and the story is is quite charming."
     }
+  ],
+  "recommendations": [
+    "argo",
+    "valkyrie",
+    "master_and_commander_the_far_side_of_the_world",
+    "samson",
+    "the_big_short",
+    "patriots_day",
+    "the_last_duel",
+    "the_social_network",
+    "darkest_hour",
+    "the_martian",
+    "the_1517_to_paris",
+    "snowden",
+    "the_good_shepherd",
+    "zero_dark_thirty",
+    "the_eagle",
+    "the_sum_of_all_fears",
+    "body_of_lies",
+    "green_zone",
+    "deepwater_horizon",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "suburbicon",
+    "sicario_day_of_the_soldado",
+    "the_american",
+    "chaos_walking",
+    "a_most_violent_year"
   ]
 }

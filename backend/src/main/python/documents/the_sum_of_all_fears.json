@@ -58,5 +58,32 @@
       "rating": "4",
       "text": "A cheesy action movie that falls pretty flat and isn't helped by the horribly miscast Affleck as Jack Ryan."
     }
+  ],
+  "recommendations": [
+    "sicario_day_of_the_soldado",
+    "beirut",
+    "valkyrie",
+    "body_of_lies",
+    "the_equalizer_2",
+    "elysium",
+    "the_monuments_men",
+    "outbreak",
+    "deepwater_horizon",
+    "minority_report",
+    "a_most_wanted_man",
+    "the_accountant",
+    "master_and_commander_the_far_side_of_the_world",
+    "the_martian",
+    "mark_felt_the_man_who_brought_down_the_white_house",
+    "hunter_killer",
+    "closed_circuit",
+    "argo",
+    "morgan",
+    "survivor",
+    "greyhound",
+    "broken_city",
+    "blackhat",
+    "lord_of_war",
+    "the_gunman"
   ]
 }

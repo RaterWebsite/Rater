@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "It was amazing to see what they did to Harry's character. He went from being Peter's best friend to mortal enemy. I can't blame him though cause what do you expect would happen if you found out your best friend was the one who killed your father?"
     }
+  ],
+  "recommendations": [
+    "spider_man_into_the_spider_verse",
+    "man_of_steel",
+    "the_amazing_spider_man",
+    "spider_man_far_from_home",
+    "x_men_days_of_future_past",
+    "spider_man_homecoming",
+    "spider_man",
+    "thor",
+    "captain_america_the_first_avenger",
+    "superman",
+    "spider_man_no_way_home",
+    "superman_returns",
+    "the_dark_knight",
+    "war_for_the_planet_of_the_apes",
+    "black_widow",
+    "iron_man",
+    "hulk",
+    "spider_man_3",
+    "creed",
+    "doctor_strange",
+    "terminator_2_judgment_day",
+    "top_gun_maverick",
+    "conan_the_barbarian",
+    "rocky_balboa",
+    "how_to_train_your_dragon_2"
   ]
 }

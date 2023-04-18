@@ -50,5 +50,32 @@
       "rating": "3",
       "text": "the exorcist 2 is a rare and at the same time disastrous movie, unfortunately it is one of the worst sequels I have seen despite the fact that it has great actors and a good director. A failure in all respects but with beautiful photography and very few aesthetically beautiful scenes."
     }
+  ],
+  "recommendations": [
+    "jeepers_creepers_3",
+    "the_day_the_earth_stood_still",
+    "jeepers_creepers_reborn",
+    "the_legend_of_hercules",
+    "mortal_kombat_annihilation",
+    "the_wolfman",
+    "clash_of_the_titans",
+    "the_eye",
+    "the_happening",
+    "aquaman",
+    "abduction",
+    "the_omen",
+    "day_of_the_dead_bloodline",
+    "pulp_fiction",
+    "see_no_evil",
+    "dark_phoenix",
+    "the_matrix_resurrections",
+    "the_last_airbender",
+    "the_room",
+    "book_of_shadows_blair_witch_2",
+    "superman_ii",
+    "the_final_destination",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "ghost_rider_spirit_of_vengeance",
+    "the_mist"
   ]
 }

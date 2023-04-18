@@ -186,5 +186,32 @@
       "rating": "10",
       "text": "Good Good Good Good Good Good Good Good Good Good Good Good Good Good Good Good"
     }
+  ],
+  "recommendations": [
+    "megamind",
+    "minions",
+    "peter_rabbit",
+    "alvin_and_the_chipmunks",
+    "hotel_transylvania",
+    "monsters_vs_aliens",
+    "the_spongebob_movie_sponge_out_of_water",
+    "captain_underpants_the_first_epic_movie",
+    "cloudy_with_a_chance_of_meatballs",
+    "the_lego_movie",
+    "ice_age_the_meltdown",
+    "free_birds",
+    "wonder_park",
+    "hotel_transylvania_2",
+    "zookeeper",
+    "chicken_little",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "despicable_me_2",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_green_hornet",
+    "yogi_bear",
+    "uglydolls",
+    "spies_in_disguise",
+    "the_nut_job",
+    "the_smurfs"
   ]
 }

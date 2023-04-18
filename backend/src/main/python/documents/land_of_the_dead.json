@@ -190,5 +190,32 @@
       "rating": "8",
       "text": "This is overal a good movie. Good story, good charactors (loved Charlie), and nice to see the zombies arn't the bad guys. It deserves a 7 or higher. Not my favorite zombie movie, but still a good one."
     }
+  ],
+  "recommendations": [
+    "dawn_of_the_dead",
+    "28_days_later",
+    "night_of_the_living_dead",
+    "house_of_1000_corpses",
+    "the_green_inferno",
+    "the_crazies",
+    "world_war_z",
+    "cabin_fever",
+    "day_of_the_dead_bloodline",
+    "army_of_the_dead",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "daybreakers",
+    "30_days_of_night",
+    "doomsday",
+    "legion",
+    "texas_chainsaw_3d",
+    "priest",
+    "underworld_blood_wars",
+    "the_curse_of_la_llorona",
+    "jason_goes_to_hell_the_final_friday",
+    "28_weeks_later",
+    "the_girl_with_all_the_gifts",
+    "chernobyl_diaries",
+    "stay_alive",
+    "war_of_the_worlds"
   ]
 }

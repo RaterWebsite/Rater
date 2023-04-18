@@ -216,5 +216,32 @@
       "rating": "8",
       "text": "Nobody told me this was a comedy. Full scale awesome final 30 minutes, could take or leave the rest."
     }
+  ],
+  "recommendations": [
+    "butch_cassidy_and_the_sundance_kid",
+    "casino",
+    "the_fugitive",
+    "the_untouchables",
+    "hell_or_high_water",
+    "cry_macho",
+    "heat",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "django_unchained",
+    "black_mass",
+    "the_quick_and_the_dead",
+    "body_of_lies",
+    "raging_bull",
+    "the_hunt_for_red_october",
+    "true_grit",
+    "gangster_squad",
+    "lawless",
+    "the_last_of_the_mohicans",
+    "captain_america_the_winter_soldier",
+    "donnie_brasco",
+    "news_of_the_world",
+    "conan_the_barbarian",
+    "dirty_harry",
+    "insomnia",
+    "training_day"
   ]
 }

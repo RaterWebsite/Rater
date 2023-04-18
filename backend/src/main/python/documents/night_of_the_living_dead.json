@@ -81,5 +81,32 @@
       "rating": "9",
       "text": "A Classic and the classic Zombie Movie which everyone should see once in their life."
     }
+  ],
+  "recommendations": [
+    "28_days_later",
+    "dawn_of_the_dead",
+    "land_of_the_dead",
+    "the_texas_chain_saw_massacre",
+    "house_of_1000_corpses",
+    "the_girl_with_all_the_gifts",
+    "the_crazies",
+    "the_remaining",
+    "it_follows",
+    "30_days_of_night",
+    "event_horizon",
+    "world_war_z",
+    "the_medium",
+    "hellraiser",
+    "the_conjuring_2",
+    "annabelle_comes_home",
+    "the_evil_dead",
+    "the_conjuring",
+    "they_live",
+    "paranormal_activity_next_of_kin",
+    "chernobyl_diaries",
+    "the_pyramid",
+    "the_ritual",
+    "the_witch",
+    "the_collection"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "A movie so dull, that the 1st hour of this film is nothing more than scene, after scene, after scene, of cheap setup sequences designed to make you jump. The movie is also seriously painful to look at."
     }
+  ],
+  "recommendations": [
+    "the_conjuring",
+    "annabelle_creation",
+    "lights_out",
+    "insidious_chapter_3",
+    "the_ring",
+    "it_follows",
+    "scary_stories_to_tell_in_the_dark",
+    "ouija_origin_of_evil",
+    "antlers",
+    "the_ritual",
+    "the_witch",
+    "the_boy",
+    "insidious",
+    "annabelle",
+    "the_conjuring_2",
+    "insidious_chapter_2",
+    "the_woman_in_black_2_angel_of_death",
+    "dark_skies",
+    "sinister_2",
+    "winchester",
+    "the_possession",
+    "the_descent",
+    "the_babadook",
+    "mirrors",
+    "p2"
   ]
 }

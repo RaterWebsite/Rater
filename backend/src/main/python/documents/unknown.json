@@ -50,5 +50,32 @@
       "rating": "6",
       "text": "Love movies like this, but it was so expected for me. Can't say it was interesting and have point in the end, but nothing so special."
     }
+  ],
+  "recommendations": [
+    "flight_of_the_phoenix",
+    "the_good_liar",
+    "marauders",
+    "now_you_see_me",
+    "man_on_a_ledge",
+    "a_perfect_getaway",
+    "now_you_see_me_2",
+    "the_loft",
+    "the_maze_runner",
+    "the_number_23",
+    "i_see_you",
+    "marrowbone",
+    "gone_girl",
+    "army_of_thieves",
+    "the_prestige",
+    "shutter_island",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "grudge",
+    "the_mountain_between_us",
+    "the_bank_job",
+    "bad_times_at_the_el_royale",
+    "the_usual_suspects",
+    "taking_lives",
+    "wrath_of_man",
+    "rocknrolla"
   ]
 }

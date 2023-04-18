@@ -203,5 +203,32 @@
       "rating": "3",
       "text": "This movie should not exist. I did have a bit of fun watching it. The first one is by far the best."
     }
+  ],
+  "recommendations": [
+    "the_croods_a_new_age",
+    "the_game_plan",
+    "the_smurfs",
+    "chicken_little",
+    "cloudy_with_a_chance_of_meatballs",
+    "beverly_hills_chihuahua",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "hannah_montana_the_movie",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "the_boss_baby_family_business",
+    "spy_kids_all_the_time_in_the_world",
+    "marmaduke",
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "zookeeper",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "ice_age_continental_drift",
+    "ice_age_dawn_of_the_dinosaurs",
+    "alvin_and_the_chipmunks",
+    "the_angry_birds_movie",
+    "playmobil_the_movie",
+    "happy_feet",
+    "herbie_fully_loaded",
+    "ice_age_the_meltdown",
+    "diary_of_a_wimpy_kid_dog_days",
+    "project_x"
   ]
 }

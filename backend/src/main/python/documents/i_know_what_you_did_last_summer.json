@@ -158,5 +158,32 @@
       "rating": "8",
       "text": "A movie with a great location, that is entertaining,  and has a great killer."
     }
+  ],
+  "recommendations": [
+    "disturbia",
+    "vacancy",
+    "freaky",
+    "mama",
+    "p2",
+    "house_at_the_end_of_the_street",
+    "case_39",
+    "the_collector",
+    "wrong_turn",
+    "the_boy",
+    "friday_the_13th_the_final_chapter",
+    "the_babysitter",
+    "scream",
+    "happy_death_day",
+    "texas_chainsaw_3d",
+    "dead_silence",
+    "the_forest",
+    "hell_fest",
+    "friday_the_13th_part_2",
+    "cellular",
+    "fright_night",
+    "friday_the_13th_a_new_beginning",
+    "the_strangers_prey_at_night",
+    "scream_2",
+    "dark_skies"
   ]
 }

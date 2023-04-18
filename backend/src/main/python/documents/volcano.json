@@ -87,5 +87,32 @@
       "rating": "10",
       "text": "I've seen it multiple time throughout the years, honestly I find nothing wrong with it, it's a movie don't be so uptight trying to tear everything apart by over analyzing"
     }
+  ],
+  "recommendations": [
+    "into_the_storm",
+    "battleship",
+    "independence_day_resurgence",
+    "transformers_the_last_knight",
+    "teenage_mutant_ninja_turtles",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "poseidon",
+    "pacific_rim_uprising",
+    "san_andreas",
+    "the_darkest_hour",
+    "geostorm",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "2012",
+    "gods_of_egypt",
+    "war_of_the_worlds",
+    "skyline",
+    "the_matrix_resurrections",
+    "the_meg",
+    "bloodshot",
+    "the_tomorrow_war",
+    "transformers_revenge_of_the_fallen",
+    "hercules",
+    "jumper",
+    "clash_of_the_titans",
+    "suicide_squad"
   ]
 }

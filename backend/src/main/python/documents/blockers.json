@@ -184,5 +184,32 @@
       "rating": "5",
       "text": "Uneven movie where a lot of the jokes come across as just a mash-up of others in the same genre. Should of been better."
     }
+  ],
+  "recommendations": [
+    "the_five_year_engagement",
+    "neighbors",
+    "sisters",
+    "the_family",
+    "friends_with_benefits",
+    "that_awkward_moment",
+    "bachelorette",
+    "i_feel_pretty",
+    "step_brothers",
+    "the_wedding_ringer",
+    "the_cobbler",
+    "a_bad_moms_christmas",
+    "keeping_up_with_the_joneses",
+    "forgetting_sarah_marshall",
+    "palm_springs",
+    "rough_night",
+    "the_heat",
+    "pitch_perfect_2",
+    "the_dilemma",
+    "central_intelligence",
+    "sleeping_with_other_people",
+    "wanderlust",
+    "hall_pass",
+    "knocked_up",
+    "booksmart"
   ]
 }

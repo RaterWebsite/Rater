@@ -114,5 +114,32 @@
       "rating": "7",
       "text": "A clever thriller that has it's flaws but is carried by the perfectly cast Hamm."
     }
+  ],
+  "recommendations": [
+    "widows",
+    "a_most_violent_year",
+    "the_good_shepherd",
+    "the_accountant",
+    "allied",
+    "a_most_wanted_man",
+    "good_time",
+    "child_44",
+    "sicario_day_of_the_soldado",
+    "the_equalizer_2",
+    "flight",
+    "donnie_brasco",
+    "hell_or_high_water",
+    "news_of_the_world",
+    "the_rover",
+    "white_boy_rick",
+    "the_infiltrator",
+    "the_beguiled",
+    "the_place_beyond_the_pines",
+    "the_sum_of_all_fears",
+    "broken_city",
+    "stillwater",
+    "argo",
+    "sicario",
+    "arbitrage"
   ]
 }

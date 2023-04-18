@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "This was a great addition to the original Kung Fu Panda. Many questions to the first filmed are answered by this one! Also, more diverse and interesting characters were in this one, without rehashing old characters that aren't needed."
     }
+  ],
+  "recommendations": [
+    "kung_fu_panda_3",
+    "kung_fu_panda",
+    "thor_ragnarok",
+    "indiana_jones_and_the_temple_of_doom",
+    "the_forbidden_kingdom",
+    "how_to_train_your_dragon_2",
+    "rango",
+    "thor_the_dark_world",
+    "avengers_age_of_ultron",
+    "guardians_of_the_galaxy",
+    "the_adventures_of_tintin",
+    "the_croods",
+    "how_to_train_your_dragon",
+    "incredibles_2",
+    "the_lego_batman_movie",
+    "bumblebee",
+    "transformers",
+    "jack_the_giant_slayer",
+    "the_lego_ninjago_movie",
+    "megamind",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_suicide_squad",
+    "puss_in_boots_the_last_wish",
+    "hercules",
+    "hotel_transylvania_3_summer_vacation"
   ]
 }

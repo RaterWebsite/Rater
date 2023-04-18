@@ -180,5 +180,32 @@
       "rating": "4",
       "text": "A decent animated movie with a few chuckles to be had. Nothing all too special but it is enjoyable."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_2",
+    "despicable_me",
+    "penguins_of_madagascar",
+    "despicable_me_2",
+    "ice_age_the_meltdown",
+    "megamind",
+    "shazam",
+    "madagascar_escape_2_africa",
+    "robots",
+    "bolt",
+    "minions",
+    "peter_rabbit",
+    "the_croods",
+    "hotel_transylvania",
+    "puss_in_boots_the_last_wish",
+    "incredibles_2",
+    "captain_underpants_the_first_epic_movie",
+    "storks",
+    "turbo",
+    "the_secret_life_of_pets_2",
+    "hotel_transylvania_3_summer_vacation",
+    "deadpool_2",
+    "the_angry_birds_movie",
+    "the_lego_movie_2_the_second_part",
+    "zookeeper"
   ]
 }

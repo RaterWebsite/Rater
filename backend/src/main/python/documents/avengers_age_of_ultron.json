@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Watched it.  Liked it.  That's about it.  Any complaints about the movie should be taken with a grain of salt.  Everyone should know EXACTLY what type of movie this is going in to the theater.  All the poor scores make it seem like they were expecting some masterful epic.  It is a superhero movie and it is fun to watch.  I will say it is a bit long though."
     }
+  ],
+  "recommendations": [
+    "thor_the_dark_world",
+    "the_suicide_squad",
+    "thor_ragnarok",
+    "transformers_dark_of_the_moon",
+    "poseidon",
+    "bumblebee",
+    "edge_of_tomorrow",
+    "hercules",
+    "kingsman_the_golden_circle",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "guardians_of_the_galaxy",
+    "ant_man_and_the_wasp_quantumania",
+    "bloodshot",
+    "black_panther_wakanda_forever",
+    "justice_league",
+    "glass",
+    "riddick",
+    "terminator_genisys",
+    "the_last_witch_hunter",
+    "gemini_man",
+    "serenity",
+    "incredibles_2",
+    "creed_ii",
+    "the_a_team",
+    "x_men_apocalypse"
   ]
 }

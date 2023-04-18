@@ -165,5 +165,32 @@
       "rating": "7",
       "text": "A decent movie, but suffers because of it bassically being a rehash of the original"
     }
+  ],
+  "recommendations": [
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "terminator_genisys",
+    "jumanji_the_next_level",
+    "night_at_the_museum_secret_of_the_tomb",
+    "zombieland_double_tap",
+    "hotel_transylvania_2",
+    "despicable_me_2",
+    "thor_ragnarok",
+    "incredibles_2",
+    "coming_2_america",
+    "jumanji_welcome_to_the_jungle",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "shazam_fury_of_the_gods",
+    "minions_the_rise_of_gru",
+    "venom_let_there_be_carnage",
+    "the_many_saints_of_newark",
+    "minions",
+    "ice_age_the_meltdown",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "hancock",
+    "goosebumps",
+    "the_witches",
+    "ghostbusters",
+    "back_to_the_future_part_ii",
+    "the_lego_movie_2_the_second_part"
   ]
 }

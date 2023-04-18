@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "I give this movie a 10 because it teaches a life lesson about motivation, and how Chris was motivated to become a stock broker. It is a good movie for someone to watch that needs motivaton."
     }
+  ],
+  "recommendations": [
+    "into_the_wild",
+    "courageous",
+    "collateral_beauty",
+    "up_in_the_air",
+    "the_descendants",
+    "heaven_is_for_real",
+    "promising_young_woman",
+    "the_hunt",
+    "slumdog_millionaire",
+    "manchester_by_the_sea",
+    "gone_baby_gone",
+    "pay_it_forward",
+    "john_q",
+    "assault_on_wall_street",
+    "revolutionary_road",
+    "3_idiots",
+    "the_adjustment_bureau",
+    "machine_gun_preacher",
+    "falling_down",
+    "miracles_from_heaven",
+    "the_intern",
+    "me_before_you",
+    "law_abiding_citizen",
+    "the_help",
+    "blow"
   ]
 }

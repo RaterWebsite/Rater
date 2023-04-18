@@ -146,5 +146,32 @@
       "rating": "7",
       "text": "The movie shows good CGI as 2001 released movie. I hope they make sequel as video game or comic books."
     }
+  ],
+  "recommendations": [
+    "the_witcher_nightmare_of_the_wolf",
+    "warcraft",
+    "maze_runner_the_scorch_trials",
+    "9",
+    "monster_hunter",
+    "tomb_raider",
+    "silent_hill_revelation_3d",
+    "silent_hill",
+    "resident_evil_damnation",
+    "jupiter_ascending",
+    "the_last_witch_hunter",
+    "the_matrix_revolutions",
+    "pacific_rim",
+    "the_matrix_reloaded",
+    "riddick",
+    "serenity",
+    "underworld_awakening",
+    "percy_jackson_sea_of_monsters",
+    "ready_player_one",
+    "rampage",
+    "bumblebee",
+    "the_13th_warrior",
+    "the_maze_runner",
+    "avengers_age_of_ultron",
+    "my_little_pony_the_movie"
   ]
 }

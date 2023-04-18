@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "It's one of the best short story movies I've ever saw. I recommend it to everyone who's big fan of short stories."
     }
+  ],
+  "recommendations": [
+    "the_last_witch_hunter",
+    "the_invasion",
+    "seventh_son",
+    "jumper",
+    "i_am_number_four",
+    "poseidon",
+    "world_war_z",
+    "riddick",
+    "glass",
+    "terminator_genisys",
+    "the_mist",
+    "the_conjuring_the_devil_made_me_do_it",
+    "dreamcatcher",
+    "edge_of_tomorrow",
+    "hercules",
+    "percy_jackson_sea_of_monsters",
+    "the_new_mutants",
+    "next",
+    "it_chapter_two",
+    "into_the_storm",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "the_twilight_saga_eclipse",
+    "surrogates",
+    "avengers_age_of_ultron",
+    "pandorum"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Some fun funnies. Some editing problems. Some plot jumps. Very predictable. Good comedy if you have superhero origin story fatigue. This is the type of movie you can see being played on cable tv over and over later this year."
     }
+  ],
+  "recommendations": [
+    "the_spy_who_dumped_me",
+    "spy",
+    "identity_thief",
+    "the_wedding_ringer",
+    "central_intelligence",
+    "keeping_up_with_the_joneses",
+    "chips",
+    "the_boss",
+    "blockers",
+    "pineapple_express",
+    "dodgeball_a_true_underdog_story",
+    "forgetting_sarah_marshall",
+    "stuber",
+    "get_hard",
+    "neighbors",
+    "bachelorette",
+    "the_dilemma",
+    "rough_night",
+    "tammy",
+    "the_nice_guys",
+    "dirty_grandpa",
+    "that_awkward_moment",
+    "this_means_war",
+    "tower_heist",
+    "due_date"
   ]
 }

@@ -165,5 +165,32 @@
       "rating": "7",
       "text": "----------------------------------7.4/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "contraband",
+    "triple_frontier",
+    "16_blocks",
+    "2_guns",
+    "parker",
+    "brick_mansions",
+    "spenser_confidential",
+    "gangster_squad",
+    "street_kings",
+    "rocknrolla",
+    "run_all_night",
+    "angel_has_fallen",
+    "fantastic_four",
+    "copshop",
+    "collide",
+    "safe_house",
+    "wrath_of_man",
+    "bloodshot",
+    "red_notice",
+    "alex_cross",
+    "a_walk_among_the_tombstones",
+    "escape_plan",
+    "the_taking_of_pelham_1_2_3",
+    "the_bank_job",
+    "american_ultra"
   ]
 }

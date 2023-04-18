@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Fun movie with great actors. Even the big plot twist was a surprise for me. But there was one big let down; the sets/surroundings were so fake it really broke the immersion. It felt like the budget was entirely spent on the cast. Hope this will be better if there ever will be a second part."
     }
+  ],
+  "recommendations": [
+    "baywatch",
+    "contraband",
+    "lockout",
+    "baby_driver",
+    "knight_and_day",
+    "rocknrolla",
+    "kingsman_the_golden_circle",
+    "bloodshot",
+    "skyscraper",
+    "keeping_up_with_the_joneses",
+    "the_expendables_3",
+    "wild_card",
+    "shazam_fury_of_the_gods",
+    "san_andreas",
+    "the_meg",
+    "the_losers",
+    "the_spy_who_dumped_me",
+    "this_means_war",
+    "the_marine",
+    "escape_plan",
+    "hancock",
+    "venom_let_there_be_carnage",
+    "hercules",
+    "american_ultra",
+    "6_underground"
   ]
 }

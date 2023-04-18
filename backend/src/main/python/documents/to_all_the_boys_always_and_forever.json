@@ -42,5 +42,32 @@
       "rating": "10",
       "text": "After a long ride.. Many ups and downs. Absolutely a perfect ending. This is what we're waiting for"
     }
+  ],
+  "recommendations": [
+    "my_little_pony_equestria_girls_forgotten_friendship",
+    "bridge_to_terabithia",
+    "flipped",
+    "paper_towns",
+    "if_i_stay",
+    "slumdog_millionaire",
+    "the_adjustment_bureau",
+    "fifty_shades_freed",
+    "tinker_bell_and_the_legend_of_the_neverbeast",
+    "boyhood",
+    "the_butterfly_effect",
+    "something_borrowed",
+    "the_kissing_booth_3",
+    "the_vow",
+    "home_again",
+    "frozen_ii",
+    "forever_my_girl",
+    "coraline",
+    "hannah_montana_the_movie",
+    "before_i_fall",
+    "rocky_balboa",
+    "pay_it_forward",
+    "the_space_between_us",
+    "the_lake_house",
+    "brave"
   ]
 }

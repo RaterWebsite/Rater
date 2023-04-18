@@ -150,5 +150,32 @@
       "rating": "10",
       "text": "I think that the nutcracker reboot movie was excellent movie ever made in the 21st century."
     }
+  ],
+  "recommendations": [
+    "alice_through_the_looking_glass",
+    "the_bfg",
+    "the_brothers_grimm",
+    "the_kid_who_would_be_king",
+    "maleficent_mistress_of_evil",
+    "raya_and_the_last_dragon",
+    "cruella",
+    "bumblebee",
+    "maleficent",
+    "pan",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "hugo",
+    "tomorrowland",
+    "frozen_ii",
+    "inception",
+    "dumbo",
+    "super_8",
+    "fantastic_beasts_and_where_to_find_them",
+    "victor_frankenstein",
+    "9",
+    "mortal_engines",
+    "samson",
+    "mowgli_legend_of_the_jungle",
+    "chaos_walking",
+    "valerian_and_the_city_of_a_thousand_planets"
   ]
 }

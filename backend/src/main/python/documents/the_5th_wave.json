@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Everything wrong with modern big budget film-making. An insult to intelligence with what is essentially a dragged out unimaginative and obvious twist. A waste of an example of a potential strong female leading role which instead culminates in a hilariously awful love triangle."
     }
+  ],
+  "recommendations": [
+    "maze_runner_the_scorch_trials",
+    "maze_runner_the_death_cure",
+    "a_quiet_place_part_ii",
+    "super_8",
+    "edge_of_tomorrow",
+    "tomorrowland",
+    "transformers_dark_of_the_moon",
+    "glass",
+    "avengers_age_of_ultron",
+    "i_am_number_four",
+    "bumblebee",
+    "the_13th_warrior",
+    "avengers_infinity_war",
+    "limitless",
+    "freaks",
+    "mad_max_fury_road",
+    "battle_los_angeles",
+    "the_matrix_revolutions",
+    "the_day_after_tomorrow",
+    "the_matrix_reloaded",
+    "bright",
+    "pandorum",
+    "they_live",
+    "colossal",
+    "the_hunger_games_mockingjay_part_1"
   ]
 }

@@ -119,5 +119,32 @@
       "rating": "0",
       "text": "Just by watching the trailer, I already knew the film was just a piece of trash."
     }
+  ],
+  "recommendations": [
+    "alvin_and_the_chipmunks_chipwrecked",
+    "the_smurfs",
+    "chicken_little",
+    "spy_kids_all_the_time_in_the_world",
+    "free_birds",
+    "alvin_and_the_chipmunks",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "zookeeper",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_cat_in_the_hat",
+    "cloudy_with_a_chance_of_meatballs",
+    "the_croods_a_new_age",
+    "minions",
+    "uglydolls",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "home_sweet_home_alone",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "yogi_bear",
+    "the_spongebob_movie_sponge_out_of_water",
+    "wonder_park",
+    "the_game_plan",
+    "the_lego_movie",
+    "hotel_transylvania_2",
+    "diary_of_a_wimpy_kid_dog_days",
+    "night_at_the_museum_battle_of_the_smithsonian"
   ]
 }

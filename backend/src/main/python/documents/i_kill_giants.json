@@ -61,5 +61,32 @@
       "rating": "4",
       "text": "Juste moyen, et encore je suis sympa.Le film aurait pu \u00eatre bien si c'\u00e9tait pas une fille de 12ans qui sauve la ville, seule, contre des g\u00e9ants dont personne ne soup\u00e7onne l'existence, comme c'est pratique"
     }
+  ],
+  "recommendations": [
+    "a_monster_calls",
+    "the_road",
+    "the_hunt",
+    "wonder",
+    "the_florida_project",
+    "into_the_wild",
+    "machine_gun_preacher",
+    "five_feet_apart",
+    "all_the_bright_places",
+    "me_before_you",
+    "her",
+    "leave_no_trace",
+    "the_boy_who_harnessed_the_wind",
+    "captain_fantastic",
+    "the_age_of_adaline",
+    "the_perks_of_being_a_wallflower",
+    "the_book_of_henry",
+    "20th_century_women",
+    "blue_valentine",
+    "the_book_thief",
+    "i_still_believe",
+    "closer",
+    "come_play",
+    "freedom_writers",
+    "donnie_darko"
   ]
 }

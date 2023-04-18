@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Horror movie of the year.  This was an excellent horror movie, very well photographed.  I am writing this review a year after seeing it so details are fuzzy but just had to go on record for how good it was."
     }
+  ],
+  "recommendations": [
+    "scary_stories_to_tell_in_the_dark",
+    "lights_out",
+    "oculus",
+    "the_woman_in_black",
+    "ouija_origin_of_evil",
+    "the_ritual",
+    "the_ring",
+    "mirrors",
+    "the_conjuring",
+    "the_forest",
+    "insidious_chapter_3",
+    "winchester",
+    "the_boy",
+    "the_woman_in_black_2_angel_of_death",
+    "the_autopsy_of_jane_doe",
+    "mama",
+    "annabelle_comes_home",
+    "it_follows",
+    "the_possession",
+    "insidious_the_last_key",
+    "a_quiet_place",
+    "sinister_2",
+    "crawl",
+    "insidious_chapter_2",
+    "insidious"
   ]
 }

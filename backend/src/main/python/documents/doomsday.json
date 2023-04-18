@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "About as deep and substantive as a pudding cup, this is not a great movie. It is, however, a great movie to watch. It riffs on more post-apocalyptic movies than you can count, and you just don't care. It's worth watching, and lots of fun."
     }
+  ],
+  "recommendations": [
+    "transformers_age_of_extinction",
+    "underworld_blood_wars",
+    "machete_kills",
+    "geostorm",
+    "frozen",
+    "jurassic_world",
+    "jurassic_world_fallen_kingdom",
+    "snakes_on_a_plane",
+    "battleship",
+    "army_of_the_dead",
+    "war_of_the_worlds",
+    "shadow_in_the_cloud",
+    "salt",
+    "xxx_return_of_xander_cage",
+    "machete",
+    "47_meters_down",
+    "teenage_mutant_ninja_turtles",
+    "transformers_revenge_of_the_fallen",
+    "the_predator",
+    "olympus_has_fallen",
+    "crawl",
+    "the_meg",
+    "transformers_the_last_knight",
+    "polar",
+    "ghost_rider_spirit_of_vengeance"
   ]
 }

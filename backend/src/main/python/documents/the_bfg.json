@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Spielberg perfectly captures the magical story of The BFG in the best Dahl film adaption for ages, as Mark Rylance brings the friendly giant to life in the most charming, emotionally satisfying and universally appealing film of 2016."
     }
+  ],
+  "recommendations": [
+    "the_nutcracker_and_the_four_realms",
+    "alice_through_the_looking_glass",
+    "hugo",
+    "inception",
+    "maleficent_mistress_of_evil",
+    "tomorrowland",
+    "dumbo",
+    "the_brothers_grimm",
+    "super_8",
+    "maleficent",
+    "alita_battle_angel",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "the_lovely_bones",
+    "mowgli_legend_of_the_jungle",
+    "kubo_and_the_two_strings",
+    "pan",
+    "fantastic_beasts_and_where_to_find_them",
+    "the_call_of_the_wild",
+    "bumblebee",
+    "soul",
+    "cloud_atlas",
+    "cruella",
+    "the_hobbit_an_unexpected_journey",
+    "ratatouille",
+    "onward"
   ]
 }

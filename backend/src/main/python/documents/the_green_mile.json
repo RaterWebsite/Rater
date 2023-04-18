@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Thought-provoking and emotional dynamite!"
     }
+  ],
+  "recommendations": [
+    "the_shawshank_redemption",
+    "the_lovely_bones",
+    "joker",
+    "changeling",
+    "titanic",
+    "man_of_steel",
+    "magnolia",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "seven_pounds",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "mystic_river",
+    "glass",
+    "vanilla_sky",
+    "john_carter",
+    "it_chapter_two",
+    "there_will_be_blood",
+    "the_illusionist",
+    "the_hobbit_an_unexpected_journey",
+    "ben_hur",
+    "the_prestige",
+    "eternals",
+    "cinderella_man",
+    "eternal_sunshine_of_the_spotless_mind",
+    "alita_battle_angel",
+    "perfume_the_story_of_a_murderer"
   ]
 }

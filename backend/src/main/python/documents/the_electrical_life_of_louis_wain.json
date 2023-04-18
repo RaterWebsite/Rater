@@ -62,5 +62,32 @@
       "rating": "5",
       "text": "Amazing film and amazing acting - cried throughout. Benedict plays this role incredibly."
     }
+  ],
+  "recommendations": [
+    "finding_neverland",
+    "anna_karenina",
+    "carol",
+    "the_grand_budapest_hotel",
+    "dances_with_wolves",
+    "the_dig",
+    "chocolat",
+    "belfast",
+    "nocturnal_animals",
+    "american_beauty",
+    "the_walk",
+    "youth",
+    "motherless_brooklyn",
+    "amadeus",
+    "loving_vincent",
+    "phantom_thread",
+    "the_great_gatsby",
+    "21_grams",
+    "20th_century_women",
+    "spencer",
+    "the_light_between_oceans",
+    "thoroughbreds",
+    "jackie",
+    "the_master",
+    "the_english_patient"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "This movie is just sad to the point of being pathetic. The writing is so poor. I struggled to finish this movie and failed. I suggest you watch Supernatural instead, pretty much the same story but a whole lot more entertaining!"
     }
+  ],
+  "recommendations": [
+    "skyline",
+    "shadow_in_the_cloud",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "priest",
+    "transformers_revenge_of_the_fallen",
+    "battleship",
+    "war_of_the_worlds",
+    "teenage_mutant_ninja_turtles",
+    "ghost_rider_spirit_of_vengeance",
+    "knowing",
+    "transformers_age_of_extinction",
+    "army_of_the_dead",
+    "jumper",
+    "the_darkest_hour",
+    "wonder_woman_1984",
+    "the_old_guard",
+    "2012",
+    "the_tomorrow_war",
+    "underworld_blood_wars",
+    "the_predator",
+    "national_treasure_book_of_secrets",
+    "the_bye_bye_man",
+    "geostorm",
+    "twilight",
+    "polar"
   ]
 }

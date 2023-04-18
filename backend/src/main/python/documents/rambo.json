@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "I am not sure if critics even know what to look for in a movie. I realize in today's politically correct non emasculating society that we live in that a action hero is not popular. But, in this case, they are incredibly wrong, Rambo freaking rocks."
     }
+  ],
+  "recommendations": [
+    "rambo_last_blood",
+    "underworld_blood_wars",
+    "the_condemned",
+    "machete",
+    "death_wish",
+    "kick_ass",
+    "the_expendables_2",
+    "polar",
+    "crank_high_voltage",
+    "live_free_or_die_hard",
+    "ninja_assassin",
+    "peppermint",
+    "salt",
+    "punisher_war_zone",
+    "doomsday",
+    "the_tax_collector",
+    "four_brothers",
+    "i_am_number_four",
+    "underworld_evolution",
+    "the_marine",
+    "eagle_eye",
+    "death_race",
+    "the_expendables",
+    "rambo_first_blood_part_ii",
+    "crank"
   ]
 }

@@ -61,5 +61,32 @@
       "rating": "10",
       "text": "One of my favourite romance movie"
     }
+  ],
+  "recommendations": [
+    "herbie_fully_loaded",
+    "hannah_montana_the_movie",
+    "mean_girls",
+    "the_kissing_booth_2",
+    "love_hard",
+    "hubie_halloween",
+    "the_babysitter_killer_queen",
+    "meet_the_spartans",
+    "just_go_with_it",
+    "confessions_of_a_shopaholic",
+    "the_duff",
+    "the_croods_a_new_age",
+    "garfield_a_tail_of_two_kitties",
+    "the_twilight_saga_new_moon",
+    "the_twilight_saga_eclipse",
+    "the_bye_bye_man",
+    "the_proposal",
+    "abduction",
+    "17_again",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "second_act",
+    "the_bounty_hunter",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "trainwreck",
+    "miss_march"
   ]
 }

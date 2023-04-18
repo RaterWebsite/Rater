@@ -181,5 +181,32 @@
       "rating": "3",
       "text": "The master of making boring, pretentious drivel doesn't disappoint with this dull fare.Is there a more overrated director than Joe Wright working today? Unlikely."
     }
+  ],
+  "recommendations": [
+    "carol",
+    "spencer",
+    "finding_neverland",
+    "phantom_thread",
+    "jackie",
+    "mary_queen_of_scots",
+    "the_electrical_life_of_louis_wain",
+    "belfast",
+    "nocturnal_animals",
+    "the_theory_of_everything",
+    "motherless_brooklyn",
+    "the_father",
+    "amadeus",
+    "the_dig",
+    "youth",
+    "a_star_is_born",
+    "tulip_fever",
+    "the_danish_girl",
+    "american_beauty",
+    "the_english_patient",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_grand_budapest_hotel",
+    "the_great_gatsby",
+    "kingdom_of_heaven",
+    "legends_of_the_fall"
   ]
 }

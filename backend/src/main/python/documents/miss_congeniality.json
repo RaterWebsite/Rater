@@ -74,5 +74,32 @@
       "rating": "7",
       "text": "----------------------------------7.4/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "50_first_dates",
+    "murder_mystery",
+    "the_proposal",
+    "get_smart",
+    "zack_and_miri_make_a_porno",
+    "meet_the_parents",
+    "what_happens_in_vegas",
+    "forgetting_sarah_marshall",
+    "the_break_up",
+    "the_longest_yard",
+    "the_watch",
+    "role_models",
+    "friends_with_benefits",
+    "just_go_with_it",
+    "holidate",
+    "vamps",
+    "hubie_halloween",
+    "the_wedding_ringer",
+    "the_green_hornet",
+    "blended",
+    "horrible_bosses",
+    "this_means_war",
+    "yes_man",
+    "johnny_english_reborn",
+    "just_friends"
   ]
 }

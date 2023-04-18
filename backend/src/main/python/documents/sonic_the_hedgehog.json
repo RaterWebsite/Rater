@@ -227,5 +227,32 @@
       "rating": "9",
       "text": "Una pel\u00edcula entretenida tanto para los fans c\u00f3mo para nuevos conocedores, fiel a los videojuegos, divertida, y si bien una historia que no engancha por completo pero dejando un comienzo para una posible secuela que podr\u00eda superarla."
     }
+  ],
+  "recommendations": [
+    "sonic_the_hedgehog_2",
+    "the_spongebob_squarepants_movie",
+    "jumanji_welcome_to_the_jungle",
+    "free_guy",
+    "the_green_hornet",
+    "minions_the_rise_of_gru",
+    "megamind",
+    "the_lego_movie",
+    "the_spongebob_movie_sponge_out_of_water",
+    "over_the_hedge",
+    "ghostbusters_afterlife",
+    "the_angry_birds_movie",
+    "deadpool_2",
+    "wreck_it_ralph",
+    "prince_of_persia_the_sands_of_time",
+    "barnyard",
+    "venom_let_there_be_carnage",
+    "diary_of_a_wimpy_kid_dog_days",
+    "peter_rabbit",
+    "the_big_lebowski",
+    "shazam",
+    "despicable_me_2",
+    "the_game_plan",
+    "alvin_and_the_chipmunks",
+    "entourage"
   ]
 }

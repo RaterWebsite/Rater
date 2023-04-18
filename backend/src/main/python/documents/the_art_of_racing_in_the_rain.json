@@ -114,5 +114,32 @@
       "rating": "8",
       "text": "I think this movie is underrated. You can try to watch this movie by DVD or streaming services."
     }
+  ],
+  "recommendations": [
+    "bridge_to_terabithia",
+    "soul_surfer",
+    "the_bucket_list",
+    "the_butterfly_effect",
+    "pay_it_forward",
+    "up",
+    "her",
+    "vanilla_sky",
+    "seven_pounds",
+    "chappie",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "slumdog_millionaire",
+    "the_adjustment_bureau",
+    "tomorrowland",
+    "the_lego_movie",
+    "where_the_wild_things_are",
+    "fight_club",
+    "flipped",
+    "the_last_naruto_the_movie",
+    "titanic",
+    "soul",
+    "the_13th_warrior",
+    "the_vow",
+    "cloud_atlas",
+    "lost_in_translation"
   ]
 }

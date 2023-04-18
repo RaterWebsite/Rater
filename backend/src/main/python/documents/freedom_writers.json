@@ -173,5 +173,32 @@
       "rating": "10",
       "text": "The story was appealing from the beginning, and the movie makes you care for all the characters, the cast of actors also did a really good job. This is the type of movie I would like to see more often, it's very inspiring."
     }
+  ],
+  "recommendations": [
+    "captain_fantastic",
+    "the_perks_of_being_a_wallflower",
+    "moxie",
+    "the_hate_u_give",
+    "the_hunt",
+    "moonrise_kingdom",
+    "the_help",
+    "wonder",
+    "me_before_you",
+    "babel",
+    "crash",
+    "3_idiots",
+    "closer",
+    "booksmart",
+    "the_miseducation_of_cameron_post",
+    "dead_poets_society",
+    "lady_bird",
+    "the_florida_project",
+    "the_spectacular_now",
+    "the_giver",
+    "the_social_network",
+    "the_book_thief",
+    "white_boy_rick",
+    "manchester_by_the_sea",
+    "boyz_n_the_hood"
   ]
 }

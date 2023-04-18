@@ -217,5 +217,32 @@
       "rating": "5",
       "text": "The Men Who Stare at Goats has a great cast, but the mixture of sheer absurdity and narrative incoherence make it a less memorable satire about the army."
     }
+  ],
+  "recommendations": [
+    "burn_after_reading",
+    "thor_love_and_thunder",
+    "barbershop_the_next_cut",
+    "the_cobbler",
+    "iron_sky",
+    "the_happytime_murders",
+    "the_war_with_grandpa",
+    "war_dogs",
+    "v_for_vendetta",
+    "the_hangover_part_ii",
+    "guardians_of_the_galaxy",
+    "tusk",
+    "the_a_team",
+    "minions",
+    "this_is_the_end",
+    "ted_2",
+    "what_men_want",
+    "deadpool_2",
+    "a_million_ways_to_die_in_the_west",
+    "baywatch",
+    "chappie",
+    "jexi",
+    "pineapple_express",
+    "kingsman_the_golden_circle",
+    "guns_akimbo"
   ]
 }

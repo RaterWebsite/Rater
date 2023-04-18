@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Who: Joseph Gordon-Levitt, Die Hard, and that chick who's married to Jim Halpert in real life\rWhat: The best, most original Sci-fi movie since Blade Runner\rWhere: The future\rWhen: September 28, 2012\rWhy: This movie has the most accurate portrayal of time travel since Doc Brown and Marty revved up the DeLorean. On top of that you have action hero Bruce Willis, bike enthusiast and Batman sidekick JGL, AND Paul Dano, who I have never seen in a bad movie. This movie also has one of those endings that is open to interpretation; you know, the kind of ending you are right about and your friends are definitely wrong about because they're terrible people when it comes to talking about movies or TV shows."
     }
+  ],
+  "recommendations": [
+    "twelve_monkeys",
+    "minority_report",
+    "moon",
+    "oblivion",
+    "edge_of_tomorrow",
+    "the_prestige",
+    "the_hunger_games_catching_fire",
+    "the_terminator",
+    "avengers_age_of_ultron",
+    "inception",
+    "glass",
+    "sherlock_holmes",
+    "x_men_days_of_future_past",
+    "black_widow",
+    "the_fifth_element",
+    "sherlock_holmes_a_game_of_shadows",
+    "eternals",
+    "back_to_the_future_part_ii",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "doctor_strange",
+    "the_accountant",
+    "serenity",
+    "john_carter",
+    "alita_battle_angel",
+    "the_equalizer_2"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This Movie is one of the best Netflix Originals. If not the best. The Story is very good. Each Ballad has his own theme and moral."
     }
+  ],
+  "recommendations": [
+    "hugo",
+    "the_brothers_grimm",
+    "the_bfg",
+    "the_green_knight",
+    "nocturnal_animals",
+    "the_nutcracker_and_the_four_realms",
+    "last_night_in_soho",
+    "news_of_the_world",
+    "cloud_atlas",
+    "blade_runner_2049",
+    "reminiscence",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "ex_machina",
+    "bad_times_at_the_el_royale",
+    "inception",
+    "the_hunger_games_catching_fire",
+    "us",
+    "no_country_for_old_men",
+    "midnight_special",
+    "in_the_heart_of_the_sea",
+    "kubo_and_the_two_strings",
+    "sicario_day_of_the_soldado",
+    "war_dogs",
+    "unbreakable",
+    "minority_report"
   ]
 }

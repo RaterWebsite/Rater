@@ -59,5 +59,32 @@
       "rating": "8",
       "text": "William Shatner himself and other sources have reportedly said that this movie lacks a plot or at the very least doesn't seem to know where it's heading. While I don't want to contradict Captain Kirk, I've always thought that this movie has a very obvious storyline, and I don't think it's only because I have a theology degree. In keeping with the series' history of exploring philosophical concepts, this film allowed Star Trek to do so, and it does so successfully. The film doesn't advocate for a specific faith and retains the compassion and humour of the earlier films as well as Star Trek in general."
     }
+  ],
+  "recommendations": [
+    "star_trek_insurrection",
+    "star_trek_into_darkness",
+    "star_trek_beyond",
+    "star_trek_nemesis",
+    "prometheus",
+    "terminator_salvation",
+    "sunshine",
+    "the_matrix_revolutions",
+    "star_trek_first_contact",
+    "alien_covenant",
+    "the_cloverfield_paradox",
+    "star_trek",
+    "jurassic_world_dominion",
+    "the_tomorrow_war",
+    "transformers_the_last_knight",
+    "the_matrix_reloaded",
+    "captive_state",
+    "independence_day_resurgence",
+    "stowaway",
+    "jurassic_world_fallen_kingdom",
+    "war_of_the_worlds",
+    "the_core",
+    "surrogates",
+    "chaos_walking",
+    "mortal_engines"
   ]
 }

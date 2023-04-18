@@ -71,5 +71,32 @@
       "rating": "1",
       "text": "Oh this film's fine. I mean, it's not good, but don't know why everyone's so worked up abou... HOLY SH*T!"
     }
+  ],
+  "recommendations": [
+    "norm_of_the_north",
+    "scary_movie_5",
+    "epic_movie",
+    "vampires_suck",
+    "the_emoji_movie",
+    "transformers_revenge_of_the_fallen",
+    "meet_the_spartans",
+    "the_wild",
+    "movie_43",
+    "grown_ups_2",
+    "yogi_bear",
+    "the_host",
+    "pixels",
+    "son_of_the_mask",
+    "kangaroo_jack",
+    "a_haunted_house_2",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "home_sweet_home_alone",
+    "the_cat_in_the_hat",
+    "dragonball_evolution",
+    "spy_kids_all_the_time_in_the_world",
+    "deuce_bigalow_european_gigolo",
+    "sausage_party",
+    "planet_51",
+    "uglydolls"
   ]
 }

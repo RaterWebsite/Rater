@@ -196,5 +196,32 @@
       "rating": "9",
       "text": "Scary Movie 2 in my opinion is the best scary movie the jokes are pretty funny except for some like the toilet scene the humor can be really gross at times and unpleasant but overall this movie is a really good movie"
     }
+  ],
+  "recommendations": [
+    "scary_movie_4",
+    "scary_movie_3",
+    "scary_movie",
+    "a_haunted_house",
+    "superhero_movie",
+    "the_watch",
+    "jackass_presents_bad_grandpa",
+    "30_minutes_or_less",
+    "the_dictator",
+    "hot_fuzz",
+    "the_three_stooges",
+    "hot_tub_time_machine",
+    "the_hangover",
+    "22_jump_street",
+    "anchorman_2_the_legend_continues",
+    "this_is_the_end",
+    "scary_movie_5",
+    "ted_2",
+    "dumb_and_dumber_to",
+    "nacho_libre",
+    "not_another_teen_movie",
+    "one_year_one_night",
+    "epic_movie",
+    "zoolander_2",
+    "miss_march"
   ]
 }

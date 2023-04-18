@@ -226,5 +226,32 @@
       "rating": "1",
       "text": "Keanu sucks. the movie goes no where and will 's boy is the only halfway decent spotlight in this tragedy of a remake."
     }
+  ],
+  "recommendations": [
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_matrix_resurrections",
+    "the_legend_of_hercules",
+    "independence_day_resurgence",
+    "suicide_squad",
+    "poseidon",
+    "the_happening",
+    "seventh_son",
+    "volcano",
+    "dark_phoenix",
+    "dolittle",
+    "the_last_airbender",
+    "mortal_kombat_annihilation",
+    "gods_of_egypt",
+    "teenage_mutant_ninja_turtles",
+    "clash_of_the_titans",
+    "the_new_mutants",
+    "abduction",
+    "pacific_rim_uprising",
+    "the_darkest_hour",
+    "red_dawn",
+    "transformers_the_last_knight",
+    "battleship",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull"
   ]
 }

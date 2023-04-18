@@ -117,5 +117,32 @@
       "rating": "8",
       "text": "----------------------------------8.3/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "addams_family_values",
+    "freaky_friday",
+    "a_cinderella_story",
+    "ghostbusters",
+    "ghostbusters_afterlife",
+    "beetlejuice",
+    "mary_poppins_returns",
+    "hook",
+    "10_things_i_hate_about_you",
+    "edward_scissorhands",
+    "the_flintstones",
+    "stardust",
+    "house_of_gucci",
+    "17_again",
+    "ghostbusters_ii",
+    "peter_pan",
+    "let_me_in",
+    "mamma_mia_here_we_go_again",
+    "the_karate_kid",
+    "no_reservations",
+    "the_princess_bride",
+    "the_royal_tenenbaums",
+    "oz_the_great_and_powerful",
+    "hairspray",
+    "minions_the_rise_of_gru"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Was so excited to go see this movie. Have been waiting for a long time but it was worth it! Really can not wait to see part 2 of Breaking Dawn next year."
     }
+  ],
+  "recommendations": [
+    "the_twilight_saga_eclipse",
+    "the_twilight_saga_new_moon",
+    "gamer",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "next",
+    "thor_love_and_thunder",
+    "poseidon",
+    "jumper",
+    "old",
+    "i_am_number_four",
+    "shadow_in_the_cloud",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "the_new_mutants",
+    "fifty_shades_of_grey",
+    "the_tax_collector",
+    "polar",
+    "the_happening",
+    "wonder_woman_1984",
+    "seven_pounds",
+    "the_mist",
+    "dark_phoenix",
+    "teenage_mutant_ninja_turtles",
+    "the_kissing_booth_2",
+    "the_bye_bye_man",
+    "gods_of_egypt"
   ]
 }

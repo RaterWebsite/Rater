@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This movie is awesome. Low budget and great result. \"Get over here\" of the century."
     }
+  ],
+  "recommendations": [
+    "hitman",
+    "prince_of_persia_the_sands_of_time",
+    "lara_croft_tomb_raider",
+    "doom",
+    "uncharted",
+    "mortal_kombat_annihilation",
+    "spy_kids_3_d_game_over",
+    "resident_evil_damnation",
+    "silent_hill",
+    "tomb_raider",
+    "the_one",
+    "hercules",
+    "tron_legacy",
+    "sonic_the_hedgehog_2",
+    "silent_hill_revelation_3d",
+    "the_three_musketeers",
+    "bloodshot",
+    "aquaman",
+    "rampage",
+    "superman_ii",
+    "final_fantasy_the_spirits_within",
+    "the_last_witch_hunter",
+    "wreck_it_ralph",
+    "bloodsport",
+    "monster_hunter"
   ]
 }

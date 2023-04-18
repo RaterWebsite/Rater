@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "I watched this movie last night and wasn't expecting much out of it cause all the crappy reviews it had. Well I think those reviews are a lot more harsh than needed to be. Sure there were flaws in this movie but overall it was a pretty solid movie. It was entertaining, suspenseful, and overall a story of some father son relationships can be. I liked the story even though it could use more detail but I've seen a lot worse movies than this. I recommend, this movie to anyone interested in a good movie."
     }
+  ],
+  "recommendations": [
+    "sanctum",
+    "seventh_son",
+    "pompeii",
+    "elysium",
+    "terminator_salvation",
+    "captain_marvel",
+    "the_tomorrow_war",
+    "jumper",
+    "infinite",
+    "x_men_apocalypse",
+    "independence_day_resurgence",
+    "code_8",
+    "war_of_the_worlds",
+    "transformers_the_last_knight",
+    "a_wrinkle_in_time",
+    "stowaway",
+    "men_in_black_international",
+    "the_new_mutants",
+    "suicide_squad",
+    "geostorm",
+    "shadow_in_the_cloud",
+    "chaos_walking",
+    "in_time",
+    "skyline",
+    "battleship"
   ]
 }

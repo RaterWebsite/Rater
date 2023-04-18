@@ -56,5 +56,32 @@
       "rating": "3",
       "text": "After watching the movie and reading some reviews, it seems many give it high praise for its vision. Full stop - can't award points on vision. The plot was just a cheaper version of many other movies and shows (Serenity, Riddick, et al.) The plot was hard to follow and full of holes. SPOILER ALERT: how are genetically-engineered monsters who zombify humans into becoming monsters supposed to help colonize future worlds? If there's a secret antidote or kill-switch, explain it better. The ending is one big, poorly explained cliff hanger. It's hard to suspend disbelief if you care more about aerial dogfights and hillbilly gunfights than cohesive story telling."
     }
+  ],
+  "recommendations": [
+    "jupiter_ascending",
+    "pacific_rim_uprising",
+    "independence_day_resurgence",
+    "the_cloverfield_paradox",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "the_last_days_on_mars",
+    "monsters",
+    "the_last_witch_hunter",
+    "captive_state",
+    "sunshine",
+    "cube",
+    "spectral",
+    "riddick",
+    "transformers_the_last_knight",
+    "event_horizon",
+    "clash_of_the_titans",
+    "serenity",
+    "the_tomorrow_war",
+    "mission_to_mars",
+    "project_power",
+    "the_darkest_hour",
+    "surrogates",
+    "moon",
+    "prometheus",
+    "oblivion"
   ]
 }

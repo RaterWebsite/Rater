@@ -224,5 +224,32 @@
       "rating": "9",
       "text": "[***possible SPOILERS***] So I recently went to see a pre-screening in the UK and... Despite tickets getting mailed out too late the screening was pretty full and it was a large auditorium. I recognized a good few faces"
     }
+  ],
+  "recommendations": [
+    "man_of_steel",
+    "rocky_v",
+    "captain_america_the_first_avenger",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "avengers_endgame",
+    "soul_surfer",
+    "black_widow",
+    "x_men_days_of_future_past",
+    "minions_the_rise_of_gru",
+    "x_men_apocalypse",
+    "titanic",
+    "superman",
+    "the_5th_wave",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "thor_ragnarok",
+    "bumblebee",
+    "avengers_infinity_war",
+    "real_steel",
+    "scarface",
+    "top_gun_maverick",
+    "terminator_genisys",
+    "creed",
+    "vanilla_sky",
+    "the_13th_warrior",
+    "spider_man_no_way_home"
   ]
 }

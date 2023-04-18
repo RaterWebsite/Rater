@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "One of the best movies I've seen. The opening miuntes I found myself bored, but the second Daniel Radcliff washes up, the movie takes off. I can't recommend this movie enough. I laughed and cried, and I haven't cried in a movie since \"Radio\". 12/10 would watch again."
     }
+  ],
+  "recommendations": [
+    "the_shape_of_water",
+    "the_lobster",
+    "colossal",
+    "vivarium",
+    "downsizing",
+    "the_men_who_stare_at_goats",
+    "sanctum",
+    "okja",
+    "the_wolf_of_wall_street",
+    "her",
+    "promising_young_woman",
+    "the_grey",
+    "limitless",
+    "tusk",
+    "splice",
+    "no_country_for_old_men",
+    "the_adjustment_bureau",
+    "up_in_the_air",
+    "cloudy_with_a_chance_of_meatballs",
+    "knock_at_the_cabin",
+    "chappie",
+    "babel",
+    "a_quiet_place",
+    "children_of_men",
+    "seeking_a_friend_for_the_end_of_the_world"
   ]
 }

@@ -202,5 +202,32 @@
       "rating": "3",
       "text": "Overall the same movie as \"Non-Stop\", but in a train and not a plane. Liam Neeson is playing the same boring character as always, but, as always, the action is good."
     }
+  ],
+  "recommendations": [
+    "the_mechanic",
+    "unstoppable",
+    "the_equalizer",
+    "3_days_to_kill",
+    "21_bridges",
+    "run_all_night",
+    "the_ice_road",
+    "honest_thief",
+    "den_of_thieves",
+    "angel_has_fallen",
+    "the_accountant",
+    "wrath_of_man",
+    "man_on_a_ledge",
+    "premium_rush",
+    "taken",
+    "cellular",
+    "the_november_man",
+    "triple_frontier",
+    "the_equalizer_2",
+    "escape_plan",
+    "a_walk_among_the_tombstones",
+    "the_call",
+    "seeking_justice",
+    "jack_ryan_shadow_recruit",
+    "the_next_three_days"
   ]
 }

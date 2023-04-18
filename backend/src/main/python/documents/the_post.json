@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "Not as good as Spotlight, but worth seeing. I realize that Hanks and Streep are great actors, but I'm afraid that they are so well known, I can't see them as characters in the movie, I just seem Hanks and Streep. If the movie had less know leads, would have bumped my score up."
     }
+  ],
+  "recommendations": [
+    "darkest_hour",
+    "spotlight",
+    "snowden",
+    "the_mauritanian",
+    "hidden_figures",
+    "patriots_day",
+    "lincoln",
+    "valkyrie",
+    "richard_jewell",
+    "the_imitation_game",
+    "invictus",
+    "judas_and_the_black_messiah",
+    "argo",
+    "just_mercy",
+    "the_social_network",
+    "race",
+    "the_big_short",
+    "hotel_rwanda",
+    "the_monuments_men",
+    "official_secrets",
+    "the_last_duel",
+    "bombshell",
+    "a_beautiful_mind",
+    "denial",
+    "wall_street"
   ]
 }

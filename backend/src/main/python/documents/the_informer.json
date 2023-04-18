@@ -42,5 +42,32 @@
       "rating": "5",
       "text": "A pretty forgettable and predictable thriller.Kinnaman shines, not bad, but nothing ground breaking either."
     }
+  ],
+  "recommendations": [
+    "survivor",
+    "broken_city",
+    "honest_thief",
+    "beyond_the_reach",
+    "welcome_home",
+    "the_commuter",
+    "parker",
+    "street_kings",
+    "momentum",
+    "the_little_things",
+    "wrath_of_man",
+    "man_on_a_ledge",
+    "the_call",
+    "16_blocks",
+    "21_bridges",
+    "triple_frontier",
+    "the_accountant",
+    "son_of_a_gun",
+    "anna",
+    "triple_9",
+    "contraband",
+    "the_trust",
+    "the_good_liar",
+    "the_gunman",
+    "2_guns"
   ]
 }

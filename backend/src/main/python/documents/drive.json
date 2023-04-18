@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Drive is a perfect film.  From the acting to the look of the film to the soundtrack this film is one of my favorites of the year.  I appreciate the art house feel, but I also appreciate that there is the perfect amount of action as well."
     }
+  ],
+  "recommendations": [
+    "hanna",
+    "tenet",
+    "haywire",
+    "the_equalizer_2",
+    "sucker_punch",
+    "hugo",
+    "good_time",
+    "hardcore_henry",
+    "end_of_watch",
+    "red_sparrow",
+    "no_country_for_old_men",
+    "miami_vice",
+    "bad_times_at_the_el_royale",
+    "a_history_of_violence",
+    "blackhat",
+    "the_rover",
+    "the_american",
+    "eastern_promises",
+    "you_were_never_really_here",
+    "bone_tomahawk",
+    "inception",
+    "top_gun",
+    "gemini_man",
+    "enemy",
+    "sicario_day_of_the_soldado"
   ]
 }

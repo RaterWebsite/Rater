@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This is not like any other war movie you've ever seen.  It's much more about the soldiers and what they are thinking about than about the war around them.  If you're looking for an action-shoot 'em up-bombs and explosions movie, this is NOT for you.  Be in the right mood, sit back and absorb this movie."
     }
+  ],
+  "recommendations": [
+    "apocalypse_now",
+    "full_metal_jacket",
+    "dunkirk",
+    "hacksaw_ridge",
+    "das_boot",
+    "the_deer_hunter",
+    "hostiles",
+    "master_and_commander_the_far_side_of_the_world",
+    "1917",
+    "free_state_of_jones",
+    "lone_survivor",
+    "red_tails",
+    "cold_mountain",
+    "jarhead",
+    "the_last_duel",
+    "platoon",
+    "empire_of_the_sun",
+    "letters_from_iwo_jima",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "12_strong",
+    "black_hawk_down",
+    "the_last_samurai",
+    "lord_of_war",
+    "anthropoid",
+    "the_monuments_men"
   ]
 }

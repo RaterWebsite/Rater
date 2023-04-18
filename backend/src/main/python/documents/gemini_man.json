@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "A movie can't stand only on a new tech and forget good writing or basic animation effects."
     }
+  ],
+  "recommendations": [
+    "bloodshot",
+    "jumper",
+    "hercules",
+    "poseidon",
+    "avengers_age_of_ultron",
+    "the_three_musketeers",
+    "the_guardian",
+    "miami_vice",
+    "infinite",
+    "the_suicide_squad",
+    "triple_frontier",
+    "haywire",
+    "into_the_storm",
+    "the_marine",
+    "hanna",
+    "project_power",
+    "transformers_dark_of_the_moon",
+    "lockout",
+    "edge_of_tomorrow",
+    "aquaman",
+    "terminator_genisys",
+    "the_last_witch_hunter",
+    "i_am_number_four",
+    "clash_of_the_titans",
+    "rocknrolla"
   ]
 }

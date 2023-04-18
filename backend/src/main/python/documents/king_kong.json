@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "At least an hour too long. Good performances from all actors, and special effects - but I was completely bored by this stage."
     }
+  ],
+  "recommendations": [
+    "transformers_the_last_knight",
+    "the_hobbit_the_battle_of_the_five_armies",
+    "the_hobbit_the_desolation_of_smaug",
+    "kong_skull_island",
+    "war_of_the_worlds",
+    "king_arthur_legend_of_the_sword",
+    "jurassic_world_dominion",
+    "transformers_age_of_extinction",
+    "jurassic_world_fallen_kingdom",
+    "pearl_harbor",
+    "immortals",
+    "the_matrix_resurrections",
+    "mad_max_fury_road",
+    "geostorm",
+    "poseidon",
+    "underworld_blood_wars",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "independence_day_resurgence",
+    "sanctum",
+    "max_steel",
+    "jonah_hex",
+    "armageddon",
+    "teenage_mutant_ninja_turtles",
+    "into_the_storm",
+    "seventh_son"
   ]
 }

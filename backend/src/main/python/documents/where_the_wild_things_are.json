@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Visually stunning and emotionally exhilarating! A true work of art not to be missed on the big screen."
     }
+  ],
+  "recommendations": [
+    "coraline",
+    "bridge_to_terabithia",
+    "the_polar_express",
+    "soul",
+    "brave",
+    "babel",
+    "happy_feet",
+    "the_good_dinosaur",
+    "flipped",
+    "the_land_before_time",
+    "the_spiderwick_chronicles",
+    "paranorman",
+    "up",
+    "moonrise_kingdom",
+    "the_art_of_racing_in_the_rain",
+    "dora_and_the_lost_city_of_gold",
+    "vivarium",
+    "the_willoughbys",
+    "bambi",
+    "boyhood",
+    "frozen_ii",
+    "okja",
+    "your_name",
+    "pay_it_forward",
+    "the_tree_of_life"
   ]
 }

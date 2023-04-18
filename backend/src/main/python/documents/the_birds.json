@@ -112,5 +112,32 @@
       "rating": "8",
       "text": "If its an Hitchcock film, then its a good film. Also greenscreen and birds."
     }
+  ],
+  "recommendations": [
+    "the_invisible_man",
+    "us",
+    "the_mothman_prophecies",
+    "the_fly",
+    "it_follows",
+    "the_conjuring_the_devil_made_me_do_it",
+    "lights_out",
+    "the_machinist",
+    "a_cure_for_wellness",
+    "ouija_origin_of_evil",
+    "scary_stories_to_tell_in_the_dark",
+    "the_ring",
+    "28_days_later",
+    "the_exorcism_of_emily_rose",
+    "the_others",
+    "the_howling",
+    "the_conjuring_2",
+    "insidious_chapter_3",
+    "the_ritual",
+    "the_killing_of_a_sacred_deer",
+    "the_black_phone",
+    "annabelle_creation",
+    "zodiac",
+    "the_lodge",
+    "no_country_for_old_men"
   ]
 }

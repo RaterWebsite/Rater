@@ -53,5 +53,32 @@
       "rating": "8",
       "text": "The First Stephen King Movie Adaptation that I ever saw, and one of my favorites. It makes you feel bad for Cujo."
     }
+  ],
+  "recommendations": [
+    "secret_window",
+    "pet_sematary",
+    "harry_potter_and_the_goblet_of_fire",
+    "the_raven",
+    "harry_potter_and_the_half_blood_prince",
+    "cold_pursuit",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "the_conjuring_the_devil_made_me_do_it",
+    "1408",
+    "the_punisher",
+    "sin_city_a_dame_to_kill_for",
+    "x_men_origins_wolverine",
+    "spider_man_no_way_home",
+    "batman_the_killing_joke",
+    "the_lovely_bones",
+    "the_maze_runner",
+    "death_note_relight_1_visions_of_a_god",
+    "the_invisible_man",
+    "bumblebee",
+    "i_am_legend",
+    "the_dark_tower",
+    "insidious_chapter_3",
+    "the_spiderwick_chronicles",
+    "the_prestige",
+    "ouija_origin_of_evil"
   ]
 }

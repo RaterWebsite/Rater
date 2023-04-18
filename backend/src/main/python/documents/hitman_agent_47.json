@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "I wont waste to much time on this movie since the director didn't either. Its bad. Its bland. Its all over the place. Its a generic piece of garbage. Its sh-t."
     }
+  ],
+  "recommendations": [
+    "hitman",
+    "tomb_raider",
+    "battleship",
+    "the_old_guard",
+    "xxx_return_of_xander_cage",
+    "the_transporter_refueled",
+    "bloodshot",
+    "lockout",
+    "the_tax_collector",
+    "jumper",
+    "doom",
+    "polar",
+    "lara_croft_tomb_raider",
+    "mortal_kombat_annihilation",
+    "wild_card",
+    "monster_hunter",
+    "gamer",
+    "national_treasure_book_of_secrets",
+    "london_has_fallen",
+    "shadow_in_the_cloud",
+    "mission_impossible_iii",
+    "infinite",
+    "wanted",
+    "teenage_mutant_ninja_turtles",
+    "resident_evil_welcome_to_raccoon_city"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "It was more than what I expected. Great movie."
     }
+  ],
+  "recommendations": [
+    "click",
+    "knocked_up",
+    "this_is_the_end",
+    "step_brothers",
+    "dinner_for_schmucks",
+    "a_million_ways_to_die_in_the_west",
+    "trainwreck",
+    "sandy_wexler",
+    "grown_ups",
+    "zack_and_miri_make_a_porno",
+    "ted_2",
+    "neighbors",
+    "jexi",
+    "the_five_year_engagement",
+    "the_cobbler",
+    "identity_thief",
+    "the_dictator",
+    "the_break_up",
+    "blended",
+    "yes_man",
+    "the_40_year_old_virgin",
+    "ted",
+    "wild_hogs",
+    "tropic_thunder",
+    "forgetting_sarah_marshall"
   ]
 }

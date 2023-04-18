@@ -228,5 +228,32 @@
       "rating": "8",
       "text": "Rango is a hilarious burst of originality, charm and humor with even a bit of chills. The film benefits from dazzling animation and Johnny Depp's colorful vocal performance. The film even succeeds even if it does have a bit too much innuendo. I give this film 83%."
     }
+  ],
+  "recommendations": [
+    "the_croods",
+    "rio",
+    "shaun_the_sheep_movie",
+    "puss_in_boots_the_last_wish",
+    "ratatouille",
+    "atlantis_the_lost_empire",
+    "flushed_away",
+    "the_lego_movie",
+    "kung_fu_panda_2",
+    "cars",
+    "paranorman",
+    "rio_2",
+    "kung_fu_panda",
+    "my_little_pony_the_movie",
+    "ice_age_the_meltdown",
+    "hotel_transylvania",
+    "smurfs_the_lost_village",
+    "meet_the_robinsons",
+    "madagascar",
+    "zootopia",
+    "the_call_of_the_wild",
+    "rise_of_the_guardians",
+    "the_peanuts_movie",
+    "peter_rabbit",
+    "the_lego_batman_movie"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "A good movie . Un poco de humor, cargado de adrenalina. Esto es realmente fantastico. Las actuaciones de sus protagonistas, magistrales. Muy bien por la productora y el director."
     }
+  ],
+  "recommendations": [
+    "the_losers",
+    "keeping_up_with_the_joneses",
+    "rocknrolla",
+    "hancock",
+    "snatch",
+    "thor_the_dark_world",
+    "ant_man_and_the_wasp_quantumania",
+    "kingsman_the_golden_circle",
+    "kingsman_the_secret_service",
+    "copshop",
+    "hercules",
+    "the_a_team",
+    "the_bank_job",
+    "deadpool",
+    "the_family",
+    "lucky_number_slevin",
+    "logan_lucky",
+    "nobody",
+    "deadpool_2",
+    "seven_psychopaths",
+    "the_nice_guys",
+    "the_wolf_of_snow_hollow",
+    "ready_or_not",
+    "boss_level",
+    "shazam_fury_of_the_gods"
   ]
 }

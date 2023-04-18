@@ -179,5 +179,32 @@
       "rating": "5",
       "text": "So Australian. Max is not nearly mad enough, in fact he is downright boring compared to the others around him."
     }
+  ],
+  "recommendations": [
+    "mission_impossible_ii",
+    "the_mechanic",
+    "angel_has_fallen",
+    "mechanic_resurrection",
+    "run_all_night",
+    "mission_impossible_rogue_nation",
+    "the_commuter",
+    "3_days_to_kill",
+    "the_ice_road",
+    "premium_rush",
+    "mission_impossible_ghost_protocol",
+    "mad_max_fury_road",
+    "mad_max_beyond_thunderdome",
+    "the_equalizer",
+    "cold_pursuit",
+    "kingsman_the_golden_circle",
+    "the_last_stand",
+    "the_bourne_legacy",
+    "war",
+    "escape_plan",
+    "mission_impossible_iii",
+    "max_steel",
+    "john_wick",
+    "mission_impossible",
+    "boss_level"
   ]
 }

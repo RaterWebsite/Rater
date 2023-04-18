@@ -35,5 +35,32 @@
       "rating": "7",
       "text": "\"24 Hours to Live\" delivers exactly what is expected from this type of film, and more. The action is relentless, the pacing quick, and the characters serviceable."
     }
+  ],
+  "recommendations": [
+    "infinite",
+    "maze_runner_the_death_cure",
+    "the_matrix_reloaded",
+    "the_mechanic",
+    "the_commuter",
+    "quantum_of_solace",
+    "the_bourne_legacy",
+    "the_equalizer",
+    "the_equalizer_2",
+    "taken_3",
+    "the_ice_road",
+    "the_bourne_ultimatum",
+    "war",
+    "mile_22",
+    "london_has_fallen",
+    "the_matrix_revolutions",
+    "source_code",
+    "blackhat",
+    "skyscraper",
+    "nobody",
+    "escape_plan",
+    "john_wick_chapter_2",
+    "the_magnificent_seven",
+    "max_steel",
+    "the_accountant"
   ]
 }

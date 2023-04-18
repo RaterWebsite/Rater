@@ -56,5 +56,32 @@
       "rating": "10",
       "text": "Very underrated movie. Nicholas Cage and Hayden Christianson\u2019s performances are great. Another strong point of the movie is the great choreography and the good pacing."
     }
+  ],
+  "recommendations": [
+    "abduction",
+    "killers",
+    "catwoman",
+    "the_legend_of_hercules",
+    "ghost_rider",
+    "vanquish",
+    "fantastic_four",
+    "anaconda",
+    "aquaman",
+    "bedazzled",
+    "the_green_hornet",
+    "the_boy_next_door",
+    "suicide_squad",
+    "bullet_to_the_head",
+    "the_expendables_3",
+    "rogue_hostage",
+    "the_day_the_earth_stood_still",
+    "mighty_morphin_power_rangers_the_movie",
+    "sherlock_gnomes",
+    "miami_vice",
+    "the_italian_job",
+    "the_marine",
+    "mortal_kombat_annihilation",
+    "dolittle",
+    "dark_phoenix"
   ]
 }

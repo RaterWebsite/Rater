@@ -67,5 +67,32 @@
       "rating": "2",
       "text": "Felt very long like it should have been a 20 minute youtube video not a fully movie. Honestly was so boring it made me want to sleep."
     }
+  ],
+  "recommendations": [
+    "the_green_knight",
+    "the_killing_of_a_sacred_deer",
+    "you_were_never_really_here",
+    "the_brothers_grimm",
+    "blade_runner_2049",
+    "amulet",
+    "us",
+    "the_ballad_of_buster_scruggs",
+    "ex_machina",
+    "the_favourite",
+    "color_out_of_space",
+    "the_neon_demon",
+    "nocturnal_animals",
+    "terminal",
+    "trance",
+    "bone_tomahawk",
+    "the_grand_budapest_hotel",
+    "eyes_wide_shut",
+    "the_french_dispatch",
+    "titane",
+    "sicario_day_of_the_soldado",
+    "the_nutcracker_and_the_four_realms",
+    "hugo",
+    "the_fly",
+    "the_rover"
   ]
 }

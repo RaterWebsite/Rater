@@ -101,5 +101,32 @@
       "rating": "8",
       "text": "----------------------------------8.0/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "hotel_rwanda",
+    "donnie_brasco",
+    "blood_diamond",
+    "the_blind_side",
+    "sin_nombre",
+    "hereafter",
+    "fighting_with_my_family",
+    "the_help",
+    "manchester_by_the_sea",
+    "captain_fantastic",
+    "invictus",
+    "good_will_hunting",
+    "pay_it_forward",
+    "her",
+    "hidden_figures",
+    "3_idiots",
+    "no_country_for_old_men",
+    "bicentennial_man",
+    "chappie",
+    "revolutionary_road",
+    "the_upside",
+    "wonder_woman",
+    "me_before_you",
+    "only_the_brave",
+    "falling_down"
   ]
 }

@@ -28,5 +28,32 @@
       "rating": "8",
       "text": "An interesting and effective chilling horror story...also great period piece!"
     }
+  ],
+  "recommendations": [
+    "suspiria",
+    "crimson_peak",
+    "hellraiser",
+    "sleepy_hollow",
+    "the_shining",
+    "candyman",
+    "the_haunting",
+    "the_conjuring_2",
+    "tron",
+    "the_conjuring",
+    "the_babadook",
+    "antlers",
+    "oblivion",
+    "the_others",
+    "the_fly",
+    "haunt",
+    "scary_stories_to_tell_in_the_dark",
+    "ghost_in_the_shell",
+    "event_horizon",
+    "it_follows",
+    "his_house",
+    "the_descent",
+    "an_american_werewolf_in_london",
+    "the_woman_in_black",
+    "swamp_thing"
   ]
 }

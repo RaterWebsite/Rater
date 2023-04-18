@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "It's not perfect but I still enjoyed it. There are still too much human for me. I might give it a second watch. Do not expect Academy Award level of writing. It is a kaiju film. Not an Oscar one."
     }
+  ],
+  "recommendations": [
+    "kong_skull_island",
+    "pacific_rim",
+    "battle_los_angeles",
+    "monster_hunter",
+    "rampage",
+    "underworld_awakening",
+    "rise_of_the_planet_of_the_apes",
+    "morbius",
+    "riddick",
+    "the_matrix_revolutions",
+    "300_rise_of_an_empire",
+    "final_fantasy_the_spirits_within",
+    "world_war_z",
+    "underworld",
+    "predators",
+    "underworld_blood_wars",
+    "jupiter_ascending",
+    "the_matrix_reloaded",
+    "mad_max_fury_road",
+    "transformers_dark_of_the_moon",
+    "the_great_wall",
+    "independence_day",
+    "transformers",
+    "the_last_witch_hunter",
+    "predator"
   ]
 }

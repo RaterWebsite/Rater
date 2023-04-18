@@ -73,5 +73,32 @@
       "rating": "10",
       "text": "Loved the movie. I honestly do not understand the low critic scores for it."
     }
+  ],
+  "recommendations": [
+    "the_spectacular_now",
+    "if_i_stay",
+    "the_notebook",
+    "the_vow",
+    "a_walk_to_remember",
+    "we_bought_a_zoo",
+    "the_lake_house",
+    "instant_family",
+    "spanglish",
+    "the_edge_of_seventeen",
+    "silver_linings_playbook",
+    "the_king_of_staten_island",
+    "magic_mikes_last_dance",
+    "the_lucky_one",
+    "17_again",
+    "chef",
+    "the_fault_in_our_stars",
+    "me_before_you",
+    "lady_bird",
+    "the_last_song",
+    "the_perks_of_being_a_wallflower",
+    "the_curious_case_of_benjamin_button",
+    "juno",
+    "the_intern",
+    "the_holiday"
   ]
 }

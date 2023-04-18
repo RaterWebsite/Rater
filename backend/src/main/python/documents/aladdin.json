@@ -116,5 +116,32 @@
       "rating": "10",
       "text": "With its masterly crafted story, grand animation, charming characters and unforgettable songs, Aladin delivers an adventure you will never forget."
     }
+  ],
+  "recommendations": [
+    "the_lion_king",
+    "moana",
+    "the_princess_and_the_frog",
+    "finding_nemo",
+    "pocahontas",
+    "the_prince_of_egypt",
+    "toy_story",
+    "treasure_planet",
+    "tangled",
+    "the_little_mermaid",
+    "the_road_to_el_dorado",
+    "tarzan",
+    "the_sword_in_the_stone",
+    "vivo",
+    "toy_story_2",
+    "winnie_the_pooh_blood_and_honey",
+    "the_polar_express",
+    "rio_2",
+    "sing",
+    "klaus",
+    "anastasia",
+    "over_the_moon",
+    "mulan",
+    "trolls",
+    "luca"
   ]
 }

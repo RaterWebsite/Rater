@@ -126,5 +126,32 @@
       "rating": "10",
       "text": "What's not to love?! It has dogs who talk and it's hilarious! The bee part was definitely my favorite. Lots of good actors in the film as well. My kids and I love it! I think the critics are very harsh with the reviews. It's a very good movie! Marmaduke is my favorite dog movie."
     }
+  ],
+  "recommendations": [
+    "garfield_a_tail_of_two_kitties",
+    "alvin_and_the_chipmunks",
+    "zookeeper",
+    "yogi_bear",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "ice_age_the_meltdown",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "ice_age_dawn_of_the_dinosaurs",
+    "hotel_transylvania",
+    "chicken_little",
+    "the_smurfs",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "the_angry_birds_movie",
+    "herbie_fully_loaded",
+    "spies_in_disguise",
+    "kangaroo_jack",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "hotel_transylvania_2",
+    "barnyard",
+    "minions",
+    "the_game_plan",
+    "beverly_hills_chihuahua",
+    "hannah_montana_the_movie",
+    "captain_underpants_the_first_epic_movie",
+    "the_spongebob_movie_sponge_out_of_water"
   ]
 }

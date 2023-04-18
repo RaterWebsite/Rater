@@ -116,5 +116,32 @@
       "rating": "10",
       "text": "Of course, it's the movie for the children. However, MLP fans since 1980s also can enjoy this movie."
     }
+  ],
+  "recommendations": [
+    "my_little_pony_the_movie",
+    "the_lego_movie_2_the_second_part",
+    "rio_2",
+    "ice_age_the_meltdown",
+    "how_to_train_your_dragon_2",
+    "onward",
+    "raya_and_the_last_dragon",
+    "the_croods",
+    "atlantis_the_lost_empire",
+    "frozen_ii",
+    "zootopia",
+    "moana",
+    "rise_of_the_guardians",
+    "the_peanuts_movie",
+    "the_good_dinosaur",
+    "ferdinand",
+    "big_hero_6",
+    "bolt",
+    "smurfs_the_lost_village",
+    "finding_dory",
+    "brave",
+    "trolls",
+    "incredibles_2",
+    "trolls_world_tour",
+    "meet_the_robinsons"
   ]
 }

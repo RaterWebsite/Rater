@@ -36,5 +36,32 @@
       "rating": "5",
       "text": "just fine, although not scary at all :(maybe I did not catch something but title has almost nothing to do with the movie itselft"
     }
+  ],
+  "recommendations": [
+    "godzilla",
+    "dominion_prequel_to_the_exorcist",
+    "the_legend_of_la_llorona",
+    "the_ninth_gate",
+    "the_rite",
+    "night_of_the_living_dead",
+    "dawn_of_the_dead",
+    "his_house",
+    "the_remaining",
+    "darkness_falls",
+    "constantine",
+    "the_unborn",
+    "halloween_ends",
+    "munich",
+    "22_july",
+    "hellraiser",
+    "the_autopsy_of_jane_doe",
+    "before_i_wake",
+    "land_of_the_dead",
+    "voyagers",
+    "the_crazies",
+    "1408",
+    "28_days_later",
+    "alien_covenant",
+    "escape_from_the_planet_of_the_apes"
   ]
 }

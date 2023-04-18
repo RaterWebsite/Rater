@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "A bit of a disappointment for me. While visually stunning and with incredible music, the tempo is uneven and the movie is sometimes boring. But at least a few truly incredible parts, bring this movie to 7/10 for me."
     }
+  ],
+  "recommendations": [
+    "alita_battle_angel",
+    "oblivion",
+    "the_adventures_of_tintin",
+    "oz_the_great_and_powerful",
+    "top_gun_maverick",
+    "john_carter",
+    "pan",
+    "aquaman",
+    "the_fifth_element",
+    "the_three_musketeers",
+    "tron",
+    "tomorrowland",
+    "avengers_age_of_ultron",
+    "dredd",
+    "cruella",
+    "edge_of_tomorrow",
+    "kung_fu_panda_2",
+    "jupiter_ascending",
+    "super_8",
+    "hercules",
+    "gemini_man",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "blade_of_the_47_ronin",
+    "morbius",
+    "king_arthur_legend_of_the_sword"
   ]
 }

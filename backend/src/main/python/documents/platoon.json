@@ -106,5 +106,32 @@
       "rating": "4",
       "text": "I found the movie extremely negative about the Vietnam War (the country I currently live in) the movie that misrepresents the American soldiers describing what they did, but it was very cruel to the people of Vietnam and to the soldiers. again. Although the US is now a friend of Vietnam, this movie has haunted me"
     }
+  ],
+  "recommendations": [
+    "black_hawk_down",
+    "hacksaw_ridge",
+    "we_were_soldiers",
+    "the_deer_hunter",
+    "full_metal_jacket",
+    "the_patriot",
+    "enemy_at_the_gates",
+    "saving_private_ryan",
+    "the_thin_red_line",
+    "apocalypse_now",
+    "captain_america_civil_war",
+    "cold_mountain",
+    "12_strong",
+    "fury",
+    "darkest_hour",
+    "hostiles",
+    "the_imitation_game",
+    "the_last_duel",
+    "captain_america_the_winter_soldier",
+    "the_eagle",
+    "free_state_of_jones",
+    "the_last_samurai",
+    "rogue_one_a_star_wars_story",
+    "empire_of_the_sun",
+    "13_hours_the_secret_soldiers_of_benghazi"
   ]
 }

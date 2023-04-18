@@ -167,5 +167,32 @@
       "rating": "10",
       "text": "Cool movie. An interesting plot. Not a banal ending. Good actors. What else do you need for a good movie ?"
     }
+  ],
+  "recommendations": [
+    "the_purge_election_year",
+    "what_happened_to_monday",
+    "limitless",
+    "code_8",
+    "london_has_fallen",
+    "the_tomorrow_war",
+    "taken",
+    "surrogates",
+    "the_invasion",
+    "elysium",
+    "colossal",
+    "the_book_of_eli",
+    "infinite",
+    "lucy",
+    "x_men_apocalypse",
+    "the_kingdom",
+    "next",
+    "guns_akimbo",
+    "maze_runner_the_scorch_trials",
+    "cold_pursuit",
+    "i_am_legend",
+    "brightburn",
+    "bright",
+    "riddick",
+    "chaos_walking"
   ]
 }

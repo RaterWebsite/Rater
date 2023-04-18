@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "For a movie we saw simply because our current movie wasn't playing at the time, this was an absolutely hysterical movie that I really liked. I don't really remember the first one but I'd fully recommend this to anyone needing a good laugh."
     }
+  ],
+  "recommendations": [
+    "deadpool_2",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "minions",
+    "thor_love_and_thunder",
+    "the_a_team",
+    "the_green_hornet",
+    "pitch_perfect_2",
+    "deadpool",
+    "venom_let_there_be_carnage",
+    "shazam_fury_of_the_gods",
+    "the_spongebob_movie_sponge_out_of_water",
+    "despicable_me_2",
+    "hancock",
+    "the_hangover_part_ii",
+    "megamind",
+    "jumanji_the_next_level",
+    "peter_rabbit",
+    "guardians_of_the_galaxy",
+    "ghostbusters_ii",
+    "monsters_vs_aliens",
+    "ted_2",
+    "the_hangover_part_iii",
+    "baywatch",
+    "zoolander_2",
+    "entourage"
   ]
 }

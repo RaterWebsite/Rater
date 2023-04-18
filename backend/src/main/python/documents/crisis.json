@@ -46,5 +46,32 @@
       "rating": "10",
       "text": "Great movie. Make sure to see it. It's about the problems our society has with opioids. The actors are very good, especially Evangeline Lily who plays architect  whose son does not come home from school. Find out what happens. You will love this movie."
     }
+  ],
+  "recommendations": [
+    "the_ultimate_gift",
+    "we_are_your_friends",
+    "the_lucky_one",
+    "good_will_hunting",
+    "21",
+    "backdraft",
+    "17_again",
+    "the_italian_job",
+    "american_hustle",
+    "breach",
+    "abduction",
+    "the_king_of_staten_island",
+    "passengers",
+    "the_vow",
+    "the_blind_side",
+    "the_karate_kid_part_ii",
+    "american_gangster",
+    "the_boy_next_door",
+    "the_usual_suspects",
+    "10_things_i_hate_about_you",
+    "the_professor_and_the_madman",
+    "ghostbusters",
+    "triple_frontier",
+    "alex_cross",
+    "changeling"
   ]
 }

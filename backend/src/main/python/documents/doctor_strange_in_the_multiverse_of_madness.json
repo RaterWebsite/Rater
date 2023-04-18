@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "The story of the movie was nonsenseIt was bad at all, not at all like Doctor Strange, it was just a fight between womenIt would have been better if the name of the movie was about Wanda Vision rather than Doctor StrangeSorry for the dumbass Marvel"
     }
+  ],
+  "recommendations": [
+    "the_matrix_resurrections",
+    "wonder_woman_1984",
+    "shadow_in_the_cloud",
+    "teenage_mutant_ninja_turtles",
+    "suicide_squad",
+    "the_new_mutants",
+    "the_emoji_movie",
+    "the_day_the_earth_stood_still",
+    "transformers_revenge_of_the_fallen",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "battleship",
+    "legion",
+    "national_treasure_book_of_secrets",
+    "transformers_the_last_knight",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "independence_day_resurgence",
+    "dragonball_evolution",
+    "the_twilight_saga_eclipse",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "the_old_guard",
+    "the_tomorrow_war",
+    "2012",
+    "geostorm",
+    "poseidon",
+    "space_jam_a_new_legacy"
   ]
 }

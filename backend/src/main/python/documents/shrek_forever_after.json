@@ -228,5 +228,32 @@
       "rating": "7",
       "text": "Although I love animation, I've never been a fan of the Shrek franchise.  This movie took me by surprise.  The first Shrek movie was good (not great) thanks to Eddie Murphy, but Shrek 2 was awful.  I never saw the 3rd installment.  I've never liked the weird Irish accent for Shrek that Mike Myers provides.  It doesn't fit for me and I find it distracting.  Why is he Irish when nobody else is?  My friend talked me into going to see this one and it turned out to be a good animated movie - maybe even the best of the Shrek movies.  The script is WAY better than Shrek 2 and had some good laughs and good animation and it held my attention the entire way.  The 3D was good, not great, and probably not worth the extra cost, as 3D mutes the colors due to the dark glasses."
     }
+  ],
+  "recommendations": [
+    "shrek_2",
+    "shrek_the_third",
+    "shrek",
+    "enchanted",
+    "flipped",
+    "peter_rabbit_2_the_runaway",
+    "christopher_robin",
+    "the_notebook",
+    "about_time",
+    "if_i_stay",
+    "a_street_cat_named_bob",
+    "onward",
+    "the_land_before_time",
+    "love_actually",
+    "eat_pray_love",
+    "life_as_we_know_it",
+    "labyrinth",
+    "bridge_to_terabithia",
+    "the_polar_express",
+    "justin_bieber_our_world",
+    "brave",
+    "finding_nemo",
+    "the_lake_house",
+    "the_willoughbys",
+    "endless_love"
   ]
 }

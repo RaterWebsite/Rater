@@ -173,5 +173,32 @@
       "rating": "7",
       "text": "z jednej strony ciekawy i dobrze zagrany, z drugiej za\u015b moim zdaniem nieco zbyt rozwleczony oraz zbyt prosty i przewidywalny. Przynajmniej klimat na plus"
     }
+  ],
+  "recommendations": [
+    "nocturnal_animals",
+    "the_grand_budapest_hotel",
+    "chinatown",
+    "hell_or_high_water",
+    "the_score",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "kingdom_of_heaven",
+    "the_dig",
+    "the_sting",
+    "the_french_dispatch",
+    "catch_me_if_you_can",
+    "casino",
+    "the_name_of_the_rose",
+    "anna_karenina",
+    "the_godfather_part_ii",
+    "a_most_violent_year",
+    "wall_street",
+    "rear_window",
+    "the_hurricane",
+    "murder_on_the_orient_express",
+    "sicario",
+    "news_of_the_world",
+    "insomnia",
+    "all_the_money_in_the_world",
+    "tulip_fever"
   ]
 }

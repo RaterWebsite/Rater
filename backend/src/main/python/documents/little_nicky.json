@@ -113,5 +113,32 @@
       "rating": "6",
       "text": "Even though Little Nicky had my favorite director Quentin Tarantino in it, it doesn't make me say it's the only thing that disappoints me about this movie."
     }
+  ],
+  "recommendations": [
+    "grown_ups",
+    "yes_man",
+    "the_longest_yard",
+    "sandy_wexler",
+    "blended",
+    "just_go_with_it",
+    "hubie_halloween",
+    "dumb_and_dumber",
+    "zack_and_miri_make_a_porno",
+    "tropic_thunder",
+    "click",
+    "just_friends",
+    "norbit",
+    "jack_and_jill",
+    "step_brothers",
+    "ted",
+    "dumb_and_dumber_to",
+    "dinner_for_schmucks",
+    "meet_the_parents",
+    "50_first_dates",
+    "forgetting_sarah_marshall",
+    "american_pie_2",
+    "ace_ventura_when_nature_calls",
+    "horrible_bosses",
+    "masterminds"
   ]
 }

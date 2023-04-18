@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Solid film for the time. It set out what a typical movies sets out to do and that\u2019s entertain the audience."
     }
+  ],
+  "recommendations": [
+    "van_helsing",
+    "underworld_blood_wars",
+    "underworld_awakening",
+    "the_last_witch_hunter",
+    "immortals",
+    "kong_skull_island",
+    "abraham_lincoln_vampire_hunter",
+    "priest",
+    "underworld_evolution",
+    "the_meg",
+    "bloodshot",
+    "hercules",
+    "transformers",
+    "riddick",
+    "blade_trinity",
+    "predator_2",
+    "transformers_dark_of_the_moon",
+    "rampage",
+    "the_shallows",
+    "blade",
+    "clash_of_the_titans",
+    "daybreakers",
+    "kate",
+    "300_rise_of_an_empire",
+    "resident_evil_apocalypse"
   ]
 }

@@ -198,5 +198,32 @@
       "rating": "10",
       "text": "Another timeless action classic robocop's practical effects have up stood the test of time very well too bad it was followed by terrible sequels."
     }
+  ],
+  "recommendations": [
+    "upgrade",
+    "they_live",
+    "hardcore_henry",
+    "the_terminator",
+    "the_matrix",
+    "the_league_of_extraordinary_gentlemen",
+    "dredd",
+    "abraham_lincoln_vampire_hunter",
+    "the_invasion",
+    "surrogates",
+    "total_recall",
+    "the_equalizer",
+    "copshop",
+    "rampage",
+    "the_scorpion_king",
+    "the_purge_election_year",
+    "minority_report",
+    "equilibrium",
+    "terminator_2_judgment_day",
+    "bone_tomahawk",
+    "avengers_age_of_ultron",
+    "king_arthur_legend_of_the_sword",
+    "thor_the_dark_world",
+    "ant_man_and_the_wasp_quantumania",
+    "the_matrix_reloaded"
   ]
 }

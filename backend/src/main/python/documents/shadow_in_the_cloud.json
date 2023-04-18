@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "This film surprised me in a way I didn't expect. Reading the plot for the film, I thought it was a ridiculous/poor idea for a film to combine sci-fi with war. But after watching it, I am happy to say that this movie was better than expected. In no way is the movie perfect, but combine the surprisingly awesome actions scenes and great performances from Moretz and Robinson, this film is perfect for anyone looking for a fun action movie."
     }
+  ],
+  "recommendations": [
+    "wonder_woman_1984",
+    "geostorm",
+    "the_old_guard",
+    "battleship",
+    "the_tomorrow_war",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "transformers_the_last_knight",
+    "army_of_the_dead",
+    "national_treasure_book_of_secrets",
+    "wanted",
+    "knowing",
+    "the_new_mutants",
+    "jumper",
+    "legion",
+    "infinite",
+    "2012",
+    "transformers_age_of_extinction",
+    "teenage_mutant_ninja_turtles",
+    "bird_box",
+    "next",
+    "the_tax_collector",
+    "polar",
+    "transformers_revenge_of_the_fallen",
+    "suicide_squad",
+    "the_twilight_saga_breaking_dawn_part_1"
   ]
 }

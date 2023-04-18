@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "every movie made by Stanley Kubrick is great and worth to watch this movie as well being bad is way too far from kubrick only great and perfect fits for the way he used to directing."
     }
+  ],
+  "recommendations": [
+    "the_master",
+    "you_were_never_really_here",
+    "black_swan",
+    "titane",
+    "the_fountain",
+    "antichrist",
+    "ex_machina",
+    "roma",
+    "under_the_skin",
+    "donnie_darko",
+    "barry_lyndon",
+    "a_clockwork_orange",
+    "the_green_knight",
+    "the_killing_of_a_sacred_deer",
+    "trance",
+    "the_walk",
+    "the_neon_demon",
+    "inception",
+    "enemy",
+    "nocturnal_animals",
+    "the_good_shepherd",
+    "perfume_the_story_of_a_murderer",
+    "cloud_atlas",
+    "first_man",
+    "the_cell"
   ]
 }

@@ -59,5 +59,32 @@
       "rating": "6",
       "text": "La m\u00fasica es buena, pero la trama es muy simple y poco memorable; la recomiendo a ni\u00f1os peque\u00f1os."
     }
+  ],
+  "recommendations": [
+    "the_fox_and_the_hound",
+    "the_many_adventures_of_winnie_the_pooh",
+    "the_jungle_book",
+    "aladdin",
+    "tangled",
+    "the_princess_and_the_frog",
+    "winnie_the_pooh_blood_and_honey",
+    "mary_poppins",
+    "the_sword_in_the_stone",
+    "the_little_mermaid",
+    "the_nightmare_before_christmas",
+    "sing",
+    "vivo",
+    "trolls",
+    "moana",
+    "cats",
+    "pocahontas",
+    "tarzan",
+    "mary_poppins_returns",
+    "the_lion_king",
+    "anastasia",
+    "grease",
+    "rio",
+    "the_hunchback_of_notre_dame",
+    "brother_bear"
   ]
 }

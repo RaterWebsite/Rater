@@ -66,5 +66,32 @@
       "rating": "7",
       "text": "This is possibly the most 90s film ever made, every single person that pops up on screen is a 'that guy'. Lithgow is giving such a wild in and out accent performance I was floored by the it."
     }
+  ],
+  "recommendations": [
+    "survivor",
+    "mission_impossible",
+    "jiu_jitsu",
+    "mission_impossible_ii",
+    "upgrade",
+    "haywire",
+    "the_bourne_supremacy",
+    "atomic_blonde",
+    "mission_impossible_ghost_protocol",
+    "no_sudden_move",
+    "kate",
+    "copshop",
+    "spy_game",
+    "bone_tomahawk",
+    "wrath_of_man",
+    "the_harder_they_fall",
+    "hellboy",
+    "heat",
+    "triple_frontier",
+    "the_terminator",
+    "jackie_brown",
+    "lethal_weapon_2",
+    "blade_ii",
+    "speed",
+    "hunter_killer"
   ]
 }

@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "As unfunny as it is trashy. You forget it's a parody of a horror movie. Get a barf bag and the sensibilities of a 12 year old."
     }
+  ],
+  "recommendations": [
+    "scary_movie_2",
+    "superhero_movie",
+    "scary_movie_4",
+    "scary_movie_3",
+    "a_haunted_house",
+    "the_watch",
+    "not_another_teen_movie",
+    "hot_fuzz",
+    "the_dictator",
+    "eurotrip",
+    "white_chicks",
+    "scary_movie_5",
+    "epic_movie",
+    "miss_march",
+    "vampires_suck",
+    "the_hangover",
+    "hot_tub_time_machine",
+    "the_three_stooges",
+    "one_year_one_night",
+    "nacho_libre",
+    "jackass_presents_bad_grandpa",
+    "dumb_and_dumber",
+    "30_minutes_or_less",
+    "meet_the_spartans",
+    "anchorman_2_the_legend_continues"
   ]
 }

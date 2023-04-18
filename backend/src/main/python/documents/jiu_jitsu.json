@@ -118,5 +118,32 @@
       "rating": "10",
       "text": "filme gostoso,filme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostosofilme gostoso"
     }
+  ],
+  "recommendations": [
+    "haywire",
+    "triple_frontier",
+    "bloodshot",
+    "the_one",
+    "project_power",
+    "the_three_musketeers",
+    "wrath_of_man",
+    "gemini_man",
+    "kate",
+    "mission_impossible_ii",
+    "the_transporter_refueled",
+    "hercules",
+    "clash_of_the_titans",
+    "gunpowder_milkshake",
+    "fantastic_four",
+    "the_equalizer_2",
+    "the_equalizer",
+    "safe",
+    "desperado",
+    "skyscraper",
+    "sabotage",
+    "pacific_rim_uprising",
+    "miami_vice",
+    "extraction",
+    "xxx_return_of_xander_cage"
   ]
 }

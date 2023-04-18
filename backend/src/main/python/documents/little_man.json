@@ -181,5 +181,32 @@
       "rating": "10",
       "text": "i wish marlon and his brother could direct this movie . i still love the comedy . the Wayans Brothers are hilarous in white chicks and scary movie but this is even better . but i wish they had little man 2."
     }
+  ],
+  "recommendations": [
+    "scary_movie_5",
+    "white_chicks",
+    "deuce_bigalow_european_gigolo",
+    "a_haunted_house",
+    "miss_march",
+    "grown_ups",
+    "the_hangover",
+    "ted",
+    "norbit",
+    "hot_tub_time_machine",
+    "not_another_teen_movie",
+    "one_year_one_night",
+    "epic_movie",
+    "nacho_libre",
+    "vampires_suck",
+    "the_dictator",
+    "the_watch",
+    "grown_ups_2",
+    "kangaroo_jack",
+    "meet_the_spartans",
+    "jackass_presents_bad_grandpa",
+    "dumb_and_dumber_to",
+    "the_change_up",
+    "old_dogs",
+    "knocked_up"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This is my first movie review I have ever done. I watched the film looking for a \"normal\" movie. Instead of that I Realized that this is one of the best movies I\u00b4ve ever seen in my life.  Very touching and breathtaking."
     }
+  ],
+  "recommendations": [
+    "manchester_by_the_sea",
+    "only_the_brave",
+    "the_florida_project",
+    "hotel_rwanda",
+    "first_they_killed_my_father",
+    "21_grams",
+    "legends_of_the_fall",
+    "just_mercy",
+    "the_boy_who_harnessed_the_wind",
+    "melancholia",
+    "blue_valentine",
+    "the_light_between_oceans",
+    "a_monster_calls",
+    "lion",
+    "the_descendants",
+    "12_years_a_slave",
+    "the_hunt",
+    "minari",
+    "the_last_king_of_scotland",
+    "the_road",
+    "leave_no_trace",
+    "collateral_beauty",
+    "call_me_by_your_name",
+    "revolutionary_road",
+    "marriage_story"
   ]
 }

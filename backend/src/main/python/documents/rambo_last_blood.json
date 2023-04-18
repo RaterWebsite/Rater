@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This movie was made for Rambo fans.  It delivers what they would want.  This is not a straight to video like Escape Plan 2.  Surprisingly solid production values."
     }
+  ],
+  "recommendations": [
+    "rambo",
+    "underworld_evolution",
+    "eagle_eye",
+    "bright",
+    "hercules",
+    "the_a_team",
+    "the_expendables",
+    "the_marine",
+    "polar",
+    "rambo_first_blood_part_ii",
+    "underworld_awakening",
+    "underworld_blood_wars",
+    "the_expendables_2",
+    "red_dawn",
+    "venom_let_there_be_carnage",
+    "ninja_assassin",
+    "i_am_number_four",
+    "predator",
+    "punisher_war_zone",
+    "crank_high_voltage",
+    "the_expendables_3",
+    "salt",
+    "gamer",
+    "gods_of_egypt",
+    "gemini_man"
   ]
 }

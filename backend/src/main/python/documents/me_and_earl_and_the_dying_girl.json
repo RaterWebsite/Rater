@@ -201,5 +201,32 @@
       "rating": "8",
       "text": "Walks a fine line between poignant and chessy, and on the whole it stays on the right side.A touching movie, with just the right amount of humour."
     }
+  ],
+  "recommendations": [
+    "the_edge_of_seventeen",
+    "moonrise_kingdom",
+    "eddie_the_eagle",
+    "10_things_i_hate_about_you",
+    "the_spectacular_now",
+    "the_fault_in_our_stars",
+    "instant_family",
+    "lady_bird",
+    "the_perks_of_being_a_wallflower",
+    "the_upside",
+    "the_big_sick",
+    "booksmart",
+    "paddington_2",
+    "the_king_of_staten_island",
+    "me_before_you",
+    "groundhog_day",
+    "the_intern",
+    "the_royal_tenenbaums",
+    "eternal_sunshine_of_the_spotless_mind",
+    "silver_linings_playbook",
+    "little_miss_sunshine",
+    "christopher_robin",
+    "hugo",
+    "palm_springs",
+    "jojo_rabbit"
   ]
 }

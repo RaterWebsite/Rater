@@ -105,5 +105,32 @@
       "rating": "6",
       "text": "It's okay but Willem Dafoe's performance is great. Music is also really good."
     }
+  ],
+  "recommendations": [
+    "klaus",
+    "how_to_train_your_dragon",
+    "peter_pan",
+    "up",
+    "stardust",
+    "eight_below",
+    "onward",
+    "soul",
+    "zootopia",
+    "titanic",
+    "wish_dragon",
+    "rio",
+    "the_incredibles",
+    "tron_legacy",
+    "the_princess_bride",
+    "alita_battle_angel",
+    "how_to_train_your_dragon_2",
+    "the_ultimate_gift",
+    "forrest_gump",
+    "wolfwalkers",
+    "the_adventures_of_tintin",
+    "kung_fu_panda_3",
+    "the_polar_express",
+    "atlantis_the_lost_empire",
+    "the_book_of_life"
   ]
 }

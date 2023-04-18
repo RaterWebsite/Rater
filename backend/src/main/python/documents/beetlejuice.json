@@ -221,5 +221,32 @@
       "rating": "7",
       "text": "Barbara, you don't know what's out there! We did find out though in this fantastic comedy. There is a great story, lots of effects but these effects are really dated now. I don't watch it for the effects, I love the character of Betelgeuse and the other characters are so well defined that you either love or hate them just the way you should in a film. It is dark and funny. It is not normal and that is why it is so good."
     }
+  ],
+  "recommendations": [
+    "dark_shadows",
+    "ghostbusters",
+    "charlie_and_the_chocolate_factory",
+    "edward_scissorhands",
+    "the_royal_tenenbaums",
+    "corpse_bride",
+    "alice_in_wonderland",
+    "frankenweenie",
+    "paddington_2",
+    "seven_psychopaths",
+    "ghostbusters_ii",
+    "the_princess_bride",
+    "robots",
+    "the_house_with_a_clock_in_its_walls",
+    "shazam",
+    "the_babysitter",
+    "oz_the_great_and_powerful",
+    "jumanji_the_next_level",
+    "hotel_transylvania_2",
+    "how_the_grinch_stole_christmas",
+    "it",
+    "spies_in_disguise",
+    "ice_age",
+    "despicable_me_2",
+    "the_lego_batman_movie"
   ]
 }

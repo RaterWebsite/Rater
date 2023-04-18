@@ -43,5 +43,32 @@
       "rating": "5",
       "text": "Drumline contains some good ideas, but the execution is bad. None of the situations go far enough dramatically, and none of the drumline sequences make enough of an impact on you."
     }
+  ],
+  "recommendations": [
+    "unknown",
+    "flight_of_the_phoenix",
+    "rocknrolla",
+    "grudge",
+    "the_prestige",
+    "now_you_see_me",
+    "the_karate_kid_part_iii",
+    "project_power",
+    "the_usual_suspects",
+    "now_you_see_me_2",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_number_23",
+    "hercules",
+    "army_of_thieves",
+    "hancock",
+    "lucky_number_slevin",
+    "oz_the_great_and_powerful",
+    "gone_girl",
+    "avengers_age_of_ultron",
+    "the_equalizer_2",
+    "what_happened_to_monday",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_suicide_squad",
+    "tenet"
   ]
 }

@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Una experiencia muy buena, es profunda y tiene un muy buen mensaje sobre el respeto."
     }
+  ],
+  "recommendations": [
+    "the_perks_of_being_a_wallflower",
+    "captain_fantastic",
+    "miracles_from_heaven",
+    "the_glass_castle",
+    "lady_bird",
+    "me_before_you",
+    "i_kill_giants",
+    "the_florida_project",
+    "the_spectacular_now",
+    "instant_family",
+    "the_big_sick",
+    "the_hunt",
+    "freedom_writers",
+    "christopher_robin",
+    "collateral_beauty",
+    "midnight_sun",
+    "young_adult",
+    "flipped",
+    "about_a_boy",
+    "the_fault_in_our_stars",
+    "moonrise_kingdom",
+    "the_book_of_henry",
+    "blue_valentine",
+    "all_the_bright_places",
+    "her"
   ]
 }

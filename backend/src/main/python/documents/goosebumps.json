@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "I use to be into goosebumps as a kid. Love the show too. I have to admit this was an awesome movie."
     }
+  ],
+  "recommendations": [
+    "minions",
+    "hotel_transylvania_2",
+    "despicable_me_2",
+    "shazam",
+    "the_house_with_a_clock_in_its_walls",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_babysitter",
+    "cloudy_with_a_chance_of_meatballs",
+    "peter_rabbit",
+    "monster_house",
+    "the_lego_movie",
+    "incredibles_2",
+    "jumanji_welcome_to_the_jungle",
+    "megamind",
+    "hotel_transylvania",
+    "the_cobbler",
+    "goosebumps_2_haunted_halloween",
+    "monsters_vs_aliens",
+    "the_smurfs",
+    "ice_age_continental_drift",
+    "the_happytime_murders",
+    "captain_underpants_the_first_epic_movie",
+    "it_chapter_two",
+    "it",
+    "ice_age_the_meltdown"
   ]
 }

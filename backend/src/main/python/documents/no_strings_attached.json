@@ -213,5 +213,32 @@
       "rating": "9",
       "text": "Cutesy,feel good movie..Simple stroy line but the presention was so good"
     }
+  ],
+  "recommendations": [
+    "friends_with_benefits",
+    "trainwreck",
+    "the_dilemma",
+    "that_awkward_moment",
+    "the_proposal",
+    "the_break_up",
+    "27_dresses",
+    "this_means_war",
+    "a_bad_moms_christmas",
+    "second_act",
+    "17_again",
+    "legally_blonde",
+    "the_change_up",
+    "forgetting_sarah_marshall",
+    "bad_teacher",
+    "zack_and_miri_make_a_porno",
+    "tammy",
+    "what_happens_in_vegas",
+    "the_perfect_date",
+    "the_cobbler",
+    "just_go_with_it",
+    "couples_retreat",
+    "the_boy_next_door",
+    "easy_a",
+    "my_spy"
   ]
 }

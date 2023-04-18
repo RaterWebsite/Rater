@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD"
     }
+  ],
+  "recommendations": [
+    "hancock",
+    "venom_let_there_be_carnage",
+    "brick_mansions",
+    "hotel_transylvania_transformania",
+    "national_treasure_book_of_secrets",
+    "baywatch",
+    "the_guardian",
+    "this_means_war",
+    "lockout",
+    "knight_and_day",
+    "shazam_fury_of_the_gods",
+    "angel_has_fallen",
+    "escape_plan",
+    "the_expendables_3",
+    "jumanji_the_next_level",
+    "ghostbusters_ii",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "terminator_genisys",
+    "contraband",
+    "night_at_the_museum_secret_of_the_tomb",
+    "skyscraper",
+    "spenser_confidential",
+    "my_spy",
+    "mission_impossible_iii",
+    "the_a_team"
   ]
 }

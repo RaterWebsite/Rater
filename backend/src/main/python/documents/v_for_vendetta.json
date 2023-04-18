@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Decent acting. Sophomoric attempt at political philosophy. Actually, just plain stupid when all said and done."
     }
+  ],
+  "recommendations": [
+    "chappie",
+    "equilibrium",
+    "the_darkest_minds",
+    "antebellum",
+    "the_book_of_eli",
+    "jarhead",
+    "cloud_atlas",
+    "morbius",
+    "the_butterfly_effect",
+    "perfume_the_story_of_a_murderer",
+    "blade_of_the_47_ronin",
+    "bright",
+    "sucker_punch",
+    "apocalypto",
+    "tomorrowland",
+    "tinker_tailor_soldier_spy",
+    "they_live",
+    "what_happened_to_monday",
+    "fight_club",
+    "tenet",
+    "ben_hur",
+    "the_lobster",
+    "three_kings",
+    "300",
+    "inglourious_basterds"
   ]
 }

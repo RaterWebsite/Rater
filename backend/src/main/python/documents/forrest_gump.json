@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "One of the best movies i have ever seen. I like the way they mix historical events with comedy. Tom Hanks puts on an amazing performance as Forrest Gump."
     }
+  ],
+  "recommendations": [
+    "cinderella_man",
+    "my_name_is_khan",
+    "the_green_mile",
+    "titanic",
+    "eternal_sunshine_of_the_spotless_mind",
+    "the_shawshank_redemption",
+    "brokeback_mountain",
+    "almost_famous",
+    "coach_carter",
+    "the_secret_life_of_walter_mitty",
+    "the_disaster_artist",
+    "goodfellas",
+    "eddie_the_eagle",
+    "good_will_hunting",
+    "casablanca",
+    "edward_scissorhands",
+    "rocky_balboa",
+    "remember_the_titans",
+    "man_of_steel",
+    "joker",
+    "revolutionary_road",
+    "togo",
+    "raging_bull",
+    "million_dollar_baby",
+    "scarface"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "The Last Witch Hunter is a pretty good movie with cool action, mystery, and good performances. The premise of the movie is a little far fetched and the writing at times is predictable, but overall its still an enjoyable film."
     }
+  ],
+  "recommendations": [
+    "hercules",
+    "riddick",
+    "i_am_legend",
+    "i_am_number_four",
+    "bloodshot",
+    "jumper",
+    "poseidon",
+    "underworld_awakening",
+    "surrogates",
+    "underworld",
+    "avengers_age_of_ultron",
+    "clash_of_the_titans",
+    "the_three_musketeers",
+    "seventh_son",
+    "jupiter_ascending",
+    "jack_the_giant_slayer",
+    "rampage",
+    "van_helsing",
+    "underworld_evolution",
+    "aquaman",
+    "gods_of_egypt",
+    "pacific_rim_uprising",
+    "edge_of_tomorrow",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "tomb_raider"
   ]
 }

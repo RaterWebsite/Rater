@@ -194,5 +194,32 @@
       "rating": "3",
       "text": "A slow and boring movie. Russell Crowe's performance is the only redeeming thing about it."
     }
+  ],
+  "recommendations": [
+    "breach",
+    "all_the_money_in_the_world",
+    "primal_fear",
+    "money_monster",
+    "a_most_wanted_man",
+    "widows",
+    "knives_out",
+    "arbitrage",
+    "inside_man",
+    "body_of_lies",
+    "insomnia",
+    "broken_city",
+    "american_hustle",
+    "triple_9",
+    "conspiracy_theory",
+    "the_score",
+    "the_lincoln_lawyer",
+    "morgan",
+    "casino",
+    "american_gangster",
+    "catch_me_if_you_can",
+    "murder_on_the_orient_express",
+    "the_little_things",
+    "suburbicon",
+    "the_iceman"
   ]
 }

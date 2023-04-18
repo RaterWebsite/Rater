@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "Don't watch this movie! This girl should only have been making movies for teenagers as it is evident that she cannot play characters and dramatic plots."
     }
+  ],
+  "recommendations": [
+    "carol",
+    "belfast",
+    "american_beauty",
+    "the_danish_girl",
+    "jackie",
+    "finding_neverland",
+    "phantom_thread",
+    "scent_of_a_woman",
+    "joy",
+    "respect",
+    "a_star_is_born",
+    "anna_karenina",
+    "legends_of_the_fall",
+    "the_father",
+    "still_alice",
+    "marriage_story",
+    "gifted",
+    "whiplash",
+    "the_bridges_of_madison_county",
+    "the_theory_of_everything",
+    "youth",
+    "the_last_king_of_scotland",
+    "lion",
+    "the_light_between_oceans",
+    "fences"
   ]
 }

@@ -182,5 +182,32 @@
       "rating": "10",
       "text": "the acting in this movie is surprisingly really good combining with a great idea"
     }
+  ],
+  "recommendations": [
+    "coherence",
+    "bad_times_at_the_el_royale",
+    "project_power",
+    "the_invisible_man",
+    "signs",
+    "gothika",
+    "what_happened_to_monday",
+    "antlers",
+    "reminiscence",
+    "sicario_day_of_the_soldado",
+    "the_snowman",
+    "color_out_of_space",
+    "i_am_mother",
+    "now_you_see_me",
+    "terminal",
+    "broken_city",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "no_sudden_move",
+    "captive_state",
+    "minority_report",
+    "us",
+    "blackhat",
+    "bone_tomahawk",
+    "tenet",
+    "eli"
   ]
 }

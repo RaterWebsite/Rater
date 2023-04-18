@@ -225,5 +225,32 @@
       "rating": "8",
       "text": "I think this movie is so great. The story is very interesting. After finished watching, I become vigorous. It is worth the money to see it. The acting is so-so. Ypu should watch this movie if you have never watched."
     }
+  ],
+  "recommendations": [
+    "dinner_for_schmucks",
+    "click",
+    "ted_2",
+    "grown_ups",
+    "ted",
+    "wild_hogs",
+    "blended",
+    "what_happens_in_vegas",
+    "the_dictator",
+    "dumb_and_dumber_to",
+    "dumb_and_dumber",
+    "zack_and_miri_make_a_porno",
+    "a_million_ways_to_die_in_the_west",
+    "just_go_with_it",
+    "this_is_the_end",
+    "hot_tub_time_machine",
+    "step_brothers",
+    "evan_almighty",
+    "night_at_the_museum",
+    "the_wedding_ringer",
+    "funny_people",
+    "knocked_up",
+    "jexi",
+    "one_year_one_night",
+    "the_hangover"
   ]
 }

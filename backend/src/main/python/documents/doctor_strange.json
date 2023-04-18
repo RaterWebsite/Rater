@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Wonderful movie. Few, minor, flaws. High quality Marvel movie as usual. Would recommend. Diffidently one to see in a movie theater. Just look at the user review ratio and that should tell you it's worthwhile. Always going to be those that can not be satisfied, but don't let them scare you off from enjoying this film."
     }
+  ],
+  "recommendations": [
+    "the_fly",
+    "the_fifth_element",
+    "thor",
+    "avengers_age_of_ultron",
+    "maleficent_mistress_of_evil",
+    "oz_the_great_and_powerful",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "thor_the_dark_world",
+    "super_8",
+    "indiana_jones_and_the_temple_of_doom",
+    "eternals",
+    "oblivion",
+    "the_hunger_games_catching_fire",
+    "twelve_monkeys",
+    "rise_of_the_planet_of_the_apes",
+    "hellboy",
+    "color_out_of_space",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "finch",
+    "fantastic_beasts_and_where_to_find_them",
+    "upgrade",
+    "spider_man_far_from_home",
+    "alita_battle_angel",
+    "looper",
+    "kung_fu_panda_3"
   ]
 }

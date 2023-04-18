@@ -224,5 +224,32 @@
       "rating": "6",
       "text": "A comedy with stupid fun humor. It was a slapstick comedy, but it gets you to laugh a lot! I'm surprised at that I went to see it, because I'm a big movie critic sort of guy, but I don't regret it."
     }
+  ],
+  "recommendations": [
+    "grown_ups",
+    "tropic_thunder",
+    "good_luck_chuck",
+    "the_ridiculous_6",
+    "miss_march",
+    "just_go_with_it",
+    "thunder_force",
+    "hubie_halloween",
+    "dinner_for_schmucks",
+    "movie_43",
+    "zoolander",
+    "the_watch",
+    "one_year_one_night",
+    "dirty_grandpa",
+    "dumb_and_dumber_to",
+    "hot_tub_time_machine",
+    "ted",
+    "zack_and_miri_make_a_porno",
+    "deuce_bigalow_european_gigolo",
+    "the_hangover",
+    "the_change_up",
+    "the_wrong_missy",
+    "knocked_up",
+    "dumb_and_dumber",
+    "step_brothers"
   ]
 }

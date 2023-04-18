@@ -77,5 +77,32 @@
       "rating": "5",
       "text": "Neither that funny or that scary. A movie that could of been so much more but in the end becomes a dull ride."
     }
+  ],
+  "recommendations": [
+    "zombieland",
+    "the_babysitter",
+    "american_ultra",
+    "jumanji_the_next_level",
+    "goosebumps_2_haunted_halloween",
+    "keeping_up_with_the_joneses",
+    "jack_the_giant_slayer",
+    "tremors",
+    "ready_or_not",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "jungle_cruise",
+    "jumanji_welcome_to_the_jungle",
+    "guardians_of_the_galaxy",
+    "thor_ragnarok",
+    "krampus",
+    "red_2",
+    "hotel_transylvania_3_summer_vacation",
+    "red_notice",
+    "game_night",
+    "deadpool_2",
+    "logan_lucky",
+    "baywatch",
+    "deadpool",
+    "night_at_the_museum_secret_of_the_tomb",
+    "minions"
   ]
 }

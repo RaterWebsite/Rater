@@ -129,5 +129,32 @@
       "rating": "9",
       "text": "I have watched this movie three times and every time I have pointed out something new and it has made me think every single time. If there were such thing as a book club for movies, this would be my first pick."
     }
+  ],
+  "recommendations": [
+    "crash",
+    "the_help",
+    "machine_gun_preacher",
+    "captain_fantastic",
+    "freedom_writers",
+    "the_hunt",
+    "just_mercy",
+    "detroit",
+    "ingrid_goes_west",
+    "war_room",
+    "babel",
+    "hidden_figures",
+    "judas_and_the_black_messiah",
+    "the_miseducation_of_cameron_post",
+    "green_book",
+    "blackkklansman",
+    "12_years_a_slave",
+    "a_time_to_kill",
+    "snowden",
+    "the_book_thief",
+    "the_white_tiger",
+    "dark_waters",
+    "the_boy_who_harnessed_the_wind",
+    "silence",
+    "to_the_bone"
   ]
 }

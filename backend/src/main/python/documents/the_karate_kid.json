@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "Film \u00e7ok g\u00fczel sadece okul sahnesi biraz az \u00e7ocuk e\u011fitime ba\u015flay\u0131nca ilk arkada\u015f\u0131 bidaha film'de g\u00f6z\u00fckm\u00fcyor Bilmiyorum ama \u0130nallah 2. film \u00e7\u0131kar"
     }
+  ],
+  "recommendations": [
+    "herbie_fully_loaded",
+    "real_steel",
+    "17_again",
+    "minions_the_rise_of_gru",
+    "marmaduke",
+    "the_green_hornet",
+    "alvin_and_the_chipmunks_the_squeakquel",
+    "ice_age_the_meltdown",
+    "the_twilight_saga_new_moon",
+    "i_am_number_four",
+    "shazam",
+    "spies_in_disguise",
+    "ghostbusters_ii",
+    "the_next_karate_kid",
+    "ghostbusters",
+    "the_forbidden_kingdom",
+    "the_guardian",
+    "spy_kids_all_the_time_in_the_world",
+    "tmnt",
+    "four_brothers",
+    "incredibles_2",
+    "hannah_montana_the_movie",
+    "kick_ass",
+    "the_lego_movie",
+    "venom_let_there_be_carnage"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Funny, moving, and animated well, The LEGO Batman Movie is a solid animated film as well as a solid Batman film that deals with themes such as loneliness and family with aplomb."
     }
+  ],
+  "recommendations": [
+    "the_lego_ninjago_movie",
+    "the_lego_movie_2_the_second_part",
+    "penguins_of_madagascar",
+    "thor_ragnarok",
+    "hotel_transylvania_3_summer_vacation",
+    "madagascar_escape_2_africa",
+    "kung_fu_panda_2",
+    "spider_man_into_the_spider_verse",
+    "big_hero_6",
+    "incredibles_2",
+    "despicable_me_2",
+    "my_little_pony_the_movie",
+    "kung_fu_panda_3",
+    "rango",
+    "shazam",
+    "the_croods",
+    "guardians_of_the_galaxy",
+    "puss_in_boots_the_last_wish",
+    "indiana_jones_and_the_temple_of_doom",
+    "shaun_the_sheep_movie",
+    "hotel_transylvania_2",
+    "the_lego_movie",
+    "dumbo",
+    "how_to_train_your_dragon_2",
+    "onward"
   ]
 }

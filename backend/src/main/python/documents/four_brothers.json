@@ -181,5 +181,32 @@
       "rating": "6",
       "text": "Four Brothers classic action movie. A simple story about revenge. Good acting by Mark Wahlberg. Once you can see."
     }
+  ],
+  "recommendations": [
+    "nobody",
+    "taken",
+    "assault_on_wall_street",
+    "death_wish",
+    "the_guardian",
+    "peppermint",
+    "hancock",
+    "the_tax_collector",
+    "i_am_number_four",
+    "savages",
+    "real_steel",
+    "code_8",
+    "limitless",
+    "skyscraper",
+    "repo_men",
+    "terminator_genisys",
+    "bright",
+    "the_equalizer",
+    "kick_ass",
+    "3_days_to_kill",
+    "the_a_team",
+    "brightburn",
+    "never_back_down",
+    "guns_akimbo",
+    "cold_pursuit"
   ]
 }

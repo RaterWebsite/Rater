@@ -72,5 +72,32 @@
       "rating": "9",
       "text": "Lethal Weapon 2 is a movie that out bests its prequel and was more action wised than the first one."
     }
+  ],
+  "recommendations": [
+    "lethal_weapon_3",
+    "mission_impossible_ghost_protocol",
+    "mission_impossible",
+    "mission_impossible_rogue_nation",
+    "the_rock",
+    "lethal_weapon_4",
+    "demolition_man",
+    "lethal_weapon",
+    "tomorrow_never_dies",
+    "the_bourne_identity",
+    "speed",
+    "mad_max",
+    "true_lies",
+    "john_wick_chapter_3_parabellum",
+    "the_bourne_supremacy",
+    "shooter",
+    "mission_impossible_ii",
+    "the_foreigner",
+    "patriot_games",
+    "angel_has_fallen",
+    "the_mechanic",
+    "john_wick_chapter_2",
+    "heat",
+    "air_force_one",
+    "predator_2"
   ]
 }

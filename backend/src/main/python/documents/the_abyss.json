@@ -99,5 +99,32 @@
       "rating": "7",
       "text": "This was a really good underwater thriller. The special edition version is definitely too long though. The ending is brilliant and the middle good but a few bits really did drag on too long. This is definitely worth watching but probably only the theatrical version. That is assuming that the ending remains intact. Ignoring occasional slow pacing the bottom of the sea was never so exciting."
     }
+  ],
+  "recommendations": [
+    "the_perfect_storm",
+    "in_the_heart_of_the_sea",
+    "midnight_special",
+    "everest",
+    "first_man",
+    "ex_machina",
+    "the_martian",
+    "upgrade",
+    "interstellar",
+    "the_finest_hours",
+    "dawn_of_the_planet_of_the_apes",
+    "deepwater_horizon",
+    "apollo_13",
+    "the_rover",
+    "unbreakable",
+    "minority_report",
+    "close_encounters_of_the_third_kind",
+    "deep_impact",
+    "total_recall",
+    "annihilation",
+    "reminiscence",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_beguiled",
+    "dark_city",
+    "hellboy_ii_the_golden_army"
   ]
 }

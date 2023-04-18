@@ -154,5 +154,32 @@
       "rating": "8",
       "text": "lionsgate has every weird movie but this one was nice even with a really stupid story"
     }
+  ],
+  "recommendations": [
+    "slender_man",
+    "ghost_rider_spirit_of_vengeance",
+    "the_curse_of_la_llorona",
+    "dead_silence",
+    "annabelle",
+    "the_possession",
+    "malignant",
+    "ouija",
+    "the_grudge_2",
+    "the_bye_bye_man",
+    "chernobyl_diaries",
+    "devil",
+    "house_at_the_end_of_the_street",
+    "dark_skies",
+    "the_grudge",
+    "into_the_storm",
+    "shut_in",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "insidious_chapter_2",
+    "book_of_shadows_blair_witch_2",
+    "insidious",
+    "the_mist",
+    "the_possession_of_hannah_grace",
+    "hereditary",
+    "the_amityville_horror"
   ]
 }

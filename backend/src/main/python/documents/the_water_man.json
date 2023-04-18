@@ -40,5 +40,32 @@
       "rating": "6",
       "text": "Es una nueva pel\u00edcula familiar en Netflix; la trama es decente y las actuaciones son pasables; David Oyelowo tiene mucho potencial como director de cine."
     }
+  ],
+  "recommendations": [
+    "moonrise_kingdom",
+    "where_the_wild_things_are",
+    "swiss_army_man",
+    "a_monster_calls",
+    "captain_fantastic",
+    "come_play",
+    "promising_young_woman",
+    "i_kill_giants",
+    "five_feet_apart",
+    "eight_below",
+    "into_the_wild",
+    "the_florida_project",
+    "vivarium",
+    "the_age_of_adaline",
+    "the_road",
+    "stand_by_me_doraemon_2",
+    "big",
+    "endless_love",
+    "the_perks_of_being_a_wallflower",
+    "colossal",
+    "the_hunt",
+    "instant_family",
+    "nightbooks",
+    "the_good_dinosaur",
+    "wonder"
   ]
 }

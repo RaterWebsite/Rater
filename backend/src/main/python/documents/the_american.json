@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Brilliant movie that had me at edge of my seat the whole time. It's not just another boring action movie. Only intelligent people will enjoy this masterpiece."
     }
+  ],
+  "recommendations": [
+    "the_power_of_the_dog",
+    "blackhat",
+    "hugo",
+    "enemy",
+    "the_green_knight",
+    "tinker_tailor_soldier_spy",
+    "no_country_for_old_men",
+    "hereafter",
+    "the_hateful_eight",
+    "inception",
+    "tenet",
+    "the_counselor",
+    "drive",
+    "blade_of_the_47_ronin",
+    "downsizing",
+    "sicario_day_of_the_soldado",
+    "there_will_be_blood",
+    "bad_times_at_the_el_royale",
+    "inherent_vice",
+    "the_1517_to_paris",
+    "king_arthur_legend_of_the_sword",
+    "lost_in_translation",
+    "a_cure_for_wellness",
+    "chaos_walking",
+    "the_good_shepherd"
   ]
 }

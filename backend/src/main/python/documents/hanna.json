@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "This is one of the best movies of the year. The film features three great leads and one perfect soundtrack. The lead actress handles her part perfectly, she maintains a great balance of naivety and heroism."
     }
+  ],
+  "recommendations": [
+    "drive",
+    "miami_vice",
+    "red_sparrow",
+    "baby_driver",
+    "gemini_man",
+    "haywire",
+    "bumblebee",
+    "super_8",
+    "taken",
+    "no_country_for_old_men",
+    "bad_times_at_the_el_royale",
+    "top_gun",
+    "rocknrolla",
+    "kate",
+    "the_equalizer_2",
+    "avengers_age_of_ultron",
+    "a_walk_among_the_tombstones",
+    "infinite",
+    "savages",
+    "eastern_promises",
+    "the_grey",
+    "tenet",
+    "ant_man_and_the_wasp_quantumania",
+    "pan",
+    "jumper"
   ]
 }

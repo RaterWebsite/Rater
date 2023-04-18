@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Probably the greatest movie ever created. Incredible while watching it, cinematography and everything. Great to reflect upon as well. Perfect. Quentin Tarantino."
     }
+  ],
+  "recommendations": [
+    "reservoir_dogs",
+    "jackie_brown",
+    "the_fifth_element",
+    "casino",
+    "fargo",
+    "highlander",
+    "snatch",
+    "indiana_jones_and_the_temple_of_doom",
+    "inglourious_basterds",
+    "bone_tomahawk",
+    "scarface",
+    "the_untouchables",
+    "last_action_hero",
+    "true_grit",
+    "the_suicide_squad",
+    "goodfellas",
+    "seven_psychopaths",
+    "in_bruges",
+    "dredd",
+    "from_dusk_till_dawn",
+    "conan_the_barbarian",
+    "the_harder_they_fall",
+    "kingsman_the_secret_service",
+    "troy",
+    "gangster_squad"
   ]
 }

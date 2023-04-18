@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Great film made even better by the arc Tony takes through the whole MCU. The villain is the only down point"
     }
+  ],
+  "recommendations": [
+    "iron_man_3",
+    "daredevil",
+    "iron_man_2",
+    "the_amazing_spider_man",
+    "the_equalizer",
+    "ant_man_and_the_wasp_quantumania",
+    "spider_man_far_from_home",
+    "thor",
+    "the_league_of_extraordinary_gentlemen",
+    "hellboy",
+    "demolition_man",
+    "captain_america_the_first_avenger",
+    "men_in_black_ii",
+    "wonder_woman",
+    "spider_man_homecoming",
+    "gangster_squad",
+    "spider_man_3",
+    "angel_has_fallen",
+    "true_lies",
+    "the_incredible_hulk",
+    "man_of_steel",
+    "red",
+    "hulk",
+    "spider_man_no_way_home",
+    "elektra"
   ]
 }

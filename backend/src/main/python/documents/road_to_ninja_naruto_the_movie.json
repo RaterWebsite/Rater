@@ -50,5 +50,32 @@
       "rating": "10",
       "text": "Es de lejos lo mejor de Naruto animaci\u00f3n y banda sonora y que decir de la trama que nos muestra el mundo de otra manera"
     }
+  ],
+  "recommendations": [
+    "my_little_pony_the_movie",
+    "the_last_naruto_the_movie",
+    "zootopia",
+    "paranorman",
+    "up",
+    "onward",
+    "tmnt",
+    "sonic_the_hedgehog_2",
+    "meet_the_robinsons",
+    "ghostbusters_afterlife",
+    "coraline",
+    "how_to_train_your_dragon_2",
+    "the_lego_movie",
+    "the_peanuts_movie",
+    "the_art_of_racing_in_the_rain",
+    "atlantis_the_lost_empire",
+    "the_incredibles",
+    "soul",
+    "the_croods",
+    "bridge_to_terabithia",
+    "minions_the_rise_of_gru",
+    "wonder_park",
+    "frozen_ii",
+    "speed_racer",
+    "sing_2"
   ]
 }

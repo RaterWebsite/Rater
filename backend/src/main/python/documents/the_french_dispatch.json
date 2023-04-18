@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "The French Dispatch might have the best production design that I've ever seen in a film. Absolutely astonishing and visually stunning. Wes Anderson filled this film with so much creativity and different filmmaking techniques (even animation!!) that makes it always entertaining and interesting to watch. Even so, I found it to be a classic case of \"style over substance\" as I never fully cared about any of the characters or stories being presented."
     }
+  ],
+  "recommendations": [
+    "the_grand_budapest_hotel",
+    "the_sting",
+    "the_great_gatsby",
+    "victor_frankenstein",
+    "nocturnal_animals",
+    "kingdom_of_heaven",
+    "motherless_brooklyn",
+    "amores_perros",
+    "close_encounters_of_the_third_kind",
+    "loving_vincent",
+    "dune",
+    "annette",
+    "the_last_of_the_mohicans",
+    "the_ballad_of_buster_scruggs",
+    "murder_on_the_orient_express",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "chinatown",
+    "gattaca",
+    "youth",
+    "reservoir_dogs",
+    "in_fabric",
+    "amadeus",
+    "the_master",
+    "catch_me_if_you_can",
+    "the_social_network"
   ]
 }

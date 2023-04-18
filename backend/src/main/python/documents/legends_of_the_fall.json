@@ -100,5 +100,32 @@
       "rating": "10",
       "text": "Una experiencia muy maravillosa, es emocionante, dram\u00e1tica y muy conmovedora."
     }
+  ],
+  "recommendations": [
+    "20th_century_women",
+    "belfast",
+    "closer",
+    "the_impossible",
+    "the_danish_girl",
+    "blue_valentine",
+    "the_descendants",
+    "the_reader",
+    "the_glass_castle",
+    "the_last_duel",
+    "american_beauty",
+    "me_before_you",
+    "call_me_by_your_name",
+    "manchester_by_the_sea",
+    "the_hunt",
+    "gifted",
+    "thoroughbreds",
+    "captain_fantastic",
+    "hotel_rwanda",
+    "the_boy_who_harnessed_the_wind",
+    "the_last_king_of_scotland",
+    "the_light_between_oceans",
+    "hidden_figures",
+    "revolutionary_road",
+    "carol"
   ]
 }

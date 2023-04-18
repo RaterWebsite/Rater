@@ -227,5 +227,32 @@
       "rating": "6",
       "text": "The movie has one problem: the story is so classic (ET for example), that I couldnt get into the movie. There are so many movies about a boy who is dreaming of a special friend and get it. Also some characters were very superficial, especially the villain was awful.The graphics are not bad, it mixes classic drawings with computer animations."
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon_2",
+    "the_incredibles",
+    "kubo_and_the_two_strings",
+    "luca",
+    "the_good_dinosaur",
+    "raya_and_the_last_dragon",
+    "big_hero_6",
+    "brave",
+    "okja",
+    "next_gen",
+    "how_to_train_your_dragon_the_hidden_world",
+    "spider_man_into_the_spider_verse",
+    "finding_nemo",
+    "onward",
+    "bambi",
+    "rise_of_the_guardians",
+    "the_boxtrolls",
+    "soul",
+    "the_polar_express",
+    "the_water_horse",
+    "your_name",
+    "smallfoot",
+    "eight_below",
+    "how_to_train_your_dragon",
+    "the_book_of_life"
   ]
 }

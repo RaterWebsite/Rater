@@ -101,5 +101,32 @@
       "rating": "1",
       "text": "It's just not very good, simply putIf I had to summarize: It feels like every other dry, awkward horror movie.. It's just not worth your time. If you want a good film I'd recommend Hereditary"
     }
+  ],
+  "recommendations": [
+    "dark_skies",
+    "antlers",
+    "annabelle",
+    "the_possession",
+    "insidious_chapter_2",
+    "insidious_chapter_3",
+    "the_woman_in_black",
+    "the_conjuring_the_devil_made_me_do_it",
+    "you_should_have_left",
+    "the_ritual",
+    "ouija_origin_of_evil",
+    "the_possession_of_hannah_grace",
+    "the_curse_of_la_llorona",
+    "the_eye",
+    "sinister_2",
+    "dead_silence",
+    "mama",
+    "house_at_the_end_of_the_street",
+    "chernobyl_diaries",
+    "annabelle_comes_home",
+    "it",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "shut_in",
+    "the_boy",
+    "it_follows"
   ]
 }

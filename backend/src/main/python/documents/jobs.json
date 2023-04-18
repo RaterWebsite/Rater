@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Ashton Kutcher is an amazing actor. Love this movie. I don't understand why this movie is underrated. Great job(s)"
     }
+  ],
+  "recommendations": [
+    "steve_jobs",
+    "good_will_hunting",
+    "invictus",
+    "the_upside",
+    "gone_baby_gone",
+    "21",
+    "the_blind_side",
+    "the_town",
+    "snitch",
+    "greenberg",
+    "the_intern",
+    "chef",
+    "the_gambler",
+    "going_in_style",
+    "american_gangster",
+    "public_enemies",
+    "the_guardian",
+    "the_king_of_staten_island",
+    "the_accountant",
+    "changeling",
+    "pay_it_forward",
+    "the_pursuit_of_happyness",
+    "uncut_gems",
+    "burnt",
+    "donnie_brasco"
   ]
 }

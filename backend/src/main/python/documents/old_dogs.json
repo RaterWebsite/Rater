@@ -185,5 +185,32 @@
       "rating": "6",
       "text": "The movie wasn't that funny and it was pretty stupid, but it was entertaining enough and it was decent enough for a family flick.It's not the best family movie around, but if you want some brainless entertainment then, you may like it."
     }
+  ],
+  "recommendations": [
+    "thunder_force",
+    "the_change_up",
+    "a_million_ways_to_die_in_the_west",
+    "night_at_the_museum",
+    "grown_ups",
+    "ted",
+    "zookeeper",
+    "confessions_of_a_shopaholic",
+    "norbit",
+    "evan_almighty",
+    "good_luck_chuck",
+    "yes_man",
+    "the_ridiculous_6",
+    "ted_2",
+    "dinner_for_schmucks",
+    "this_is_the_end",
+    "hot_tub_time_machine",
+    "paul_blart_mall_cop",
+    "little_man",
+    "grown_ups_2",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "wild_hogs",
+    "21_jump_street",
+    "kangaroo_jack",
+    "little_fockers"
   ]
 }

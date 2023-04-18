@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "A ridiculously hilarious comedy film. The Nice Guys step up their game into entertainment and bring laughter to their audience. I was enjoying this film from start to finish and to me, this is the best comedy duo that I have seen in years. It's so nice to see a movie like this. Shane Black, you sir deserve my respect for bringing a great film. And I will admit, this is one of my favorites by far."
     }
+  ],
+  "recommendations": [
+    "spenser_confidential",
+    "seven_psychopaths",
+    "logan_lucky",
+    "the_gentlemen",
+    "tag",
+    "keeping_up_with_the_joneses",
+    "central_intelligence",
+    "lucky_number_slevin",
+    "snatch",
+    "spy",
+    "american_ultra",
+    "friends_with_benefits",
+    "rocknrolla",
+    "this_means_war",
+    "in_bruges",
+    "the_dilemma",
+    "deadpool_2",
+    "the_spy_who_dumped_me",
+    "chips",
+    "jumanji_the_next_level",
+    "the_family",
+    "daredevil",
+    "the_king_of_staten_island",
+    "the_babysitter",
+    "pineapple_express"
   ]
 }

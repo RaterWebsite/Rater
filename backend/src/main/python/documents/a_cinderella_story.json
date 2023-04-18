@@ -118,5 +118,32 @@
       "rating": "10",
       "text": "Iconic movie, a must-watch if you were/are a teen in the 2000s / 2010s. Hilary Duff is amazing in this movie."
     }
+  ],
+  "recommendations": [
+    "the_princess_bride",
+    "the_spongebob_squarepants_movie",
+    "minions_the_rise_of_gru",
+    "17_again",
+    "hannah_montana_the_movie",
+    "bedtime_stories",
+    "freaky_friday",
+    "fred_claus",
+    "50_first_dates",
+    "zack_and_miri_make_a_porno",
+    "stardust",
+    "second_act",
+    "despicable_me_2",
+    "barnyard",
+    "10_things_i_hate_about_you",
+    "coming_2_america",
+    "enchanted",
+    "ghostbusters",
+    "ice_age_the_meltdown",
+    "pitch_perfect_2",
+    "goosebumps",
+    "american_pie_2",
+    "elf",
+    "alvin_and_the_chipmunks",
+    "alvin_and_the_chipmunks_the_squeakquel"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Bird Box is a fun enough, especially when you are at a party and this is on in the background, or if you are hanging out with friends and want to watch a light scary movie. That's a good way to describe it: \"light.\" The movie falls apart under any serious scrutiny, and it's honestly just a rip-off of \"A Quiet Place\" but it is enjoyable in spite of it's straight-to-TV-movie production value. The cast is great, and Sandra Bullock does a great job. However, it's definitely not one of Netflix's best."
     }
+  ],
+  "recommendations": [
+    "unfriended_dark_web",
+    "chernobyl_diaries",
+    "shut_in",
+    "hereditary",
+    "pandorum",
+    "the_cloverfield_paradox",
+    "frozen",
+    "the_new_mutants",
+    "devil",
+    "the_mist",
+    "shadow_in_the_cloud",
+    "escape_room",
+    "crawl",
+    "army_of_the_dead",
+    "malignant",
+    "old",
+    "a_quiet_place_part_ii",
+    "the_tomorrow_war",
+    "geostorm",
+    "riddick",
+    "unfriended",
+    "wonder_woman_1984",
+    "jurassic_world_fallen_kingdom",
+    "how_it_ends",
+    "paranormal_activity_the_marked_ones"
   ]
 }

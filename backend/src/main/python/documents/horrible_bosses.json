@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "A good enough popcorn flick, with Jen Aniston and Kevin Spacey stealing the show. The former plays against type, and the latter playing himself to the extreme. Basically a slacker bromance caper film with some neat homage to predecessors"
     }
+  ],
+  "recommendations": [
+    "role_models",
+    "meet_the_parents",
+    "get_smart",
+    "central_intelligence",
+    "the_longest_yard",
+    "horrible_bosses_2",
+    "spy",
+    "the_wedding_ringer",
+    "forgetting_sarah_marshall",
+    "my_spy",
+    "the_break_up",
+    "wedding_crashers",
+    "just_friends",
+    "tower_heist",
+    "grudge_match",
+    "the_proposal",
+    "zack_and_miri_make_a_porno",
+    "the_other_guys",
+    "ride_along",
+    "anger_management",
+    "friends_with_benefits",
+    "50_first_dates",
+    "ride_along_2",
+    "date_night",
+    "just_go_with_it"
   ]
 }

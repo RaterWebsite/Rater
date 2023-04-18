@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Exciting, funny, and inventive."
     }
+  ],
+  "recommendations": [
+    "finding_dory",
+    "the_polar_express",
+    "brave",
+    "luca",
+    "toy_story_3",
+    "onward",
+    "the_incredibles",
+    "the_good_dinosaur",
+    "moana",
+    "ratatouille",
+    "toy_story",
+    "up",
+    "bolt",
+    "the_iron_giant",
+    "rio_2",
+    "how_to_train_your_dragon_2",
+    "klaus",
+    "aladdin",
+    "christopher_robin",
+    "the_boxtrolls",
+    "the_croods",
+    "shaun_the_sheep_movie",
+    "the_road_to_el_dorado",
+    "kubo_and_the_two_strings",
+    "the_secret_life_of_pets"
   ]
 }

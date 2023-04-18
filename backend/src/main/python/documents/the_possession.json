@@ -161,5 +161,32 @@
       "rating": "7",
       "text": "________________  Ein guter Horrorfilm. Super. :-)) War schon unheimlich...7/10 *"
     }
+  ],
+  "recommendations": [
+    "annabelle",
+    "dark_skies",
+    "insidious",
+    "dead_silence",
+    "insidious_chapter_2",
+    "the_grudge",
+    "devil",
+    "the_curse_of_la_llorona",
+    "malignant",
+    "chernobyl_diaries",
+    "the_grudge_2",
+    "the_haunting_in_connecticut",
+    "sinister_2",
+    "cabin_fever",
+    "mama",
+    "it_follows",
+    "ouija",
+    "the_eye",
+    "the_ring",
+    "slender_man",
+    "countdown",
+    "the_conjuring",
+    "it",
+    "the_hills_have_eyes",
+    "the_descent"
   ]
 }

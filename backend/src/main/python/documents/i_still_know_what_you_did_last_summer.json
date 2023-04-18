@@ -106,5 +106,32 @@
       "rating": "10",
       "text": "I actually found this one more entertaining than the first, more action. The post wasn't there and overall it felt a little empty but not bad if you're looking for some fun slasher to watch. 10/10!"
     }
+  ],
+  "recommendations": [
+    "halloween_ii",
+    "saw_ii",
+    "hellbound_hellraiser_ii",
+    "insidious_chapter_2",
+    "final_destination",
+    "halloween_iii_season_of_the_witch",
+    "goosebumps_2_haunted_halloween",
+    "cult_of_chucky",
+    "texas_chainsaw_3d",
+    "sinister_2",
+    "final_destination_2",
+    "happy_death_day_2u",
+    "halloween_5_the_revenge_of_michael_myers",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "i_am_number_four",
+    "disturbia",
+    "poltergeist",
+    "dead_silence",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "the_grudge_2",
+    "house_at_the_end_of_the_street",
+    "a_nightmare_on_elm_street",
+    "underworld_evolution",
+    "jigsaw",
+    "national_treasure_book_of_secrets"
   ]
 }

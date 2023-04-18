@@ -117,5 +117,32 @@
       "rating": "7",
       "text": "Love the experimental style of this but it definitely can feel overbearing at points."
     }
+  ],
+  "recommendations": [
+    "youth",
+    "the_great_gatsby",
+    "marie_antoinette",
+    "magnolia",
+    "bohemian_rhapsody",
+    "whiplash",
+    "amadeus",
+    "roma",
+    "the_neon_demon",
+    "hugo",
+    "black_swan",
+    "the_master",
+    "the_sound_of_music",
+    "yesterday",
+    "in_the_heights",
+    "drive",
+    "the_favourite",
+    "begin_again",
+    "eternal_sunshine_of_the_spotless_mind",
+    "the_irishman",
+    "the_grand_budapest_hotel",
+    "last_night_in_soho",
+    "moulin_rouge",
+    "casablanca",
+    "the_social_network"
   ]
 }

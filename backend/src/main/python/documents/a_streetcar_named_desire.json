@@ -44,5 +44,32 @@
       "rating": "10",
       "text": "This film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorable"
     }
+  ],
+  "recommendations": [
+    "finding_neverland",
+    "ghost",
+    "my_salinger_year",
+    "anna_karenina",
+    "the_electrical_life_of_louis_wain",
+    "road_to_perdition",
+    "chocolat",
+    "to_kill_a_mockingbird",
+    "chinatown",
+    "the_thomas_crown_affair",
+    "motherless_brooklyn",
+    "the_untouchables",
+    "a_star_is_born",
+    "butch_cassidy_and_the_sundance_kid",
+    "casino",
+    "the_last_of_the_mohicans",
+    "true_romance",
+    "rear_window",
+    "wonder_wheel",
+    "north_by_northwest",
+    "spencer",
+    "the_hunt_for_red_october",
+    "catch_me_if_you_can",
+    "the_aviator",
+    "the_mask_of_zorro"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "I really like this movie, and the fact that was based on a true story makes it amazing. But....! I thing that need a little bit more action. Yes.... even more!"
     }
+  ],
+  "recommendations": [
+    "spotlight",
+    "blood_diamond",
+    "manchester_by_the_sea",
+    "revolutionary_road",
+    "american_history_x",
+    "just_mercy",
+    "12_angry_men",
+    "hereafter",
+    "the_last_king_of_scotland",
+    "sin_nombre",
+    "the_social_network",
+    "joker",
+    "the_impossible",
+    "unbroken",
+    "12_years_a_slave",
+    "collateral_beauty",
+    "the_good_shepherd",
+    "risen",
+    "argo",
+    "brokeback_mountain",
+    "breakthrough",
+    "a_beautiful_mind",
+    "hidden_figures",
+    "my_name_is_khan",
+    "babel"
   ]
 }

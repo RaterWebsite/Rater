@@ -224,5 +224,32 @@
       "rating": "1",
       "text": "Too long and too boring!"
     }
+  ],
+  "recommendations": [
+    "slumdog_millionaire",
+    "the_lobster",
+    "children_of_men",
+    "lost_in_translation",
+    "crash",
+    "sin_nombre",
+    "okja",
+    "into_the_wild",
+    "the_butterfly_effect",
+    "her",
+    "antebellum",
+    "downsizing",
+    "no_country_for_old_men",
+    "vivarium",
+    "a_ghost_story",
+    "boyhood",
+    "the_tree_of_life",
+    "hugo",
+    "soul_surfer",
+    "cloud_atlas",
+    "chappie",
+    "apocalypto",
+    "the_road",
+    "pay_it_forward",
+    "mother"
   ]
 }

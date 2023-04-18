@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "I watched this movie and never laughed once. The plot is bad and stupid. It's not funny at all, I didn't laugh once! Its so bad and I cannot believe I wasted my money buying it."
     }
+  ],
+  "recommendations": [
+    "the_dictator",
+    "dumb_and_dumber_to",
+    "grown_ups",
+    "hot_tub_time_machine",
+    "the_hangover",
+    "yes_man",
+    "one_year_one_night",
+    "step_brothers",
+    "nacho_libre",
+    "the_watch",
+    "dinner_for_schmucks",
+    "wild_hogs",
+    "the_three_stooges",
+    "a_haunted_house",
+    "superhero_movie",
+    "tropic_thunder",
+    "anchorman_2_the_legend_continues",
+    "this_is_the_end",
+    "the_wedding_ringer",
+    "ace_ventura_when_nature_calls",
+    "norbit",
+    "miss_march",
+    "jackass_presents_bad_grandpa",
+    "zoolander",
+    "hot_fuzz"
   ]
 }

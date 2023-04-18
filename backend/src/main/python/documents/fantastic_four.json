@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "Despite the esteemed cast and good special effects fantastic four is trying to be a comedy rather than a superhero movie but the worst part is the comedy isn't even funny, also the movie really lacks in character development."
     }
+  ],
+  "recommendations": [
+    "aquaman",
+    "elektra",
+    "thor",
+    "the_three_musketeers",
+    "hercules",
+    "oz_the_great_and_powerful",
+    "the_suicide_squad",
+    "shazam_fury_of_the_gods",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "iron_man_2",
+    "daredevil",
+    "bloodshot",
+    "thor_the_dark_world",
+    "the_italian_job",
+    "the_losers",
+    "the_last_witch_hunter",
+    "avengers_age_of_ultron",
+    "triple_frontier",
+    "clash_of_the_titans",
+    "van_helsing",
+    "justice_league",
+    "the_green_hornet",
+    "hulk",
+    "project_power",
+    "jumper"
   ]
 }

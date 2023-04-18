@@ -86,5 +86,32 @@
       "rating": "3",
       "text": "Bad. Really bad.Not funny, a dumb plot and an icon of tv animation that just doesn't work as a live action movie."
     }
+  ],
+  "recommendations": [
+    "hook",
+    "spies_in_disguise",
+    "freaky_friday",
+    "igor",
+    "101_dalmatians",
+    "how_the_grinch_stole_christmas",
+    "marmaduke",
+    "17_again",
+    "charlie_and_the_chocolate_factory",
+    "cruella",
+    "the_grinch",
+    "robots",
+    "beetlejuice",
+    "ghostbusters_ii",
+    "the_parent_trap",
+    "ghostbusters",
+    "ice_age_the_meltdown",
+    "madagascar_escape_2_africa",
+    "superman",
+    "the_next_karate_kid",
+    "dolittle",
+    "over_the_hedge",
+    "spider_man_homecoming",
+    "daredevil",
+    "hotel_transylvania_2"
   ]
 }

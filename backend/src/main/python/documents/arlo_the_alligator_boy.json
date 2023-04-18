@@ -46,5 +46,32 @@
       "rating": "8",
       "text": "A Cute Little Musical With Great 2D Animation Nice And Catchy Songs And A Great Message"
     }
+  ],
+  "recommendations": [
+    "the_willoughbys",
+    "moana",
+    "brother_bear",
+    "stuart_little",
+    "trolls",
+    "vivo",
+    "happy_feet",
+    "the_boss_baby_christmas_bonus",
+    "sing",
+    "the_land_before_time",
+    "the_princess_and_the_frog",
+    "the_polar_express",
+    "pocahontas",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "over_the_moon",
+    "bambi",
+    "tangled",
+    "sing_street",
+    "the_secret_life_of_pets",
+    "rio_2",
+    "coraline",
+    "trolls_world_tour",
+    "strange_magic",
+    "astro_boy",
+    "winnie_the_pooh_blood_and_honey"
   ]
 }

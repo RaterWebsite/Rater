@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Evan Almighty cannot be described as anything else but goofy. In fact, about the only thing worth watching in the movie is Wanda Sykes' comedy. other than that, this is a bore, even if Morgan Freeman plays god."
     }
+  ],
+  "recommendations": [
+    "wild_hogs",
+    "grown_ups",
+    "yes_man",
+    "dinner_for_schmucks",
+    "the_ridiculous_6",
+    "a_million_ways_to_die_in_the_west",
+    "knocked_up",
+    "thunder_force",
+    "the_interview",
+    "ted",
+    "ted_2",
+    "the_happytime_murders",
+    "this_is_the_end",
+    "confessions_of_a_shopaholic",
+    "tropic_thunder",
+    "the_dictator",
+    "night_at_the_museum",
+    "norbit",
+    "burn_after_reading",
+    "idiocracy",
+    "step_brothers",
+    "one_year_one_night",
+    "neighbors_2_sorority_rising",
+    "old_dogs",
+    "hot_tub_time_machine"
   ]
 }

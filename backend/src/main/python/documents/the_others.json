@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "The Others wants to feel like a horror movie, but it's nothing more than a psychological thriller. Moreover, the thriller is quite average, suspense is not sustained throughout the film. The first half of the film is very tight, all the main action takes place in the last 20 minutes. The main twist is not surprising at all. And as a result, you don't understand why everyone liked The Others so much. For me, this is a completely passing thriller"
     }
+  ],
+  "recommendations": [
+    "the_lodge",
+    "the_black_phone",
+    "candyman",
+    "what_lies_beneath",
+    "lights_out",
+    "the_mothman_prophecies",
+    "the_woman_in_black",
+    "the_invisible_man",
+    "the_skeleton_key",
+    "insidious_chapter_3",
+    "ouija_origin_of_evil",
+    "last_night_in_soho",
+    "the_night_house",
+    "the_conjuring_2",
+    "the_fly",
+    "us",
+    "10_cloverfield_lane",
+    "eli",
+    "the_sixth_sense",
+    "antlers",
+    "the_conjuring",
+    "maggie",
+    "gothika",
+    "the_ritual",
+    "annabelle_creation"
   ]
 }

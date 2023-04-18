@@ -178,5 +178,32 @@
       "rating": "0",
       "text": "This movie really sucked\u2026 So much in fact that I just had to write a review. I watched it for free and I still feel ripped off! It\u2019s just race baiting propaganda\u2026 and a really bad story too."
     }
+  ],
+  "recommendations": [
+    "the_purge_anarchy",
+    "the_purge_election_year",
+    "district_9",
+    "antebellum",
+    "apocalypto",
+    "the_purge",
+    "the_first_purge",
+    "the_kingdom",
+    "geostorm",
+    "the_lobster",
+    "repo_men",
+    "idiocracy",
+    "unfriended",
+    "snowpiercer",
+    "the_wolf_of_wall_street",
+    "children_of_men",
+    "the_darkest_minds",
+    "noah",
+    "unfriended_dark_web",
+    "outside_the_wire",
+    "code_8",
+    "greenland",
+    "shadow_in_the_cloud",
+    "the_tomorrow_war",
+    "paranormal_activity_the_marked_ones"
   ]
 }

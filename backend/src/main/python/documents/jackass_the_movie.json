@@ -85,5 +85,32 @@
       "rating": "10",
       "text": "This makes Jackass The Movie disgusting and funny to watch and what makes this one special."
     }
+  ],
+  "recommendations": [
+    "movie_43",
+    "deuce_bigalow_european_gigolo",
+    "epic_movie",
+    "the_interview",
+    "sausage_party",
+    "grown_ups_2",
+    "the_hangover",
+    "meet_the_spartans",
+    "hot_tub_time_machine",
+    "the_dictator",
+    "a_haunted_house",
+    "vampires_suck",
+    "fifty_shades_of_black",
+    "miss_march",
+    "this_is_the_end",
+    "one_year_one_night",
+    "scary_movie_5",
+    "jackass_presents_bad_grandpa",
+    "borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan",
+    "dinner_for_schmucks",
+    "the_ridiculous_6",
+    "white_chicks",
+    "ted_2",
+    "the_emoji_movie",
+    "idiocracy"
   ]
 }

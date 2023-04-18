@@ -227,5 +227,32 @@
       "rating": "1",
       "text": "This movie sucks. The dialog is cheesy, the acting sucks, and the title makes no sense. The silver surfer didn't \"rise\" from anywhere, he came from space. And at the end he destroyed Galactis, which he could have done all along when he was destroying those countless other planets. It wasn't as bad as the first, the special effects were cool, but don't see this movie. At the end they hinted at a sequel, i hope they can bring this series back."
     }
+  ],
+  "recommendations": [
+    "elektra",
+    "fantastic_four",
+    "shazam_fury_of_the_gods",
+    "thor_ragnarok",
+    "terminator_3_rise_of_the_machines",
+    "thor",
+    "hercules",
+    "aquaman",
+    "jungle_cruise",
+    "the_last_witch_hunter",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "bloodshot",
+    "rampage",
+    "bumblebee",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "avengers_age_of_ultron",
+    "seventh_son",
+    "thor_the_dark_world",
+    "teenage_mutant_ninja_turtles",
+    "justice_league",
+    "guardians_of_the_galaxy",
+    "x_men_apocalypse",
+    "riddick",
+    "superman_iii",
+    "rise_of_the_planet_of_the_apes"
   ]
 }

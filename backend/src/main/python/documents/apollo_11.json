@@ -141,5 +141,32 @@
       "rating": "9",
       "text": "An absolutely stunning piece of cinema. The first time that I saw it in theaters, I was swept away by the high-quality footage and immersive experience. It's a refreshing look at one of the best moments in American history. Fabulous documentary!"
     }
+  ],
+  "recommendations": [
+    "das_boot",
+    "in_the_shadow_of_the_moon",
+    "1917",
+    "blade_runner",
+    "close_encounters_of_the_third_kind",
+    "europa_report",
+    "before_the_flood",
+    "the_pianist",
+    "dunkirk",
+    "apocalypse_now",
+    "avatar",
+    "2001_a_space_odyssey",
+    "master_and_commander_the_far_side_of_the_world",
+    "first_man",
+    "a_hidden_life",
+    "loving_vincent",
+    "in_the_heart_of_the_sea",
+    "diego_maradona",
+    "high_life",
+    "ghost_in_the_shell",
+    "full_metal_jacket",
+    "dawn_of_the_planet_of_the_apes",
+    "deepwater_horizon",
+    "the_lost_city_of_z",
+    "the_lord_of_the_rings_the_fellowship_of_the_ring"
   ]
 }

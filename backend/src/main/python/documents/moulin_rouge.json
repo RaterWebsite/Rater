@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This movie is very dynamic and musical. I loved it. Nicole Kidman's Satine and Ewan McGregor's Cristian are very beautiful. I think this movie is great film. I liked Kidman's and McGregor's voices."
     }
+  ],
+  "recommendations": [
+    "the_greatest_showman",
+    "la_la_land",
+    "cats",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "the_sound_of_music",
+    "marie_antoinette",
+    "jingle_jangle_a_christmas_journey",
+    "annette",
+    "burlesque",
+    "begin_again",
+    "in_the_heights",
+    "casablanca",
+    "almost_famous",
+    "bohemian_rhapsody",
+    "peter_pan",
+    "hairspray",
+    "mamma_mia_here_we_go_again",
+    "amadeus",
+    "chicago",
+    "over_the_moon",
+    "cruella",
+    "work_it",
+    "spirit_stallion_of_the_cimarron",
+    "yesterday",
+    "memoirs_of_a_geisha"
   ]
 }

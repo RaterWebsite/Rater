@@ -85,5 +85,32 @@
       "rating": "7",
       "text": "Great action sequences and no CG. Tony Jaa is a great martial arts practitioner."
     }
+  ],
+  "recommendations": [
+    "man_of_tai_chi",
+    "fearless",
+    "enter_the_fat_dragon",
+    "ong_bak_2",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "the_foreigner",
+    "jiu_jitsu",
+    "kiss_of_the_dragon",
+    "triple_threat",
+    "the_forbidden_kingdom",
+    "the_one",
+    "hulk",
+    "john_wick_chapter_2",
+    "john_wick_chapter_3_parabellum",
+    "haywire",
+    "the_bourne_ultimatum",
+    "gladiator",
+    "true_lies",
+    "the_matrix",
+    "the_terminator",
+    "blade_ii",
+    "troy",
+    "cliffhanger",
+    "kate",
+    "terminator_2_judgment_day"
   ]
 }

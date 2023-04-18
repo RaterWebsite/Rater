@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Martin Scorcese's Casino is definitely interesting and held me through the whole movie. The story is brilliant but not nearly as brilliant as the performances. Deniro does a fine job as always but Sharon Stone and Joe Pesci are just as good. The movie ends and you sit and stare because so many things had happened to so many people."
     }
+  ],
+  "recommendations": [
+    "the_untouchables",
+    "lawless",
+    "catch_me_if_you_can",
+    "black_mass",
+    "body_of_lies",
+    "heat",
+    "american_hustle",
+    "rush",
+    "django_unchained",
+    "all_the_money_in_the_world",
+    "legend",
+    "american_gangster",
+    "true_grit",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "widows",
+    "hell_or_high_water",
+    "spy_game",
+    "jackie_brown",
+    "a_most_wanted_man",
+    "backdraft",
+    "insomnia",
+    "wall_street",
+    "the_score",
+    "the_fugitive",
+    "the_last_of_the_mohicans"
   ]
 }

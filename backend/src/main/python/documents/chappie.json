@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This was great. I don't usually laugh at the endless forced jokes in America/British/Canadian movies but this had me cracking up. Think of this as Sci-Fi Comedy, the trailers don't really do it justice and you go in expecting grim misery."
     }
+  ],
+  "recommendations": [
+    "equilibrium",
+    "v_for_vendetta",
+    "tomorrowland",
+    "the_13th_warrior",
+    "okja",
+    "the_darkest_minds",
+    "morbius",
+    "lucy",
+    "they_live",
+    "run_hide_fight",
+    "antebellum",
+    "colossal",
+    "fight_club",
+    "the_lobster",
+    "sucker_punch",
+    "what_happened_to_monday",
+    "bright",
+    "the_butterfly_effect",
+    "elysium",
+    "apocalypto",
+    "code_8",
+    "chaos_walking",
+    "her",
+    "cloud_atlas",
+    "the_adjustment_bureau"
   ]
 }

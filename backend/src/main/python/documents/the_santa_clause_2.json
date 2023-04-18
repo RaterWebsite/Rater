@@ -86,5 +86,32 @@
       "rating": "6",
       "text": "Loved this movie when it came out, still do. This was the first Santa Clause movie I've ever seen done this way. Killed Santa then he becomes Santa, great! My favorite out the series."
     }
+  ],
+  "recommendations": [
+    "the_christmas_chronicles",
+    "elf",
+    "a_cinderella_story",
+    "fred_claus",
+    "freaky_friday",
+    "american_pie_2",
+    "spies_in_disguise",
+    "bad_santa",
+    "17_again",
+    "marmaduke",
+    "night_at_the_museum_secret_of_the_tomb",
+    "ice_age_the_meltdown",
+    "bad_santa_2",
+    "beetlejuice",
+    "the_spongebob_squarepants_movie",
+    "the_flintstones",
+    "hannah_montana_the_movie",
+    "the_santa_clause",
+    "the_santa_clause_3_the_escape_clause",
+    "despicable_me",
+    "hotel_transylvania_2",
+    "despicable_me_2",
+    "igor",
+    "second_act",
+    "paddington"
   ]
 }

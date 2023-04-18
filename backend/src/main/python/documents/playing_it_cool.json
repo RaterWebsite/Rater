@@ -41,5 +41,32 @@
       "rating": "7",
       "text": "Although I'm not the biggest Rom-Com fan, I really like the cast and I enjoyed this movie."
     }
+  ],
+  "recommendations": [
+    "johnny_english_reborn",
+    "life_after_beth",
+    "murder_mystery",
+    "vamps",
+    "stuber",
+    "50_first_dates",
+    "the_wedding_ringer",
+    "get_smart",
+    "scary_movie_3",
+    "pitch_perfect_2",
+    "game_night",
+    "zombieland_double_tap",
+    "miss_congeniality",
+    "jumanji_welcome_to_the_jungle",
+    "delivery_man",
+    "role_models",
+    "30_minutes_or_less",
+    "hot_fuzz",
+    "the_longest_yard",
+    "horrible_bosses_2",
+    "megamind",
+    "the_watch",
+    "the_five_year_engagement",
+    "eurotrip",
+    "tag"
   ]
 }

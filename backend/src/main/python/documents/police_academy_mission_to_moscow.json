@@ -37,5 +37,32 @@
       "rating": "5",
       "text": "stara ale jara komedia.... bawi,\u015bmieszy, rozluznia... generalnie o to chodzi\u0142o tak\u017ce polecam."
     }
+  ],
+  "recommendations": [
+    "ghostbusters_ii",
+    "daredevil",
+    "horrible_bosses_2",
+    "inside_man",
+    "lucky_number_slevin",
+    "jumanji_the_next_level",
+    "bad_boys_for_life",
+    "the_dilemma",
+    "orphan_first_kill",
+    "the_hangover_part_iii",
+    "little_fockers",
+    "captain_marvel",
+    "terminator_3_rise_of_the_machines",
+    "men_in_black_ii",
+    "grudge_match",
+    "going_in_style",
+    "austin_powers_in_goldmember",
+    "logan_lucky",
+    "the_guardian",
+    "venom_let_there_be_carnage",
+    "the_many_saints_of_newark",
+    "night_at_the_museum_secret_of_the_tomb",
+    "jack_reacher",
+    "terminator_genisys",
+    "tusk"
   ]
 }

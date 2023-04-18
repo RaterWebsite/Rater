@@ -74,5 +74,32 @@
       "rating": "8",
       "text": "There is a 75 character minimum for reviews. If your review contains spoilers, please check the Spoiler box. Please do not use ALL CAPS. There is no linking or other HTML allowed. Your review may be edited for content."
     }
+  ],
+  "recommendations": [
+    "jackie_brown",
+    "the_untouchables",
+    "backdraft",
+    "murder_on_the_orient_express",
+    "casino",
+    "body_of_lies",
+    "bone_tomahawk",
+    "true_grit",
+    "the_hunt_for_red_october",
+    "hostage",
+    "the_harder_they_fall",
+    "the_aviator",
+    "lawless",
+    "street_kings",
+    "django_unchained",
+    "insomnia",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "a_most_wanted_man",
+    "spy_game",
+    "all_the_money_in_the_world",
+    "copshop",
+    "the_italian_job",
+    "inside_man",
+    "the_terminator",
+    "legend"
   ]
 }

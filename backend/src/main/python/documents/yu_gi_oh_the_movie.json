@@ -119,5 +119,32 @@
       "rating": "5",
       "text": "I was pleased with production value compared to the TV show. It starts strong but then the forgettable villain shows up and everything pretty much ends abruptly which is disappointing."
     }
+  ],
+  "recommendations": [
+    "the_angry_birds_movie",
+    "doom",
+    "spy_kids_3_d_game_over",
+    "monster_hunter",
+    "silent_hill_revelation_3d",
+    "teenage_mutant_ninja_turtles",
+    "silent_hill",
+    "free_birds",
+    "final_fantasy_the_spirits_within",
+    "transformers_revenge_of_the_fallen",
+    "dragonball_evolution",
+    "the_angry_birds_movie_2",
+    "resident_evil_welcome_to_raccoon_city",
+    "ralph_breaks_the_internet",
+    "hitman",
+    "gamer",
+    "i_am_number_four",
+    "hitman_agent_47",
+    "tmnt",
+    "tomb_raider",
+    "minions",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "space_jam_a_new_legacy",
+    "stay_alive",
+    "my_little_pony_equestria_girls_forgotten_friendship"
   ]
 }

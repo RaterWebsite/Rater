@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "----------------------------------6.3/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "venom_let_there_be_carnage",
+    "30_minutes_or_less",
+    "hot_fuzz",
+    "deadpool_2",
+    "22_jump_street",
+    "the_hangover_part_iii",
+    "ride_along",
+    "identity_thief",
+    "the_a_team",
+    "ted_2",
+    "the_marine",
+    "this_is_the_end",
+    "zombieland_double_tap",
+    "this_means_war",
+    "anchorman_2_the_legend_continues",
+    "baywatch",
+    "the_other_guys",
+    "6_underground",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "crank",
+    "the_expendables_3",
+    "rush_hour_2",
+    "johnny_english_reborn",
+    "the_hangover_part_ii",
+    "furious_7"
   ]
 }

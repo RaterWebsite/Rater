@@ -160,5 +160,32 @@
       "rating": "4",
       "text": "A blah, overdone third movie in the Spy Kid series that should have just been left out.  Not to mention the CGI is really bad."
     }
+  ],
+  "recommendations": [
+    "tomb_raider",
+    "teenage_mutant_ninja_turtles",
+    "doom",
+    "mortal_kombat_annihilation",
+    "hitman_agent_47",
+    "rampage",
+    "mortal_kombat",
+    "transformers_revenge_of_the_fallen",
+    "silent_hill_revelation_3d",
+    "prince_of_persia_the_sands_of_time",
+    "monster_hunter",
+    "lara_croft_tomb_raider",
+    "hitman",
+    "battleship",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "resident_evil_damnation",
+    "uncharted",
+    "spy_kids_all_the_time_in_the_world",
+    "silent_hill",
+    "the_angry_birds_movie",
+    "bloodshot",
+    "yu_gi_oh_the_movie",
+    "i_am_number_four",
+    "pixels",
+    "xxx_return_of_xander_cage"
   ]
 }

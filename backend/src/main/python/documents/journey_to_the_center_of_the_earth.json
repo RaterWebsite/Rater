@@ -228,5 +228,32 @@
       "rating": "6",
       "text": "A mediocre movie, with average performances and undistinguished character development and plot.  I enjoyed this movie as a kid, but years after the movie has aged horribly.  The entire movie is built off of special effects, which are sub par.  This film is a fun family watch, however."
     }
+  ],
+  "recommendations": [
+    "guardians_of_the_galaxy",
+    "national_treasure_book_of_secrets",
+    "gods_of_egypt",
+    "dolittle",
+    "the_lego_movie",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "shazam_fury_of_the_gods",
+    "poseidon",
+    "hercules",
+    "jack_the_giant_slayer",
+    "monsters_vs_aliens",
+    "free_birds",
+    "into_the_storm",
+    "i_am_number_four",
+    "san_andreas",
+    "the_green_hornet",
+    "tomorrowland",
+    "the_three_musketeers",
+    "peter_rabbit",
+    "thor_love_and_thunder",
+    "jumper",
+    "the_a_team",
+    "seventh_son",
+    "pan"
   ]
 }

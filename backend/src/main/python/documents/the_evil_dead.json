@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "This movie is great! A lot of people say the second one is better but I think this one is the easy winner"
     }
+  ],
+  "recommendations": [
+    "hellraiser",
+    "evil_dead_ii",
+    "the_texas_chain_saw_massacre",
+    "the_conjuring",
+    "the_conjuring_2",
+    "the_collector",
+    "it_follows",
+    "terrifier",
+    "the_descent",
+    "clown",
+    "the_ring",
+    "scream",
+    "the_possession",
+    "the_babadook",
+    "wrong_turn",
+    "the_return_of_the_living_dead",
+    "cabin_fever",
+    "the_woman_in_black",
+    "the_texas_chainsaw_massacre",
+    "house_of_1000_corpses",
+    "ouija_origin_of_evil",
+    "sinister_2",
+    "annabelle_creation",
+    "insidious",
+    "annabelle"
   ]
 }

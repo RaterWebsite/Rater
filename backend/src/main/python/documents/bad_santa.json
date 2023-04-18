@@ -134,5 +134,32 @@
       "rating": "10",
       "text": "\u2664\u2661\u2664\u2661\u2664\u2661\u2664\u2661\u2664\u2661\u2664\u2661\u2661\u2661\u2664\u2661\u2661\u2661\u2661\u2661\u2664\u2664\u2664\u2664\u2664\u2664\u2661\u2661\u2661\u2661\u2664\u2664\u2664\u2661\u2661\u00bf\u00a1\u00bf\u00a1\u300b\u00bf\u00a1\u00bf\u00a1\u300b\u00a1\u00bf\u00a1\u00bf\u300b\u00a1\u00bf\u00a1\u00bf\u300b\u00a1\u00bf\u00a1\u00bf\u300b\u00bf\u00a1\u00bf\u00a1\u300b\u00a1\u00bf\u00a1\u00bf\u300b\u00bf\u00a1\u00bf\u00a1\u300b\u00a1\u00bf\u00a1\u00bf\u300b\u00bf\u00a1\u00bf\u00a1\u300b"
     }
+  ],
+  "recommendations": [
+    "ted",
+    "bad_santa_2",
+    "night_at_the_museum",
+    "just_friends",
+    "friday",
+    "step_brothers",
+    "jackass_presents_bad_grandpa",
+    "superbad",
+    "the_change_up",
+    "good_luck_chuck",
+    "just_go_with_it",
+    "what_happens_in_vegas",
+    "nacho_libre",
+    "neighbors",
+    "hot_tub_time_machine",
+    "knocked_up",
+    "yes_man",
+    "old_school",
+    "american_pie",
+    "fred_claus",
+    "american_pie_2",
+    "grown_ups",
+    "masterminds",
+    "17_again",
+    "the_night_before"
   ]
 }

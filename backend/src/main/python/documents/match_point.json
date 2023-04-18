@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "One of the best films of the year. Not for those with IQ of a body temperature, though."
     }
+  ],
+  "recommendations": [
+    "inherent_vice",
+    "knives_out",
+    "lucky_number_slevin",
+    "gone_girl",
+    "greenberg",
+    "vicky_cristina_barcelona",
+    "the_departed",
+    "burn_after_reading",
+    "the_gambler",
+    "logan_lucky",
+    "suburbicon",
+    "tinker_tailor_soldier_spy",
+    "broken_city",
+    "the_loft",
+    "the_upside",
+    "inside_man",
+    "the_number_23",
+    "the_counselor",
+    "the_prestige",
+    "mortdecai",
+    "the_dilemma",
+    "fifty_shades_darker",
+    "21",
+    "midnight_in_paris",
+    "now_you_see_me"
   ]
 }

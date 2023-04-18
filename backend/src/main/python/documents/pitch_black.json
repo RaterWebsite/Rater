@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "Vin Diesel when he was actually good (I liked Fast Five also), Pitch Black may not be the sci-fi plot everybody's looking for, but the action is suitable and thrilling enough and so are the performances, so Pitch Black doesn't fail."
     }
+  ],
+  "recommendations": [
+    "independence_day",
+    "the_great_wall",
+    "reign_of_fire",
+    "sunshine",
+    "mortal_engines",
+    "stargate",
+    "aliens",
+    "battle_los_angeles",
+    "hellboy_ii_the_golden_army",
+    "europa_report",
+    "the_last_days_on_mars",
+    "pacific_rim",
+    "color_out_of_space",
+    "monsters",
+    "species",
+    "armageddon",
+    "jurassic_park",
+    "constantine",
+    "alien_covenant",
+    "riddick",
+    "the_matrix",
+    "event_horizon",
+    "they_live",
+    "in_the_heart_of_the_sea",
+    "annihilation"
   ]
 }

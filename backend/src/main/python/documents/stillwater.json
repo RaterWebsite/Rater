@@ -126,5 +126,32 @@
       "rating": "7",
       "text": "It is a film with a somewhat bad aftertaste. Matt Damon plays a bumbling father. In order to save his daughter from being convicted, he also makes mistakes and loses many things. It makes me think that life is all about the little mistakes we make that cause us to fall."
     }
+  ],
+  "recommendations": [
+    "the_unforgivable",
+    "the_accountant",
+    "white_boy_rick",
+    "child_44",
+    "donnie_brasco",
+    "prisoners",
+    "beirut",
+    "arbitrage",
+    "into_the_wild",
+    "gone_baby_gone",
+    "the_good_shepherd",
+    "the_place_beyond_the_pines",
+    "knives_out",
+    "me_before_you",
+    "hereafter",
+    "predestination",
+    "a_most_wanted_man",
+    "widows",
+    "gone_girl",
+    "before_i_go_to_sleep",
+    "manchester_by_the_sea",
+    "flight",
+    "the_curious_case_of_benjamin_button",
+    "the_lincoln_lawyer",
+    "the_intern"
   ]
 }

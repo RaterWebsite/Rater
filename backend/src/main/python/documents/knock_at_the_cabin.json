@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "Keanu Reeves... Por que? por que? Esta pelicula es increiblemente irrealista que me hizo llevarme las manos  a la cabeza cada 10 minutos, por las tonterias que estaban pasando, no me la pude tomar en serio en ningun momento lo que hizo que las cosas buenas de esta pasaran desapercibidas."
     }
+  ],
+  "recommendations": [
+    "the_purge",
+    "colombiana",
+    "unhinged",
+    "the_purge_anarchy",
+    "case_39",
+    "would_you_rather",
+    "the_shape_of_water",
+    "mama",
+    "law_abiding_citizen",
+    "good_on_paper",
+    "awake",
+    "the_voyeurs",
+    "brightburn",
+    "taken",
+    "i_spit_on_your_grave_2",
+    "i_spit_on_your_grave",
+    "jolt",
+    "escape_room",
+    "those_who_wish_me_dead",
+    "the_loft",
+    "magic_mikes_last_dance",
+    "limitless",
+    "happy_death_day",
+    "swiss_army_man",
+    "cold_pursuit"
   ]
 }

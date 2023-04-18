@@ -89,5 +89,32 @@
       "rating": "8",
       "text": "Even though it's basically a remake of the first one it is still good and entertaining in it's own right."
     }
+  ],
+  "recommendations": [
+    "halloween_ii",
+    "the_texas_chainsaw_massacre_the_beginning",
+    "jason_x",
+    "anaconda",
+    "van_helsing",
+    "underworld_evolution",
+    "halloween_h20_20_years_later",
+    "cult_of_chucky",
+    "jason_goes_to_hell_the_final_friday",
+    "ghost_rider_spirit_of_vengeance",
+    "halloween_resurrection",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "i_still_know_what_you_did_last_summer",
+    "underworld_awakening",
+    "halloween_iii_season_of_the_witch",
+    "underworld_blood_wars",
+    "deep_blue_sea",
+    "saw_ii",
+    "final_destination_2",
+    "friday_the_13th",
+    "predator_2",
+    "the_thing",
+    "the_meg",
+    "halloween_the_curse_of_michael_myers",
+    "a_nightmare_on_elm_street"
   ]
 }

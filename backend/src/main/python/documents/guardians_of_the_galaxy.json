@@ -226,5 +226,32 @@
       "rating": "4",
       "text": "I was disappointed the movie is nothing like the trailer.  A lot of things blowing up and crashing for 2 hours.  Boring movie and repetitive.  Only the NY Post reviewer gave it the low rating it deserved."
     }
+  ],
+  "recommendations": [
+    "thor_ragnarok",
+    "thor_the_dark_world",
+    "the_a_team",
+    "hercules",
+    "the_lego_movie",
+    "avengers_age_of_ultron",
+    "thor_love_and_thunder",
+    "shazam_fury_of_the_gods",
+    "poseidon",
+    "deadpool",
+    "bumblebee",
+    "riddick",
+    "serenity",
+    "incredibles_2",
+    "the_lego_ninjago_movie",
+    "jack_the_giant_slayer",
+    "megamind",
+    "monsters_vs_aliens",
+    "deadpool_2",
+    "bloodshot",
+    "hotel_transylvania_3_summer_vacation",
+    "edge_of_tomorrow",
+    "gods_of_egypt",
+    "rampage",
+    "minions"
   ]
 }

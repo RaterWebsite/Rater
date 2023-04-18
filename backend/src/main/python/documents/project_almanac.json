@@ -222,5 +222,32 @@
       "rating": "1",
       "text": "If you are a teenager who desires girls and a technically unrealistic type of movie. You will like it."
     }
+  ],
+  "recommendations": [
+    "time_trap",
+    "unfriended",
+    "the_tomorrow_war",
+    "2012",
+    "unfriended_dark_web",
+    "old",
+    "chernobyl_diaries",
+    "code_8",
+    "the_new_mutants",
+    "paranormal_activity_4",
+    "the_darkest_hour",
+    "paranormal_activity_the_marked_ones",
+    "geostorm",
+    "shadow_in_the_cloud",
+    "bird_box",
+    "jurassic_world_fallen_kingdom",
+    "into_the_storm",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_twilight_saga_breaking_dawn_part_1",
+    "in_time",
+    "the_matrix_resurrections",
+    "the_cloverfield_paradox",
+    "pandorum",
+    "limitless",
+    "wonder_woman_1984"
   ]
 }

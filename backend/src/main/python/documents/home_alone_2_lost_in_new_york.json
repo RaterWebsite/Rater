@@ -74,5 +74,32 @@
       "rating": "7",
       "text": "A decent sequel, but doesnt come close to the original films quality and plot"
     }
+  ],
+  "recommendations": [
+    "night_at_the_museum_secret_of_the_tomb",
+    "ghostbusters_ii",
+    "beetlejuice",
+    "the_parent_trap",
+    "happiest_season",
+    "spider_man_far_from_home",
+    "american_pie_2",
+    "the_santa_clause_2",
+    "hook",
+    "elf",
+    "the_terminal",
+    "the_second_best_exotic_marigold_hotel",
+    "going_in_style",
+    "the_next_karate_kid",
+    "ghostbusters",
+    "the_karate_kid_part_iii",
+    "17_again",
+    "morning_glory",
+    "the_karate_kid",
+    "coming_2_america",
+    "back_to_the_future",
+    "logan_lucky",
+    "back_to_the_future_part_ii",
+    "we_bought_a_zoo",
+    "the_karate_kid_part_ii"
   ]
 }

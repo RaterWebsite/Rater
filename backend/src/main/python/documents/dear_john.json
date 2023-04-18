@@ -126,5 +126,32 @@
       "rating": "5",
       "text": "Not a big fan of this movie. I thought the girl was messed up in this movie. Not sure what kind of romance thus was suppose to be, but it was dumb."
     }
+  ],
+  "recommendations": [
+    "the_notebook",
+    "the_vow",
+    "a_walk_to_remember",
+    "love_actually",
+    "blue_valentine",
+    "me_before_you",
+    "the_fault_in_our_stars",
+    "the_lake_house",
+    "gone_baby_gone",
+    "marriage_story",
+    "the_last_song",
+    "the_longest_ride",
+    "silver_linings_playbook",
+    "cruel_intentions",
+    "we_bought_a_zoo",
+    "the_holiday",
+    "midnight_sun",
+    "the_perks_of_being_a_wallflower",
+    "if_i_stay",
+    "the_best_of_me",
+    "the_descendants",
+    "brokeback_mountain",
+    "endless_love",
+    "paper_towns",
+    "five_feet_apart"
   ]
 }

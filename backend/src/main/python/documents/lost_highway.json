@@ -138,5 +138,32 @@
       "rating": "10",
       "text": "One of the best movies ever made. A toss up between this and Mulholland Drive. It's literally the story of O.J. Simpson."
     }
+  ],
+  "recommendations": [
+    "donnie_darko",
+    "dark_city",
+    "eyes_wide_shut",
+    "titane",
+    "stoker",
+    "personal_shopper",
+    "the_killing_of_a_sacred_deer",
+    "the_cell",
+    "the_ninth_gate",
+    "a_clockwork_orange",
+    "you_were_never_really_here",
+    "a_ghost_story",
+    "enemy",
+    "memento",
+    "searching",
+    "under_the_skin",
+    "a_cure_for_wellness",
+    "antichrist",
+    "us",
+    "the_birds",
+    "last_night_in_soho",
+    "midnight_special",
+    "the_machinist",
+    "annihilation",
+    "the_master"
   ]
 }

@@ -222,5 +222,32 @@
       "rating": "8",
       "text": "The movie itself most closely resembles the original translated works by Alexandre Dumas. I liked the movie for the quirky characters french play-like acting and vibrant colored costume design. It's a great movie for teens."
     }
+  ],
+  "recommendations": [
+    "hercules",
+    "aquaman",
+    "clash_of_the_titans",
+    "bloodshot",
+    "oz_the_great_and_powerful",
+    "the_last_witch_hunter",
+    "gemini_man",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "fantastic_four",
+    "avengers_age_of_ultron",
+    "guardians_of_the_galaxy",
+    "poseidon",
+    "thor_the_dark_world",
+    "pan",
+    "blade_of_the_47_ronin",
+    "the_suicide_squad",
+    "ben_hur",
+    "shazam_fury_of_the_gods",
+    "gods_of_egypt",
+    "jupiter_ascending",
+    "the_scorpion_king",
+    "the_a_team",
+    "triple_frontier",
+    "pacific_rim_uprising",
+    "tron_legacy"
   ]
 }

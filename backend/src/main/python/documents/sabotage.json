@@ -171,5 +171,32 @@
       "rating": "8",
       "text": "Great movie. Terrific shooting and moving. Realistic gore and character dialogue.  Arnold is awesome as always."
     }
+  ],
+  "recommendations": [
+    "jolt",
+    "salt",
+    "the_marine",
+    "the_old_guard",
+    "the_mechanic",
+    "lockout",
+    "the_ice_road",
+    "mechanic_resurrection",
+    "xxx_return_of_xander_cage",
+    "the_transporter_refueled",
+    "army_of_the_dead",
+    "wanted",
+    "mission_impossible_iii",
+    "the_expendables_3",
+    "mile_22",
+    "safe",
+    "bloodshot",
+    "the_tax_collector",
+    "suicide_squad",
+    "contraband",
+    "2_guns",
+    "battleship",
+    "seeking_justice",
+    "escape_plan",
+    "gunpowder_milkshake"
   ]
 }

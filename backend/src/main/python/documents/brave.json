@@ -229,5 +229,32 @@
       "rating": "7",
       "text": "This film which is animated is set in the olden times of Scotland, gives us a glimpse of what Disney/Pixar think about the old days, it"
     }
+  ],
+  "recommendations": [
+    "the_good_dinosaur",
+    "brother_bear",
+    "finding_nemo",
+    "raya_and_the_last_dragon",
+    "onward",
+    "bambi",
+    "moana",
+    "finding_dory",
+    "the_iron_giant",
+    "luca",
+    "toy_story_3",
+    "how_to_train_your_dragon_2",
+    "christopher_robin",
+    "frozen_ii",
+    "the_polar_express",
+    "the_last_naruto_the_movie",
+    "the_incredibles",
+    "big_hero_6",
+    "up",
+    "where_the_wild_things_are",
+    "rio_2",
+    "the_willoughbys",
+    "rise_of_the_guardians",
+    "the_nutcracker_and_the_four_realms",
+    "my_little_pony_a_new_generation"
   ]
 }

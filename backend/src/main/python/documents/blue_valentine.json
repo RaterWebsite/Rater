@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "Very good movie. I do not like drama movies, but if they are good, I can stand them. This movie is slow, but I do not mind slow movies. It is not for one who just wants action and a fast pace movie. But it really does a good job showing the contrast in the couples life."
     }
+  ],
+  "recommendations": [
+    "marriage_story",
+    "manchester_by_the_sea",
+    "me_before_you",
+    "closer",
+    "collateral_beauty",
+    "the_fault_in_our_stars",
+    "the_descendants",
+    "the_florida_project",
+    "five_feet_apart",
+    "call_me_by_your_name",
+    "her",
+    "thoroughbreds",
+    "the_glass_castle",
+    "the_place_beyond_the_pines",
+    "leaving_las_vegas",
+    "revolutionary_road",
+    "the_intern",
+    "21_grams",
+    "20th_century_women",
+    "lovelace",
+    "joy",
+    "the_light_between_oceans",
+    "the_curious_case_of_benjamin_button",
+    "gifted",
+    "melancholia"
   ]
 }

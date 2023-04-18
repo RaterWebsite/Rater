@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Eternals is the most sophisticated, elegant marvel movie to date. Massive story, great acting, and beautiful cinematography. It did not disappoint! The Eternals added another layer to the MCU and is a must see for those excited to experience something less traditional. Currently love all the Marvel movies and loved Eternals too."
     }
+  ],
+  "recommendations": [
+    "alita_battle_angel",
+    "black_widow",
+    "oblivion",
+    "tomorrowland",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "ben_hur",
+    "black_panther_wakanda_forever",
+    "hugo",
+    "the_hunger_games_catching_fire",
+    "alice_through_the_looking_glass",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_illusionist",
+    "cloud_atlas",
+    "inception",
+    "doctor_strange",
+    "the_13th_warrior",
+    "upside_down",
+    "twelve_monkeys",
+    "the_prestige",
+    "blade_of_the_47_ronin",
+    "the_shawshank_redemption",
+    "titanic",
+    "dredd",
+    "avengers_age_of_ultron",
+    "john_carter"
   ]
 }

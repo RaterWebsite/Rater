@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "I love the opening rave scene and the final fight, but there are definitely some problems with this movie.  The weakest of the trilogy in my opinion."
     }
+  ],
+  "recommendations": [
+    "blade_ii",
+    "underworld",
+    "blade_trinity",
+    "predator_2",
+    "abraham_lincoln_vampire_hunter",
+    "hellboy",
+    "van_helsing",
+    "the_scorpion_king",
+    "underworld_awakening",
+    "hulk",
+    "rambo_first_blood_part_ii",
+    "kong_skull_island",
+    "the_terminator",
+    "the_last_witch_hunter",
+    "hercules",
+    "ninja_assassin",
+    "300_rise_of_an_empire",
+    "transformers",
+    "robocop",
+    "kate",
+    "desperado",
+    "indiana_jones_and_the_temple_of_doom",
+    "predators",
+    "bloodshot",
+    "terminator_2_judgment_day"
   ]
 }

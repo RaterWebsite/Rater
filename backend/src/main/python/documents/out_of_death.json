@@ -33,5 +33,32 @@
       "rating": "5",
       "text": "Actors are okay, story per se is also okay. But the individual scenes make barely sense at any time. Same for the behavior of the characters."
     }
+  ],
+  "recommendations": [
+    "jurassic_world",
+    "cosmic_sin",
+    "the_shape_of_water",
+    "sanctum",
+    "transformers_age_of_extinction",
+    "catwoman",
+    "after_earth",
+    "captain_marvel",
+    "diablo",
+    "those_who_wish_me_dead",
+    "frozen",
+    "stranger_things",
+    "terminator_dark_fate",
+    "men_in_black_international",
+    "basic_instinct_2",
+    "robocop_2",
+    "unhinged",
+    "wonder_woman_1984",
+    "ghost_rider_spirit_of_vengeance",
+    "skyline",
+    "suicide_squad",
+    "i_care_a_lot",
+    "shadow_in_the_cloud",
+    "the_counselor",
+    "teenage_mutant_ninja_turtles"
   ]
 }

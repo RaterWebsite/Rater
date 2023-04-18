@@ -197,5 +197,32 @@
       "rating": "10",
       "text": "Yotifhdhdhdhdidjdjddudjdufhdbdvdvdhduxxhdhdbdbdbdhdhddhdbfbfbjdjdjdhdhdhdvdbdbxhxhxhdbdbdhdhdhdhdhxhxgdhdvdvdvdhxusiusyyyyyoooooooooooooooooooooooooo"
     }
+  ],
+  "recommendations": [
+    "hacksaw_ridge",
+    "darkest_hour",
+    "dunkirk",
+    "hostiles",
+    "the_patriot",
+    "master_and_commander_the_far_side_of_the_world",
+    "unbroken",
+    "apocalypse_now",
+    "cold_mountain",
+    "1917",
+    "the_last_duel",
+    "braveheart",
+    "saving_private_ryan",
+    "the_thin_red_line",
+    "full_metal_jacket",
+    "platoon",
+    "allied",
+    "deepwater_horizon",
+    "valkyrie",
+    "hotel_rwanda",
+    "empire_of_the_sun",
+    "the_1517_to_paris",
+    "the_monuments_men",
+    "alexander",
+    "gladiator"
   ]
 }

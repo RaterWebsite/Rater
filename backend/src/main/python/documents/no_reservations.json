@@ -86,5 +86,32 @@
       "rating": "9",
       "text": "This movie is by far the best I've seen all year. Zoe is just so cute and Nick is so dear-hearted. Kudos to the director/producer/etc for making a film that didn't involve open sex for once. The romance was heartfelt and tender and perfect. Love the music!!!"
     }
+  ],
+  "recommendations": [
+    "the_break_up",
+    "friends_with_benefits",
+    "passengers",
+    "zack_and_miri_make_a_porno",
+    "leap_year",
+    "just_go_with_it",
+    "the_big_lebowski",
+    "50_first_dates",
+    "the_lucky_one",
+    "minions_the_rise_of_gru",
+    "no_strings_attached",
+    "click",
+    "aquamarine",
+    "stardust",
+    "pitch_perfect_2",
+    "the_lake_house",
+    "hannah_montana_the_movie",
+    "17_again",
+    "ghostbusters",
+    "sandy_wexler",
+    "forgetting_sarah_marshall",
+    "we_are_your_friends",
+    "hairspray",
+    "the_proposal",
+    "the_boy_next_door"
   ]
 }

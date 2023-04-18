@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania_2",
+    "minions",
+    "peter_rabbit",
+    "megamind",
+    "shazam",
+    "incredibles_2",
+    "the_lego_movie_2_the_second_part",
+    "puss_in_boots_the_last_wish",
+    "penguins_of_madagascar",
+    "goosebumps",
+    "storks",
+    "the_lego_movie",
+    "hotel_transylvania",
+    "spies_in_disguise",
+    "turbo",
+    "hotel_transylvania_3_summer_vacation",
+    "ice_age_the_meltdown",
+    "despicable_me",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "zombieland_double_tap",
+    "shazam_fury_of_the_gods",
+    "the_croods",
+    "meet_the_robinsons",
+    "my_little_pony_the_movie",
+    "minions_the_rise_of_gru"
   ]
 }

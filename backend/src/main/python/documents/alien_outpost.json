@@ -50,5 +50,32 @@
       "rating": "4",
       "text": "Overall Alien Outpost is a fairly cliched base-under-siege movie, it's no \"The Siege of Firebase Gloria\" but it's a respectable enough effort that succeeds in keeping up suspense and I enjoyed the pace of the action. Characters are your typical soldier archetypes but they're played sincerely enough and the interactions felt genuine and reasonably well written. The budgetary limitations do show through in the effects but not so bad  as to detract from the overall story. Yes, the baddies look like their models were lifted straight out of a Halo game but that's not the point. It's a war movie based on a sci-fantasy world and it's an enjoyable enough watch on Netflix."
     }
+  ],
+  "recommendations": [
+    "mission_to_mars",
+    "battle_los_angeles",
+    "spectral",
+    "monsters",
+    "the_great_wall",
+    "independence_day",
+    "captive_state",
+    "midway",
+    "mortal_engines",
+    "sunshine",
+    "pacific_rim",
+    "reign_of_fire",
+    "europa_report",
+    "300_rise_of_an_empire",
+    "avatar",
+    "jupiter_ascending",
+    "star_trek_the_motion_picture",
+    "the_outpost",
+    "the_midnight_sky",
+    "the_day_after_tomorrow",
+    "elysium",
+    "prometheus",
+    "supernova",
+    "red_tails",
+    "the_last_days_on_mars"
   ]
 }

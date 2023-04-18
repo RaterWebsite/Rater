@@ -226,5 +226,32 @@
       "rating": "6",
       "text": "This movie was actually kind of fun. Is it a cliche oh heck yeah. But it does have some pretty inventive ways of killing off some people and some of the ways the villain is able to do the things that he does. The acting is also very solid with the exception of a certain mayor. Overall this is worth a watch."
     }
+  ],
+  "recommendations": [
+    "no_escape",
+    "taken",
+    "the_marksman",
+    "knock_at_the_cabin",
+    "cold_pursuit",
+    "the_purge",
+    "the_purge_anarchy",
+    "perfect_stranger",
+    "assault_on_wall_street",
+    "gone_baby_gone",
+    "colombiana",
+    "the_unforgivable",
+    "shot_caller",
+    "unhinged",
+    "contagion",
+    "the_king",
+    "flightplan",
+    "repo_men",
+    "savages",
+    "promising_young_woman",
+    "3_days_to_kill",
+    "those_who_wish_me_dead",
+    "the_loft",
+    "the_rite",
+    "sas_red_notice"
   ]
 }

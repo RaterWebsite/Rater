@@ -195,5 +195,32 @@
       "rating": "5",
       "text": "Didn't know what to expect from this movie. It was surprisingly good. Very funny with a decent storyline."
     }
+  ],
+  "recommendations": [
+    "shark_tale",
+    "smurfs_the_lost_village",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "rio_2",
+    "the_lego_movie",
+    "ferdinand",
+    "the_good_dinosaur",
+    "the_angry_birds_movie",
+    "the_croods",
+    "rango",
+    "shaun_the_sheep_movie",
+    "the_smurfs",
+    "the_boxtrolls",
+    "ice_age_the_meltdown",
+    "the_star",
+    "ratatouille",
+    "planet_51",
+    "hotel_transylvania",
+    "the_lego_movie_2_the_second_part",
+    "the_lego_ninjago_movie",
+    "tmnt",
+    "the_angry_birds_movie_2",
+    "meet_the_robinsons",
+    "free_birds",
+    "ralph_breaks_the_internet"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "I know this movie is going to be hated because it is not realistic and a bunch of bs but i enjoyed it, it was a fun movie to watch and no i don't believe in magic It is only an illusion"
     }
+  ],
+  "recommendations": [
+    "now_you_see_me",
+    "shazam_fury_of_the_gods",
+    "avengers_age_of_ultron",
+    "kingsman_the_golden_circle",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "the_last_witch_hunter",
+    "poseidon",
+    "rocknrolla",
+    "hancock",
+    "incredibles_2",
+    "next",
+    "jumper",
+    "project_power",
+    "thor_love_and_thunder",
+    "guardians_of_the_galaxy",
+    "terminator_genisys",
+    "pan",
+    "the_suicide_squad",
+    "thor_the_dark_world",
+    "thor_ragnarok",
+    "hercules",
+    "zombieland_double_tap",
+    "jack_the_giant_slayer",
+    "the_number_23",
+    "lucky_number_slevin"
   ]
 }

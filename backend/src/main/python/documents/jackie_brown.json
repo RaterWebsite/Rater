@@ -214,5 +214,32 @@
       "rating": "10",
       "text": "The soundtrack is an all timer, Samuel L's best performance, a thoroughly entertaining ride from start to finish. 2nd for me on Tarantino's movies."
     }
+  ],
+  "recommendations": [
+    "reservoir_dogs",
+    "django_unchained",
+    "rocknrolla",
+    "sherlock_holmes_a_game_of_shadows",
+    "casino",
+    "the_harder_they_fall",
+    "the_suicide_squad",
+    "backdraft",
+    "desperado",
+    "wrath_of_man",
+    "snatch",
+    "copshop",
+    "the_three_musketeers",
+    "lucky_number_slevin",
+    "looper",
+    "drive",
+    "gangster_squad",
+    "true_grit",
+    "a_walk_among_the_tombstones",
+    "the_equalizer_2",
+    "the_fifth_element",
+    "minority_report",
+    "inherent_vice",
+    "american_ultra",
+    "moon"
   ]
 }

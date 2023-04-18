@@ -192,5 +192,32 @@
       "rating": "9",
       "text": "More and more I wonder why people look more towards Quentin Tarantino then P.T. Anderson when it comes to directing, $1 to buy a Netflix account, Google search: vtvshare"
     }
+  ],
+  "recommendations": [
+    "casino",
+    "catch_me_if_you_can",
+    "the_grand_budapest_hotel",
+    "rush",
+    "whiplash",
+    "raging_bull",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "the_aviator",
+    "chinatown",
+    "wall_street",
+    "the_untouchables",
+    "the_last_of_the_mohicans",
+    "hell_or_high_water",
+    "goodfellas",
+    "legend",
+    "american_hustle",
+    "lincoln",
+    "lawless",
+    "phantom_thread",
+    "black_mass",
+    "all_the_money_in_the_world",
+    "a_star_is_born",
+    "bringing_out_the_dead",
+    "butch_cassidy_and_the_sundance_kid",
+    "youth"
   ]
 }

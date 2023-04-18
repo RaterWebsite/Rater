@@ -225,5 +225,32 @@
       "rating": "5",
       "text": "Slow and steady does not win this race depicting the troubles of John Nash's struggles with schizophrenia while working hard on his scientific work"
     }
+  ],
+  "recommendations": [
+    "revolutionary_road",
+    "my_name_is_khan",
+    "manchester_by_the_sea",
+    "i_am_sam",
+    "joker",
+    "spotlight",
+    "hotel_rwanda",
+    "cinderella_man",
+    "the_theory_of_everything",
+    "mystic_river",
+    "the_master",
+    "the_social_network",
+    "blood_diamond",
+    "changeling",
+    "the_shawshank_redemption",
+    "breakthrough",
+    "12_angry_men",
+    "the_last_king_of_scotland",
+    "american_history_x",
+    "whiplash",
+    "invictus",
+    "lincoln",
+    "collateral_beauty",
+    "scent_of_a_woman",
+    "hidden_figures"
   ]
 }

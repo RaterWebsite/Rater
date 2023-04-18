@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "This movie is terrible. The story, the background, the whole script is a mess. I believe that this flick is racist to an utter extent, the mere title says it all. The plot has no foundation, it lacks everything that is expected from a thriller, you barely get in touch with each character that englobes the directors message to the expectator. Lacks details that may had placed them on a score of 1. And my review ends with one question to the director, Why do you believe that the poor and the minority in 2022 are the Afro-americans?."
     }
+  ],
+  "recommendations": [
+    "the_purge_anarchy",
+    "escape_room",
+    "how_it_ends",
+    "unfriended_dark_web",
+    "unfriended",
+    "brightburn",
+    "28_weeks_later",
+    "paranormal_activity_the_marked_ones",
+    "would_you_rather",
+    "knock_at_the_cabin",
+    "contagion",
+    "the_purge_election_year",
+    "the_strangers",
+    "paranormal_activity_the_ghost_dimension",
+    "chernobyl_diaries",
+    "children_of_men",
+    "shut_in",
+    "repo_men",
+    "happy_death_day",
+    "the_curse_of_la_llorona",
+    "limitless",
+    "the_forever_purge",
+    "splice",
+    "bird_box",
+    "vivarium"
   ]
 }

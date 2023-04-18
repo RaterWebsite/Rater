@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "This is a truly strange film. Love it or hate it, it WILL consume you. In my eyes, a true masterpiece."
     }
+  ],
+  "recommendations": [
+    "the_tree_of_life",
+    "cloud_atlas",
+    "life_of_pi",
+    "roma",
+    "perfume_the_story_of_a_murderer",
+    "eyes_wide_shut",
+    "soul",
+    "dogville",
+    "your_name",
+    "donnie_darko",
+    "upside_down",
+    "antichrist",
+    "paprika",
+    "her",
+    "arrival",
+    "the_green_knight",
+    "what_dreams_may_come",
+    "inception",
+    "the_master",
+    "2001_a_space_odyssey",
+    "under_the_skin",
+    "babel",
+    "risen",
+    "tolkien",
+    "nomadland"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Supporting actors were absolutely fantastic in this film. This might honestly compete with Saving Private Ryan or Black Hawk Down for best war movie of all time. It's that damn good. I'll have to admit though, the first half was just a TAD bit boring but the second half just makes up for it and does a lot more. Very powerful film."
     }
+  ],
+  "recommendations": [
+    "saving_private_ryan",
+    "the_deer_hunter",
+    "braveheart",
+    "gladiator",
+    "the_patriot",
+    "empire_of_the_sun",
+    "platoon",
+    "apocalypse_now",
+    "cold_mountain",
+    "the_last_duel",
+    "the_thin_red_line",
+    "full_metal_jacket",
+    "the_last_samurai",
+    "black_hawk_down",
+    "darkest_hour",
+    "hostiles",
+    "hotel_rwanda",
+    "unbroken",
+    "the_imitation_game",
+    "american_history_x",
+    "the_last_king_of_scotland",
+    "blood_diamond",
+    "deepwater_horizon",
+    "troy",
+    "master_and_commander_the_far_side_of_the_world"
   ]
 }

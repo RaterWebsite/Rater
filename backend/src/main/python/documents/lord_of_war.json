@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "i was expecting a movie that wasnt gonna be very good based on the boxoffice, but actually it was alright, Cage pulled off his role great and it had some good one liners, ill probably see it again."
     }
+  ],
+  "recommendations": [
+    "12_strong",
+    "greyhound",
+    "red_tails",
+    "valkyrie",
+    "jarhead",
+    "elysium",
+    "equilibrium",
+    "green_zone",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "the_kingdom",
+    "zero_dark_thirty",
+    "the_hurt_locker",
+    "savages",
+    "sicario_day_of_the_soldado",
+    "armageddon",
+    "apocalypto",
+    "guns_akimbo",
+    "midway",
+    "wonder_woman",
+    "pearl_harbor",
+    "the_1517_to_paris",
+    "london_has_fallen",
+    "lone_survivor",
+    "eastern_promises",
+    "deepwater_horizon"
   ]
 }

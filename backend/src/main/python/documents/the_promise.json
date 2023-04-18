@@ -42,5 +42,32 @@
       "rating": "8",
       "text": "Very nice movie, by standarts of asian martial arts-fantasy movie. The plot is not so strong, but it is not the main thing. This movie is about bright fights, gods and legends. Light smooth moves, water and wind. Worth watching, if you like fights as in Crounching Tiger film."
     }
+  ],
+  "recommendations": [
+    "the_great_wall",
+    "blade_of_the_47_ronin",
+    "jupiter_ascending",
+    "300",
+    "beowulf",
+    "clash_of_the_titans",
+    "immortals",
+    "the_matrix",
+    "ong_bak_2",
+    "fearless",
+    "king_arthur_legend_of_the_sword",
+    "starship_troopers",
+    "valerian_and_the_city_of_a_thousand_planets",
+    "sucker_punch",
+    "transformers_the_last_knight",
+    "pacific_rim_uprising",
+    "the_three_musketeers",
+    "gods_of_egypt",
+    "samson",
+    "science_fiction_volume_one_the_osiris_child",
+    "mission_to_mars",
+    "ninja_assassin",
+    "midway",
+    "morbius",
+    "2001_a_space_odyssey"
   ]
 }

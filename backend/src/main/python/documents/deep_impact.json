@@ -118,5 +118,32 @@
       "rating": "10",
       "text": "This was a great concept and it was a great movie i enjoyed in my younger years and i still do, i wish they would make a remake. #MovieThirst"
     }
+  ],
+  "recommendations": [
+    "everest",
+    "apollo_13",
+    "the_perfect_storm",
+    "deepwater_horizon",
+    "sully",
+    "the_abyss",
+    "outbreak",
+    "greyhound",
+    "first_man",
+    "in_the_heart_of_the_sea",
+    "patriots_day",
+    "greenland",
+    "dark_waters",
+    "the_martian",
+    "allied",
+    "the_midnight_sky",
+    "the_finest_hours",
+    "the_lost_city_of_z",
+    "nightcrawler",
+    "interstellar",
+    "armageddon",
+    "beirut",
+    "only_the_brave",
+    "stargate",
+    "independence_day"
   ]
 }

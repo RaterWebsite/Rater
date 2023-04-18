@@ -224,5 +224,32 @@
       "rating": "10",
       "text": "This movie is awesome! It was so funny! Im still laughing when i think of it... \"boats and ho's\" Two thumbs up!"
     }
+  ],
+  "recommendations": [
+    "ted",
+    "neighbors",
+    "knocked_up",
+    "ted_2",
+    "the_wedding_ringer",
+    "grown_ups",
+    "zoolander",
+    "a_million_ways_to_die_in_the_west",
+    "this_is_the_end",
+    "funny_people",
+    "old_school",
+    "the_hangover",
+    "forgetting_sarah_marshall",
+    "jackass_presents_bad_grandpa",
+    "zack_and_miri_make_a_porno",
+    "blended",
+    "dinner_for_schmucks",
+    "the_dictator",
+    "hall_pass",
+    "the_40_year_old_virgin",
+    "identity_thief",
+    "sisters",
+    "night_at_the_museum",
+    "click",
+    "dodgeball_a_true_underdog_story"
   ]
 }

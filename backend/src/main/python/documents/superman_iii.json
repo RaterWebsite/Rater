@@ -139,5 +139,32 @@
       "rating": "2",
       "text": "Superman III' is the kind of movie that is a miscalculation of all things in the genre, and even the character like Superman himself. Everything you knew and loved about the character gets misused so much, it's a wonder why the studio was"
     }
+  ],
+  "recommendations": [
+    "fantastic_four_rise_of_the_silver_surfer",
+    "terminator_salvation",
+    "terminator_3_rise_of_the_machines",
+    "blade_trinity",
+    "superman_returns",
+    "x_men_origins_wolverine",
+    "men_in_black_ii",
+    "elektra",
+    "the_league_of_extraordinary_gentlemen",
+    "max_steel",
+    "iron_man_2",
+    "justice_league",
+    "star_trek_into_darkness",
+    "pacific_rim_uprising",
+    "star_wars_episode_i_the_phantom_menace",
+    "shazam_fury_of_the_gods",
+    "hellboy",
+    "hulk",
+    "pirates_of_the_caribbean_dead_men_tell_no_tales",
+    "bloodshot",
+    "the_incredible_hulk",
+    "ant_man_and_the_wasp_quantumania",
+    "iron_man_3",
+    "surrogates",
+    "daredevil"
   ]
 }

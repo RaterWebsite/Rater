@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Amazing action movie, not for recommended for anyone who gets sick watching first person games. Non-stop action done in a very unique way, highly-recommended for anyone who loves non stop gore fests with minimal story."
     }
+  ],
+  "recommendations": [
+    "sucker_punch",
+    "mad_max_fury_road",
+    "tomb_raider",
+    "equilibrium",
+    "the_matrix_reloaded",
+    "drive",
+    "guns_akimbo",
+    "avengers_age_of_ultron",
+    "king_arthur_legend_of_the_sword",
+    "gamer",
+    "dredd",
+    "blackhat",
+    "jupiter_ascending",
+    "they_live",
+    "world_war_z",
+    "rampage",
+    "inception",
+    "maze_runner_the_scorch_trials",
+    "blade_of_the_47_ronin",
+    "bloodshot",
+    "the_13th_warrior",
+    "the_equalizer_2",
+    "upgrade",
+    "gemini_man",
+    "poseidon"
   ]
 }

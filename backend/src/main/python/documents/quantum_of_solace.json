@@ -227,5 +227,32 @@
       "rating": "4",
       "text": "Yes, it's true what they say. 'Quantum of Solace' is a silly, choppy action movie that felt less like a Bond movie and more like a Bourne movie.\r Daniel Craig still maintains the role magnificently well, doing what he can in a silly action film. Olga Kurylenko makes a good Bond girl and Mathieu Amalric is an okay Bond villain. I don't remember him as much as previous villains, especially Mads Mikkelsen ('Casino Royale'), and then Javier Bardem ('Skyfall') four years later.\r I am not sure whether 'Quantum of Solace' would have been a much better movie if it wasn't a follow up to the great 'Casino Royale' (2006). It felt more like one of those dumb, gimmicky Pierce Brosnan movies after 'Goldeneye' (1995), this movie reminded me of 'Die Another Day' (2002), I was afraid that this current series of Bond movies would fall into that routine of dumb action and gimmicky moments. After starting off so well in 'Casino Royale' (2006), I feared this movie would end Daniel Craig, luckily he survived this one.\r I just hope we never see another dumb action Bond flick ever again."
     }
+  ],
+  "recommendations": [
+    "spectre",
+    "casino_royale",
+    "the_mechanic",
+    "the_bourne_legacy",
+    "mission_impossible_ii",
+    "mission_impossible_rogue_nation",
+    "creed_ii",
+    "the_bourne_supremacy",
+    "john_wick_chapter_3_parabellum",
+    "tomb_raider",
+    "avengers_age_of_ultron",
+    "the_bourne_ultimatum",
+    "wrath_of_man",
+    "skyfall",
+    "no_time_to_die",
+    "boss_level",
+    "mission_impossible_ghost_protocol",
+    "mission_impossible",
+    "the_equalizer",
+    "angel_has_fallen",
+    "run_all_night",
+    "transformers_dark_of_the_moon",
+    "john_wick",
+    "sherlock_holmes_a_game_of_shadows",
+    "safe"
   ]
 }

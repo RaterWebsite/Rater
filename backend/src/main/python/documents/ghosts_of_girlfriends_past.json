@@ -106,5 +106,32 @@
       "rating": "7",
       "text": "It works, it's not the best romcom I've ever seen but it's by no means the worst. It ticks all the boxes, however some of the dialogue is close to vomit inducing."
     }
+  ],
+  "recommendations": [
+    "bridesmaids",
+    "you_again",
+    "27_dresses",
+    "sex_and_the_city_2",
+    "sex_and_the_city",
+    "something_borrowed",
+    "mean_girls",
+    "just_go_with_it",
+    "no_strings_attached",
+    "knocked_up",
+    "hannah_montana_the_movie",
+    "trainwreck",
+    "the_change_up",
+    "bride_wars",
+    "if_i_stay",
+    "the_ugly_truth",
+    "alvin_and_the_chipmunks_the_road_chip",
+    "13_going_on_30",
+    "superbad",
+    "confessions_of_a_shopaholic",
+    "the_40_year_old_virgin",
+    "17_again",
+    "we_bought_a_zoo",
+    "the_croods_a_new_age",
+    "the_lake_house"
   ]
 }

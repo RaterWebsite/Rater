@@ -225,5 +225,32 @@
       "rating": "7",
       "text": "Certainly a good film, but I did feel like Tom Hanks performance fell a bit flat. It represented well on how the events of Flight 1549 went down, the cinematography was pleasing to watch, and every other performance was pretty good."
     }
+  ],
+  "recommendations": [
+    "apollo_13",
+    "everest",
+    "captain_phillips",
+    "flight",
+    "deepwater_horizon",
+    "the_finest_hours",
+    "cast_away",
+    "american_made",
+    "the_perfect_storm",
+    "nightcrawler",
+    "enemy_of_the_state",
+    "in_the_heart_of_the_sea",
+    "patriots_day",
+    "first_man",
+    "greyhound",
+    "only_the_brave",
+    "ford_v_ferrari",
+    "wall_street_money_never_sleeps",
+    "donnie_brasco",
+    "allied",
+    "valkyrie",
+    "widows",
+    "beirut",
+    "news_of_the_world",
+    "deep_impact"
   ]
 }

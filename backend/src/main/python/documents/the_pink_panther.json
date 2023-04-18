@@ -196,5 +196,32 @@
       "rating": "8",
       "text": "The pink panther = 8/10............................................................"
     }
+  ],
+  "recommendations": [
+    "ace_ventura_pet_detective",
+    "ace_ventura_when_nature_calls",
+    "get_smart",
+    "role_models",
+    "dodgeball_a_true_underdog_story",
+    "zack_and_miri_make_a_porno",
+    "the_wedding_ringer",
+    "spy",
+    "the_longest_yard",
+    "tropic_thunder",
+    "grudge_match",
+    "forgetting_sarah_marshall",
+    "due_date",
+    "horrible_bosses",
+    "johnny_english",
+    "date_night",
+    "zoolander",
+    "scary_movie_3",
+    "mortdecai",
+    "get_hard",
+    "austin_powers_in_goldmember",
+    "tower_heist",
+    "murder_mystery",
+    "horrible_bosses_2",
+    "bean"
   ]
 }

@@ -39,5 +39,32 @@
       "rating": "10",
       "text": "this is a combination of Rear Window and Sasquatch, just a great movie."
     }
+  ],
+  "recommendations": [
+    "jeepers_creepers_reborn",
+    "meet_the_spartans",
+    "see_no_evil",
+    "vampires_suck",
+    "idiocracy",
+    "the_emoji_movie",
+    "skyline",
+    "gamer",
+    "the_room",
+    "the_day_the_earth_stood_still",
+    "the_matrix_resurrections",
+    "jeepers_creepers_3",
+    "movie_43",
+    "songbird",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "knowing",
+    "epic_movie",
+    "district_9",
+    "gods_of_egypt",
+    "the_happening",
+    "legion",
+    "the_bye_bye_man",
+    "redemption_day",
+    "scary_movie_5",
+    "the_legend_of_hercules"
   ]
 }

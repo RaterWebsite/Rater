@@ -227,5 +227,32 @@
       "rating": "10",
       "text": "What a whimsical and hilarious way to invent new superheros! This film is excellent for children through adult, containing gut-busting comedy and talented actors. It may mot  be quite as suited for the younger end of children, as it contains material that may not be understandable to them."
     }
+  ],
+  "recommendations": [
+    "how_to_train_your_dragon_2",
+    "up",
+    "onward",
+    "big_hero_6",
+    "kung_fu_panda_3",
+    "spider_man_into_the_spider_verse",
+    "the_croods",
+    "ratatouille",
+    "how_to_train_your_dragon",
+    "finding_dory",
+    "zootopia",
+    "the_iron_giant",
+    "finding_nemo",
+    "atlantis_the_lost_empire",
+    "shaun_the_sheep_movie",
+    "the_book_of_life",
+    "kubo_and_the_two_strings",
+    "soul",
+    "your_name",
+    "the_good_dinosaur",
+    "rise_of_the_guardians",
+    "cars",
+    "toy_story_3",
+    "my_little_pony_the_movie",
+    "raya_and_the_last_dragon"
   ]
 }

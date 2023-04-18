@@ -170,5 +170,32 @@
       "rating": "9",
       "text": "Group of friends go hiking in Sweden in memory of a dead friend, get lost in the forest and then start getting picked off by some sort of Norse animal god thing that's being worshipped by a cult."
     }
+  ],
+  "recommendations": [
+    "scary_stories_to_tell_in_the_dark",
+    "antlers",
+    "annabelle_creation",
+    "it_follows",
+    "the_witch",
+    "ouija_origin_of_evil",
+    "the_woman_in_black",
+    "the_descent",
+    "dark_skies",
+    "annabelle_comes_home",
+    "the_boy",
+    "mirrors",
+    "the_conjuring",
+    "chernobyl_diaries",
+    "the_forest",
+    "color_out_of_space",
+    "the_lodge",
+    "lights_out",
+    "the_conjuring_the_devil_made_me_do_it",
+    "the_strangers_prey_at_night",
+    "a_cure_for_wellness",
+    "oculus",
+    "insidious_chapter_3",
+    "the_invisible_man",
+    "the_ring"
   ]
 }

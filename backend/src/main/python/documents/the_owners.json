@@ -33,5 +33,32 @@
       "rating": "10",
       "text": "Fantastic horror film, well worth a watch!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
     }
+  ],
+  "recommendations": [
+    "countdown",
+    "insidious",
+    "scouts_guide_to_the_zombie_apocalypse",
+    "house_of_1000_corpses",
+    "drag_me_to_hell",
+    "unfriended",
+    "paranormal_activity_the_marked_ones",
+    "ouija",
+    "scream",
+    "chernobyl_diaries",
+    "host",
+    "a_haunted_house_2",
+    "cooties",
+    "zombieland",
+    "cabin_fever",
+    "the_haunting_in_connecticut",
+    "paranormal_activity_3",
+    "hostel",
+    "the_possession",
+    "the_curse_of_la_llorona",
+    "the_strangers_prey_at_night",
+    "krampus",
+    "paranormal_activity",
+    "dark_skies",
+    "paranormal_activity_4"
   ]
 }

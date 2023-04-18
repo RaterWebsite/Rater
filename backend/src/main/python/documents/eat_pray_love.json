@@ -153,5 +153,32 @@
       "rating": "10",
       "text": "touching movie that made me think about my own life. I can't remember the last time I saw a movie that really meant something for me. The narrative flows well, the movie is always entertaining and never gets bored. charming soundtrack."
     }
+  ],
+  "recommendations": [
+    "home_again",
+    "endless_love",
+    "something_borrowed",
+    "the_space_between_us",
+    "into_the_wild",
+    "about_time",
+    "the_pursuit_of_happyness",
+    "the_descendants",
+    "the_age_of_adaline",
+    "me_before_you",
+    "afternoon_delight",
+    "collateral_beauty",
+    "up_in_the_air",
+    "young_adult",
+    "the_notebook",
+    "the_perks_of_being_a_wallflower",
+    "bride_wars",
+    "adore",
+    "the_intern",
+    "the_adjustment_bureau",
+    "the_glass_castle",
+    "miracles_from_heaven",
+    "about_a_boy",
+    "monte_carlo",
+    "13_going_on_30"
   ]
 }

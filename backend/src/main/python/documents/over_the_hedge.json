@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "I didn't expect much when I was going to see it, but I saw it, and it was brilliant! It was really good with great animation, humor and plot. It was great but just one thing: does opening a packet of crisps mean nuclear, NO. And as for Allison Janney: here you go (puts up middle finger). And that is that."
     }
+  ],
+  "recommendations": [
+    "peter_rabbit",
+    "ice_age_the_meltdown",
+    "paddington",
+    "the_lego_movie",
+    "ice_age",
+    "puss_in_boots_the_last_wish",
+    "shaun_the_sheep_movie",
+    "hotel_transylvania",
+    "hotel_transylvania_2",
+    "bolt",
+    "minions_the_rise_of_gru",
+    "captain_underpants_the_first_epic_movie",
+    "despicable_me",
+    "megamind",
+    "the_spongebob_squarepants_movie",
+    "the_croods",
+    "storks",
+    "zootopia",
+    "the_peanuts_movie",
+    "ferdinand",
+    "flushed_away",
+    "despicable_me_2",
+    "cloudy_with_a_chance_of_meatballs",
+    "spies_in_disguise",
+    "shazam"
   ]
 }

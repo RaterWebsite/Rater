@@ -49,5 +49,32 @@
       "rating": "7",
       "text": "A pretty simple comedy that puts a man out of his comfort zone and the laughs ensue.Entertaining enough"
     }
+  ],
+  "recommendations": [
+    "beverly_hills_cop",
+    "beverly_hills_cop_ii",
+    "bad_boys",
+    "beverly_hills_cop_iii",
+    "shanghai_noon",
+    "the_legend_of_zorro",
+    "the_whole_nine_yards",
+    "red",
+    "the_wackness",
+    "the_jewel_of_the_nile",
+    "due_date",
+    "days_of_thunder",
+    "the_boss",
+    "the_adventurer_the_curse_of_the_midas_box",
+    "just_like_heaven",
+    "lethal_weapon",
+    "vacation_friends",
+    "red_heat",
+    "wanderlust",
+    "sister_act",
+    "lethal_weapon_4",
+    "blue_streak",
+    "robin_hood_prince_of_thieves",
+    "shanghai_knights",
+    "the_mask_of_zorro"
   ]
 }

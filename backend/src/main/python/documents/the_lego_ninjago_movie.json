@@ -196,5 +196,32 @@
       "rating": "10",
       "text": "It feels so rightI'm where I belong'Cause I found my placeI found my place(Hi-ya!)What a rideI knew I was strongNow I found my placeI found my place"
     }
+  ],
+  "recommendations": [
+    "the_lego_batman_movie",
+    "guardians_of_the_galaxy",
+    "hotel_transylvania_3_summer_vacation",
+    "penguins_of_madagascar",
+    "the_lego_movie",
+    "incredibles_2",
+    "tmnt",
+    "thor_ragnarok",
+    "bumblebee",
+    "despicable_me_2",
+    "the_lego_movie_2_the_second_part",
+    "kung_fu_panda_2",
+    "my_little_pony_the_movie",
+    "monsters_university",
+    "minions",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "hotel_transylvania_2",
+    "turbo",
+    "peter_rabbit",
+    "the_a_team",
+    "deadpool",
+    "free_birds",
+    "megamind",
+    "shazam_fury_of_the_gods",
+    "justice_league"
   ]
 }

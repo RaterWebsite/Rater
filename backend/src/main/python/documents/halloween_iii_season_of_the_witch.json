@@ -154,5 +154,32 @@
       "rating": "7",
       "text": "Definitely an enjoyable movie, however, I can see how Halloweens fans would be bitter if they didn't known in advance that there was not going to be a Michael Myers. The plot itself is interesting and unique, but there are certainly some rather notable potholes that should should been addressed"
     }
+  ],
+  "recommendations": [
+    "halloween_ii",
+    "hellbound_hellraiser_ii",
+    "book_of_shadows_blair_witch_2",
+    "the_thing",
+    "insidious_chapter_2",
+    "sinister_2",
+    "halloween_5_the_revenge_of_michael_myers",
+    "dead_silence",
+    "the_grudge_2",
+    "the_grudge",
+    "poltergeist",
+    "the_curse_of_la_llorona",
+    "the_conjuring_the_devil_made_me_do_it",
+    "the_amityville_horror",
+    "a_nightmare_on_elm_street",
+    "dark_skies",
+    "blair_witch",
+    "annabelle",
+    "halloween_the_curse_of_michael_myers",
+    "malignant",
+    "devil",
+    "the_possession",
+    "the_eye",
+    "i_still_know_what_you_did_last_summer",
+    "cabin_fever"
   ]
 }

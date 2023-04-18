@@ -34,5 +34,32 @@
       "rating": "6",
       "text": "Es la pel\u00edcula m\u00e1s corta que haya visto; consiste en un conjuto de cortos animados que narran historias centradas en la cultura de varios pa\u00edses, la recomiendo si eres un fan de Disney."
     }
+  ],
+  "recommendations": [
+    "paw_patrol_the_movie",
+    "the_spongebob_movie_sponge_on_the_run",
+    "hotel_transylvania_transformania",
+    "kidnap",
+    "bad_boys_for_life",
+    "coming_to_america",
+    "schumacher",
+    "anaconda",
+    "die_another_day",
+    "the_high_note",
+    "the_italian_job",
+    "my_spy",
+    "behind_enemy_lines",
+    "bullet_to_the_head",
+    "jonah_hex",
+    "wild_wild_west",
+    "robots",
+    "yogi_bear",
+    "lockout",
+    "barely_lethal",
+    "the_pacifier",
+    "austin_powers_in_goldmember",
+    "race_to_witch_mountain",
+    "this_means_war",
+    "knight_and_day"
   ]
 }

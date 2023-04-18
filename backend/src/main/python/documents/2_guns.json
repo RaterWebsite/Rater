@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "There's not much to say about 2 Guns. With such a poor script, Denzel Washington and Mark Wahlberg can't really be blamed for giving mostly charmless performances. The main plot \"twist\" comes out of left field and is absurdly random to the point of just being stupid, which pretty much sums up this movie. It's filled with guns and death but that's about it."
     }
+  ],
+  "recommendations": [
+    "shooter",
+    "angel_has_fallen",
+    "the_mechanic",
+    "the_last_stand",
+    "contraband",
+    "16_blocks",
+    "the_italian_job",
+    "the_equalizer",
+    "safe_house",
+    "gangster_squad",
+    "the_november_man",
+    "sabotage",
+    "the_commuter",
+    "demolition_man",
+    "spenser_confidential",
+    "escape_plan",
+    "wrath_of_man",
+    "21_bridges",
+    "honest_thief",
+    "free_fire",
+    "the_taking_of_pelham_1_2_3",
+    "jack_ryan_shadow_recruit",
+    "3_days_to_kill",
+    "red_notice",
+    "mile_22"
   ]
 }

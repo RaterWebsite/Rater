@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Con Batman Begins, Nolan se hizo mucho mas grande y el g\u00e9nero de los superh\u00e9roes ten\u00eda una nueva referencia. El reparto esta escogido de forma magistral, la historia es mucho mas humana, ahora Batman ya no es un h\u00e9roe de c\u00f3mic para ni\u00f1os, es algo mas. Esta primera parte de la trilog\u00eda ya es perfecta, pero lo mejor aun estaba por llegar..."
     }
+  ],
+  "recommendations": [
+    "batman",
+    "the_batman",
+    "batman_returns",
+    "the_dark_knight",
+    "batman_forever",
+    "superman_returns",
+    "the_dark_knight_rises",
+    "robin_hood",
+    "spider_man",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "the_incredible_hulk",
+    "harry_potter_and_the_chamber_of_secrets",
+    "back_to_the_future_part_iii",
+    "indiana_jones_and_the_last_crusade",
+    "the_lego_batman_movie",
+    "hulk",
+    "the_amazing_spider_man",
+    "thor",
+    "the_amazing_spider_man_2",
+    "man_of_steel",
+    "spider_man_homecoming",
+    "superman",
+    "charlie_and_the_chocolate_factory",
+    "frankenweenie",
+    "indiana_jones_and_the_temple_of_doom"
   ]
 }

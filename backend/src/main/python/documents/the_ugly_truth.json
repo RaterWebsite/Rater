@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Funniest romantic comedy i've seen all year!"
     }
+  ],
+  "recommendations": [
+    "knocked_up",
+    "what_happens_in_vegas",
+    "the_change_up",
+    "the_40_year_old_virgin",
+    "hall_pass",
+    "bridesmaids",
+    "superbad",
+    "trainwreck",
+    "rough_night",
+    "the_hangover",
+    "neighbors_2_sorority_rising",
+    "grown_ups",
+    "good_luck_chuck",
+    "bad_moms",
+    "white_chicks",
+    "27_dresses",
+    "the_watch",
+    "miss_march",
+    "jackass_presents_bad_grandpa",
+    "this_is_the_end",
+    "hot_tub_time_machine",
+    "not_another_teen_movie",
+    "jexi",
+    "the_happytime_murders",
+    "thunder_force"
   ]
 }

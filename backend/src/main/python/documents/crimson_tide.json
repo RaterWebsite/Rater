@@ -86,5 +86,32 @@
       "rating": "7",
       "text": "Despite some considerable plot holes, this is still a well made geo-poltical thriller that uses is submarine setting to build the claustrophobic tension to good effect."
     }
+  ],
+  "recommendations": [
+    "captain_phillips",
+    "enemy_of_the_state",
+    "patriots_day",
+    "deep_impact",
+    "official_secrets",
+    "sully",
+    "miss_sloane",
+    "outbreak",
+    "richard_jewell",
+    "dark_waters",
+    "patriot_games",
+    "7_days_in_entebbe",
+    "apollo_13",
+    "the_card_counter",
+    "judas_and_the_black_messiah",
+    "the_sum_of_all_fears",
+    "nightcrawler",
+    "captain_america_the_winter_soldier",
+    "deepwater_horizon",
+    "greyhound",
+    "darkest_hour",
+    "wind_river",
+    "blackkklansman",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "closed_circuit"
   ]
 }

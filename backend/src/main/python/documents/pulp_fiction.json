@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "Quentin Tarantino has created a masterpiece in the film industry. Intense action, legendary lines, and memorable characters. It's one of the best movies ever made. The entire cast is absoloutely entertaining to watch, and Tarantino's style of telling events out of order is intelligent. The film is epic as any movie can get. It is an intense, sexy, addictive crime/comedy/drama that warps into overdrive and thrown into the hands of one of hollywood's greatest directors and producers that puts crime into something so addictive, nobody can resist. It's like watching a sex scene on steroids while drunk. Fantastic and ultimate perfection!"
     }
+  ],
+  "recommendations": [
+    "reservoir_dogs",
+    "the_big_lebowski",
+    "morbius",
+    "scarface",
+    "twelve_monkeys",
+    "black_panther_wakanda_forever",
+    "aquaman",
+    "inherent_vice",
+    "inglourious_basterds",
+    "v_for_vendetta",
+    "dredd",
+    "the_suicide_squad",
+    "the_a_team",
+    "thor_love_and_thunder",
+    "all_eyez_on_me",
+    "the_departed",
+    "the_three_musketeers",
+    "moon",
+    "hercules",
+    "edge_of_tomorrow",
+    "king_arthur_legend_of_the_sword",
+    "serenity",
+    "gran_torino",
+    "ben_hur",
+    "hancock"
   ]
 }

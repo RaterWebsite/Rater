@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I cannot understand why people are being so harsh on this movie. This will most definitely develop a cult following as the years pass, much like unbreakable in my opinion."
     }
+  ],
+  "recommendations": [
+    "avengers_age_of_ultron",
+    "terminator_genisys",
+    "twelve_monkeys",
+    "i_am_legend",
+    "next",
+    "tomorrowland",
+    "edge_of_tomorrow",
+    "the_prestige",
+    "the_maze_runner",
+    "hancock",
+    "inferno",
+    "now_you_see_me",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "bright",
+    "maze_runner_the_scorch_trials",
+    "i_am_number_four",
+    "the_suicide_squad",
+    "vanilla_sky",
+    "nobody",
+    "gemini_man",
+    "the_5th_wave",
+    "it_chapter_two",
+    "riddick",
+    "poseidon",
+    "the_last_witch_hunter"
   ]
 }

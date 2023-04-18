@@ -89,5 +89,32 @@
       "rating": "7",
       "text": "Tiene mis dos cosas favoritas, navidad y clich\u00e9s, es buena, y me gusta el como termina"
     }
+  ],
+  "recommendations": [
+    "the_twilight_saga_breaking_dawn_part_1",
+    "the_croods_a_new_age",
+    "the_smurfs",
+    "cloudy_with_a_chance_of_meatballs",
+    "hannah_montana_the_movie",
+    "alvin_and_the_chipmunks_chipwrecked",
+    "zookeeper",
+    "free_guy",
+    "real_steel",
+    "goosebumps",
+    "i_am_number_four",
+    "diary_of_a_wimpy_kid_the_long_haul",
+    "shazam",
+    "the_game_plan",
+    "minions_the_rise_of_gru",
+    "confessions_of_a_shopaholic",
+    "wonder_park",
+    "the_twilight_saga_eclipse",
+    "my_life_in_ruins",
+    "the_twilight_saga_new_moon",
+    "thor_love_and_thunder",
+    "free_birds",
+    "minions",
+    "the_lego_movie",
+    "the_vow"
   ]
 }

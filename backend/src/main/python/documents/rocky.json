@@ -189,5 +189,32 @@
       "rating": "10",
       "text": "Rocky es una pel\u00edcula cl\u00e1sica del cine y bien merecido lo tiene, nos habla sobre como debemos esforzarnos al m\u00e1ximo para lograr muestras metas, y esta pel\u00edcula convirtio a Stallone en un actor de Hollywood y a Rocky Balboa en un s\u00edmbolo de lucha y esperanza"
     }
+  ],
+  "recommendations": [
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "creed",
+    "rush",
+    "creed_ii",
+    "top_gun",
+    "top_gun_maverick",
+    "black_widow",
+    "rocky_iii",
+    "troy",
+    "highlander",
+    "eternals",
+    "thor",
+    "gladiator",
+    "avengers_age_of_ultron",
+    "kung_fu_panda_3",
+    "eddie_the_eagle",
+    "conan_the_barbarian",
+    "alita_battle_angel",
+    "warrior",
+    "the_harder_they_fall",
+    "braveheart",
+    "ford_v_ferrari",
+    "tron_legacy",
+    "thor_the_dark_world",
+    "the_hunger_games_catching_fire"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Donnie Darko is one of my favorite films. It has depth, substance and mystery in every scene. It's a shame Richard Kelly hasn't come close to this masterpiece ever since."
     }
+  ],
+  "recommendations": [
+    "searching",
+    "annihilation",
+    "predestination",
+    "arrival",
+    "vivarium",
+    "coherence",
+    "interstellar",
+    "enemy",
+    "a_cure_for_wellness",
+    "source_code",
+    "colossal",
+    "inception",
+    "the_butterfly_effect",
+    "midnight_special",
+    "cloud_atlas",
+    "the_machinist",
+    "lucy",
+    "a_ghost_story",
+    "nerve",
+    "the_good_shepherd",
+    "downsizing",
+    "us",
+    "ex_machina",
+    "the_lobster",
+    "anon"
   ]
 }

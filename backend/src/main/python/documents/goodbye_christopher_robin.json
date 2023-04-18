@@ -70,5 +70,32 @@
       "rating": "6",
       "text": "There is probably a decent movie in there, but too often this comes across as nothing more than a big budget tele-movie."
     }
+  ],
+  "recommendations": [
+    "christopher_robin",
+    "me_before_you",
+    "joy",
+    "the_glass_castle",
+    "breakthrough",
+    "moonrise_kingdom",
+    "the_fault_in_our_stars",
+    "big_fish",
+    "hereafter",
+    "onward",
+    "collateral_beauty",
+    "gifted",
+    "eddie_the_eagle",
+    "me_and_earl_and_the_dying_girl",
+    "blue_valentine",
+    "a_beautiful_day_in_the_neighborhood",
+    "captain_fantastic",
+    "her",
+    "the_age_of_adaline",
+    "the_perks_of_being_a_wallflower",
+    "the_blind_side",
+    "a_bronx_tale",
+    "the_secret_life_of_walter_mitty",
+    "the_book_thief",
+    "the_giver"
   ]
 }

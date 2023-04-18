@@ -227,5 +227,32 @@
       "rating": "3",
       "text": "Unfortunately, this film is not half as good as I expected. The story is quite boring and disjointed and there isn't enough of the legendary music. The director seemed to not be taking too much interest in what he was doing. Maybe he was pissed all the time or just so bored and broke he thought he'd give his career one last shot. Beatles fans will appreciate the music but all in all this is definitely not up to expectations."
     }
+  ],
+  "recommendations": [
+    "begin_again",
+    "mamma_mia_here_we_go_again",
+    "into_the_woods",
+    "eddie_the_eagle",
+    "bohemian_rhapsody",
+    "in_the_heights",
+    "we_are_your_friends",
+    "jingle_jangle_a_christmas_journey",
+    "almost_famous",
+    "the_greatest_showman",
+    "the_illusionist",
+    "chef",
+    "cats",
+    "burlesque",
+    "rocketman",
+    "annette",
+    "hugo",
+    "pitch_perfect",
+    "the_lego_movie_2_the_second_part",
+    "eternal_sunshine_of_the_spotless_mind",
+    "hairspray",
+    "cruella",
+    "vanilla_sky",
+    "casablanca",
+    "alice_through_the_looking_glass"
   ]
 }

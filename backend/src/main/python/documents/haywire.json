@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Just got home from seeing this movie.  It's a slow time for movies, and there wasn't much else out there worth seeing.  This got good reviews, so I though I'd try it.  The cinematography was excellent, the music and sound effects were terrific as well.  Sure, it was an effort to follow the actual story, but that made me pay attention.  If I wanted mind numbing dumb action I would have seen Underworld.  But overall, a pretty good movie for those of us who still have attention spans in this day and age."
     }
+  ],
+  "recommendations": [
+    "miami_vice",
+    "atomic_blonde",
+    "kate",
+    "jiu_jitsu",
+    "gemini_man",
+    "hanna",
+    "drive",
+    "triple_frontier",
+    "the_mechanic",
+    "the_equalizer_2",
+    "wrath_of_man",
+    "mile_22",
+    "gunpowder_milkshake",
+    "safe",
+    "mission_impossible_ii",
+    "bloodshot",
+    "the_equalizer",
+    "baby_driver",
+    "red_sparrow",
+    "rocknrolla",
+    "the_marine",
+    "desperado",
+    "infinite",
+    "furious_7",
+    "run_all_night"
   ]
 }

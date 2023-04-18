@@ -66,5 +66,32 @@
       "rating": "7",
       "text": "Es una buena aventura con dinosaurios; la trama es decente pero efectiva, los personajes son carism\u00e1ticos y la m\u00fasica es bonita; es otro cl\u00e1sico de Don Bluth."
     }
+  ],
+  "recommendations": [
+    "the_polar_express",
+    "the_star",
+    "the_willoughbys",
+    "where_the_wild_things_are",
+    "coraline",
+    "brave",
+    "up",
+    "moana",
+    "the_peanuts_movie",
+    "the_good_dinosaur",
+    "onward",
+    "brother_bear",
+    "rise_of_the_guardians",
+    "meet_the_robinsons",
+    "christopher_robin",
+    "zootopia",
+    "bridge_to_terabithia",
+    "finding_nemo",
+    "bambi",
+    "my_little_pony_a_new_generation",
+    "happy_feet",
+    "toy_story_3",
+    "enchanted",
+    "flipped",
+    "soul"
   ]
 }

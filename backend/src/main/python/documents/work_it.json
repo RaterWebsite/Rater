@@ -69,5 +69,32 @@
       "rating": "8",
       "text": "Although an enjoyable movie, Work It suffers in originality with a predicatble storyline that left you slightly unsatisfied by the movie's end. However, the movie doesn't stop you from smiling and cringing (which can be positive), and will get you dancing no matter if you can or not."
     }
+  ],
+  "recommendations": [
+    "burlesque",
+    "step_up",
+    "the_greatest_showman",
+    "moulin_rouge",
+    "mamma_mia_here_we_go_again",
+    "begin_again",
+    "almost_famous",
+    "cats",
+    "pitch_perfect",
+    "hairspray",
+    "grease",
+    "yesterday",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "music_and_lyrics",
+    "jingle_jangle_a_christmas_journey",
+    "sing_2",
+    "mary_poppins_returns",
+    "stardust",
+    "rio",
+    "into_the_woods",
+    "peter_pan",
+    "mary_poppins",
+    "ghostbusters",
+    "pitch_perfect_2",
+    "step_up_2_the_streets"
   ]
 }

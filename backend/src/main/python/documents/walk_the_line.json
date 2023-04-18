@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "I was very skeptical at first but I have to so, I was impressed. Great movie, great cast. Witherspoon just lights p the screen and Phoenix is so scary, so on the edge... The music is rip-roarin'."
     }
+  ],
+  "recommendations": [
+    "respect",
+    "almost_famous",
+    "rocketman",
+    "burlesque",
+    "bohemian_rhapsody",
+    "hairspray",
+    "cinderella_man",
+    "mamma_mia_here_we_go_again",
+    "a_beautiful_day_in_the_neighborhood",
+    "yesterday",
+    "a_star_is_born",
+    "begin_again",
+    "raging_bull",
+    "the_fighter",
+    "million_dollar_baby",
+    "whiplash",
+    "cats",
+    "hustlers",
+    "joy",
+    "eddie_the_eagle",
+    "amadeus",
+    "forrest_gump",
+    "chef",
+    "crazy_heart",
+    "mary_poppins_returns"
   ]
 }

@@ -189,5 +189,32 @@
       "rating": "5",
       "text": "It\u2019s a fun movie. It\u2019s silly and enjoyable. It\u2019s nothing ground breaking but it is fun."
     }
+  ],
+  "recommendations": [
+    "the_wedding_ringer",
+    "the_longest_yard",
+    "zack_and_miri_make_a_porno",
+    "identity_thief",
+    "friends_with_benefits",
+    "the_break_up",
+    "50_first_dates",
+    "sandy_wexler",
+    "the_cobbler",
+    "keeping_up_with_the_joneses",
+    "pitch_perfect_2",
+    "forgetting_sarah_marshall",
+    "the_five_year_engagement",
+    "blended",
+    "date_night",
+    "johnny_english_reborn",
+    "central_intelligence",
+    "seven_psychopaths",
+    "night_at_the_museum",
+    "hubie_halloween",
+    "rough_night",
+    "the_watch",
+    "holidate",
+    "the_proposal",
+    "this_means_war"
   ]
 }

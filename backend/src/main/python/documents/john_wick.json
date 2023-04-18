@@ -225,5 +225,32 @@
       "rating": "10",
       "text": "GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD"
     }
+  ],
+  "recommendations": [
+    "john_wick_chapter_3_parabellum",
+    "john_wick_chapter_2",
+    "nobody",
+    "the_equalizer",
+    "the_mechanic",
+    "run_all_night",
+    "safe",
+    "angel_has_fallen",
+    "first_blood",
+    "creed_ii",
+    "kate",
+    "hanna",
+    "quantum_of_solace",
+    "taken",
+    "abraham_lincoln_vampire_hunter",
+    "transformers",
+    "transformers_dark_of_the_moon",
+    "mission_impossible_ii",
+    "atomic_blonde",
+    "a_walk_among_the_tombstones",
+    "haywire",
+    "from_paris_with_love",
+    "shooter",
+    "the_commuter",
+    "the_equalizer_2"
   ]
 }

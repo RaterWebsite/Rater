@@ -227,5 +227,32 @@
       "rating": "7",
       "text": "Monster House was one of my favorite movies , the plot, the characters and the rest except that I did not show fear , perhaps some scenes but not reactions , but that sympathy for film fans like me."
     }
+  ],
+  "recommendations": [
+    "hotel_transylvania",
+    "the_croods",
+    "hotel_transylvania_2",
+    "goosebumps",
+    "the_house_with_a_clock_in_its_walls",
+    "paranorman",
+    "ice_age_the_meltdown",
+    "the_angry_birds_movie",
+    "turbo",
+    "the_lego_movie",
+    "incredibles_2",
+    "cloudy_with_a_chance_of_meatballs",
+    "coraline",
+    "chicken_little",
+    "the_tale_of_despereaux",
+    "monsters_vs_aliens",
+    "wonder_park",
+    "ice_age_dawn_of_the_dinosaurs",
+    "the_smurfs",
+    "minions",
+    "meet_the_robinsons",
+    "ice_age_continental_drift",
+    "goosebumps_2_haunted_halloween",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "hotel_transylvania_3_summer_vacation"
   ]
 }

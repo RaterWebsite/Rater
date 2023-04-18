@@ -218,5 +218,32 @@
       "rating": "1",
       "text": "The worst alien/sci fi movie I have ever seen.  It\u2019s like a long love story with 2 dysfunctional people that don\u2019t know how to communicate.  Every now and again they splatter some monster junk in, but it is too far in between.  Definitely not action!"
     }
+  ],
+  "recommendations": [
+    "sunshine",
+    "the_darkest_hour",
+    "pandorum",
+    "captive_state",
+    "gravity",
+    "into_the_storm",
+    "chernobyl_diaries",
+    "event_horizon",
+    "jupiter_ascending",
+    "the_day_after_tomorrow",
+    "the_cloverfield_paradox",
+    "the_shallows",
+    "independence_day_resurgence",
+    "the_last_days_on_mars",
+    "prometheus",
+    "the_pyramid",
+    "world_war_z",
+    "the_tomorrow_war",
+    "skyline",
+    "riddick",
+    "time_trap",
+    "transformers_the_last_knight",
+    "mortal_engines",
+    "geostorm",
+    "battle_los_angeles"
   ]
 }

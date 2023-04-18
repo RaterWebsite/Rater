@@ -224,5 +224,32 @@
       "rating": "0",
       "text": "I am hoping that the third movie will be better than the first two because the first two REALLY sucked."
     }
+  ],
+  "recommendations": [
+    "saw_iii",
+    "jigsaw",
+    "spiral_from_the_book_of_saw",
+    "saw_vi",
+    "saw_3d",
+    "i_still_know_what_you_did_last_summer",
+    "saw_iv",
+    "halloween_ii",
+    "insidious_chapter_2",
+    "texas_chainsaw_3d",
+    "saw",
+    "the_strangers_prey_at_night",
+    "vacancy",
+    "dead_silence",
+    "final_destination",
+    "final_destination_2",
+    "devil",
+    "the_last_house_on_the_left",
+    "disturbia",
+    "the_grudge_2",
+    "would_you_rather",
+    "dark_skies",
+    "halloween_iii_season_of_the_witch",
+    "hellbound_hellraiser_ii",
+    "chernobyl_diaries"
   ]
 }

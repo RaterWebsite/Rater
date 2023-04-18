@@ -106,5 +106,32 @@
       "rating": "6",
       "text": "Jaws, who makes his movie debut in this one, is absolutely something. He is the epitome of a Bond villain; a freak of nature and human invention, his fangs are truly terrifying.Anyhow, without Jaws, this movie would have been very dull, wouldn't it?"
     }
+  ],
+  "recommendations": [
+    "octopussy",
+    "the_world_is_not_enough",
+    "goldeneye",
+    "tomorrow_never_dies",
+    "the_man_with_the_golden_gun",
+    "diamonds_are_forever",
+    "from_russia_with_love",
+    "for_your_eyes_only",
+    "you_only_live_twice",
+    "die_another_day",
+    "casino_royale",
+    "spectre",
+    "thunderball",
+    "no_time_to_die",
+    "captain_america_the_winter_soldier",
+    "the_league_of_extraordinary_gentlemen",
+    "mission_impossible_rogue_nation",
+    "the_legend_of_zorro",
+    "skyfall",
+    "true_lies",
+    "mad_max_beyond_thunderdome",
+    "iron_man",
+    "quantum_of_solace",
+    "indiana_jones_and_the_last_crusade",
+    "patriot_games"
   ]
 }

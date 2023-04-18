@@ -226,5 +226,32 @@
       "rating": "3",
       "text": "A parody on 'The Room', trying too hard to be 'La La Land'. Everything about this movie is terrible, starting from the script and ending with the performances. Those artificial tears pouring from poor Lady Gaga's eyes look as cringeworthy as they only can, and that scene with breaking the portraits... Yeah, Tommy Wiseau, you did a great job."
     }
+  ],
+  "recommendations": [
+    "whiplash",
+    "crazy_heart",
+    "begin_again",
+    "youth",
+    "chicago",
+    "respect",
+    "amadeus",
+    "bohemian_rhapsody",
+    "spencer",
+    "the_aviator",
+    "casablanca",
+    "scent_of_a_woman",
+    "belfast",
+    "the_sound_of_music",
+    "the_last_of_the_mohicans",
+    "in_the_heights",
+    "annette",
+    "rocketman",
+    "walk_the_line",
+    "catch_me_if_you_can",
+    "yesterday",
+    "rush",
+    "eddie_the_eagle",
+    "the_grand_budapest_hotel",
+    "phantom_thread"
   ]
 }

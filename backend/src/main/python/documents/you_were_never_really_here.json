@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "This movie was a big piece of **** devastatingly boring. Just watch the trailer and save yourself a call to the suicide hotline"
     }
+  ],
+  "recommendations": [
+    "the_rover",
+    "the_killing_of_a_sacred_deer",
+    "ex_machina",
+    "the_master",
+    "a_history_of_violence",
+    "eyes_wide_shut",
+    "127_hours",
+    "the_walk",
+    "the_beguiled",
+    "sicario",
+    "21_grams",
+    "first_man",
+    "nocturnal_animals",
+    "drive",
+    "stoker",
+    "a_most_violent_year",
+    "titane",
+    "black_swan",
+    "the_machinist",
+    "no_country_for_old_men",
+    "sicario_day_of_the_soldado",
+    "the_good_shepherd",
+    "good_time",
+    "the_green_knight",
+    "the_guilty"
   ]
 }

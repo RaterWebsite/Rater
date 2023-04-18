@@ -126,5 +126,32 @@
       "rating": "10",
       "text": "melhor filme que eu ja vi, o fav da mari. juju tb foi obrigada a gostar!!!!!!!!!!!!!!!!!!"
     }
+  ],
+  "recommendations": [
+    "morning_glory",
+    "the_royal_tenenbaums",
+    "eddie_the_eagle",
+    "midnight_in_paris",
+    "while_you_were_sleeping",
+    "american_hustle",
+    "the_terminal",
+    "the_longest_ride",
+    "charade",
+    "the_second_best_exotic_marigold_hotel",
+    "silver_linings_playbook",
+    "crazy_heart",
+    "as_good_as_it_gets",
+    "burnt",
+    "the_intern",
+    "sleeping_with_other_people",
+    "the_tourist",
+    "the_best_exotic_marigold_hotel",
+    "jerry_maguire",
+    "catch_me_if_you_can",
+    "yesterday",
+    "pretty_woman",
+    "a_star_is_born",
+    "me_and_earl_and_the_dying_girl",
+    "begin_again"
   ]
 }

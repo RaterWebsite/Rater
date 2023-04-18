@@ -224,5 +224,32 @@
       "rating": "7",
       "text": "A horror movie that is actually not tasteless, disgusting, or pure crap. Well acted and filmed. It is scary without being ridiculous. It was gripping, but it got a little cheesy at the end."
     }
+  ],
+  "recommendations": [
+    "the_curse_of_la_llorona",
+    "case_39",
+    "the_possession",
+    "the_woman_in_black_2_angel_of_death",
+    "brightburn",
+    "the_haunting_in_connecticut",
+    "annabelle_creation",
+    "ouija_origin_of_evil",
+    "the_forest",
+    "dead_silence",
+    "dark_skies",
+    "the_boy",
+    "house_at_the_end_of_the_street",
+    "would_you_rather",
+    "the_woman_in_black",
+    "the_eye",
+    "chernobyl_diaries",
+    "wish_upon",
+    "unfriended",
+    "devil",
+    "you_should_have_left",
+    "slender_man",
+    "darkness_falls",
+    "happy_death_day",
+    "vacancy"
   ]
 }

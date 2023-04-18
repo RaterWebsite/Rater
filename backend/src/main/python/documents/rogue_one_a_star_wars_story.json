@@ -226,5 +226,32 @@
       "rating": "5",
       "text": "A movie which tries desperately to recreate the magic of the original trilogy failing it's goal. A bad soundtrack as we've never seen on Star Wars before, a meaningless plot, useless characters with no charm who add nothing to the Star Wars mithology. A junble of CGI characters who could have compleately been avoided. After all we were able to do worse than the sequel trilogy, but this time with no Jar-Jar. P.s.: What the f*** went wrong with Darth Vader armor?P.p.s.: After all Vader smashing rebels was great!"
     }
+  ],
+  "recommendations": [
+    "solo_a_star_wars_story",
+    "star_wars_episode_ii_attack_of_the_clones",
+    "star_wars_episode_iii_revenge_of_the_sith",
+    "star_wars_episode_i_the_phantom_menace",
+    "star_trek_into_darkness",
+    "star_trek_nemesis",
+    "star_trek_beyond",
+    "star_trek",
+    "star_trek_insurrection",
+    "avengers_endgame",
+    "war_for_the_planet_of_the_apes",
+    "mortal_engines",
+    "captain_america_civil_war",
+    "the_matrix_revolutions",
+    "avengers_age_of_ultron",
+    "avengers_infinity_war",
+    "pearl_harbor",
+    "star_wars_the_clone_wars",
+    "black_widow",
+    "star_trek_the_motion_picture",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_magnificent_seven",
+    "thor_the_dark_world",
+    "x_men_apocalypse",
+    "troy"
   ]
 }

@@ -203,5 +203,32 @@
       "rating": "8",
       "text": "A Classic timeless movie that holds up with splendid animation and an amazing cast of actors"
     }
+  ],
+  "recommendations": [
+    "atlantis_the_lost_empire",
+    "the_incredibles",
+    "ratatouille",
+    "shaun_the_sheep_movie",
+    "zootopia",
+    "101_dalmatians",
+    "rango",
+    "kung_fu_panda",
+    "ice_age",
+    "how_to_train_your_dragon",
+    "treasure_planet",
+    "the_lego_batman_movie",
+    "spider_man_into_the_spider_verse",
+    "paddington_2",
+    "rio",
+    "the_adventures_of_tintin",
+    "kung_fu_panda_3",
+    "klaus",
+    "madagascar",
+    "the_book_of_life",
+    "my_little_pony_the_movie",
+    "the_croods",
+    "smurfs_the_lost_village",
+    "winnie_the_pooh_blood_and_honey",
+    "up"
   ]
 }

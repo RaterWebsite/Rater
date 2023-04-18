@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "Its not the best movie from the series, but only the fact that he is far better than the fourth movie ill give 9 out of 10.And because of the short but satisfying scene with Elizabeth Turner."
     }
+  ],
+  "recommendations": [
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "max_steel",
+    "incredibles_2",
+    "x_men_apocalypse",
+    "the_new_mutants",
+    "bumblebee",
+    "kingsman_the_golden_circle",
+    "x_men_origins_wolverine",
+    "terminator_genisys",
+    "riddick",
+    "ghostbusters_ii",
+    "ant_man_and_the_wasp_quantumania",
+    "shazam_fury_of_the_gods",
+    "spider_man_3",
+    "despicable_me_3",
+    "teenage_mutant_ninja_turtles",
+    "maze_runner_the_scorch_trials",
+    "night_at_the_museum_secret_of_the_tomb",
+    "night_at_the_museum_battle_of_the_smithsonian",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "terminator_dark_fate",
+    "the_many_saints_of_newark",
+    "the_old_guard",
+    "suicide_squad",
+    "i_am_number_four"
   ]
 }

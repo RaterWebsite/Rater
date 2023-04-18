@@ -122,5 +122,32 @@
       "rating": "7",
       "text": "This movie might feel painfully slow and overlong at times but it's indeed a good homage to 90's Mann's action movies. The first impression you have watching this for the first time is that this is totally inspired by \"Heat\"  and the result turns out to be very good. An homage to action and Pulp as you can't see anymore today."
     }
+  ],
+  "recommendations": [
+    "sicario_day_of_the_soldado",
+    "red_sparrow",
+    "a_history_of_violence",
+    "guns_akimbo",
+    "the_kingdom",
+    "blackhat",
+    "the_hateful_eight",
+    "the_counselor",
+    "anon",
+    "brimstone",
+    "end_of_watch",
+    "the_american",
+    "broken_city",
+    "the_purge_election_year",
+    "good_time",
+    "the_equalizer_2",
+    "bad_times_at_the_el_royale",
+    "nerve",
+    "what_happened_to_monday",
+    "eastern_promises",
+    "tenet",
+    "zero_dark_thirty",
+    "cold_pursuit",
+    "drive",
+    "the_green_knight"
   ]
 }

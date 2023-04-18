@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Escape Room isn't the most original film out there, however it does have some good ideas and a great cast. As it did so well at the box office it more than likely will have a sequel."
     }
+  ],
+  "recommendations": [
+    "unfriended_dark_web",
+    "the_purge",
+    "escape_room_tournament_of_champions",
+    "bird_box",
+    "chernobyl_diaries",
+    "would_you_rather",
+    "paranormal_activity_the_marked_ones",
+    "frozen",
+    "paranormal_activity_2",
+    "shut_in",
+    "28_weeks_later",
+    "the_purge_anarchy",
+    "unfriended",
+    "old",
+    "how_it_ends",
+    "the_new_mutants",
+    "happy_death_day",
+    "the_strangers_prey_at_night",
+    "paranormal_activity_the_ghost_dimension",
+    "crawl",
+    "brightburn",
+    "dark_skies",
+    "the_maze_runner",
+    "happy_death_day_2u",
+    "countdown"
   ]
 }

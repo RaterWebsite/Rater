@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Excellent movie....would be better only with English subtitles as the Boston accents at some times are over the top and render some of the dialogue indecipherable...."
     }
+  ],
+  "recommendations": [
+    "the_unforgivable",
+    "the_town",
+    "the_next_three_days",
+    "gone_girl",
+    "changeling",
+    "silver_linings_playbook",
+    "the_accountant",
+    "prisoners",
+    "uncut_gems",
+    "knives_out",
+    "hereafter",
+    "split",
+    "the_little_things",
+    "the_gambler",
+    "stillwater",
+    "the_loft",
+    "promising_young_woman",
+    "mystic_river",
+    "the_intern",
+    "widows",
+    "the_judge",
+    "those_who_wish_me_dead",
+    "the_curious_case_of_benjamin_button",
+    "donnie_brasco",
+    "man_on_a_ledge"
   ]
 }

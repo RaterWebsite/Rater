@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "Very gruesome and that was with seeing it on TV.  However, a great black comedy.  When it was funny, it was funny.  The acting was superb.  The setting great.  Directing outstanding.  It was the violence that had me put it at an 8.  That's just the way I am even though it was integral to the movie."
     }
+  ],
+  "recommendations": [
+    "in_bruges",
+    "the_royal_tenenbaums",
+    "django_unchained",
+    "paddington_2",
+    "the_nice_guys",
+    "the_fifth_element",
+    "eddie_the_eagle",
+    "seven_psychopaths",
+    "reservoir_dogs",
+    "snatch",
+    "the_grand_budapest_hotel",
+    "casino",
+    "true_grit",
+    "jackie_brown",
+    "kingsman_the_secret_service",
+    "the_gentlemen",
+    "ghostbusters",
+    "goodfellas",
+    "legend",
+    "the_addams_family",
+    "catch_me_if_you_can",
+    "chinatown",
+    "last_action_hero",
+    "the_wolf_of_snow_hollow",
+    "lawless"
   ]
 }

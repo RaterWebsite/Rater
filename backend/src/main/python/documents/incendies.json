@@ -170,5 +170,32 @@
       "rating": "10",
       "text": "Incredible, gripping movie. Definitely one of Villeneuve's best movies. A must watch."
     }
+  ],
+  "recommendations": [
+    "the_road",
+    "frantz",
+    "a_hidden_life",
+    "the_aftermath",
+    "the_33",
+    "the_book_thief",
+    "mine",
+    "hostiles",
+    "the_lost_city_of_z",
+    "allied",
+    "the_secret_scripture",
+    "you_were_never_really_here",
+    "the_guilty",
+    "the_way_back",
+    "sin_nombre",
+    "melancholia",
+    "a_ghost_story",
+    "searching",
+    "donnie_darko",
+    "alpha",
+    "dunkirk",
+    "the_impossible",
+    "13_hours_the_secret_soldiers_of_benghazi",
+    "anthropoid",
+    "silence"
   ]
 }

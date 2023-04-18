@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf\u00a1\u25cf:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;"
     }
+  ],
+  "recommendations": [
+    "underworld",
+    "the_last_witch_hunter",
+    "hercules",
+    "underworld_evolution",
+    "clash_of_the_titans",
+    "bloodshot",
+    "blade_trinity",
+    "ghost_rider",
+    "the_wolfman",
+    "aquaman",
+    "fantastic_four",
+    "kong_skull_island",
+    "immortals",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "ghost_rider_spirit_of_vengeance",
+    "underworld_awakening",
+    "the_meg",
+    "the_three_musketeers",
+    "i_am_legend",
+    "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+    "anaconda",
+    "teenage_mutant_ninja_turtles",
+    "jack_the_giant_slayer",
+    "rampage",
+    "pacific_rim_uprising"
   ]
 }

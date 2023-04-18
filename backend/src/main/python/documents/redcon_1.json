@@ -38,5 +38,32 @@
       "rating": "0",
       "text": "I couldn't watch this movie even on fast forward. Turned off after five minutes"
     }
+  ],
+  "recommendations": [
+    "rings",
+    "cloverfield",
+    "paranormal_activity_4",
+    "paranormal_activity_3",
+    "venom",
+    "saw_v",
+    "the_kissing_booth_2",
+    "saw_iv",
+    "crank_high_voltage",
+    "the_devil_inside",
+    "the_babysitter_killer_queen",
+    "saw_iii",
+    "the_messengers",
+    "hereditary",
+    "once_upon_a_deadpool",
+    "see_no_evil",
+    "jigsaw",
+    "the_collection",
+    "wanted",
+    "eagle_eye",
+    "friday_the_13th",
+    "snakes_on_a_plane",
+    "the_mummy_tomb_of_the_dragon_emperor",
+    "i_care_a_lot",
+    "7_guardians_of_the_tomb"
   ]
 }

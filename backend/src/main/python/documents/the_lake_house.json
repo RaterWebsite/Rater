@@ -226,5 +226,32 @@
       "rating": "9",
       "text": "I think it's a little gem of a movie - I found it quite delightful. Surprisingly refreshing. There are so few of these films around."
     }
+  ],
+  "recommendations": [
+    "the_vow",
+    "the_notebook",
+    "a_walk_to_remember",
+    "if_i_stay",
+    "the_lucky_one",
+    "stardust",
+    "paper_towns",
+    "midnight_sun",
+    "seeking_a_friend_for_the_end_of_the_world",
+    "last_christmas",
+    "how_to_be_single",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "the_adjustment_bureau",
+    "we_bought_a_zoo",
+    "about_time",
+    "the_best_of_me",
+    "the_holiday",
+    "seven_pounds",
+    "friends_with_benefits",
+    "me_before_you",
+    "palm_springs",
+    "titanic",
+    "the_bucket_list",
+    "passengers",
+    "sleeping_with_other_people"
   ]
 }

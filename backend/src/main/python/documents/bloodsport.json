@@ -61,5 +61,32 @@
       "rating": "10",
       "text": "Frank dux  goat is a god for me ya baby the movie is awesome  watch it everybody"
     }
+  ],
+  "recommendations": [
+    "mortal_kombat",
+    "the_forbidden_kingdom",
+    "the_mummy",
+    "ong_bak_2",
+    "prince_of_persia_the_sands_of_time",
+    "shang_chi_and_the_legend_of_the_ten_rings",
+    "rambo_last_blood",
+    "fearless",
+    "kiss_of_the_dragon",
+    "the_one",
+    "ninja_assassin",
+    "predator",
+    "tron_legacy",
+    "hitman",
+    "underworld_evolution",
+    "doom",
+    "underworld_rise_of_the_lycans",
+    "lara_croft_tomb_raider",
+    "kung_fu_panda_2",
+    "the_expendables_2",
+    "top_gun_maverick",
+    "first_blood",
+    "hercules",
+    "rocky_iv",
+    "underworld_awakening"
   ]
 }

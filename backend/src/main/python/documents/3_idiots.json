@@ -97,5 +97,32 @@
       "rating": "0",
       "text": "A nearly 3 hour long comedy... The funniest part of the 20 minutes I made it through was a rip-off of a Seinfeld joke. Should have been called 3 Million Idiots for the number of people that like this movie."
     }
+  ],
+  "recommendations": [
+    "me_before_you",
+    "pay_it_forward",
+    "the_upside",
+    "captain_fantastic",
+    "slumdog_millionaire",
+    "the_blind_side",
+    "her",
+    "instant_family",
+    "lost_in_translation",
+    "revolutionary_road",
+    "chef",
+    "the_bucket_list",
+    "groundhog_day",
+    "greenberg",
+    "collateral_beauty",
+    "babel",
+    "manchester_by_the_sea",
+    "brokeback_mountain",
+    "the_vow",
+    "how_to_be_single",
+    "remember_the_titans",
+    "the_intern",
+    "soul_surfer",
+    "up_in_the_air",
+    "palm_springs"
   ]
 }

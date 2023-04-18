@@ -46,5 +46,32 @@
       "rating": "8",
       "text": "beautifully made neo-noirdont understand all the negative reviewsstunning cast and echoes the world of cyber punk"
     }
+  ],
+  "recommendations": [
+    "lucy",
+    "prometheus",
+    "sunshine",
+    "europa_report",
+    "annihilation",
+    "monsters",
+    "time_trap",
+    "the_cloverfield_paradox",
+    "snowpiercer",
+    "avatar",
+    "arrival",
+    "the_last_days_on_mars",
+    "mortal_engines",
+    "coherence",
+    "the_core",
+    "the_tomorrow_war",
+    "district_9",
+    "science_fiction_volume_one_the_osiris_child",
+    "source_code",
+    "elysium",
+    "interstellar",
+    "the_first_purge",
+    "the_girl_with_all_the_gifts",
+    "the_midnight_sky",
+    "anon"
   ]
 }

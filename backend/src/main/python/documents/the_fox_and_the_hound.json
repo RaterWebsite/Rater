@@ -47,5 +47,32 @@
       "rating": "8",
       "text": "Good movie its a very charming and has good voice acting and the plot is very nice it is underrated Disney movie that deserves credit because of it story voice acting and overall animation"
     }
+  ],
+  "recommendations": [
+    "winnie_the_pooh_blood_and_honey",
+    "bolt",
+    "rio",
+    "my_little_pony_equestria_girls_rainbow_rocks",
+    "mary_poppins",
+    "trolls",
+    "ice_age",
+    "over_the_moon",
+    "tangled",
+    "stuart_little_2",
+    "the_croods",
+    "rio_2",
+    "madagascar",
+    "rise_of_the_guardians",
+    "brother_bear",
+    "the_aristocats",
+    "finding_nemo",
+    "corpse_bride",
+    "aladdin",
+    "vivo",
+    "the_secret_life_of_pets",
+    "grease",
+    "how_to_train_your_dragon",
+    "strange_magic",
+    "robots"
   ]
 }

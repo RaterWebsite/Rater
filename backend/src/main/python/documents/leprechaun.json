@@ -37,5 +37,32 @@
       "rating": "6",
       "text": "This movie is a fun little B Horror movie if you like watching Campy horror movies and still haven't watched this one you should give it a try because it's a fun time"
     }
+  ],
+  "recommendations": [
+    "scouts_guide_to_the_zombie_apocalypse",
+    "venom",
+    "seed_of_chucky",
+    "the_babysitter_killer_queen",
+    "the_messengers",
+    "friday_the_13th",
+    "fright_night",
+    "freaky",
+    "cabin_fever",
+    "drag_me_to_hell",
+    "i_know_what_you_did_last_summer",
+    "cooties",
+    "the_bye_bye_man",
+    "scary_movie_5",
+    "zombieland",
+    "texas_chainsaw_3d",
+    "the_babysitter",
+    "a_haunted_house_2",
+    "beverly_hills_chihuahua",
+    "friday_the_13th_the_final_chapter",
+    "the_hot_chick",
+    "kangaroo_jack",
+    "unfriended",
+    "mama",
+    "snakes_on_a_plane"
   ]
 }

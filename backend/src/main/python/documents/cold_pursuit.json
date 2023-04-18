@@ -226,5 +226,32 @@
       "rating": "8",
       "text": "I really enjoyed it. It had nice dark humor twist to it and while to storyline was a bit silly at times, it did fit in with the dark humor style, if you look at it that way."
     }
+  ],
+  "recommendations": [
+    "no_escape",
+    "taken",
+    "3_days_to_kill",
+    "ant_man_and_the_wasp_quantumania",
+    "colossal",
+    "a_walk_among_the_tombstones",
+    "savages",
+    "a_history_of_violence",
+    "repo_men",
+    "the_accountant",
+    "no_country_for_old_men",
+    "the_equalizer",
+    "the_invisible_man",
+    "the_commuter",
+    "man_on_a_ledge",
+    "hanna",
+    "maggie",
+    "the_punisher",
+    "the_call",
+    "the_equalizer_2",
+    "kingsman_the_golden_circle",
+    "the_purge_election_year",
+    "the_invasion",
+    "sicario_day_of_the_soldado",
+    "free_fire"
   ]
 }

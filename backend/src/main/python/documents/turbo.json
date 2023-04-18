@@ -197,5 +197,32 @@
       "rating": "10",
       "text": "Yes, I Love Turbo. Smoove Move Is My Favorite Character & Speedin' is such a jam!"
     }
+  ],
+  "recommendations": [
+    "incredibles_2",
+    "the_croods",
+    "storks",
+    "the_lego_movie",
+    "hotel_transylvania_2",
+    "cloudy_with_a_chance_of_meatballs_2",
+    "despicable_me_2",
+    "hotel_transylvania_3_summer_vacation",
+    "penguins_of_madagascar",
+    "minions",
+    "the_lego_movie_2_the_second_part",
+    "hotel_transylvania",
+    "the_secret_life_of_pets",
+    "bumblebee",
+    "cars",
+    "love_and_monsters",
+    "the_secret_life_of_pets_2",
+    "the_good_dinosaur",
+    "megamind",
+    "meet_the_robinsons",
+    "free_birds",
+    "rio_2",
+    "cloudy_with_a_chance_of_meatballs",
+    "ice_age_the_meltdown",
+    "despicable_me_3"
   ]
 }

@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "Best Movie of the Year, Period. 5 or 6 years down the line, ask any cop about his fav movie and there's a good chance that it's gonna be this one. One of the best Guy/Buddy movies of all times."
     }
+  ],
+  "recommendations": [
+    "good_time",
+    "the_equalizer_2",
+    "the_accountant",
+    "a_history_of_violence",
+    "drive",
+    "sicario_day_of_the_soldado",
+    "free_fire",
+    "a_walk_among_the_tombstones",
+    "bad_times_at_the_el_royale",
+    "red_sparrow",
+    "the_commuter",
+    "no_country_for_old_men",
+    "the_infiltrator",
+    "blackhat",
+    "hanna",
+    "den_of_thieves",
+    "the_bank_job",
+    "the_equalizer",
+    "dragged_across_concrete",
+    "broken_city",
+    "run_hide_fight",
+    "widows",
+    "haywire",
+    "tenet",
+    "the_kingdom"
   ]
 }

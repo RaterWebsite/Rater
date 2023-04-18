@@ -109,5 +109,32 @@
       "rating": "3",
       "text": "This movie didn\u2019t get enough credit it\u2019s a damn good movie and emotionally fun to watch I love it every time I watch it I cried. But think it could of been a lot better"
     }
+  ],
+  "recommendations": [
+    "inkheart",
+    "the_hunger_games_catching_fire",
+    "the_devil_all_the_time",
+    "the_accountant",
+    "the_girl_with_the_dragon_tattoo",
+    "harry_potter_and_the_goblet_of_fire",
+    "alice_through_the_looking_glass",
+    "inferno",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "the_hunger_games",
+    "the_prestige",
+    "murder_on_the_orient_express",
+    "harry_potter_and_the_chamber_of_secrets",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "sherlock_holmes",
+    "child_44",
+    "let_me_in",
+    "the_giver",
+    "the_lovely_bones",
+    "pet_sematary",
+    "doctor_strange",
+    "the_maze_runner",
+    "reminiscence",
+    "chaos_walking",
+    "eternals"
   ]
 }

@@ -136,5 +136,32 @@
       "rating": "10",
       "text": "This is a movie I watched growing up. My whole family loved it. Yes, it's crass, and there's a lot of foul language, but ultimately it's a really relatable movie about family, and growing up. One of my favorites, I now realize, after rewatching it as an adult."
     }
+  ],
+  "recommendations": [
+    "21_jump_street",
+    "the_happytime_murders",
+    "night_at_the_museum",
+    "neighbors",
+    "superbad",
+    "a_million_ways_to_die_in_the_west",
+    "bad_santa",
+    "this_is_the_end",
+    "american_pie",
+    "nacho_libre",
+    "bad_trip",
+    "neighbors_2_sorority_rising",
+    "jackass_presents_bad_grandpa",
+    "paul",
+    "ted",
+    "knocked_up",
+    "ted_2",
+    "the_change_up",
+    "jexi",
+    "step_brothers",
+    "the_night_before",
+    "rough_night",
+    "thunder_force",
+    "wanderlust",
+    "cloudy_with_a_chance_of_meatballs"
   ]
 }

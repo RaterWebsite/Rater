@@ -226,5 +226,32 @@
       "rating": "0",
       "text": "Terrible movie. Did they got a rejected script for X-Man about a Mary sue girl and old man Dan Xavier beats evil. Very disappointing, predictable and rides on original The shinning movie nostalgia. Not horror at all."
     }
+  ],
+  "recommendations": [
+    "the_hobbit_an_unexpected_journey",
+    "pet_sematary",
+    "the_lovely_bones",
+    "alice_in_wonderland",
+    "the_bfg",
+    "color_out_of_space",
+    "the_hunger_games_catching_fire",
+    "the_conjuring_the_devil_made_me_do_it",
+    "last_night_in_soho",
+    "harry_potter_and_the_order_of_the_phoenix",
+    "harry_potter_and_the_chamber_of_secrets",
+    "harry_potter_and_the_half_blood_prince",
+    "sin_city_a_dame_to_kill_for",
+    "fantastic_beasts_and_where_to_find_them",
+    "inception",
+    "let_me_in",
+    "the_fly",
+    "harry_potter_and_the_goblet_of_fire",
+    "1408",
+    "the_raven",
+    "odd_thomas",
+    "unbreakable",
+    "vanilla_sky",
+    "reminiscence",
+    "maleficent_mistress_of_evil"
   ]
 }

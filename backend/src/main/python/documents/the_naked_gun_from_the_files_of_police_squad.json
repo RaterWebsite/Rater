@@ -153,5 +153,32 @@
       "rating": "9",
       "text": "One of the best comedies of 1980's.Juvenile and crass but extremely funny. A movie that has some big laughs but has you constantly chuckling throughout.Nielsen in his usual way plays the lead in such an understated way that works brilliantly with the style of comedy here."
     }
+  ],
+  "recommendations": [
+    "the_heat",
+    "due_date",
+    "spy",
+    "dodgeball_a_true_underdog_story",
+    "pineapple_express",
+    "identity_thief",
+    "get_hard",
+    "date_night",
+    "austin_powers_international_man_of_mystery",
+    "the_other_guys",
+    "22_jump_street",
+    "the_wedding_ringer",
+    "monty_python_and_the_holy_grail",
+    "ace_ventura_when_nature_calls",
+    "johnny_english_strikes_again",
+    "the_pink_panther",
+    "anchorman_2_the_legend_continues",
+    "hot_fuzz",
+    "tower_heist",
+    "masterminds",
+    "airplane",
+    "chips",
+    "the_spy_who_dumped_me",
+    "police_academy",
+    "a_million_ways_to_die_in_the_west"
   ]
 }

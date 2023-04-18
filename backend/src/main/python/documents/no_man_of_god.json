@@ -43,5 +43,32 @@
       "rating": "10",
       "text": "Wow !!! What a movie. I would like to congratulate Elijah Wood and Luke Kirby for their amazing job. Thanks to Amber who showed us the real Ted Bundy. This is the only movie of Ted that I love."
     }
+  ],
+  "recommendations": [
+    "american_gangster",
+    "mystic_river",
+    "the_departed",
+    "the_devil_all_the_time",
+    "changeling",
+    "public_enemies",
+    "child_44",
+    "perfect_sisters",
+    "gran_torino",
+    "white_boy_rick",
+    "eastern_promises",
+    "inherent_vice",
+    "the_upside",
+    "american_hustle",
+    "donnie_brasco",
+    "greenberg",
+    "the_lovely_bones",
+    "arbitrage",
+    "black_mass",
+    "i_am_sam",
+    "hustlers",
+    "split",
+    "gone_girl",
+    "the_prestige",
+    "knives_out"
   ]
 }

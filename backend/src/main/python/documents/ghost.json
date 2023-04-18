@@ -84,5 +84,32 @@
       "rating": "10",
       "text": "I believe that the genre of this film is romance, if that's right, it's the only film on the subject that I like!"
     }
+  ],
+  "recommendations": [
+    "joy",
+    "catch_me_if_you_can",
+    "as_good_as_it_gets",
+    "finding_neverland",
+    "spencer",
+    "the_iceman",
+    "rain_man",
+    "gifted",
+    "black_mass",
+    "palmer",
+    "all_the_money_in_the_world",
+    "crazy_heart",
+    "king_richard",
+    "primal_fear",
+    "insomnia",
+    "big_eyes",
+    "notting_hill",
+    "a_few_good_men",
+    "american_hustle",
+    "the_judge",
+    "scent_of_a_woman",
+    "the_only_living_boy_in_new_york",
+    "casino",
+    "the_terminal",
+    "jerry_maguire"
   ]
 }

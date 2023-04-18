@@ -158,5 +158,32 @@
       "rating": "10",
       "text": "Le meilleur Disney de tous les temps, c'est \u00e9vident !Une Histoire \u00e9mouvante et touchante, d'un sc\u00e9nario original mais parfaitement r\u00e9ussi.Un 11/10 pr le coup"
     }
+  ],
+  "recommendations": [
+    "brave",
+    "moana",
+    "bambi",
+    "finding_nemo",
+    "the_secret_life_of_pets",
+    "rise_of_the_guardians",
+    "the_willoughbys",
+    "the_good_dinosaur",
+    "rio_2",
+    "astro_boy",
+    "the_land_before_time",
+    "pocahontas",
+    "the_boss_baby_christmas_bonus",
+    "bolt",
+    "the_iron_giant",
+    "raya_and_the_last_dragon",
+    "the_star",
+    "onward",
+    "big_hero_6",
+    "shark_tale",
+    "the_polar_express",
+    "christopher_robin",
+    "frozen_ii",
+    "despicable_me",
+    "the_road_to_el_dorado"
   ]
 }

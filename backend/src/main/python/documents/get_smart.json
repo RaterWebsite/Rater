@@ -226,5 +226,32 @@
       "rating": "7",
       "text": "Predictable and sometimes deadpan it may be, but Get Smart proves to be a lot more entertaining than you might expect."
     }
+  ],
+  "recommendations": [
+    "horrible_bosses",
+    "role_models",
+    "the_longest_yard",
+    "the_wedding_ringer",
+    "meet_the_parents",
+    "forgetting_sarah_marshall",
+    "ride_along",
+    "horrible_bosses_2",
+    "ace_ventura_when_nature_calls",
+    "masterminds",
+    "tower_heist",
+    "johnny_english",
+    "spy",
+    "zack_and_miri_make_a_porno",
+    "the_pink_panther",
+    "stuber",
+    "date_night",
+    "the_other_guys",
+    "30_minutes_or_less",
+    "central_intelligence",
+    "hot_fuzz",
+    "ride_along_2",
+    "dodgeball_a_true_underdog_story",
+    "the_watch",
+    "50_first_dates"
   ]
 }

@@ -198,5 +198,32 @@
       "rating": "1",
       "text": "Easily the worst of the Pierce Brosnan films, with only the super strong heroine in Halle Berry's Jinx going for it. The plot twists are quease-inducing, and the CGI is spectacularly bad even for 2002."
     }
+  ],
+  "recommendations": [
+    "the_world_is_not_enough",
+    "casino_royale",
+    "spectre",
+    "tomorrow_never_dies",
+    "for_your_eyes_only",
+    "the_incredible_hulk",
+    "daredevil",
+    "quantum_of_solace",
+    "terminator_3_rise_of_the_machines",
+    "the_spy_who_loved_me",
+    "true_lies",
+    "highlander",
+    "elektra",
+    "xxx",
+    "fantastic_four_rise_of_the_silver_surfer",
+    "creed_ii",
+    "skyfall",
+    "hulk",
+    "iron_man",
+    "fantastic_four",
+    "no_time_to_die",
+    "spider_man_far_from_home",
+    "thor",
+    "thunderball",
+    "the_karate_kid_part_iii"
   ]
 }

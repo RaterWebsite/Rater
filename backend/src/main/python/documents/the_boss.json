@@ -148,5 +148,32 @@
       "rating": "7",
       "text": "Just wanted to say that KRISTEN BELL & MELISSA McCARTHY have done a wonderful job in a very funny movie."
     }
+  ],
+  "recommendations": [
+    "the_dilemma",
+    "the_heat",
+    "due_date",
+    "wanderlust",
+    "tammy",
+    "central_intelligence",
+    "dodgeball_a_true_underdog_story",
+    "dirty_grandpa",
+    "spy",
+    "get_hard",
+    "paul_blart_mall_cop",
+    "sisters",
+    "neighbors",
+    "forgetting_sarah_marshall",
+    "the_spy_who_dumped_me",
+    "blockers",
+    "last_vegas",
+    "the_hustle",
+    "zoolander",
+    "wedding_crashers",
+    "tower_heist",
+    "the_wedding_ringer",
+    "along_came_polly",
+    "a_bad_moms_christmas",
+    "hall_pass"
   ]
 }

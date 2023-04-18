@@ -227,5 +227,32 @@
       "rating": "2",
       "text": "First Spider-man movie I have no interest in ever seeing again. In my mind, there is one good scene (on the ship) and one funny line. The rest is pretty worthless. The acting is fine but the writing and characters are 100% Disneyland. The favorable rating on Metacritic for Spider-Man: Homecoming is highly suspect."
     }
+  ],
+  "recommendations": [
+    "the_amazing_spider_man",
+    "spider_man_far_from_home",
+    "daredevil",
+    "spider_man",
+    "spider_man_no_way_home",
+    "man_of_steel",
+    "iron_man",
+    "thor",
+    "the_amazing_spider_man_2",
+    "superman",
+    "captain_america_the_first_avenger",
+    "hook",
+    "superman_returns",
+    "spider_man_3",
+    "ant_man_and_the_wasp_quantumania",
+    "the_terminal",
+    "true_grit",
+    "black_widow",
+    "red_2",
+    "the_punisher",
+    "red",
+    "the_karate_kid_part_iii",
+    "spider_man_into_the_spider_verse",
+    "shazam",
+    "spies_in_disguise"
   ]
 }

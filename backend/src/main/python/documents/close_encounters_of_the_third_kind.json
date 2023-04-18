@@ -145,5 +145,32 @@
       "rating": "8",
       "text": "This felt like the most Spielbergy of all the films I've seen by him. Just people endlessly staring at something with the Spielberg wonder expression. Pretty astonishing how well this has held up visually."
     }
+  ],
+  "recommendations": [
+    "blade_runner_2049",
+    "the_martian",
+    "arrival",
+    "interstellar",
+    "master_and_commander_the_far_side_of_the_world",
+    "dune",
+    "avatar",
+    "the_bfg",
+    "in_the_heart_of_the_sea",
+    "inception",
+    "blade_runner",
+    "the_matrix",
+    "moon",
+    "minority_report",
+    "1917",
+    "mortal_engines",
+    "europa_report",
+    "kingdom_of_heaven",
+    "the_social_network",
+    "oblivion",
+    "ex_machina",
+    "war_for_the_planet_of_the_apes",
+    "cloud_atlas",
+    "2001_a_space_odyssey",
+    "hugo"
   ]
 }

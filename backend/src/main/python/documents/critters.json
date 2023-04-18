@@ -50,5 +50,32 @@
       "rating": "6",
       "text": "this movie was entertaining and with a good story. recommended to pass the time"
     }
+  ],
+  "recommendations": [
+    "monster_trucks",
+    "species",
+    "predators",
+    "alien_resurrection",
+    "deep_blue_sea",
+    "the_predator",
+    "tremors",
+    "the_crazies",
+    "resident_evil_apocalypse",
+    "anacondas_the_hunt_for_the_blood_orchid",
+    "pacific_rim",
+    "independence_day",
+    "predator_2",
+    "aliens",
+    "the_last_days_on_mars",
+    "30_days_of_night",
+    "the_meg",
+    "dawn_of_the_dead",
+    "twister",
+    "47_meters_down",
+    "kong_skull_island",
+    "pitch_black",
+    "rampage",
+    "jurassic_world_fallen_kingdom",
+    "hellbound_hellraiser_ii"
   ]
 }

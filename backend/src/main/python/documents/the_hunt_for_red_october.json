@@ -118,5 +118,32 @@
       "rating": "9",
       "text": "An excellent thriller full of treachery, deception, and suspense, with one of Sean Connery's best performances as a brave and cunning defecting Soviet Submarine Commander. Alec Baldwin's performance as an American Intelligence Officer trying desperately to pierce through the ambiguities and deceptions is fantastic too. Overall, the performances of Connery and Baldwin especially make this movie thrilling and suspenseful to watch."
     }
+  ],
+  "recommendations": [
+    "the_untouchables",
+    "body_of_lies",
+    "spy_game",
+    "casino",
+    "conan_the_barbarian",
+    "kingdom_of_heaven",
+    "troy",
+    "the_sum_of_all_fears",
+    "insomnia",
+    "captain_america_the_winter_soldier",
+    "conspiracy_theory",
+    "catch_me_if_you_can",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "hellboy",
+    "the_last_of_the_mohicans",
+    "chinatown",
+    "the_man_in_the_iron_mask",
+    "the_score",
+    "black_mass",
+    "the_fugitive",
+    "patriot_games",
+    "the_devil_all_the_time",
+    "backdraft",
+    "the_patriot",
+    "the_name_of_the_rose"
   ]
 }

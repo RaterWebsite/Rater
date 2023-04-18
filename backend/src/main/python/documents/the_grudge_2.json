@@ -193,5 +193,32 @@
       "rating": "10",
       "text": "Me gusta. una de mis pelis de terror favoritas. De vez en cuando la veo y sigue traum\u00e1ndome en algunas partes."
     }
+  ],
+  "recommendations": [
+    "the_grudge",
+    "annabelle",
+    "insidious_chapter_2",
+    "the_amityville_horror",
+    "sinister_2",
+    "the_possession",
+    "malignant",
+    "insidious",
+    "the_curse_of_la_llorona",
+    "ouija",
+    "poltergeist",
+    "the_eye",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "the_last_house_on_the_left",
+    "dark_skies",
+    "dead_silence",
+    "the_ring_two",
+    "blair_witch",
+    "chernobyl_diaries",
+    "the_haunting_in_connecticut",
+    "the_ring",
+    "insidious_the_last_key",
+    "saw",
+    "countdown",
+    "paranormal_activity_4"
   ]
 }

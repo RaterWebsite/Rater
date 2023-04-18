@@ -227,5 +227,32 @@
       "rating": "8",
       "text": "A film that brings out the bright-eyed child within everyone. Fun and entertaining for all ages. An interesting collection of actors and actresses that worked like magic. More please!"
     }
+  ],
+  "recommendations": [
+    "hercules",
+    "guardians_of_the_galaxy",
+    "the_last_witch_hunter",
+    "jungle_cruise",
+    "shazam_fury_of_the_gods",
+    "transformers",
+    "incredibles_2",
+    "bumblebee",
+    "transformers_dark_of_the_moon",
+    "race_to_witch_mountain",
+    "thor_the_dark_world",
+    "the_meg",
+    "rampage",
+    "avengers_age_of_ultron",
+    "i_am_number_four",
+    "hotel_transylvania_3_summer_vacation",
+    "thor_ragnarok",
+    "bloodshot",
+    "love_and_monsters",
+    "pirates_of_the_caribbean_on_stranger_tides",
+    "riddick",
+    "now_you_see_me_2",
+    "into_the_storm",
+    "turbo",
+    "underworld_awakening"
   ]
 }

@@ -104,5 +104,32 @@
       "rating": "5",
       "text": "With a cast of comedy heavyweights, even they can't save this movie from it's cliched-ridden, lazy script."
     }
+  ],
+  "recommendations": [
+    "think_like_a_man_too",
+    "sisters",
+    "neighbors",
+    "wanderlust",
+    "johnny_english_strikes_again",
+    "night_at_the_museum",
+    "keeping_up_with_the_joneses",
+    "jumanji_the_next_level",
+    "the_night_before",
+    "logan_lucky",
+    "tag",
+    "a_million_ways_to_die_in_the_west",
+    "the_second_best_exotic_marigold_hotel",
+    "palm_springs",
+    "pitch_perfect_2",
+    "game_night",
+    "murder_mystery",
+    "the_wedding_ringer",
+    "night_at_the_museum_secret_of_the_tomb",
+    "blockers",
+    "neighbors_2_sorority_rising",
+    "a_bad_moms_christmas",
+    "the_family",
+    "ghostbusters",
+    "the_happytime_murders"
   ]
 }

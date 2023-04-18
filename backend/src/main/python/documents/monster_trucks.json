@@ -122,5 +122,32 @@
       "rating": "10",
       "text": "this movie is really crazy and the vehicle is a monster truck literally....."
     }
+  ],
+  "recommendations": [
+    "jurassic_world_fallen_kingdom",
+    "the_predator",
+    "rampage",
+    "crawl",
+    "jurassic_world",
+    "47_meters_down",
+    "the_meg",
+    "doomsday",
+    "cars_2",
+    "pacific_rim",
+    "the_fate_of_the_furious",
+    "teenage_mutant_ninja_turtles",
+    "resident_evil_apocalypse",
+    "max_steel",
+    "xxx_return_of_xander_cage",
+    "transformers_age_of_extinction",
+    "despicable_me_3",
+    "critters",
+    "the_shallows",
+    "race_to_witch_mountain",
+    "love_and_monsters",
+    "planes",
+    "geostorm",
+    "transformers",
+    "lockout"
   ]
 }

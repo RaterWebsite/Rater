@@ -173,5 +173,32 @@
       "rating": "10",
       "text": "One of the best movies I have ever watched. The soundtrack and animation are beautiful. The drawings come alive on the screen and the story is an emotional rollercoaster. A masterpiece of a movie. Must watch."
     }
+  ],
+  "recommendations": [
+    "strange_magic",
+    "klaus",
+    "the_book_of_life",
+    "soul",
+    "over_the_moon",
+    "rio",
+    "wolfwalkers",
+    "trolls",
+    "ratatouille",
+    "luca",
+    "how_to_train_your_dragon_2",
+    "zootopia",
+    "up",
+    "the_polar_express",
+    "moana",
+    "atlantis_the_lost_empire",
+    "your_name",
+    "vivo",
+    "onward",
+    "how_to_train_your_dragon",
+    "the_prince_of_egypt",
+    "the_lion_king",
+    "my_little_pony_the_movie",
+    "jingle_jangle_a_christmas_journey",
+    "anastasia"
   ]
 }

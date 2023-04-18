@@ -214,5 +214,32 @@
       "rating": "6",
       "text": "The story here was pretty decent.  The film seemed to drag at times though.  It felt like a pretty low budget work - borderline cable level documentary / feature film.I'd give it 6/10."
     }
+  ],
+  "recommendations": [
+    "nomadland",
+    "the_book_thief",
+    "everest",
+    "hostiles",
+    "first_man",
+    "unbroken",
+    "the_33",
+    "allied",
+    "the_road",
+    "free_state_of_jones",
+    "the_last_duel",
+    "incendies",
+    "into_the_wild",
+    "jungle",
+    "apocalypse_now",
+    "frantz",
+    "snowden",
+    "the_light_between_oceans",
+    "the_way_back",
+    "donnie_darko",
+    "seven_years_in_tibet",
+    "sin_nombre",
+    "in_the_heart_of_the_sea",
+    "patriots_day",
+    "dark_waters"
   ]
 }

@@ -227,5 +227,32 @@
       "rating": "0",
       "text": "This shouldn't even belong to the X-men series. Terrible story and directing."
     }
+  ],
+  "recommendations": [
+    "dark_phoenix",
+    "doctor_strange_in_the_multiverse_of_madness",
+    "the_twilight_saga_breaking_dawn_part_2",
+    "shadow_in_the_cloud",
+    "x_men_apocalypse",
+    "the_old_guard",
+    "riddick",
+    "bird_box",
+    "teenage_mutant_ninja_turtles",
+    "independence_day_resurgence",
+    "the_tomorrow_war",
+    "the_cloverfield_paradox",
+    "terminator_genisys",
+    "the_twilight_saga_eclipse",
+    "shut_in",
+    "unfriended_dark_web",
+    "wonder_woman_1984",
+    "next",
+    "the_darkest_hour",
+    "jumper",
+    "i_am_number_four",
+    "the_maze_runner",
+    "the_matrix_resurrections",
+    "poseidon",
+    "the_twilight_saga_breaking_dawn_part_1"
   ]
 }

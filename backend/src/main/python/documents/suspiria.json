@@ -76,5 +76,32 @@
       "rating": "7",
       "text": "A Bit of a let down, considering the fact that it has a great music score and is beautiful to look at but is still a good movie."
     }
+  ],
+  "recommendations": [
+    "the_neon_demon",
+    "blade_runner_2049",
+    "candyman",
+    "tron",
+    "last_night_in_soho",
+    "annette",
+    "it_follows",
+    "the_haunting",
+    "crimson_peak",
+    "the_great_gatsby",
+    "bone_tomahawk",
+    "the_sting",
+    "the_green_knight",
+    "2001_a_space_odyssey",
+    "color_out_of_space",
+    "ghost_in_the_shell",
+    "close_encounters_of_the_third_kind",
+    "the_fly",
+    "the_french_dispatch",
+    "amulet",
+    "oblivion",
+    "dune",
+    "moon",
+    "us",
+    "the_mothman_prophecies"
   ]
 }

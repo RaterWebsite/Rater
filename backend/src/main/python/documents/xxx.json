@@ -130,5 +130,32 @@
       "rating": "8",
       "text": "Love this movie too. Again another one of my favorites. A crap ton of action and suspense. Going undercover to bring down a crime boss."
     }
+  ],
+  "recommendations": [
+    "die_another_day",
+    "xxx_return_of_xander_cage",
+    "casino_royale",
+    "quantum_of_solace",
+    "skyfall",
+    "mechanic_resurrection",
+    "the_last_stand",
+    "safe",
+    "the_mechanic",
+    "demolition_man",
+    "true_lies",
+    "bullet_to_the_head",
+    "spectre",
+    "iron_man_2",
+    "live_free_or_die_hard",
+    "mission_impossible_iii",
+    "angel_has_fallen",
+    "the_expendables_3",
+    "the_fate_of_the_furious",
+    "tomorrow_never_dies",
+    "the_expendables_2",
+    "the_expendables",
+    "red_2",
+    "shooter",
+    "the_losers"
   ]
 }

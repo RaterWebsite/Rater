@@ -128,5 +128,32 @@
       "rating": "3",
       "text": "Gone is the subtly of the 1979 classic, Now we have a film that attempts to be nightmare fuel with nothing but excessive jump scares. Quite possibly one of the worst remakes/reboots of all time."
     }
+  ],
+  "recommendations": [
+    "annabelle",
+    "the_grudge_2",
+    "poltergeist",
+    "insidious_chapter_2",
+    "sinister_2",
+    "the_grudge",
+    "insidious",
+    "dead_silence",
+    "ouija",
+    "the_possession",
+    "the_curse_of_la_llorona",
+    "the_texas_chainsaw_massacre",
+    "malignant",
+    "dark_skies",
+    "the_eye",
+    "countdown",
+    "the_last_house_on_the_left",
+    "the_haunting_in_connecticut_2_ghosts_of_georgia",
+    "halloween_ii",
+    "halloween_iii_season_of_the_witch",
+    "scream_4",
+    "blair_witch",
+    "insidious_chapter_3",
+    "the_ring",
+    "the_conjuring"
   ]
 }

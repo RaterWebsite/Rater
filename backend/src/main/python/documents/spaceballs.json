@@ -189,5 +189,32 @@
       "rating": "8",
       "text": "One of the best parodies of Star Wars ever made, though you need to see the original Star Wars trilogy (4,5,6) to see its true brilliance. The whole movie is full of brilliant puns, gags, and parodies of the original Star Wars trilogy, right down to the characters being actual parodies of Star Wars characters."
     }
+  ],
+  "recommendations": [
+    "paul",
+    "hot_shots_part_deux",
+    "austin_powers_in_goldmember",
+    "austin_powers_international_man_of_mystery",
+    "austin_powers_the_spy_who_shagged_me",
+    "jumanji_welcome_to_the_jungle",
+    "dodgeball_a_true_underdog_story",
+    "johnny_english_strikes_again",
+    "pixels",
+    "the_longest_yard",
+    "free_guy",
+    "grudge_match",
+    "a_million_ways_to_die_in_the_west",
+    "spy",
+    "sonic_the_hedgehog",
+    "friday",
+    "22_jump_street",
+    "thunder_force",
+    "21_jump_street",
+    "this_is_the_end",
+    "the_three_stooges",
+    "deadpool_2",
+    "thor_ragnarok",
+    "due_date",
+    "tropic_thunder"
   ]
 }

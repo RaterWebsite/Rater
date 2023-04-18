@@ -224,5 +224,32 @@
       "rating": "1",
       "text": "What a thoroughly dreadful"
     }
+  ],
+  "recommendations": [
+    "movie_43",
+    "epic_movie",
+    "vampires_suck",
+    "deuce_bigalow_european_gigolo",
+    "scary_movie_5",
+    "one_year_one_night",
+    "grown_ups_2",
+    "a_haunted_house",
+    "miss_march",
+    "the_dictator",
+    "hot_tub_time_machine",
+    "kangaroo_jack",
+    "the_watch",
+    "white_chicks",
+    "scary_movie_4",
+    "dumb_and_dumber_to",
+    "the_interview",
+    "pixels",
+    "the_hangover",
+    "grown_ups",
+    "superhero_movie",
+    "zoolander_2",
+    "couples_retreat",
+    "this_is_the_end",
+    "scary_movie_2"
   ]
 }

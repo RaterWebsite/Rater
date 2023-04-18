@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "This is a crime picture, about the FBI chasing a young scammer. But for a movie like that, Catch Me if You Can takes its time on the stacked but fully developed characters and its fascinating narrative. The performances are all brilliant and contribute to the entertainment value of the film."
     }
+  ],
+  "recommendations": [
+    "rush",
+    "legend",
+    "casino",
+    "all_the_money_in_the_world",
+    "the_aviator",
+    "eddie_the_eagle",
+    "american_made",
+    "the_grand_budapest_hotel",
+    "big_eyes",
+    "american_hustle",
+    "true_grit",
+    "wall_street",
+    "joy",
+    "insomnia",
+    "black_mass",
+    "the_place_beyond_the_pines",
+    "chinatown",
+    "the_terminal",
+    "news_of_the_world",
+    "the_untouchables",
+    "primal_fear",
+    "hell_or_high_water",
+    "lawless",
+    "the_devil_all_the_time",
+    "backdraft"
   ]
 }

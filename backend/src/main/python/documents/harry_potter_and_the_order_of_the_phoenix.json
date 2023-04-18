@@ -226,5 +226,32 @@
       "rating": "10",
       "text": "This movie was easily the best of all the movies, there wasn't all that much filler compared to the book, they cut a lot of stuff out. But the action sequences are amazing, and this movie finally shows how harry potter isn't a children's book, goblet of fire started that but it still had some childish aspects. This movie between the opening scene to the final battle was dark, and very intense and in my opinion a very good movie."
     }
+  ],
+  "recommendations": [
+    "harry_potter_and_the_goblet_of_fire",
+    "harry_potter_and_the_chamber_of_secrets",
+    "harry_potter_and_the_half_blood_prince",
+    "harry_potter_and_the_prisoner_of_azkaban",
+    "harry_potter_and_the_deathly_hallows_part_2",
+    "the_hunger_games_catching_fire",
+    "inferno",
+    "fantastic_beasts_the_crimes_of_grindelwald",
+    "odd_thomas",
+    "inkheart",
+    "doctor_sleep",
+    "murder_on_the_orient_express",
+    "the_lovely_bones",
+    "the_hunger_games",
+    "the_golden_compass",
+    "the_hunger_games_mockingjay_part_2",
+    "the_hobbit_an_unexpected_journey",
+    "the_chronicles_of_narnia_the_voyage_of_the_dawn_treader",
+    "the_girl_with_the_dragon_tattoo",
+    "the_godfather_part_iii",
+    "the_dark_tower",
+    "the_prestige",
+    "the_devil_all_the_time",
+    "sherlock_holmes",
+    "fantastic_beasts_and_where_to_find_them"
   ]
 }

@@ -29,5 +29,32 @@
       "rating": "10",
       "text": "I love it! Philip Winchester is a great actor, definitely is the best actor in the cast."
     }
+  ],
+  "recommendations": [
+    "house_of_gucci",
+    "tombstone",
+    "the_aviator",
+    "a_few_good_men",
+    "the_professor_and_the_madman",
+    "jerry_maguire",
+    "addams_family_values",
+    "james_and_the_giant_peach",
+    "king_richard",
+    "some_like_it_hot",
+    "the_parent_trap",
+    "american_hustle",
+    "a_streetcar_named_desire",
+    "a_star_is_born",
+    "the_iceman",
+    "the_wedding_planner",
+    "palmer",
+    "crazy_heart",
+    "the_royal_tenenbaums",
+    "indiana_jones_and_the_last_crusade",
+    "the_addams_family",
+    "respect",
+    "steve_jobs",
+    "cinderella_man",
+    "hook"
   ]
 }

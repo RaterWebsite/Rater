@@ -197,5 +197,32 @@
       "rating": "8",
       "text": "----------------------------------7.7/10-----------------------------------"
     }
+  ],
+  "recommendations": [
+    "nacho_libre",
+    "a_haunted_house",
+    "the_watch",
+    "the_dictator",
+    "one_year_one_night",
+    "the_hangover",
+    "miss_march",
+    "hot_tub_time_machine",
+    "meet_the_spartans",
+    "the_interview",
+    "little_man",
+    "fifty_shades_of_black",
+    "movie_43",
+    "jackass_presents_bad_grandpa",
+    "superhero_movie",
+    "the_three_stooges",
+    "this_is_the_end",
+    "another_gay_movie",
+    "deuce_bigalow_european_gigolo",
+    "the_ugly_truth",
+    "grown_ups",
+    "epic_movie",
+    "vampires_suck",
+    "dumb_and_dumber",
+    "not_another_teen_movie"
   ]
 }

@@ -228,5 +228,32 @@
       "rating": "10",
       "text": "I can't lie, I adore this movie.  A truly wonderful movie to sit down and watch with the family, it's charming, has a lot of fun & humour.  It also has some of the most memorably movies lines, with Mandy Patinkin stealing the show, the only down side is a lack of chemistry between Carey Elwes & Robin Wright."
     }
+  ],
+  "recommendations": [
+    "stardust",
+    "shazam",
+    "despicable_me_2",
+    "ella_enchanted",
+    "onward",
+    "the_spongebob_squarepants_movie",
+    "a_cinderella_story",
+    "ghostbusters",
+    "puss_in_boots_the_last_wish",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "megamind",
+    "peter_rabbit",
+    "maleficent",
+    "thor_ragnarok",
+    "rise_of_the_guardians",
+    "paddington",
+    "up",
+    "goosebumps",
+    "kung_fu_panda_2",
+    "maleficent_mistress_of_evil",
+    "the_big_lebowski",
+    "prince_of_persia_the_sands_of_time",
+    "last_christmas",
+    "the_vow",
+    "the_babysitter"
   ]
 }

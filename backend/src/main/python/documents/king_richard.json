@@ -225,5 +225,32 @@
       "rating": "9",
       "text": "Amazing film. The movie was so well cast and went into a solid amount of detail to tell what felt like a complete story."
     }
+  ],
+  "recommendations": [
+    "rain_man",
+    "joy",
+    "cinderella_man",
+    "catch_me_if_you_can",
+    "the_theory_of_everything",
+    "good_will_hunting",
+    "as_good_as_it_gets",
+    "the_judge",
+    "still_alice",
+    "the_iceman",
+    "gifted",
+    "scent_of_a_woman",
+    "the_fighter",
+    "spencer",
+    "steve_jobs",
+    "a_beautiful_day_in_the_neighborhood",
+    "respect",
+    "black_mass",
+    "ghost",
+    "lincoln",
+    "all_the_money_in_the_world",
+    "hook",
+    "brothers",
+    "american_hustle",
+    "fences"
   ]
 }

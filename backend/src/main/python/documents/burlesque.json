@@ -225,5 +225,32 @@
       "rating": "6",
       "text": "Over all a very fun movie, just nothing that will surprise you, or leave you thinking about anything. Aguilera was a much better actress than I imagined, and of course her voice is amazing.  The story line was pretty predictable, yet some how still manages to be entertaining.  Not to say it's an incredible movie, but it isn't a waste of time."
     }
+  ],
+  "recommendations": [
+    "mamma_mia_here_we_go_again",
+    "begin_again",
+    "hairspray",
+    "cats",
+    "grease",
+    "the_greatest_showman",
+    "yesterday",
+    "almost_famous",
+    "in_the_heights",
+    "walk_the_line",
+    "sing_street",
+    "moulin_rouge",
+    "pitch_perfect",
+    "step_up",
+    "step_up_2_the_streets",
+    "work_it",
+    "sweeney_todd_the_demon_barber_of_fleet_street",
+    "sing",
+    "mamma_mia",
+    "into_the_woods",
+    "rocketman",
+    "bohemian_rhapsody",
+    "footloose",
+    "mary_poppins_returns",
+    "we_are_your_friends"
   ]
 }

@@ -224,5 +224,32 @@
       "rating": "5",
       "text": "This movie was interesting, but it wasn't even one tenth as good as \"The Town\" was. Sorry, but the 9.0 score is over done in my book (I thought it was an average)."
     }
+  ],
+  "recommendations": [
+    "the_big_short",
+    "argo",
+    "cloud_atlas",
+    "12_angry_men",
+    "the_good_shepherd",
+    "hereafter",
+    "spotlight",
+    "hugo",
+    "joker",
+    "the_giver",
+    "the_master",
+    "tinker_tailor_soldier_spy",
+    "the_martian",
+    "magnolia",
+    "hotel_rwanda",
+    "the_upside",
+    "inception",
+    "roma",
+    "the_monuments_men",
+    "manchester_by_the_sea",
+    "t2_trainspotting",
+    "revolutionary_road",
+    "eternals",
+    "perfume_the_story_of_a_murderer",
+    "her"
   ]
 }

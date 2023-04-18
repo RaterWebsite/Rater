@@ -226,5 +226,32 @@
       "rating": "2",
       "text": "Whoever came up with this idea has better get fired right now. No Arnold Schwarzenegger or even the charming from the first two movies. Ultimately the weakest installment in the franchise."
     }
+  ],
+  "recommendations": [
+    "transformers_the_last_knight",
+    "x_men_origins_wolverine",
+    "max_steel",
+    "terminator_3_rise_of_the_machines",
+    "infinite",
+    "after_earth",
+    "star_trek_into_darkness",
+    "terminator_dark_fate",
+    "war_of_the_worlds",
+    "transformers_age_of_extinction",
+    "pacific_rim_uprising",
+    "jurassic_world_fallen_kingdom",
+    "pompeii",
+    "surrogates",
+    "independence_day_resurgence",
+    "x_men_apocalypse",
+    "star_trek_v_the_final_frontier",
+    "the_ice_road",
+    "jurassic_world_dominion",
+    "armageddon",
+    "battleship",
+    "the_tomorrow_war",
+    "immortals",
+    "elysium",
+    "prometheus"
   ]
 }

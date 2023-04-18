@@ -120,5 +120,32 @@
       "rating": "7",
       "text": "Good movie with very cool visuals and tech. There are some flaws in the story and execution but still an enjoyable movie. Full disclosure, I\u2019m an Andrew Niccol fan."
     }
+  ],
+  "recommendations": [
+    "annihilation",
+    "sicario_day_of_the_soldado",
+    "coherence",
+    "the_green_knight",
+    "captive_state",
+    "arrival",
+    "enemy",
+    "the_midnight_sky",
+    "source_code",
+    "what_happened_to_monday",
+    "lucy",
+    "nerve",
+    "sunshine",
+    "eo",
+    "interstellar",
+    "chaos_walking",
+    "blackhat",
+    "the_darkest_minds",
+    "i_am_mother",
+    "dragged_across_concrete",
+    "brimstone",
+    "tenet",
+    "bad_times_at_the_el_royale",
+    "signs",
+    "donnie_darko"
   ]
 }

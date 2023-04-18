@@ -33,5 +33,32 @@
       "rating": "6",
       "text": "crazy movie, nothing makes sense and it's all messed up. the person who wrote this movie had a vivid imagination"
     }
+  ],
+  "recommendations": [
+    "paranormal_activity_3",
+    "escape_room_tournament_of_champions",
+    "paranormal_activity_the_marked_ones",
+    "frozen",
+    "paranormal_activity_4",
+    "paranormal_activity_2",
+    "47_meters_down",
+    "unfriended",
+    "cloverfield",
+    "crawl",
+    "doomsday",
+    "the_strangers_prey_at_night",
+    "stay_alive",
+    "texas_chainsaw_3d",
+    "countdown",
+    "bird_box",
+    "host",
+    "the_devil_inside",
+    "would_you_rather",
+    "the_messengers",
+    "final_destination_3",
+    "paranormal_activity_the_ghost_dimension",
+    "chernobyl_diaries",
+    "escape_room",
+    "28_weeks_later"
   ]
 }

@@ -228,5 +228,32 @@
       "rating": "9",
       "text": "The funniest MCU movie, although that sometimes comes at the cost of some potentially emotional moments."
     }
+  ],
+  "recommendations": [
+    "thor_the_dark_world",
+    "guardians_of_the_galaxy",
+    "avengers_age_of_ultron",
+    "deadpool_2",
+    "the_a_team",
+    "edge_of_tomorrow",
+    "bumblebee",
+    "the_suicide_squad",
+    "captain_america_the_first_avenger",
+    "thor_love_and_thunder",
+    "indiana_jones_and_the_temple_of_doom",
+    "kingsman_the_golden_circle",
+    "ant_man_and_the_wasp_quantumania",
+    "shazam",
+    "hercules",
+    "kung_fu_panda_2",
+    "shazam_fury_of_the_gods",
+    "incredibles_2",
+    "justice_league",
+    "terminator_genisys",
+    "hancock",
+    "ghostbusters",
+    "thor",
+    "fantastic_beasts_the_secrets_of_dumbledore",
+    "jumanji_the_next_level"
   ]
 }

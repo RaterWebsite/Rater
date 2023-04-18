@@ -45,5 +45,32 @@
       "rating": "8",
       "text": "This film delivers the action and nothing more.Watch this only if you want a 90% action movie with guns, explosions and martial arts. A unique cast with martial artists that are used well."
     }
+  ],
+  "recommendations": [
+    "jiu_jitsu",
+    "haywire",
+    "torque",
+    "clash_of_the_titans",
+    "the_one",
+    "gemini_man",
+    "kate",
+    "braven",
+    "the_expendables",
+    "bloodshot",
+    "the_marine",
+    "transporter_2",
+    "ninja_assassin",
+    "the_three_musketeers",
+    "6_underground",
+    "ong_bak_2",
+    "gunpowder_milkshake",
+    "mortal_kombat_annihilation",
+    "safe",
+    "desperado",
+    "transporter_3",
+    "fearless",
+    "extraction",
+    "12_rounds",
+    "wrath_of_man"
   ]
 }

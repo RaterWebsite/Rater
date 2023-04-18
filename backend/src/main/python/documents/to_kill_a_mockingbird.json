@@ -64,5 +64,32 @@
       "rating": "8",
       "text": "Great storytelling. Great cast. Timeless movie. I wish I had given this movie an earlier chance when I was younger. Humans acting on their emotions and fears from the Depression 30's still rings true today."
     }
+  ],
+  "recommendations": [
+    "the_theory_of_everything",
+    "the_last_of_the_mohicans",
+    "lincoln",
+    "finding_neverland",
+    "the_hurricane",
+    "the_great_gatsby",
+    "the_professor_and_the_madman",
+    "the_name_of_the_rose",
+    "breakthrough",
+    "the_english_patient",
+    "murder_on_the_orient_express",
+    "kingdom_of_heaven",
+    "gattaca",
+    "cinderella_man",
+    "the_devil_all_the_time",
+    "the_aviator",
+    "amadeus",
+    "belfast",
+    "little_women",
+    "anna_karenina",
+    "the_assassination_of_jesse_james_by_the_coward_robert_ford",
+    "catch_me_if_you_can",
+    "the_last_king_of_scotland",
+    "the_count_of_monte_cristo",
+    "the_shawshank_redemption"
   ]
 }
