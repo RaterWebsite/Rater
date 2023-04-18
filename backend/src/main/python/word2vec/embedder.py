@@ -33,7 +33,7 @@ class embedder:
         
         return embedding
     
-    def __embed_review(self, review: str):
+    def embed_review(self, review: str):
         review = preprocess_string(review)
         embedding = np.zeros(100)
         for word in review:
