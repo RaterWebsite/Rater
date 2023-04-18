@@ -16,6 +16,8 @@ public class Movie {
     private String imageUrl;
     private Map<String, Float> categories;
     private List<Review> reviews;
+    private List<String> recommendations;
+
     
     public List<String> getStarring() {
         return starring;
@@ -82,6 +84,12 @@ public class Movie {
     }
     public void setReviews(List<Review> reviews) {
         this.reviews = reviews;
+    }
+    public List<String> getRecommendations() {
+        return recommendations;
+    }
+    public void setRecommendations(List<String> recommendations) {
+        this.recommendations = recommendations;
     }
 
     
