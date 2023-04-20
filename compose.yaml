@@ -10,6 +10,7 @@ services:
       interval: 30s
       timeout: 30s
       retries: 3
+    container_name: elasticsearch
     ports:
       - '9200:9200' # backend/src/resources/application.properites references 'elasticsearch:9200'
 
@@ -35,3 +36,11 @@ services:
       - '5173:5173'
     depends_on:
       - backend
+  
+  word2vec:
+    build:
+      context: ./microservices/word2vec
+      dockerfile: Dockerfile
+    container_name: word2vec
+    ports:
+      - '5000:5000'
